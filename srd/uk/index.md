@@ -1,5 +1,11 @@
-# Monster Indexes
+# Abilities
 
-* [Monsters by CR](/gamemaster_rules/monster_indexes/monsters_by_cr/)
-* [Monsters by Name](/gamemaster_rules/monster_indexes/monsters_by_name/)
-* [Monsters by Type](/gamemaster_rules/monster_indexes/monsters_by_type)
+* [Ability Checks](/rules/abilities/ability_checks/)
+* [Ability Scores](/rules/abilities/ability_scores/)
+* [Saving Throws](/rules/abilities/saving_throws/)
+* [Charisma](/rules/abilities/charisma/)
+* [Constitution](/rules/abilities/constitution/)
+* [Dexterity](/rules/abilities/dexterity/)
+* [Intelligence](/rules/abilities/intelligence/)
+* [Strength](/rules/abilities/strength/)
+* [Wisdom](/rules/abilities/wisdom/)                 
