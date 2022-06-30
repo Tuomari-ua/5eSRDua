@@ -7,13 +7,13 @@ import argparse
 build_config = {
     'class_spell_lists': {
         'build': True,
-        'index_path': './docs/spellcasting/spell_lists/'
+        'index_path': './srd/spellcasting/spell_lists/'
     },
     'indexes': {
         'spells': {
-            'source_directory': './docs/spellcasting/spells',
+            'source_directory': './srd/spellcasting/spells',
             'link_prefix': '/spellcasting/spells',
-            'index_path': './docs/spellcasting/spell_indexes/',
+            'index_path': './srd/spellcasting/spell_indexes/',
             'indexes_to_generate': {
                 'school': {
                     'page_title': 'Spells by School',
@@ -33,9 +33,9 @@ build_config = {
             }
         },
         'magic_items': {
-            'source_directory': './docs/gamemaster_rules/magic_items',
+            'source_directory': './srd/gamemaster_rules/magic_items',
             'link_prefix': '/gamemaster_rules/magic_items',
-            'index_path': './docs/gamemaster_rules/magic_item_indexes/',
+            'index_path': './srd/gamemaster_rules/magic_item_indexes/',
             'indexes_to_generate': {
                 'name_category': {
                     'page_title': 'Magic Items by Name',
@@ -51,9 +51,9 @@ build_config = {
 
         },
         'monsters': {
-            'source_directory': './docs/gamemaster_rules/monsters',
+            'source_directory': './srd/gamemaster_rules/monsters',
             'link_prefix': '/gamemaster_rules/monsters',
-            'index_path': './docs/gamemaster_rules/monster_indexes/',
+            'index_path': './srd/gamemaster_rules/monster_indexes/',
             'indexes_to_generate': {
                 'name_category': {
                     'page_title': 'Monsters by Name',
