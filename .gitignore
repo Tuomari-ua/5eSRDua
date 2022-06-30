@@ -6,7 +6,10 @@ srd/spellcasting/spell_indexes/*
 srd/gamemaster_rules/magic_item_indexes/*
 srd/gamemaster_rules/monster_indexes/*
 
-
+!srd/spellcasting/spell_lists/index.md
+!srd/spellcasting/spell_indexes/index.md
+!srd/gamemaster_rules/magic_item_indexes/index.md
+!srd/gamemaster_rules/monster_indexes/index.md
 
 purecss_theme/inline_styles.html
 
