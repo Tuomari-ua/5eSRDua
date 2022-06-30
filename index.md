@@ -25,7 +25,7 @@
 |                                               | [Боєць](./srd/character/classes/fighter.md)    | [Напівельф](./srd/character/races/half-elf.md)   |
 |                                               | [Монах](./srd/character/classes/monk.md)       | [Напіворк](./srd/character/races/half-orc.md)    |
 |                                               | [Паладин](./srd/character/classes/paladin.md)  | [Напіврослик](./srd/character/races/halfling.md) |
-|                                               | [Рейджер](./srd/character/classes/ranger.md)   | [Людина](./srd/character/races/human.md)         |
+|                                               | [Рейнджер](./srd/character/classes/ranger.md)  | [Людина](./srd/character/races/human.md)         |
 |                                               | [Пройдисвіт](./srd/character/classes/rogue.md) | [Тифлінґ](./srd/character/races/tiefling.md)     |
 |                                               | [Чародій](./srd/character/classes/sorcerer.md) |                                                  |
 |                                               | [Варлок](./srd/character/classes/warlock.md)   |                                                  |
