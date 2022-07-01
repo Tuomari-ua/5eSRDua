@@ -1,12 +1,12 @@
-name: Legend Lore level: 5 school: divination classes: bard cleric wizard
+назва: Легенда кори рівень: 5 школа: divination класів: довгота постановка
 
-# Legend Lore
-_5th-level divination_
+# Легенда Лор
+_П’ятий рівень розмежування_
 
-**Casting Time:** 10 minutes    
-**Range:** Self    
-**Components:** V, S, M (incense worth at least 250 gp, which the spell consumes, and four ivory strips worth at least 50 gp each)    
-**Duration:** Instantaneous
+**Кастинг часу:** 10 хвилин    
+**Діапазон:** Самотності    
+**компонентів:** V, S, М (падіння варте щонайменше 250 ґанів, які споживають заклинання і чотири слонову смуги на суму не менше 50 gp each)    
+**тривалість:** миттєві
 
-Name or describe a person, place, or object. The spell brings to your mind a brief summary of the significant lore about the thing you named. The lore might consist of current tales, forgotten stories, or even secret lore that has never been widely known. If the thing you named isn't of legendary importance, you gain no information. The more information you already have about the thing, the more precise and detailed the information you receive is.    
-The information you learn is accurate but might be couched in figurative language. For example, if you have a mysterious magic axe on hand, the spell might yield this information: “Woe to the evildoer whose hand touches the axe, for even the haft slices the hand of the evil ones. Only a true Child of Stone, lover and beloved of Moradin, may awaken the true powers of the axe, and only with the sacred word **Rudnogg** on the lips."
+Ім'я або описати людину, місце або об'єкт. Картина викликає ваш розум трохи коротке зведення про те, що ви назнаєте. Хліб може складатися з сучасних історій, забутих історій чи навіть секретних злодіїв, яких широко відомо. Якщо названа вами назва не має легендарного значення, вона не набуває жодної інформації. Чим більше у вас вже є інформація, тим точнішою та докладнішою інформацією, яку ви отримуєте.    
+Інформація, яку ви вивчаєте, є точною, але може бути написана на фігурній мові. Наприклад, якщо на руці у вас є таємнича чарівна сокира, заклинання може дати цю інформацію: "Горе злому тому, чия рука торкається сокири, на навіть оздога розбиває руку лихих. Тільки істинна дитина каменю, коханця і кохана з Морадіна можуть пробудити справжні сили сокири, і тільки зі священним словом **Рудногг** на густах."
