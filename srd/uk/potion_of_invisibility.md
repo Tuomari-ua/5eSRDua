@@ -1,6 +1,6 @@
-name: Potion of Invisibility type: potion
+назва: Зілля невидимості : зілля
 
-# Potion of Invisibility
-_Potion, very rare_
+# Зілля невидимості
+_Зілля - дуже рідкісний_
 
-This potion's container looks empty but feels as though it holds liquid. When you drink it, you become invisible for 1 hour. Anything you wear or carry is invisible with you. The effect ends early if you attack or cast a spell. 
+Контейнер цього зілля виглядає порожнім, але відчуває, ніби він тримає рідину. Коли ви його п'єте, ви не можете зробити порожню це протягом 1 години. Все, що ви вдягнете або носите, є невидимим для вас. Ефект завершиться рано, якщо ви нападете або кинете заклинання. 
