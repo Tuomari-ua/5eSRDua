@@ -1,13 +1,13 @@
-name: Duergar type: humanoid (dwarf) cr: 1
+назва: Duergar тип: humanoid (dwarf) cr: 1
 
 # Duergar
-_Medium humanoid (dwarf), lawful evil_
+_Середня гуманоїда (гном), законне зло_
 
 **Armor Class** 16 (scale mail, shield)    
 **Hit Points** 26 (4d8 + 8)    
 **Speed** 25 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA    |
 | ------- | ------- | ------- | ------- | ------- | ------ |
 | 14 (+2) | 11 (+0) | 14 (+2) | 11 (+0) | 10 (+0) | 9 (−1) |
 
@@ -19,8 +19,8 @@ _Medium humanoid (dwarf), lawful evil_
 **Duergar Resilience.** The duergar has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.    
 **Sunlight Sensitivity.** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-### Actions
-**Enlarge (Recharges after a Short or Long Rest).** For 1 minute, the duergar magically increases in size, along with anything it is wearing or carrying. While enlarged, the duergar is Large, doubles its damage dice on Strength-based weapon attacks (included in the attacks), and makes Strength checks and Strength saving throws with advantage. If the duergar lacks the room to become Large, it attains the maximum size possible in the space available.    
-**War Pick.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage, or 11 (2d8 + 2) piercing damage while enlarged.    
-**Javelin.** _Melee or _Ranged Weapon Attack:__ +4 to hit, reach 5 ft. or range 30/120 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage, or 9 (2d6 + 2) piercing damage while enlarged.    
-**Invisibility (Recharges after a Short or Long Rest).** The duergar magically turns invisible until it attacks, casts a spell, or uses its Enlarge, or until its concentration is broken, up to 1 hour (as if concentrating on a spell). Any equipment the duergar wears or carries is invisible with it.
+### Дії
+**Збільшити (перевантаження після короткого або довгого регресу).** Протягом 1 хвилини дуергар магічно збільшує розмір, поряд з чим він носить або переносить. У той час як розширений дуергар великий, подвоює шкоду від атак зброї на основі потужностей (включно з атаками), і робить рівень збереження рядків з перевагою. Якщо дуергару не вистачає кімнати для збільшення зображення, він може досягти максимального розміру в цьому просторі.    
+**Пік Війни.** _Атака Міле Зброя:_ +4, щоб влучити, досягти 5-ти ціль, одну ціль. _Вразу:_ 6 (1d8 + 2) пробиваюча шкода або 11 (2d8 + 2) пробирається пошкодження при розширенні.    
+**Javelin.** _Атака ближнього або _Стрільбища Зброї:__ +4, щоб влучити по 5 футів. або діапазон 30/120 ft., одна ціль. _Вдач:_ 5 (1d6 + 2) пробиваюча шкода або 9 (2d6 + 2) пробираючись при збільшенні.    
+**Невидимість (переживання після короткого або довгого відновлення).** Дуергія магічно стає невидимою, поки вона не атакує, приливає заклинання або використовує його Великий, або допоки концентрація не буде втрачена до 1 години (при зосередженні правопис). Будь-яке обладнання для дуергару або переносу невидиме з ним.
