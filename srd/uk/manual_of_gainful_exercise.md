@@ -1,6 +1,6 @@
-name: Manual of Gainful Exercise type: item
+ім'я: Ручний Gainful Exercise type: елемент
 
-# Manual of Gainful Exercise
-_Wondrous item, very rare_
+# Керівництво веселого вправи
+_Чудові речі - дуже рідкісні_
 
-This book describes fitness exercises, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Strength score increases by 2, as does your maximum for that score. The manual then loses its magic, but regains it in a century. 
+Ця книга описує фізичні вправи, а її слова заряджаються магією. Якщо ви витратите 48 годин протягом 6-ти днів, або менше вивчаєте вміст книги та практикуєте його рекомендації, ваш рахунок збільшується на 2, так як ваш максимум за цей рахунок. Підручник потім втрачає свою магію, але відновлює її за століття. 
