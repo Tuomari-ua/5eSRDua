@@ -1,6 +1,6 @@
-name: Philter of Love type: potion
+назва: Філтер любови тип: зілля
 
-# Philter of Love
-_Potion, uncommon_
+# Філтер Лав
+_Тривале зілля_
 
-The next time you see a creature within 10 minutes after drinking this philter, you become charmed by that creature for 1 hour. If the creature is of a species and gender you are normally attracted to, you regard it as your true love while you are charmed. This potion's rose-hued, effervescent liquid contains one easy-to-miss bubble shaped like a heart. 
+Наступного разу, коли ви бачите цю істоту протягом 10 хвилин після вилання цього благодійника, її зачарували ті істоти протягом 1 години. Якщо істота є видами і стать, які вас зазвичай приваблюють, ви вважаєте це справжнім коханням, а вас зачарована. Цей пухир рожевої, еферентна рідина містить одну легку у формі серця. 
