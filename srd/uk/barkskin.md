@@ -1,11 +1,11 @@
-name: Barkskin level: 2 school: transmutation classes: druid ranger
+назва: Barkskin рівень: 2 школа: транмутація класи: druid ranger
 
-# Barkskin
-_2nd-level transmutation_
+# Баркскін
+_Трансмутація 2N-рівня_
 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S, M (a handful of oak bark)    
-**Duration:** Concentration, up to 1 hour
+**Час трансляції :** 1 дія    
+**Діапазон:** Торкніться    
+**компоненти:** V, S, М (жменька дубкових барк)    
+**тривалість:** секунди, до 1 години
 
-You touch a willing creature. Until the spell ends, the target's skin has a rough, bark-like appearance, and the target's AC can't be less than 16, regardless of what kind of armor it is wearing.
+Ви торкаєтесь істоти. Поки заклинання не закінчиться шкіра цілі, має грубий, схожий на барска, і AC цілі не може бути меншим за 16, незалежно від того, який вид броні він одягнений.
