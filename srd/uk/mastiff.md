@@ -1,13 +1,13 @@
-name: Mastiff type: beast cr: .125
+назва: Мастиф тип: звір cr: .125
 
-# Mastiff
-_Medium beast, unaligned_
+# Мастиф
+_Середній звір, неприєднаний_
 
-**Armor Class** 12    
-**Hit Points** 5 (1d8 + 1)    
-**Speed** 40 ft.
+**Клас броні** 12    
+**Очки** 5 (1d8 + 1)    
+**швидкість** фут.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 13 (+1) | 14 (+2) | 12 (+1) | 3 (−4) | 12 (+1) | 7 (−2) |
 
@@ -16,10 +16,10 @@ _Medium beast, unaligned_
 **Languages** --    
 **Challenge** 1/8 (25 XP)
 
-**Keen Hearing and Smell.** The mastiff has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+**Keen Hearing і Smell.** Майстерф скористався контролем Wisdom (Perception) перевірки, які покладаються на слух або запах.
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
+### Дії
+**Біт.** _Атака ближньої зброї:_ +3 до влучання, досягли 5-ї цілі, одна мета. _Вразів:_ 4 (1d6 + 1) пошкодження від проколу. Якщо ціль є створенням, вона повинна перейти до успіху в економії сили DC 11 або бути постукованою часткою.
 
-### Description
-Mastiffs are impressive hounds prized by humanoids for their loyalty and keen senses. Mastiffs can be trained as guard dogs, hunting dogs, and war dogs. Halflings and other Small humanoids ride them as mounts. 
+### Опис
+Мастиффи вражаючі собаки пишаються гуманоїдами за їхню лояльність та гострі відчуття. Мастиффи можна навчити як охороняючих собак, мисливських собак та військових собак. Гальфлекси та інші маленькі гуманоїди їздять на них як монтаж. 
