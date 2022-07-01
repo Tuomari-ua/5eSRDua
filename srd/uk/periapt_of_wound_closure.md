@@ -1,6 +1,6 @@
-name: Periapt of Wound Closure type: item
+назва: Періапт Wound Closure тип: елемент
 
-# Periapt of Wound Closure
-_Wondrous item, uncommon (requires attunement)_
+# Оточення рани
+_Нетиповий предмет Wondrous (вимагає приєднання)_
 
-While you wear this pendant, you stabilize whenever you are dying at the start of your turn. In addition, whenever you roll a Hit Die to regain hit points, double the number of hit points it restores. 
+У той час як ви носите цей стовпець, ви стабілізуєтеся, коли тільки помираєте на початку вашого повороту. Крім того, кожного разу, коли ви закидаєте смерть щоб відновити точки влучали, вдвічі більше очків, які він відновлює. 
