@@ -1,13 +1,13 @@
-name: Constrictor Snake type: beast cr: .25
+назва: Випробування змії типу: звір cr: .25
 
-# Constrictor Snake
-_Large beast, unaligned_
+# Констриктор Змія
+_Великий звір, неприєднаний_
 
 **Armor Class** 12    
 **Hit Points** 13 (2d10 + 2)    
 **Speed** 30 ft., swim 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 15 (+2) | 14 (+2) | 12 (+1) | 1 (−5) | 10 (+0) | 3 (−4) |
 
@@ -15,6 +15,6 @@ _Large beast, unaligned_
 **Languages** --    
 **Challenge** 1/4 (50 XP)
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 5 (1d6 + 2) piercing damage.    
-**Constrict.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 14). Until this grapple ends, the creature is restrained, and the snake can't constrict another target. 
+### Дії
+**Біт.** _Атака ближньої зброї:_ +4, досягнувши 5, одну істоту. _Вдач:_ 5 (1d6 + 2) пробна шкода.    
+**Констрикт.** _Атака ближньої зброї:_ +4, щоб вдарити в 5, одну істоту. _Удара:_ 6 (1d8 + 2) пошкодження дублювання, а ціль перетягується (уникнення DC 14). Доки це захоплення не закінчаться, істота буде стримана, а змія не зможе обмежити іншу ціль. 
