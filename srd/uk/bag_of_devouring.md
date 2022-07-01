@@ -1,12 +1,12 @@
-name: Bag of Devouring type: item
+назва: Кошик підкидання типу: елемент
 
-# Bag of Devouring
-_Wondrous item, very rare_
+# Мішок пониження
+_Чудові речі - дуже рідкісні_
 
-This bag superficially resembles a bag of holding but is a feeding orifice for a gigantic extradimensional creature. Turning the bag inside out closes the orifice.
+Ця сумка поверхнево нагадує мішок утримання, але живиться орифікулом для гігантської екстрадиційної істоти. Зйомка сумочки навиворіт закриває ораторську орбіту.
 
-The extradimensional creature attached to the bag can sense whatever is placed inside the bag. Animal or vegetable matter placed wholly in the bag is devoured and lost forever. When part of a living creature is placed in the bag, as happens when someone reaches inside it, there is a 50 percent chance that the creature is pulled inside the bag. A creature inside the bag can use its action to try to escape with a successful DC 15 Strength check. Another creature can use its action to reach into the bag to pull a creature out, doing so with a successful DC 20 Strength check (provided it isn't pulled inside the bag first). Any creature that starts its turn inside the bag is devoured, its body destroyed.
+Екстрадиментальна істота до мішка може смислити все, що розміщене у цій торбі. Осада худоби чи овочей, які розміщені в мішок повністю поглинається і втрачається назавжди. Коли частина живої істоти позначається в сумку, коли хтось потрапляє всередину, є ймовірність того, що істота увійшла до торби. Створіння всередині кошика може використовувати його дію, щоб спробувати уникнути успішного перевірки Сили DC 15. Інша істота може використовувати її дію для того, щоб дійти до сумки, щоб витягнути істоту, так з успішною перевіркою DC 20 сильності (за умови, що вона не має тягнути в торба спочатку). Будь-яка істота, що відкриває свій поворот у мішок пожирає, її тіло зруйноване.
 
-Inanimate objects can be stored in the bag, which can hold a cubic foot of such material. However, once each day, the bag swallows any objects inside it and spits them out into another plane of existence. The GM determines the time and plane.
+Неанімні предмети можна зберігати у торбі, який може утримувати кубічний фут такого матеріалу. Тим не менш, раз в день торбинка мішки ковтає всі предмети усередині і виливає їх в інший літак існування. GM визначає час і літак.
 
-If the bag is pierced or torn, it is destroyed, and anything contained within it is transported to a random location on the Astral Plane. 
+Якщо сумка пронизана або розірвана, вона знищується, і все, що міститься всередині нього, передається у випадкове місце на астральному літаку. 
