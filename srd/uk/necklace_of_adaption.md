@@ -1,6 +1,6 @@
-name: Necklace of Adaption type: item
+назва: Намисто адаптації тип: елемент
 
-# Necklace of Adaptation
-_Wondrous item, uncommon (requires attunement)_
+# Некрицій Адаптації
+_Нетиповий предмет Wondrous (вимагає приєднання)_
 
-While wearing this necklace, you can breathe normally in any environment, and you have advantage on saving throws made against harmful gases and vapors (such as **_cloudkill_** and **_stinking cloud_** effects, inhaled poisons, and the breath weapons of some dragons). 
+Під час цього намиста, можна нормально дихати в будь-якому середовищі, і ви маєте перевагу в збереженні квітів, зроблених проти шкідливих газів і паспортів (таких як **_хмарне убивство_** і **_вражаючих ефектів_** вдихнув отруту, і дихальну зброю деяких драконів). 
