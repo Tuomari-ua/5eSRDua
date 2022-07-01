@@ -1,25 +1,24 @@
-name: Black Dragon Wyrmling type: dragon cr: 2
+назва: Вивернг Чорного Дракона тип: дракона cr: 2
 
-# Black Dragon Wyrmling
-_Medium dragon, chaotic evil_
+# Чорний Дракон Вирмлінг
+_Середній дракон, хаотичне зло_
 
-**Armor Class** 17 (natural armor)    
-**Hit Points** 33 (6d8 + 6)    
-**Speed** 30 ft., fly 60 ft., swim 30 ft.
+**Клас обладунку** 17 (природна броня)    
+**Бали** 33 (6d8 + 6)    
+**Швидкість** фут. політ 60 футів, плит 30 футів.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 15 (+2) | 14 (+2) | 13 (+1) | 10 (+0) | 11 (+0) | 13 (+1) |
 
-**Saving Throws** Dex +4, Con +3, Wis +2, Cha +3    
-**Skills** Perception +4, Stealth +4    
-**Damage Immunities** acid    
-**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14    
-**Languages** Draconic    
-**Challenge** 2 (450 XP)
+**Збереження жбурлянь** Dex +4, Con +3, Wis +2, Cha +3 **Навичків** Perception +4, Крадіжка +4    
+**Пошкодження** кислот    
+**Забезпечення** оснащення 10 футів. темп 60 кв. пасивне сприйняття 14    
+мови **мов** драконя    
+**виклику** (450 XP)
 
-**Amphibious.** The dragon can breathe air and water.
+**Слабкий.** Дракон може дихати повітрям і водою.
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (1d10 + 2) piercing damage plus 2 (1d4) acid damage.    
-**Acid Breath (Recharge 5–6).** The dragon exhales acid in a 15-­‐foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 22 (5d8) acid damage on a failed save, or half as much damage on a successful one.
+### Дії
+**Біт.** _Атака ближньої зброї:_ +4 до удару, досягає 5-ї цілі, одна мета. _Вразу:_ 7 (1d10 + 2) пошкодження від пірсу плюс 2 (1d4) кислотне пошкодження.    
+**Кислотне дихання (Позарядження 5–6).** Дракон прикладає кислоту в 15 футовій лінії, яка має 5 футів завширшки. Кожна істота в цьому рядку повинна зробити економію Dexter DC 11 отримання 22 (5d8) шкоди від пошкоджень у заощадженні, або ж вдвічі більше шкоди від успішного.
