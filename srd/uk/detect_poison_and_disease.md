@@ -1,12 +1,12 @@
-name: Detect Poison and Disease level: 1 school: divination classes: cleric druid paladin ranger
+ім'я: Визначення Отрути та Хвороби рівень: 1 школу: divination класі: cleric druid Paladin ranger
 
-# Detect Poison and Disease
-_1st-level divination (ritual)_
+# Визначити отруту та хворобу
+_Однорівневе розлучення (ритуал)_
 
-**Casting Time:** 1 action    
-**Range:** Self    
-**Components:** V, S, M (a yew leaf)    
-**Duration:** Concentration, up to 10 minutes
+**Кастинг часу:** 1 дія    
+**Діапазон:** Самостій    
+**компоненти:** V, S, М (навіть більше лист)    
+**тривалість:** центри, до 10 хвилин
 
-For the duration, you can sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you. You also identify the kind of poison, poisonous creature, or disease in each case.    
-The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt. 
+На тривалість, можна відчути присутність та місце розташування отруйних, отруйних істот і хвороб у межах 30 футів від вас. Ви також розпізнаєте отруйну, отруйну істоту або хворобу, у кожному випадку.    
+заклинання може проникнути до більшості бар'єрів, але його заблоковано на 1 фут каменю, 1 дюйм спільного металу, тонкий аркуш, або 3 фути деревини або землі. 
