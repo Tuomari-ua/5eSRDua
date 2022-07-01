@@ -1,19 +1,19 @@
-name: Deer type: beast cr: 0
+назва: Тип тип: звір cr: 0
 
-# Deer
-_Medium beast, unaligned_
+# Оленеві
+_Середній звір, неприєднаний_
 
-**Armor Class** 13    
-**Hit Points** 4 (1d8)    
-**Speed** 50 ft.
+**Клас броні** 13    
+**Очки** 4 (1d8)    
+**швидкість** фут.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 11 (+0) | 16 (+3) | 11 (+0) | 2 (−4) | 14 (+2) | 5 (−3) |
 
-**Senses** passive Perception 12    
-**Languages** --    
-**Challenge** 0 (10 XP)
+**Звучить** пасивне сприйняття 12    
+**Мови** --    
+**виклик** (10 XP)
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 2 (1d4) piercing damage. 
+### Дії
+**Біт.** _Атака ближньої зброї:_ +2 до удару, досягає 5-ї цілі, одна мета. _Вразів:_ 2 (1d4) пробиваючи пошкодження. 
