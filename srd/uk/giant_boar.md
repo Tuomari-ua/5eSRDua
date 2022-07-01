@@ -1,22 +1,23 @@
-name: Giant Boar type: beast cr: 2
+назва: Гігантський теплохідний тип: звір cr: 2
 
-# Giant Boar
-_Large beast, unaligned_
+# Гігантський кабан
+_Великий звір, неприєднаний_
 
-**Armor Class** 12 (natural armor)    
-**Hit Points** 42 (5d10 + 15)    
-**Speed** 40 ft.
+**Клас броні** 12 (природна броня)    
+**Бали** 42 (5d10 + 15)    
+**Швидкість** фут.
 
-| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS    | CHA    |
 | ------- | ------- | ------- | ------ | ------ | ------ |
 | 17 (+3) | 10 (+0) | 16 (+3) | 2 (−4) | 7 (−2) | 5 (−3) |
 
-**Senses** passive Perception 8    
-**Languages** --    
-**Challenge** 2 (450 XP)
+**Подяки** пасивне сприйняття 8    
+**Мови** --    
+**виклик**     
+(450 XP)
 
-**Charge.** If the boar moves at least 20 feet straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.    
-**Relentless (Recharges after a Short or Long Rest).** If the boar takes 10 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
+**Заряд.** Якщо кабан буде рухатися щонайменше в 20 футів прямо до цілі і потім ударяє його з тупиком атаки на тому ж поверсі, ціль наносить додаткові 7 (2d6) пошкоджень. Якщо ціль є створенням, вона має бути успішною в заощадженні DC 13 або бути постукованою часткою.    
+**Безжалісні (перехідні після короткого або довгого відновлення).** Якщо кабана отримує 10 пошкоджень або менше, це може зменшити до 0 очків, він зменшується до 1 точки досягнення.
 
-### Actions
-**Tusk.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) slashing damage. 
+### Дії
+**Терміни вибуху.** _Атака ближньої зброї:_ +5 до удару, досягають 5 щитів, одна ціль. _Удачі:_ 10 (2d6 + 3) пошкодження пошкоджень. 
