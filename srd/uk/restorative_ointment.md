@@ -1,8 +1,8 @@
-name: Restorative Ointment type: item
+назва: Ointment type: елемент
 
-# Restorative Ointment
-_Wondrous item, uncommon_
+# Відновна монета
+_Нетиповий для Wondrous_
 
-This glass jar, 3 inches in diameter, contains 1d4 + 1 doses of a thick mixture that smells faintly of aloe. The jar and its contents weigh 1/2 pound.
+Скляна банка, 3 сантиметри в діаметрі, містить 1d4 + 1 дози густої суміші, яка пахне смачно оливки. Банка і її вміст важать 1/2 фунта.
 
-As an action, one dose of the ointment can be swallowed or applied to the skin. The creature that receives it regains 2d8 + 2 hit points, ceases to be poisoned, and is cured of any disease. 
+Як дія, одна частина маячості може бути ковтнута або застосована до шкіри. Створіння, яке отримує 2d8 + 2 крапки в результаті, припиняє отруєння і вилікується від будь-якої хвороби. 
