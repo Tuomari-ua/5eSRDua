@@ -1,12 +1,12 @@
-name: Fire Bolt level: 0 school: evocation classes: sorcerer wizard
+назва: Вогняний Bolt рівень: 0 школу: ухилення класів: чарець майстер
 
-# Fire Bolt
-_Evocation cantrip_
+# Вогняний Bolt
+_Евокаційна конфіскація_
 
-**Casting Time:** 1 action    
-**Range:** 120 feet    
-**Components:** V, S    
-**Duration:** Instantaneous
+**Час трансляції часу:** 1 дія    
+**Діапазон:** 120 футів    
+**компоненти:** V, S    
+**тривалість:** миттєві
 
-You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn't being worn or carried.    
-This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
+Ви дійсно боретесь від вогню по створінню або об'єкту в раді. Зробіть напад коливань проти цілі. За удари ціль завдає 110 шкоди вогню. Це запалювання об'єкта, під впливом його заклинання - якщо його не носять і не поставлять ноги.    
+Збільшення пошкоджень цього заклинання на 1d10 коли ви досягнете 5-го рівня (2d10), 11-го рівня (3d10 та 17-го рівня (4d10).
