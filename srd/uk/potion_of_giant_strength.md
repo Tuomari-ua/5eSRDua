@@ -1,16 +1,16 @@
-name: Potion of Giant Strength type: potion
+назва: Зілля великої потужності типу: зілля
 
-# Potion of Giant Strength
-_Potion, rarity varies_
+# Зілля великої могутності
+_Зіткнення, рідність змінюється_
 
-When you drink this potion, your Strength score changes for 1 hour. The type of giant determines the score (see the table below). The potion has no effect on you if your Strength is equal to or greater than that score.
+Коли ви п'єте це зілля, ваш рівень гучності змінюється протягом 1 години. Тип гіганта визначає рахунок (див. таблиця нижче). Зілля не впливає на вас, якщо ваша сила дорівнює або більша за цей рахунок.
 
-This potion's transparent liquid has floating in it a sliver of fingernail from a giant of the appropriate type. The **potion of frost giant strength** and the **potion of stone giant strength** have the same effect.
+Цей зілля прозора рідина плаває в ньому дрібкою нігтями з гіганта відповідного типу. Зілля **з замерзлою силою** і зілля **з величезною силою** має той же ефект.
 
-| Type of Giant     | Strength | Rarity    |
-| ----------------- | -------- | --------- |
-| Hill giant        | 21       | Uncommon  |
-| Frost/stone giant | 23       | Rare      |
-| Fire giant        | 25       | Rare      |
-| Cloud giant       | 27       | Very rare |
-| Storm giant       | 29       | Legendary |
+| Тип велетня          | Міцність | Рідкість       |
+| -------------------- | -------- | -------------- |
+| Гілл-Гілл            | 21       | Рідкісний      |
+| Гігант Фроста/камінь | 23       | Рідкісний      |
+| Вогняний гігант      | 25       | Рідкісний      |
+| Велетенські хмари    | 27       | Дуже рідкісний |
+| Штормовий гігант     | 29       | Легендарний    |
