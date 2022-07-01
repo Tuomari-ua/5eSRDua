@@ -1,13 +1,13 @@
-name: Frog type: beast cr: 0
+назва: Відд тип: середня величина cr: 0
 
-# Frog
-_Tiny beast, unaligned_
+# Жаба
+_Крихітний звір, неприєднаний_
 
-**Armor Class** 11    
-**Hit Points** 1 (1d4 − 1)    
-**Speed** 20 ft., swim 20 ft.
+**Клас броні** 11    
+**Очків** 1 (1d4 − 1)    
+Швидкість**** 20 ft., плавок 20 фут.
 
-| STR    | DEX     | CON    | INT    | WIS    | CHA    |
+| СТР    | ДЕКС    | CON    | ІНТ    | WIS    | CHA    |
 | ------ | ------- | ------ | ------ | ------ | ------ |
 | 1 (−5) | 13 (+1) | 8 (−1) | 1 (−5) | 8 (−1) | 3 (−4) |
 
@@ -16,7 +16,7 @@ _Tiny beast, unaligned_
 **Languages** --    
 **Challenge** 0 (0 XP)
 
-**Amphibious.** The frog can breathe air and water.    
-**Standing Leap.** The frog's long jump is up to 10 feet and its high jump is up to 5 feet, with or without a running start.
+**Амфібів.** Жаба може дихати повітрям і водою.    
+**Стандартний ринок.** Стрибки жабу до 10 футів, і його високий стрибок становить 5 футів, з або без запуску.
 
-A frog has no effective attacks. It feeds on small insects and typically dwells near water, in trees, or underground. The frog's statistics can also be used to represent a toad.
+Жаба не має ефективних атак. Воно годується на маленьких комах і зазвичай живе недалеко від води, в деревах або під землею. Статистика жаба також може бути використана для представлення протонів.
