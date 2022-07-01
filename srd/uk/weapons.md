@@ -1,110 +1,110 @@
-description: Rules and information about different weapon types and properties from the 5th Edition (5e) SRD (System Reference Document).
+опис: Правила та інформація про різні типи зброї та властивості з 5-ї версії (5e) SRD (Документація по Системній Документації).
 
-# Weapons
-Your class grants proficiency in certain weapons, reflecting both the class's focus and the tools you are most likely to use. Whether you favor a longsword or a longbow, your weapon and your ability to wield it effectively can mean the difference between life and death while adventuring.
+# Зброя
+Ваш клас надає здібності до певної зброї, відображаючи як фокус класу, так і інструменти, які ви найбільш ймовірно використовуєте. Незалежно від того, чи ви підтримуєте довгий меч або довгий лук, ваша зброя і ваша здатність керувати нею може означати різницю між життям і смертю під час пригоди.
 
-The Weapons table shows the most common weapons used in the fantasy gaming worlds, their price and weight, the damage they deal when they hit, and any special properties they possess. Every weapon is classified as either melee or ranged. A **melee weapon** is used to attack a target within 5 feet of you, whereas a **ranged weapon** is used to attack a target at a distance.
-
-
-## Weapon Proficiency
-Your race, class, and feats can grant you proficiency with certain weapons or categories of weapons. The two categories are **simple** and **martial**. Most people can use simple weapons with proficiency. These weapons include clubs, maces, and other weapons often found in the hands of commoners. Martial weapons, including swords, axes, and polearms, require more specialized training to use effectively. Most warriors use martial weapons because these weapons put their fighting style and training to best use.
-
-Proficiency with a weapon allows you to add your proficiency bonus to the attack roll for any attack you make with that weapon. If you make an attack roll using a weapon with which you lack proficiency, you do not add your proficiency bonus to the attack roll.
-
-## Weapon Properties
-Many weapons have special properties related to their use, as shown in the Weapons table.
-
-**Ammunition.** You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.
-
-If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon (see "Improvised Weapons" later in the section). A sling must be loaded to deal any damage when used in this way.
-
-**Finesse.** When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
-
-**Heavy.** Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively.
-
-**Light.** A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.
-
-**Loading.** Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make.
-
-**Range.** A weapon that can be used to make a ranged attack has a range in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's long range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range.
-
-**Reach.** This weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for opportunity attacks with it.
-
-**Special.** A weapon with the special property has unusual rules governing its use, explained in the weapon's description (see "Special Weapons" later in this section).
-
-**Thrown.** If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.
-
-**Two-Handed.** This weapon requires two hands when you attack with it.
-
-**Versatile.** This weapon can be used with one or two hands. A damage value in parentheses appears with the property--the damage when the weapon is used with two hands to make a melee attack.
-
-## Improvised Weapons
-Sometimes characters don't have their weapons and have to attack with whatever is at hand. An improvised weapon includes any object you can wield in one or two hands, such as broken glass, a table leg, a frying pan, a wagon wheel, or a dead goblin.
-
-Often, an improvised weapon is similar to an actual weapon and can be treated as such. For example, a table leg is akin to a club. At the GM's option, a character proficient with a weapon can use a similar object as if it were that weapon and use his or her proficiency bonus.
-
-An object that bears no resemblance to a weapon deals 1d4 damage (the GM assigns a damage type appropriate to the object). If a character uses a ranged weapon to make a melee attack, or throws a melee weapon that does not have the thrown property, it also deals 1d4 damage. An improvised thrown weapon has a normal range of 20 feet and a long range of 60 feet.
-
-## Silvered Weapons
-Some monsters that have immunity or resistance to nonmagical weapons are susceptible to silver weapons, so cautious adventurers invest extra coin to plate their weapons with silver. You can silver a single weapon or ten pieces of ammunition for 100 gp. This cost represents not only the price of the silver, but the time and expertise needed to add silver to the weapon without making it less effective.
-
-## Special Weapons
-Weapons with special rules are described here.
-
-**Lance.** You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.
-
-**Net.** A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net.
-
-When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
+Стіл зброї показує найпоширенішу зброю, яку використовують у світі фантазій, їх ціна і вага, вони завдають шкоди, коли потрапляють у шкоду, і будь-які спеціальні властивості, які вони володіють. Кожна зброя класифікується як ближня або далеко. Зброя **ближнього бою** використовується для атаки цілі в межах 5 футів від вас, при цьому на відстані використовується **зброя** для атаки цілі на відстані.
 
 
-## Weapons Table
+## Майстерність зброї
+Ваша гора, клас і можливості можуть надати вам досконалість з певною зброєю або категоріями зброї. Дві категорії **прості** і **важливі**. Більшість людей можуть використовувати просту зброю з здібностями. До такої зброї належать клуби, махи та інші зброї, які часто зустрічаються в руках спільнот. Військова зброя, включаючи мечі, осі та напої, вимагає більш спеціалізованого навчання для ефективного використання. Більшість воїнів використовують бойову зброю, оскільки ця зброя ставила свій бойовий стиль і навчалася найкращому використанню.
 
-| Simple Melee Weapons | Cost | Damage          | Weight | Properties                            |
-| -------------------- | ---- | --------------- | ------ | ------------------------------------- |
-| Club                 | 1 sp | 1d4 bludgeoning | 2 lb.  | Light                                 |
-| Dagger               | 2 gp | 1d4 piercing    | 1 lb.  | Finesse, light, thrown (range 20/60)  |
-| Greatclub            | 2 sp | 1d8 bludgeoning | 10 lb. | Two-handed                            |
-| Handaxe              | 5 gp | 1d6 slashing    | 2 lb.  | Light, thrown (range 20/60)           |
-| Javelin              | 5 sp | 1d6 piercing    | 2 lb.  | Thrown (range 30/120)                 |
-| Light hammer         | 2 gp | 1d4 bludgeoning | 2 lb.  | Light, thrown (range 20/60)           |
-| Mace                 | 5 gp | 1d6 bludgeoning | 4 lb.  | -                                     |
-| Quarterstaff         | 2 sp | 1d6 bludgeoning | 4 lb.  | Versatile (1d8)                       |
-| Sickle               | 1 gp | 1d4 slashing    | 2 lb.  | Light                                 |
-| Spear                | 1 gp | 1d6 piercing    | 3 lb.  | Thrown (range 20/60), versatile (1d8) |
+Досвідченість зі зброєю дозволяє додавати бонус до вашого поліпшення, щоб атакувати з допомогою цієї зброї. Якщо ви зробите атакуючу колу за допомогою зброї, за допомогою якої ви не стаєте здібностями, ви не додаєте бонус до бонусів атаки.
 
-| Simple Ranged Weapons | Cost  | Damage          | Weight  | Properties                                     |
-| --------------------- | ----- | --------------- | ------- | ---------------------------------------------- |
-| Crossbow, light       | 25 gp | 1d8 piercing    | 5 lb.   | Ammunition (range 80/320), loading, two-handed |
-| Dart                  | 5 cp  | 1d4 piercing    | 1/4 lb. | Finesse, thrown (range 20/60)                  |
-| Shortbow              | 25 gp | 1d6 piercing    | 2 lb.   | Ammunition (range 80/320), two-handed          |
-| Sling                 | 1 sp  | 1d4 bludgeoning | -       | Ammunition (range 30/120)                      |
+## Властивості зброї
+Багато зброї мають особливі властивості, пов'язані з їх використанням, як показано в таблиці зброї.
 
-| Martial Melee Weapons | Cost  | Damage          | Weight | Properties                            |
-| --------------------- | ----- | --------------- | ------ | ------------------------------------- |
-| Battleaxe             | 10 gp | 1d8 slashing    | 4 lb.  | Versatile (1d10)                      |
-| Flail                 | 10 gp | 1d8 bludgeoning | 2 lb.  | -                                     |
-| Glaive                | 20 gp | 1d10 slashing   | 6 lb.  | Heavy, reach, two-handed              |
-| Greataxe              | 30 gp | 1d12 slashing   | 7 lb.  | Heavy, two-handed                     |
-| Greatsword            | 50 gp | 2d6 slashing    | 6 lb.  | Heavy, two-handed                     |
-| Halberd               | 20 gp | 1d10 slashing   | 6 lb.  | Heavy, reach, two-handed              |
-| Lance                 | 10 gp | 1d12 piercing   | 6 lb.  | Reach, special                        |
-| Longsword             | 15 gp | 1d8 slashing    | 3 lb.  | Versatile (1d10)                      |
-| Maul                  | 10 gp | 2d6 bludgeoning | 10 lb. | Heavy, two-handed                     |
-| Morningstar           | 15 gp | 1d8 piercing    | 4 lb.  | -                                     |
-| Pike                  | 5 gp  | 1d10 piercing   | 18 lb. | Heavy, reach, two-handed              |
-| Rapier                | 25 gp | 1d8 piercing    | 2 lb.  | Finesse                               |
-| Scimitar              | 25 gp | 1d6 slashing    | 3 lb.  | Finesse, light                        |
-| Shortsword            | 10 gp | 1d6 piercing    | 2 lb.  | Finesse, light                        |
-| Trident               | 5 gp  | 1d6 piercing    | 4 lb.  | Thrown (range 20/60), versatile (1d8) |
-| War pick              | 5 gp  | 1d8 piercing    | 2 lb.  | -                                     |
-| Warhammer             | 15 gp | 1d8 bludgeoning | 2 lb.  | Versatile (1d10)                      |
-| Whip                  | 2 gp  | 1d4 slashing    | 3 lb.  | Finesse, reach                        |
+**Боєприпаси.** Ви можете використовувати зброю, яка має властивість боєприпасів щоб зробити дальній атаку тільки якщо є боєприпаси для стрільби зі зброї. Кожного разу, коли ви атакуєте зброєю, ви розраховуєте одну частину боєприпасів. Малюючи боєприпаси з спокійного боку, або інший контейнер є частиною нападу (вам потрібна вільна рука для завантаження одноручної зброї). В кінці битви можете відновити наполовину вашої експедиційної боєприпаси, побравши хвилину на пошуки поля бою.
 
-| Martial Ranged Weapons | Cost  | Damage        | Weight | Properties                                             |
-| ---------------------- | ----- | ------------- | ------ | ------------------------------------------------------ |
-| Blowgun                | 10 gp | 1 piercing    | 1 lb.  | Ammunition (range 25/100), loading                     |
-| Crossbow, hand         | 75 gp | 1d6 piercing  | 3 lb.  | Ammunition (range 30/120), light, loading              |
-| Crossbow, heavy        | 50 gp | 1d10 piercing | 18 lb. | Ammunition (range 100/400), heavy, loading, two-handed |
-| Longbow                | 50 gp | 1d8 piercing  | 2 lb.  | Ammunition (range 150/600), heavy, two-handed          |
-| Net                    | 1 gp  | -             | 3 lb.  | Special, thrown (range 5/15)                           |
+Якщо ви використовуєте зброю, яка має властивості боєприпасів для атаки ближнього бою, ви ставитеся до зброї як до імпровізованої зброї (див. "Непровізовані зброї" пізніше в розділі). При використанні таким чином гра має бути завантажена для отримання будь-яких пошкоджень.
+
+**Готово.** Коли атакуєте з дрібною зброєю, ви використовуєте свій вибір потужності або модифікатора Dexterity для атак та пошкодження роликів. Ви повинні використовувати один і той же модифікатор для обох жбурлянь.
+
+**Важко.** Малі істоти мають вплив на атаки з важкою зброєю. Розмір і масивна зброя занадто великі для малої істоти для ефективного використання.
+
+**Світлова зброя** дрібна і проста у керуванні, що робить її ідеальним для боротьби з двома зброями.
+
+**Завантаження.** Через час, необхідний для завантаження цієї зброї, від нього можна стріляти лише одну куску, коли використовуєте дію, бонусна дія або реакція для стріляння її, незалежно від кількості атак, які ви зазвичай можете зробити.
+
+**Діапазон** . Зброя, яку можна використовувати для далекобійного нападу, має діапазон в дужках після боєприпасів або кидання властивості. Діапазон перелічує два числа. Перший - це нормальна відстань зброї на ногах, а другий вказує на довгу дальність зброї. Коли атакуєте мету за межами нормального діапазону, ви маєте недолік від атаки. Ви не можете атакувати ціль за межами довгої дальності зброї.
+
+**Розслабтеся.** Ця зброя додає 5 футів до вашої досяжності, коли ви атакуєте з нею, також при визначенні вашого досяжності для додаткових атак з ним.
+
+**Особливий.** Зброя зі спеціальною власністю має незвичні правила, що регулюють його використання, пояснюється в описі зброї (див. "Особлива зброя" пізніше в цьому розділі).
+
+**Дрохвах.** Якщо зброя має викинутий властивість, ви можете метнути зброю для створення далекобійної атаки. Якщо зброя є зброєю ближнього, ви використовуєте монумератор тієї ж здатності для атаки, звороту атаки, який ви можете використати для атаки ближнього боку. Наприклад, якщо ви кидаєте штуку, ви використовуєте вашу силу, але якщо кидаєте кинджал, ви можете використовувати або свою силу, або слабкість, так як кинджал має остаточну властивість.
+
+**Дворучна зброя.** Для цієї зброї потрібно дві руки, якщо ви нападете з нею.
+
+**Верситість.** Ця зброя може використовуватися з однією або двома руками. Значення, яке наносить шкоду в дужках, з'являється з майном - пошкодження коли зброя використовується з двома руками, щоб зробити рукопашну атаку.
+
+## Імпровізована зброя
+Іноді герої не мають своєї зброї і мають напасти на все, що знаходиться під рукою. Провізована зброя включає в себе будь-який об'єкт, який ви можете мати в одному або двох руках, такий, як розбите скло, ніжка столу, брюча каструля, колеса вагона або мертвого гобліна.
+
+Часто імпровізована зброя схожа на справжню зброю і може розглядатися як така. Наприклад, стічна нога схожа на клуб. При варіанті GM, носій персонажа, який має зброю, може використовувати подібний об'єкт, як якщо б він був зброєю і використовувати його бонус вигадливості.
+
+Об'єкт, який не має подібності з зброєю, завдає 1d4 шкоди (GM призначає шкоду, відповідну об'єкту). Якщо персонаж використовує дистанційну зброю для створення атаки ближнього бою, або кидає зброю ближнього бою, яка не має кишені властивості, він також завдає шкоди 1d4. Провізована кинута зброя має нормальний діапазон в 20 футів і довгий діапазон 60 футів.
+
+## Срібна зброя
+Деякі монстри мають імунітет або опір немагічній зброї стають сприйнятливими до срібної зброї, тож обережні авантюристи вкладають більше монети, щоб тарілити зброю сріблом. Ви можете посрібити одну зброю або десять шматків боєприпасів на 100 gp. Ця вартість відображає не тільки ціну срібло, але час і кваліфікованість, необхідний для додавання срібла в зброю, не роблячи її менш ефективною.
+
+## Спеціальна зброя
+Тут описують зброя зі спеціальними правилами.
+
+**Різниця** У вас відчує відчуття, коли ви використовуєте протидію, щоб атакувати ціль в межах 5 футів від вас. Крім того, для затримки потрібно дві руки під кермом, коли ви не на монті.
+
+**Мережа.** Велика або менша істота, яку керує сітка, буде обмежена до тих пір, поки вона не буде вивільнена. Сітка не має ніякого впливу на створінь, які є безформними, або самими істотами, які є величезними або й більшими. Творчість може використовувати свою дію для перевірки DC 10, звільнення себе чи іншої істоти в межах успіху цієї дії. Перетворення 5 рухомих пошкоджень мережі (AC 10) також звільняє істоту без шкоди їй, припинення впливу та знищення мережі.
+
+Коли ви використовуєте дію, бонусні дії або реакцію, щоб атакувати за допомогою мережі, ви можете зробити тільки одну атаку, незалежно від кількості атак, які ви зазвичай можете зробити.
+
+
+## Стіл для зброї
+
+| Проста зброя ближнього бою | Собівартість | Шкода          | Вага       | Властивості                                 |
+| -------------------------- | ------------ | -------------- | ---------- | ------------------------------------------- |
+| Палиця                     | 1 сп         | 1d4 блудшонінг | 2 фунти.   | Світла                                      |
+| Dagger                     | 2 ґр         | 1d4 пірсинг    | 1 фунт.    | Яскравість світло, кидання (діапазон 20/60) |
+| Греатклуб                  | 2 піски      | 1d8 блукання   | 10 фунтів. | Дворукий                                    |
+| Handaxe                    | 5 ґр         | 1 d6 різання   | 2 фунти.   | Легкий, кинутий (діапазон 20/60)            |
+| Javelin                    | 5 сп         | 1d6 пірсинг    | 2 фунти.   | Крок (діапазон 30/120)                      |
+| Легкий молот               | 2 ґр         | 1d4 блудшонінг | 2 фунти.   | Легкий, кинутий (діапазон 20/60)            |
+| Mace                       | 5 ґр         | Кубонька 1d6   | 4 фунти.   | -                                           |
+| Кварталевий король         | 2 піски      | Кубонька 1d6   | 4 фунти.   | Універсальний (1d8)                         |
+| Серп                       | 1 ґр         | 1 d4-біг       | 2 фунти.   | Світла                                      |
+| Спис                       | 1 ґр         | 1d6 пірсинг    | 3 фунти.   | Thrown (діапазон 20/60), versatile (1d8)    |
+
+| Проста дальня зброя | Собівартість | Шкода          | Вага       | Властивості                                        |
+| ------------------- | ------------ | -------------- | ---------- | -------------------------------------------------- |
+| Арбалет, світло     | 25 ґп        | 1d8 пірсинг    | 5 фунтів.  | Боєприпаси (радіус 80/320), завантаження, дворучні |
+| Сулиця              | 5 Пр         | 1d4 пірсинг    | 1/4 фунта. | Чини, кинуті (діапазон 20/60)                      |
+| Короткий лук        | 25 ґп        | 1d6 пірсинг    | 2 фунти.   | Боєприпаси (радіус 80/320), дворучна               |
+| Праща               | 1 сп         | 1d4 блудшонінг | -          | Боєприпаси (діапазон 30/120)                       |
+
+| Військова зброя ближнього бою | Собівартість | Шкода         | Вага       | Властивості                              |
+| ----------------------------- | ------------ | ------------- | ---------- | ---------------------------------------- |
+| Топір                         | 10 ґр        | 1 d8 побиття  | 4 фунти.   | Універсальний (1д10)                     |
+| Бойовий ціп                   | 10 ґр        | 1d8 блукання  | 2 фунти.   | -                                        |
+| Glaive                        | 20 ґр        | 1 д10 поразок | 6 фунтів.  | Небеса, досягнення, дворучні             |
+| Величезний                    | 30 ґп        | 1 d12         | 7 фунтів.  | Небеса, дворучка                         |
+| Судовий меч                   | 50 ґп        | 2d6 різання   | 6 фунтів.  | Небеса, дворучка                         |
+| Halberd                       | 20 ґр        | 1 д10 поразок | 6 фунтів.  | Небеса, досягнення, дворучні             |
+| Важкий спис                   | 10 ґр        | 1d12 пірсинг  | 6 фунтів.  | Річ, спеціальні                          |
+| Довгий меч                    | 15-гр        | 1 d8 побиття  | 3 фунти.   | Універсальний (1д10)                     |
+| Maul                          | 10 ґр        | 2d6 блукання  | 10 фунтів. | Небеса, дворучка                         |
+| Морнінгстар                   | 15-гр        | 1d8 пірсинг   | 4 фунти.   | -                                        |
+| Піка                          | 5 ґр         | 1d10 пірсинг  | 18 фунтів. | Небеса, досягнення, дворучні             |
+| Рапіра                        | 25 ґп        | 1d8 пірсинг   | 2 фунти.   | Фінесс                                   |
+| Ятаган                        | 25 ґп        | 1 d6 різання  | 3 фунти.   | Гурт, світло                             |
+| Короткий меч                  | 10 ґр        | 1d6 пірсинг   | 2 фунти.   | Гурт, світло                             |
+| Тризубець                     | 5 ґр         | 1d6 пірсинг   | 4 фунти.   | Thrown (діапазон 20/60), versatile (1d8) |
+| Військовий бір                | 5 ґр         | 1d8 пірсинг   | 2 фунти.   | -                                        |
+| Warhammer                     | 15-гр        | 1d8 блукання  | 2 фунти.   | Універсальний (1д10)                     |
+| Батіг                         | 2 ґр         | 1 d4-біг      | 3 фунти.   | Результати отримання                     |
+
+| Військова зброя дальнього бою | Собівартість | Шкода        | Вага       | Властивості                                               |
+| ----------------------------- | ------------ | ------------ | ---------- | --------------------------------------------------------- |
+| Духова трубка                 | 10 ґр        | 1 проникна   | 1 фунт.    | Боєприпаси (діапазон 25/100), завантаження                |
+| Арбалет, рука                 | Гп           | 1d6 пірсинг  | 3 фунти.   | Боєприпаси (діапазон 30/120), світла, завантаження        |
+| Арбалет, важкий               | 50 ґп        | 1d10 пірсинг | 18 фунтів. | Боєприпаси (понад 100/400), важкі, завантаження, дворучні |
+| Longbow                       | 50 ґп        | 1d8 пірсинг  | 2 фунти.   | Боєприпаси (діапазон 150/600), важкі, дворучні            |
+| Чистий                        | 1 ґр         | -            | 3 фунти.   | Особливий, кинутий (діапазон 5/15)                        |
