@@ -1,29 +1,29 @@
-name: Cube of Force type: item
+назва: Куб потужності типу: елемент
 
-# Cube of Force
-_Wondrous item, rare (requires attunement)_
+# Куб сили
+_Чудотвор, рідкісний (вимагає захоплення)_
 
-This cube is about an inch across. Each face has a distinct marking on it that can be pressed. The cube starts with 36 charges, and it regains 1d20 expended charges daily at dawn.
+Цей куб має десь дюйм. Кожне обличчя має відмінну відмітку на неї, яку можна поставити. Куб починається з 36 зарядів, і він щодня сплачує 20 раз на світанку.
 
-You can use an action to press one of the cube's faces, expending a number of charges based on the chosen face, as shown in the Cube of Force Faces table. Each face has a different effect. If the cube has insufficient charges remaining, nothing happens. Otherwise, a barrier of invisible force springs into existence, forming a cube 15 feet on a side. The barrier is centered on you, moves with you, and lasts for 1 minute, until you use an action to press the cube's sixth face, or the cube runs out of charges. You can change the barrier's effect by pressing a different face of the cube and expending the requisite number of charges, resetting the duration.
+Для того, щоб натиснути на обличчя куба, витрата ряду зарядів, заснованих на обраному обличчі, як це показано в кубі силових ефектів. Кожне обличчя має інший ефект. Якщо кубик має недостатній рівень зарядів, що залишився, нічого не відбудеться. Інакше створіння існування невидимої сили утворюють кубик на 15 футів збоку. Бар'єра орієнтована на вас, рухається з вами, і триває 1 хвилина, доки ви не використаєте дію, щоб натиснути шосте обличчя куба, чи кубик не зникне з заряду. Ви можете змінити ефект бар'єра шляхом натискання на інше обличчя куба і витрати необхідної кількості зарядів, скинувши тривалість.
 
-If your movement causes the barrier to come into contact with a solid object that can't pass through the cube, you can't move any closer to that object as long as the barrier remains.
+Якщо ваш рух веде до контакту з твердим об'єктом, який не може пройти через куб, ви не можете підійти ближче до цього об'єкту, доки він не залишиться у перешкоді.
 
-| Face | Charges | Effect                                                                                                            |
-| ---- | ------- | ----------------------------------------------------------------------------------------------------------------- |
-| 1    | 1       | Gases, wind, and fog can't pass through the barrier.                                                              |
-| 2    | 2       | Nonliving matter can't pass through the barrier. Walls, floors, and ceilings can pass through at your discretion. |
-| 3    | 3       | Living matter can't pass through the barrier.                                                                     |
-| 4    | 4       | Spell effects can't pass through the barrier.                                                                     |
-| 5    | 5       | Nothing can pass through the barrier. Walls, floors, and ceilings can pass through at your discretion.            |
-| 6    | 0       | The barrier deactivates.                                                                                          |
+| Обличчя | Витрати | Ефект                                                                                                   |
+| ------- | ------- | ------------------------------------------------------------------------------------------------------- |
+| 1       | 1       | Газ, вітер і туман не можуть пройти через бар'єр.                                                       |
+| 2       | 2       | Нежива речовина не може пройти через бар'єр. Стіни, підлоги та стеля можуть передаватися на ваш розсуд. |
+| 3       | 3       | Життя не може пройти через бар'єр.                                                                      |
+| 4       | 4       | Ефекти правопису не можуть пройти через бар'єр.                                                         |
+| 5       | 5       | Ніщо не може пройти через бар'єр. Стіни, підлоги та стеля можуть передаватися на ваш розсуд.            |
+| 6       | 0       | Бар’єр деактивується.                                                                                   |
 
-The cube loses charges when the barrier is targeted by certain spells or comes into contact with certain spell or magic item effects, as shown in the table below.
+Кубики втрачають заряди, коли на нього націлений певний заклинання або зустрічається з певним правом чи магічним ефектом предметів, як показано в таблиці нижче.
 
-| Spell or item      | Charges Lost |
-| ------------------ | ------------ |
-| _Disintegrate_     | 1d12         |
-| _Horn of blasting_ | 1d10         |
-| _Passwall_         | 1d6          |
-| _Prismatic spray_  | 1d20         |
-| _Wall of fire_     | 1d4          |
+| заклинання або предмет | Витрати втрачено |
+| ---------------------- | ---------------- |
+| _Disintegrate_         | 1д12             |
+| _Ріг вибуху_           | 1д10             |
+| _Песселл_              | 1д6              |
+| _Призматичний розпил_  | 1д20             |
+| _Стіна вогню_          | 1д4              |
