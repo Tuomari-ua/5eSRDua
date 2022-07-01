@@ -1,12 +1,12 @@
-name: Identify level: 1 school: divination classes: bard wizard
+назва: Визначте рівень: 1 школу: divination класів: майстер чіткості
 
-# Identify
-_1st-level divination (ritual)_
+# Ідентифікувати
+_Однорівневе розлучення (ритуал)_
 
 **Casting Time:** 1 minute    
 **Range:** Touch    
 **Components:** V, S, M (a pearl worth at least 100 gp and an owl feather)    
 **Duration:** Instantaneous
 
-You choose one object that you must touch throughout the casting of the spell. If it is a magic item or some other magic-imbued object, you learn its properties and how to use them, whether it requires attunement to use, and how many charges it has, if any. You learn whether any spells are affecting the item and what they are. If the item was created by a spell, you learn which spell created it.    
-If you instead touch a creature throughout the casting, you learn what spells, if any, are currently affecting it. 
+Ви повинні вибрати один об'єкт, який ви повинні торкнутися під час трансляції заклинання. Це - магічний предмет або ж якийсь інший магічний предмет, який ви опановуєте властивості, і як їх використовувати, чи вимагає він схвалення для використання, і скільки звинувачень він має, якщо такі є. Ви дізнаєтесь, чи впливають на предмет та що це таке. Якщо елемент був створений за допомогою заклинання, ви дізнаєтесь що написано створило його.    
+Якщо ви замість цього торкаєтеся істоти під час трансляції, ви дізнаєтеся, що таке написання, якщо вони є, зараз впливають на неї. 
