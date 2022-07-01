@@ -1,40 +1,40 @@
-description: Information on the Dexterity ability from the 5th Edition (5e) System Reference Document (SRD)
+опис: інформація про можливість Dexterity з 5-ї версії Системної документації (5e) ((SRD)
 
-# Dexterity
-Dexterity measures agility, reflexes, and balance.
+# Спритність
+Dexterity вимірює енергію, рефлекси та баланс.
 
-## Dexterity Checks
-A Dexterity check can model any attempt to move nimbly, quickly, or quietly, or to keep from falling on tricky footing. The Acrobatics, Sleight of Hand, and Stealth skills reflect aptitude in certain kinds of Dexterity checks.
+## Перевірка Dexterity
+Перевірка Dexterity може моделювати будь-яку спробу рухатися спритно, швидко або тихо, або продовжувати від падіння на хитрому місці. Акробатики, сонні та навички стелгену відображають елітну здатність в певних видах Dexterity.
 
-**Acrobatics.** Your Dexterity (Acrobatics) check covers your attempt to stay on your feet in a tricky situation, such as when you're trying to run across a sheet of ice, balance on a tightrope, or stay upright on a rocking ship's deck. The GM might also call for a Dexterity (Acrobatics) check to see if you can perform acrobatic stunts, including dives, rolls, somersaults, and flips.
+**Акробатика.** Чекайте на Dexterity (Acrobatics) охоплює вашу спробу залишитися на ногах у складному становищі, такі, як коли ви намагаєтеся бігти через аркуш льоду, баланс у натягнутому або залишитися вертикально на палубі корабля. GM також може викликати відмітку Dexterity (Acrobatic), щоб перевірити, чи можна виконувати акробатичні члени, включаючи занурення, повороти, соусси та помади.
 
-**Sleight of Hand.** Whenever you attempt an act of legerdemain or manual trickery, such as planting something on someone else or concealing an object on your person, make a Dexterity (Sleight of Hand) check. The GM might also call for a Dexterity (Sleight of Hand) check to determine whether you can lift a coin purse off another person or slip something out of another person's pocket.
+**Сонява паличка.** Кожен раз, коли ви здійснюєте виступ з легковажності або ручної хитрості, наприклад посадження чогось на когось іншого або приховування об'єкту на вашої особи, зробіть планувальну перевірку (сніг) рукою. GM також може закликати до Dexterity (Сонька руки) щоб визначити, чи можете ви підняти монету від іншої людини гаманець або вислизнути щось з кишені іншої людини.
 
-**Stealth.** Make a Dexterity (Stealth) check when you attempt to conceal yourself from enemies, slink past guards, slip away without being noticed, or sneak up on someone without being seen or heard.
+**Крадіжка.** Робіть перевірку на піднесеність під час спроби приховати себе від ворогів, минаючи охоронців, відкиньте їх не помічено, або прокрадіться на когось, хто не бачив і не чув.
 
-**Other Dexterity Checks.** The GM might call for a Dexterity check when you try to accomplish tasks like the following:
+**Інші контролі Dexterity** GM можуть викликати перевірку на Dexterity при спробі виконати завдання наступним чином:
 
-* Control a heavily laden cart on a steep descent
-* Steer a chariot around a tight turn
-* Pick a lock
-* Disable a trap
-* Securely tie up a prisoner
-* Wriggle free of bonds
-* Play a stringed instrument
-* Craft a small or detailed object
+* Контроль сильно рухається по крутому нижньому акценту
+* Викидання колісниць навколо повороту
+* Вибрати замок
+* Вимкнути пастку
+* Прив'яжіть в'язня
+* Вільні борти
+* Відтворюйте строгий інструмент
+* Створіть невеликий або детальний об'єкт
 
-## Attack Rolls and Damage
-You add your Dexterity modifier to your attack roll and your damage roll when attacking with a ranged weapon, such as a sling or a longbow. You can also add your Dexterity modifier to your attack roll and your damage roll when attacking with a melee weapon that has the finesse property, such as a dagger or a rapier.
+## Змагатися із руками та ушкодженнями
+Ви додаєте ваш модифікатор Dexterity до вашої ділянки атаки і ваші пошкодження під час атаки за далекобійною зброєю, такі, як лазівка або довгий лук. Ви також можете додати ваш модифікатор Dexterity до вашого нападу та звороту пошкодження під час атаки зі зброєю ближнього бою, яка має властивість finesse такий, як кинджал або ріпак.
 
-## Armor Class
-Depending on the armor you wear, you might add some or all of your Dexterity modifier to your Armor Class.
+## Клас броні
+Залежно від броні ви носите, ви можете додати деякі або всі свої модифікатор Dexterity до свого броні.
 
-## Initiative
-At the beginning of every combat, you roll initiative by making a Dexterity check. Initiative determines the order of creatures' turns in combat.
-> #### Hiding
+## Ініціатива
+На початку кожного бою, ви відколюєте ініціативу, зробивши перевірку на Dexterity. Ініціатива визначає порядок істот у бою.
+> #### Гайдінг
 > 
-> The DM decides when circumstances are appropriate for hiding. When you try to hide, make a Dexterity (Stealth) check. Until you are discovered or you stop hiding, that check's total is contested by the Wisdom (Perception) check of any creature that actively searches for signs of your presence.
-> You can't hide from a creature that can see you clearly, and you give away your position if you make noise, such as shouting a warning or knocking over a vase. An invisible creature can always try to hide. Signs of its passage might still be noticed, and it does have to stay quiet.
-> In combat, most creatures stay alert for signs of danger all around, so if you come out of hiding and approach a creature, it usually sees you. However, under certain circumstances, the DM might allow you to stay hidden as you approach a creature that is distracted, allowing you to gain advantage on an attack roll before you are seen.
-> **Passive Perception.** When you hide, there's a chance someone will notice you even if they aren't searching. To determine whether such a creature notices you, the DM compares your Dexterity (Stealth) check with that creature's passive Wisdom (Perception) score, which equals 10 + the creature's Wisdom modifier, as well as any other bonuses or penalties. If the creature has advantage, add 5. For disadvantage, subtract 5. For example, if a 1st-level character (with a proficiency bonus of +2) has a Wisdom of 15 (a +2 modifier) and proficiency in Perception, he or she has a passive Wisdom (Perception) of 14.
-> **What Can You See?** One of the main factors in determining whether you can find a hidden creature or object is how well you can see in an area, which might be **lightly** or **heavily obscured**
+> ПП вирішує, якщо обставини відповідають приховуванню. Під час занурення ви намагаєтесь встановити на перевірку Dexterity (Stealth). Доки ви не виявляєте або перестаєте приховувати, загальна сума цієї галочки оспорюється мудрістю (Поняття) всіх істот, які активно шукають ознаки вашої присутності.
+> Ви не можете сховатися від істоти, яка здатна на вас бачити, і ви звільняєте свою посаду, якщо ви змиритесь, такі як крик попередження або стукаєте над вазою. Невидима істота може завжди намагатися сховатися. Ознаки його уривку все ще можуть бути помічені, і йому доведеться мовчати.
+> В бою більшість істот залишаються попередженими про небезпеку навколо, тому, якщо ви вийдете із сховання і підійдете до істоти, то вона зазвичай бачить вас. Однак, за деяких обставин, DM може дозволити вам залишатися прихованим, коли ви підходите до істот, яка відволікається, дозволяючи вам отримати перевагу над атакою білля, перш ніж вас побачити.
+> **Пасивна замітка.** Під час приховування є шанс, що хтось помітить вас, навіть якщо вони не шукають. Щоб визначити, чи буде така істота замітити, DM порівнює вашу гідність (крастильність) з оцінкою пасивної мудрості цієї істоти (Винятка) рівне 10 + модифікації мудрості творіння, а також будь-які інші бонуси або покарання. Якщо істота має перевагу, додайте 5. Щоб знедолити і відняти 5. Наприклад, якщо персонаж 1-го рівня (з бонусом здібностей +2) має престижність до 15 (модифікатора +2) та придатність до сприйняття він або вона має пасивну мудрість (Поняття) з 14.
+> **Що ви можете бачити?** Один з головних факторів у визначенні чи ви можете знайти приховану істоту чи об'єкт, як добре ви можете побачити в районі, це може бути **літерою** або **сильно затьмарено**
