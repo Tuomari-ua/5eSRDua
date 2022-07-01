@@ -1,16 +1,16 @@
-name: Storm of Vengeance level: 9 school: conjuration classes: druid
+назва: Шторм помсти рівень: 9 школа: конджрату класів: druid
 
-# Storm of Vengeance
-_9th-level conjuration_
+# Шторм помсти
+_Тривалість 9-го рівня_
 
 **Casting Time:** 1 action    
 **Range:** Sight    
 **Components:** V, S    
 **Duration:** Concentration, up to 1 minute
 
-A churning storm cloud forms, centered on a point you can see and spreading to a radius of 360 feet. Lightning flashes in the area, thunder booms, and strong winds roar. Each creature under the cloud (no more than 5,000 feet beneath the cloud) when it appears must make a Constitution saving throw. On a failed save, a creature takes 2d6 thunder damage and becomes deafened for 5 minutes.    
-Each round you maintain concentration on this spell, the storm produces additional effects on your turn.    
-**Round 2.** Acidic rain falls from the cloud. Each creature and object under the cloud takes 1d6 acid damage.    
-**Round 3.** You call six bolts of lightning from the cloud to strike six creatures or objects of your choice beneath the cloud. A given creature or object can't be struck by more than one bolt. A struck creature must make a Dexterity saving throw. The creature takes 10d6 lightning damage on a failed save, or half as much damage on a successful one.    
-**Round 4.** Hailstones rain down from the cloud. Each creature under the cloud takes 2d6 bludgeoning damage.    
-**Round 5–10.** Gusts and freezing rain assail the area under the cloud. The area becomes difficult terrain and is heavily obscured. Each creature there takes 1d6 cold damage. Ranged weapon attacks in the area are impossible. The wind and rain count as a severe distraction for the purposes of maintaining concentration on spells. Finally, gusts of strong wind (ranging from 20 to 50 miles per hour) automatically disperse fog, mists, and similar phenomena in the area, whether mundane or magical.
+Форма хмар штормів - зосереджена на точці, яку ви можете побачити та поширювати до радіусу 360 футів. Блискавка блиск в території, грози і сильний вітри гнили. Кожна істота під хмарою (не більше 5 000 футів під хмарою), коли вона, здається, повинна зробити збереження Конституції кидком. У процесі невдалого збереження істота отримує пошкоджень 2d6 і стає глухою протягом 5 хвилин.    
+Кожен раунд який ви можете зберегти концентрацію на цьому заклинанні, шторм створює додаткові ефекти на вашому кроці.    
+**Раунд 2.** Кислотні дощі падають з хмари. Кожна істота і об'єкт під хмарою наносить 1d6 кислотного пошкодження    
+**Круглий 3.** Ви називаєте шість Болтів блискавки з хмари до удар по шість істот або об'єкти на ваш вибір під хмарою. Надана істота або об'єкт не може бути вражений більш ніж однією засувкою. Приголомшена істота повинна зробити рятівність рятувальною. Створіння наносить 10d6 блискавок невдалого заощадження, або ж удвічі більше шкоди від успішного.    
+**Круглить 4.** Дощ з хмари вниз. Кожна істота у хмарі наносить пошкодження у 2d6 рамок у хмарі.    
+**Круглить 5–10.** Гучний і заморожує дощ долаючи територію під хмарою. Територія стає важкою та сильно затьмарена. Кожна істота завдає 1d6 холодних пошкоджень. Атаки з використанням важкої зброї в районі неможливі. Вітер і дощ вважаються серйозною відволіканням для цілей збереження концентрації на заклинаннях. Нарешті, пориви сильного вітру (від 20 до 50 миль за годину) автоматично розсіюється туман, помилок та подібних явищів у території, будь то мирний чи магічний.
