@@ -1,6 +1,6 @@
-name: Goggles of Night type: item
+назва: Переваги ночі : елемент
 
-# Goggles of Night
-_Wondrous item, uncommon_
+# Окуляри ночі
+_Нетиповий для Wondrous_
 
-While wearing these dark lenses, you have darkvision out to a range of 60 feet. If you already have darkvision, wearing the goggles increases its range by 60 feet.
+При темних лінзах, у вас темрява досягає 60 футів. Якщо у вас вже є темношкірий, носіння окулярів збільшує його діапазон на 60 футів.
