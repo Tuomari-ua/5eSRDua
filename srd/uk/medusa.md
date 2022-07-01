@@ -1,13 +1,13 @@
-name: Medusa type: monstrosity cr: 6
+назва: Medusa тип: чудовисько cr: 6
 
 # Medusa
-_Medium monstrosity, lawful evil_
+_Середнє чудовисько, законне зло_
 
 **Armor Class** 15 (natural armor)    
 **Hit Points** 127 (17d8 + 51)    
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 10 (+0) | 15 (+2) | 16 (+3) | 12 (+1) | 13 (+1) | 15 (+2) |
 
@@ -16,12 +16,12 @@ _Medium monstrosity, lawful evil_
 **Languages** Common    
 **Challenge** 6 (2,300 XP)
 
-**Petrifying Gaze.** When a creature that can see the medusa's eyes starts its turn within 30 feet of the medusa, the medusa can force it to make a DC 14 Constitution saving throw if the medusa isn't incapacitated and can see the creature. If the saving throw fails by 5 or more, the creature is instantly petrified. Otherwise, a creature that fails the save begins to turn to stone and is restrained. The restrained creature must repeat the saving throw at the end of its next turn, becoming petrified on a failure or ending the effect on a success. The petrification lasts until the creature is freed by the greater restoration spell or other magic.    
-Unless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn. If the creature does so, it can't see the medusa until the start of its next turn, when it can avert its eyes again. If the creature looks at the medusa in the meantime, it must immediately make the save.    
-If the medusa sees itself reflected on a polished surface within 30 feet of it and in an area of bright light, the medusa is, due to its curse, affected by its own gaze.
+**Заява Газа.** Коли істота, яка може бачити, як очі медузи починають свою чергу на 30 футів медузи, медюса може змусити її робити рятування Конституції DC 14 року, якщо медуза не є недієздатною і може побачити істоту. Якщо збереження не вдається, то істота одразу впаде на 5 чи більше. В іншому випадку істота, яка не вдалася, починає повертатися до каменя і обмежена. Стримана істота повинна повторити порятунок, який кидає в кінець наступного кроку, поглинаючись невдачею або припиненням впливу на успіх. Наслідування триває до тих пір, поки істота не буде вивільнена більшою реставрацією заклинання або іншою магією.    
+Не дивно, природа може відвернути очі, щоб уникнути ті, хто зберіг кинувся на початку своєї черги. Якщо істота так відбувається, вона не може побачити медузу до початку наступної черги, коли вона знову зможе відвернути свої очі. Якщо істота одночасно дивиться на медузу, вона повинна негайно заощадити.    
+Якщо медуза бачить, що медуза помітною в висоті завдовжки в 30 футів і в області яскравого світла, медуза із-за його прокляття, постраждалої від власного погляду.
 
-### Actions
-**Multiattack.** The medusa makes either three melee attacks--one with its snake hair and two with its shortsword--or two ranged attacks with its longbow.    
-**Snake Hair.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one creature. _Hit:_ 4 (1d4 + 2) piercing damage plus 14 (4d6) poison damage.    
-**Shortsword.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.    
-**Longbow.** _Ranged Weapon Attack:_ +5 to hit, range 150/600 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage plus 7 (2d6) poison damage.
+### Дії
+**Багатоатака.** Медуса робить або три напади ближнього бою - один з його змієвим волоссям і два з його коротким мечем - або два коливалися атаки з його довгим луком.    
+**Хакер із змією,** _Атака ближньої зброї:_ +5 , щоб влучити в неї, можна дістатися до 5 висоти один створіння. _Вразу:_ 4 (1d4 + 2) пробиваючи пошкодження плюс 14 (4d6) отруту.    
+**Короткий меч.** _Атака ближньої зброї:_ +5, щоб вдарити в нього, досягти 5-ї цілі, одну ціль. _Hit:_ 5 (1d6 + 2) piercing damage.    
+**Longbow.** _Ranged Weapon Attack:_ +5 to hit, range 150/600 ft., one target. _Вразу:_ 6 (1d8 + 2) пошкодження від проби плюс 7 (2d6) пошкодження отрути.
