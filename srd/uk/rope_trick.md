@@ -1,14 +1,14 @@
-name: Rope Trick level: 2 school: transmutation classes: wizard
+назва: Тригер рівень: 2 школа: транмутація класи: майстер
 
-# Rope Trick
-_2nd-level transmutation_
+# Мотузка
+_Трансмутація 2N-рівня_
 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S, M (powdered corn extract and a twisted loop of parchment)    
-**Duration:** 1 hour
+**Час трансляції :** 1 дія    
+**Діапазон:** Торкніться    
+**компоненти:** V, S, M (порошкова кукурудза і звивиста петля пергаменту)    
+**тривалість:** години
 
-You touch a length of rope that is up to 60 feet long. One end of the rope then rises into the air until the whole rope hangs perpendicular to the ground. At the upper end of the rope, an invisible entrance opens to an extradimensional space that lasts until the spell ends.    
-The extradimensional space can be reached by climbing to the top of the rope. The space can hold as many as eight Medium or smaller creatures. The rope can be pulled into the space, making the rope disappear from view outside the space.    
-Attacks and spells can't cross through the entrance into or out of the extradimensional space, but those inside can see out of it as if through a 3-foot-by-5- foot window centered on the rope.    
-Anything inside the extradimensional space drops out when the spell ends.
+Довжина мотузки доходить до 60 футів. Один кінець мотузки потім піднімається по повітрі, поки вся мотузка не перпендикулярна до землі. На вершині мотузки невидимий вхід відчиняється перед екстрадиційним простором, який триває до закінчення заклинання.    
+Екстрадиційний простір можна досягнути у верхній частині мотузки. Простір може утримувати стільки, скільки вісім середніх або менших істот. Мотузку можна втягнути у простір, зникаючи мотузку з виду за межами простору.    
+Напади і заклинання не можуть перетнути через вхід або з екстрадиційного простору, але ті, хто знаходиться всередині можуть бачити з нього, ніби через 3 фут на 5 футів, зосереджені на мотузці.    
+Що-небудь всередині екстрадиційного простору скидає, коли заклинання закінчується.
