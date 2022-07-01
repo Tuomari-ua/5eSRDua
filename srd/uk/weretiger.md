@@ -1,28 +1,28 @@
-name: Weretiger type: humanoid (human, shapechanger) cr: 4
+назва: Вертдесяткове значення тип: humanoid (людина, кимк) cr: 4
 
-# Weretiger
-_Medium humanoid (human, shapechanger), neutral_
+# Веретігер
+_Середній гуманоїд (людина, шестикутник), нейтральний_
 
 **Armor Class** 12    
 **Hit Points** 120 (16d8 + 48)    
 **Speed** 30 ft. (40 ft. in tiger form)
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 17 (+3) | 15 (+2) | 16 (+3) | 10 (+0) | 13 (+1) | 11 (+0) |
 
-**Skills** Perception +5, Stealth +4    
-**Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons    
-**Senses** darkvision 60 ft., passive Perception 15    
-**Languages** Common (can't speak in tiger form)    
-**Challenge** 4 (1,100 XP)
+**Навичка** Перехоплення +5, Крайня +4    
+**Пошкодження** bludgeining, протекція, і розрізання за немагічними атаками без срібної зброї    
+**Senses** Температури 60фут. пасивне сприйняття 15    
+**мови** загальних (не можна говорити з формою тигра)    
+**Завдання** (1, 3 поширених 00 ДОСВІДУ)
 
-**Shapechanger.** The weretiger can use its action to polymorph into a tiger-humanoid hybrid or into a tiger, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.    
-**Keen Hearing and Smell.** The weretiger has advantage on Wisdom (Perception) checks that rely on hearing or smell.    
-**Pounce (Tiger or Hybrid Form Only).** If the weretiger moves at least 15 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the weretiger can make one bite attack against it as a bonus action.
+**Посипає.** Вертигер може використовувати свою дію для поліморфа в тигр-гуманоїдальний гібрид або в тигра, або ж знову у його вірну форму, що є Гуманоїдом. Його статистика, окрім його розміру, є однаковими у кожній формі. Будь-яке спорядження воно одягнуте або перенесене не перетворюється. Він відкриває справжню форму, коли вона помирає.    
+**Кисло серце та пахне.** Weetiger має перевагу в Wisdom (Виняття) перевірки, які покладаються на слух або нюх.    
+**Стрибки (Тигр або гібридна форма).** Якщо вовняний тигр рухатиметься щонайменше на 15 футів прямо до істоти, а потім потрапляє в її з атакою кілев на тому ж поверсі, ця мета повинна досягти успіху в DC 14 рятівності сили або бути постукована королею. Якщо мета готова, вертигер може зробити один кусник атаки проти нього як бонусні дії.
 
-### Actions
-**Multiattack (Humanoid or Hybrid Form Only).** In humanoid form, the weretiger makes two scimitar attacks or two longbow attacks. In hybrid form, it can attack like a humanoid or make two claw attacks.    
-**Bite (Tiger or Hybrid Form Only).** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 8 (1d10 + 3) piercing damage. If the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or be cursed with weretiger lycanthropy.    
-**Claw (Tiger or Hybrid Form Only).** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) slashing damage.    
-**Scimitar (Humanoid or Hybrid Form Only).** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) slashing damage. Longbow (Humanoid or Hybrid Form Only). _Ranged Weapon Attack:_ +4 to hit, range 150/600 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage.
+### Дії
+**Мультиатака (лише Гуманоїд або Гібридна форма).** У формі гуманоїду верхівець робить дві напади розсіяного бігу або дві довгих атаки. У гібридній формі він може атакувати як гуманоїд або зробити два атаки килимок.    
+**Вліпити (Тигр або Гібридний Фірм лише раз).** _Атака ближньої зброї:_ +5 до удару, досягає 5-ти показників, одна ціль. _Вразів:_ 8 (1d10 + 3) пошкодження. Якщо ця мета є гуманоїдом, вона повинна досягти успіху в збереженні Конституції DC 13 або бути проклята з лікантропом.    
+**Закон (лише Тигр або гібридна форма).** _Атака ближньої зброї:_ +5 до удару, досягає 5-ти показників, одна ціль. _Удачі:_ 7 (1d8 + 3) скорочуючи пошкодження.    
+**Scimitar (Humanoid або Hybrid Form Only).** _Атака ближньої зброї:_ +5, щоб вдарити в нього, досягти 5-ї цілі, одну ціль. _Удар удару:_ 6 (1d6 + 3) і ушкодження пошкодження. Довгий лук (лише гуманоїдна форма). _Атака дальньої зброї:_ +4 щоб вдарити, діапазон 150/600 фут. _Вразів:_ 6 (1d8 + 2) пошкодження вводу.
