@@ -1,20 +1,20 @@
-name: Stirge type: beast cr: .125
+назва: Stirge type: звір cr: .125
 
-# Stirge
-_Tiny beast, unaligned_
+# Стірж
+_Крихітний звір, неприєднаний_
 
-**Armor Class** 14 (natural armor)    
-**Hit Points** 2 (1d4)    
-**Speed** 10 ft., fly 40 ft.
+**Клас броні** 14 (природна броня)    
+**Бали** 2 (1d4)    
+**Швидкість** </strong> Фут 40 футів.
 
-| STR    | DEX     | CON     | INT    | WIS    | CHA    |
+| СТР    | ДЕКС    | CON     | ІНТ    | WIS    | CHA    |
 | ------ | ------- | ------- | ------ | ------ | ------ |
 | 4 (−3) | 16 (+3) | 11 (+0) | 2 (−4) | 8 (−1) | 6 (−2) |
 
-**Senses** darkvision 60 ft., passive Perception 9    
-**Languages** --    
-**Challenge** 1/8 (25 XP)
+**Способи** затемнення 60, пасивне сприйняття 9    
+**Мови** --    
+**виклик** 1/8 (25 XP)
 
-### Actions
-**Blood Drain.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one creature. _Hit:_ 5 (1d4 + 3) piercing damage, and the stirge attaches to the target. While attached, the stirge doesn't attack. Instead, at the start of each of the stirge's turns, the target loses 5 (1d4 + 3) hit points due to blood loss.    
-The stirge can detach itself by spending 5 feet of its movement. It does so after it drains 10 hit points of blood from the target or the target dies. A creature, including the target, can use its action to detach the stirge.
+### Дії
+**Кров витрачається** _Атака ближньої зброї:_ +5, досягнувши 5-го рівня, одна істота. _Висота:_ 5 (1d4 + 3) + 3), пробиваюча шкода і руху, приєднана до цілі. При приєднанні різанина не атакує. Замість цього, на початку черги кожного руху ціль втрачає 5 (1d4 + 3) - вдарені точки за рахунок втрати крові.    
+Скрута може відібрати себе, витрачаючи 5 футів свого руху. І саме після того, як кров виснажує 10 точків крові від цілі або цю похибку. Творцтво, включаючи ціль, може використовувати його дію для відключення гілки.
