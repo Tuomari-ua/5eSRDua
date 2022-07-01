@@ -1,28 +1,28 @@
-name: Ochre Jelly type: ooze cr: 2
+назва: Ochre Jelly тип: ooze cr: 2
 
-# Ochre Jelly
-_Large ooze, unaligned_
+# Вохре Джеллі
+_Велике око, не вирівняти_
 
 **Armor Class** 8    
 **Hit Points** 45 (6d10 + 12)    
 **Speed** 10 ft., climb 10 ft.
 
-| STR     | DEX    | CON     | INT    | WIS    | CHA    |
+| СТР     | ДЕКС   | CON     | ІНТ    | WIS    | CHA    |
 | ------- | ------ | ------- | ------ | ------ | ------ |
 | 15 (+2) | 6 (−2) | 14 (+2) | 2 (−4) | 6 (−2) | 1 (−5) |
 
-**Damage Resistances** acid    
-**Damage Immunities** lightning, slashing    
-**Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, prone    
-**Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 8    
-**Languages** --    
-**Challenge** 2 (450 XP)
+**Стійкість до шкоди** кислоти    
+**Пошкодження** блискавки, коробка    
+**Імунітетів (Condition** , Розміщений заглушений, виснаження, злякано, по    
+**Зібрано** з вогнями 60 футів. (сліпий за цим радіусом), пасивне сприйняття 8    
+**мов** --    
+**Виклик** (450 XP)
 
-**Amorphous.** The jelly can move through a space as narrow as 1 inch wide without squeezing.    
-**Spider Climb.** The jelly can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+**Аморфна.** желе може рухатися в просторі як вузький, як на 1 дюйм широкий без стискання.    
+**Павук сходиться.** желе може піднятися на складну поверхню, у тому числі догори дриґом і вниз по стелі, не потребуючи перевірки здібності.
 
-### Actions
-**Pseudopod.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 9 (2d6 + 2) bludgeoning damage plus 3 (1d6) acid damage.
+### Дії
+**Псевдо.** _Атака ближньої зброї:_ +4 - щоб вдарити, досягти 5-ти цілі, одна ціль. _Вразу:_ 9 (2d6 + 2) пошкодження дубості плюс 3 (1d6) кислотні пошкодження.
 
-### Reactions
-**Split.** When a jelly that is Medium or larger is subjected to lightning or slashing damage, it splits into two new jellies if it has at least 10 hit points. Each new jelly has hit points equal to half the original jelly's, rounded down. New jellies are one size smaller than the original jelly.
+### Реакції
+**Розрідж.** Коли желе яке є середнім або більшим піддається блискавці або скороченню пошкоджень, він розколюється на дві нові метелики, якщо в нього є щонайменше 10 балів. Кожна нова желе вдарила по точках, яка дорівнювала половині ворожої медузи, округленій вниз. Нові метелики розміром на один розмір менше, ніж вихідної медузи.
