@@ -1,13 +1,13 @@
-name: Deva cr: 10 type: celestial
+назва: Дева cr: 10 тип: небесний
 
 # Deva
-_Medium celestial, lawful good_
+_Середземний, законний товар_
 
 **Armor Class** 17 (natural armor)    
 **Hit Points** 136 (16d8 + 64)    
 **Speed** 30 ft., fly 90 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 18 (+4) | 18 (+4) | 17 (+3) | 20 (+5) | 20 (+5) |
 
@@ -19,15 +19,15 @@ _Medium celestial, lawful good_
 **Languages** all, telepathy 120 ft.    
 **Challenge** 10 (5,900 XP)
 
-**Angelic Weapons.** The deva's weapon attacks are magical. When the deva hits with any weapon, the weapon deals an extra 4d8 radiant damage (included in the attack).   
-**Innate Spellcasting.** The deva's spellcasting ability is Charisma (spell save DC 17). The deva can innately cast the following spells, requiring only verbal components:    
-At will: **_detect evil and good_**    
-1/day each: **_commune_**, **_raise dead_**    
-**Magic Resistance.** The deva has advantage on saving throws against spells and other magical effects.
+**Ангелічна зброя** Напади на масивну зброю. Коли дева удари з будь-якою зброєю, зброя наносить додаткове 4d8 радіантного пошкодження (включена в атаку).   
+**Запізнати орфографію розробника.** Можливості заклинання девіси являють Charisma (заклинання зекономить DC 17). Дева може свідомо кинути наступні заклинання, вимагаючи лише вербальних компонентів:    
+На волі: **_виявити зло і добре_**    
+1/day each: **_комунально_**, **_глибоко виглядає_**    
+**Магічного Опору.** deva має перевагу на збереженні квітів проти заклинань та інших магічних ефектів.
 
-### Actions
-**Multiattack.** The deva makes two melee attacks.    
-**Mace.** _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 7 (1d6 + 4) bludgeoning damage plus 18 (4d8) radiant damage.    
-**Healing Touch (3/Day).** The deva touches another creature. The target magically regains 20 (4d8 + 2) hit points and is freed from any curse, disease, poison, blindness, or deafness.    
-**Change Shape.** The deva magically polymorphs into a humanoid or beast that has a challenge rating equal to or less than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the deva's choice).    
-In a new form, the deva retains its game statistics and ability to speak, but its AC, movement modes, Strength, Dexterity, and special senses are replaced by those of the new form, and it gains any statistics and capabilities (except class features, legendary actions, and lair actions) that the new form has but that it lacks.
+### Дії
+**Мультиатака.** deva створює дві атаки в ближньому боці    
+**Mac.** _Атака ближньої зброї:_ +8 щоб вдарити в нього, досягти 5-ти ціль, одну ціль. _Вразу:_ 7 (1d6 + 4) пошкодження дубості плюс 18 (4d8) радіантної шкоди.    
+**Зцілення дотики (3/Day).** deva торкається іншої істоти. Ціль магічним чином повертає 20 (4d8 + 2) потрапляє до різних точок і звільняється від будь-яких проклять, хвороб, отрути, сліпоти або глухих.    
+**змінити форму.** Відтворити магічно поліморф в гуманоїдальний або звір, що має рейтинг виклику рівний або менш ніж його власному, або ж знову в свою справжню форму. Він повертається до своєї справжньої форми, якщо вона помирає. Будь-яке спорядження воно одягнуте або перенесене поглинається або несе нова форма (вибір деві).    
+У новій формі розробник зберігає свою ігрову статистику і можливість говорити, але її AC, режими руху, Сила, Видатки та спеціальні датчики замінюються можливостями нової форми, і він отримує будь-яку статистику і можливості (крім класу особливості, легендарні дії та лаї), яких не вистачає нової форми.
