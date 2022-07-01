@@ -1,13 +1,13 @@
-name: Acid Splash level: 0 school: conjuration classes: sorcerer wizard
+назва: кислотний сплеш рівень: 0 школа: паралельність класі: майстер сортувальника
 
-# Acid Splash
-_Conjuration cantrip_
+# Сплеск кислоти
+_Конджонтрофей_
 
-**Casting Time:** 1 action  
-**Range:** 60 feet  
-**Components:** V, S  
-**Duration:** Instantaneous
+**Час трансляції :** 1 дія  
+**Діапазон:** 60 футів  
+**компоненти:** V, S  
+**тривалість:** миттєві
 
-You hurl a bubble of acid. Choose one creature within range, or choose two creatures within range that are within 5 feet of each other. A target must succeed on a Dexterity saving throw or take 1d6 acid damage.
+Ви кидаєте бульбашку кислоти. Виберіть одну істоту за межами діапазону, або виберіть двох істот у межах досяжності що знаходяться на відстані 5 футів один одного. Ціль має досягти успіху в процесі збереження Dexterity або нанести 1d6 кислотних пошкоджень.
 
-This spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+Пошкодження цього заклинання збільшується на 1d6, коли ви досягнете 5-го рівня (2d6), 11-го рівня (3d6) та 17-го рівня (4d6).
