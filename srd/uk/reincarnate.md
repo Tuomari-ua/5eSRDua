@@ -1,31 +1,31 @@
-name: Reincarnate level: 5 school: transmutation classes: druid
+назва: Підніміть рівень : 5 школа: транмутація класи: druid
 
-# Reincarnate
-_5th-level transmutation_
+# Райнкарнате
+_Ретрансмутація 5-го рівня_
 
-**Casting Time:** 1 hour    
-**Range:** Touch    
-**Components:** V, S, M (rare oils and unguents worth at least 1,000 gp, which the spell consumes)    
-**Duration:** Instantaneous
+**Час транслювання:** 1 година    
+**Діапазон:** Touch    
+**Компоненти:** V, S, M (рідкісні олії та негуани, вартістю не менше 1 000 фунтів, які витрачають заклинання    
+**тривалість:** миттєві
 
-You touch a dead humanoid or a piece of a dead humanoid. Provided that the creature has been dead no longer than 10 days, the spell forms a new adult body for it and then calls the soul to enter that body. If the target's soul isn't free or willing to do so, the spell fails.    
-The magic fashions a new body for the creature to inhabit, which likely causes the creature's race to change. The GM rolls a d100 and consults the following table to determine what form the creature takes when restored to life, or the GM chooses a form.
+Коли торкаєшся до померлого гуманоїду, або до частини мертвого гуманоїду. За умови, що істота померла не більше 10 днів, заклинання формує нове доросле тіло, а потім називає душу, щоб потрапити в цей тіло. Якщо душа мети не вільна або не збирається цього робити, заклинання не вдається.    
+Магічна модифікація нового тіла істоти населене, що, ймовірно, змушує перегони істоти змінюватися. GM переміщує по 100 років і консультації з наступним столом, щоб визначити, яку форму отримує істота при відновленні життя, або GM обирає форму.
 
-| d100   | Race                |
-| ------ | ------------------- |
-| 01-04  | Dragonborn          |
-| 05-13  | Dwarf, hill         |
-| 14-21  | Dwarf, mountain     |
-| 22-25  | Elf, dark           |
-| 26-34  | Elf, high           |
-| 35-42  | Elf, wood           |
-| 43-46  | Gnome, forest       |
-| 47-52  | Gnome, rock         |
-| 53-56  | Half-elf            |
-| 57-60  | Half-orc            |
-| 61-68  | Halfling, lightfoot |
-| 69-76  | Halfling, stout     |
-| 77-96  | Human               |
-| 97-100 | Tiefling            |
+| д100   | Рейс              |
+| ------ | ----------------- |
+| 01-04  | Драгонборн        |
+| 05-13  | Крізь             |
+| 14-21  | Гори              |
+| 22-25  | Або темно         |
+| 26-34  | Ельфа, висока     |
+| 35-42  | Ельф              |
+| 43-46  | Гном              |
+| 47-52  | Гном              |
+| 53-56  | Напівельф         |
+| 57-60  | Напіворк          |
+| 61-68  | Гальфлінг         |
+| 69-76  | Гальфлінг, палуба |
+| 77-96  | Людина            |
+| 97-100 | Tiefling          |
 
-The reincarnated creature recalls its former life and experiences. It retains the capabilities it had in its original form, except it exchanges its original race for the new one and changes its racial traits accordingly. 
+Реалізовані істоти згадують своє перше життя та досвід. Він зберігає можливості, які він мав в початковій формі, крім того, він обмінює оригінальну гонку за нову, а змінює її расові риси відповідно. 
