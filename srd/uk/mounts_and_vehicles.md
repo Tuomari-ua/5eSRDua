@@ -1,60 +1,60 @@
-description: Rules and information for different mounts and vehicles from the 5th Edition (5e) SRD (System Reference Document).
+опис: Правила та інформація для різних монтажів та транспортних засобів від 5-ї версії (5e) SRD (Документація з Системної Документації).
 
-# Mounts and Vehicles
-A good mount can help you move more quickly through the wilderness, but its primary purpose is to carry the gear that would otherwise slow you down. The Mounts and Other Animals table shows each animal’s speed and base carrying capacity.
+# Верхи та транспортні засоби
+Гарна гора допоможе вам рухатись швидше в пустині, але його основна мета - перенести передачу, що в іншому випадку призупинить вас. Таблиця гірських вершин та інших тварин показує швидкість кожної тварини і базову ємність.
 
-An animal pulling a carriage, cart, chariot, sled, or wagon can move weight up to five times its base carrying capacity, including the weight of the vehicle. If multiple animals pull the same vehicle, they can add their carrying capacity together.
+Тварина тягне карету, машину, колісницю, санки, або вагон може перемістити вагу до 5 разів до базової ємності, в тому числі вагу транспортного засобу. Якщо декілька тварин витягнуть один і той же транспорт, вони зможуть з'єднати свої носії разом.
 
-Mounts other than those listed here are available in fantasy gaming worlds, but they are rare and not normally available for purchase. These include flying mounts (pegasi, griffons, hippogriffs, and similar animals) and even aquatic mounts (giant sea horses, for example). Acquiring such a mount often means securing an egg and raising the creature yourself, making a bargain with a powerful entity, or negotiating with the mount itself.
+Тут не тільки перераховані гори доступні в ігровому світі фентезі "фантазія", але вони рідкісні і недоступні для покупки. До них відносяться літаючі гірчиці, гіпфони та подібні тварини) і навіть водні кріплення (наприклад, велетенські морські коні). Здійснення такого гори часто означає забезпечення яйця і підвищення істоти себе, підписуючи угоду з потужним суб'єктом, або домовляючись із самою возгортою.
 
-**Barding.** Barding is armor designed to protect an animal’s head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much.
+**Бардінг.** Бардінг розроблений для захисту голови тварини, шиї, грудей і тіла. Будь який вид броні, показаний на броні як бардувальник. Вартість в чотири рази більша за еквівалентну броню, виготовлену для людини і вона важить удвічі більше.
 
-**Saddles.** A military saddle braces the rider, helping you keep your seat on an active mount in battle. It gives you advantage on any check you make to remain mounted. An exotic saddle is required for riding any aquatic or flying mount.
+**Сідла** Військове сідло порушує вершника, допомагаючи вам тримати своє місце на активному монті в бою. Воно дає вам перевагу над будь-якими скаргами, які ви робите щоб залишатися на монтуванні. Екзотичне сідло потрібно для того, щоб їздити на будь-яких водних чи літати на монтажах.
 
-**Vehicle Proficiency.** If you have proficiency with a certain kind of vehicle (land or water), you can add your proficiency bonus to any check you make to control that kind of vehicle in difficult circumstances.
+**Дослідницьку діяльність автомобіля.** Якщо ви маєте здібності з певним видом автомобіля (земля або вода), ви можете додати бонус здібностей до будь-якої перевірки, яка допоможе контролювати цей вид автомобіля при складних обставинах.
 
-**Rowed Vessels.** Keelboats and rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can’t be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A rowboat weighs 100 pounds, in case adventurers carry it over land.
+**Посяжні Весселі.** Keelboats і мотлохи використовуються на озерах і річках. Якщо рухатися вниз потік, додайте швидкість струму зазвичай (типово 3 милі на годину) до швидкості транспорту. Ці транспортні засоби не можуть бути осушовані ні на будь-який значний струм, але їх можна витягнути за течією тваринами на березі. Човен важить 100 фунтів, у випадку, якщо авантюристи несуть його над землею.
 
-## Mounts
-| Item           |   Cost | Speed  | Carrying Capacity |
-| -------------- | ------:| ------ | ----------------- |
-| Camel          |  50 gp | 50 ft. | 480 lb.           |
-| Donkey or mule |   8 gp | 40 ft. | 420 lb.           |
-| Elephant       | 200 gp | 40 ft. | 1,320 lb.         |
-| Horse, draft   |  50 gp | 40 ft. | 540 lb.           |
-| Horse, riding  |  75 gp | 60 ft. | 480 lb.           |
-| Mastiff        |  25 gp | 40 ft. | 195 lb.           |
-| Pony           |  30 gp | 40 ft. | 225 lb.           |
-| Warhorse       | 400 gp | 60 ft. | 540 lb.           |
+## Змонтовані
+| Елемент       | Собівартість | Швидкість | Ємність розведення |
+| ------------- | ------------:| --------- | ------------------ |
+| Верблюд       |        50 ґп | 50 футів. | 480 фунтів.        |
+| Віслюк чи мул |         8 ґр | 40 футів. | 420 фунтів.        |
+| Слон          |       200 ґп | 40 футів. | 1,320 фунт.        |
+| Кінь          |        50 ґп | 40 футів. | 540 фунтів.        |
+| Кінь та їзда  |           Гп | 60 футів. | 480 фунтів.        |
+| Мастиф        |        25 ґп | 40 футів. | 195 фунтів.        |
+| Поні          |        30 ґп | 40 футів. | 225 фунтів.        |
+| Бойовий кінь  |       400 ґп | 60 футів. | 540 фунтів.        |
 
-## Tack, Harness, and Drawn Vehicles
-| Item               |   Cost |  Weight |
-| ------------------ | ------:| -------:|
-| Barding            |     x4 |      x2 |
-| Bit and bridle     |   2 gp |   1 lb. |
-| Carriage           | 100 gp | 600 lb. |
-| Cart               |  15 gp | 200 lb. |
-| Chariot            | 250 gp | 100 lb. |
-| Feed (per day)     |   5 cp |  10 lb. |
-| Saddlebags         |   4 gp |   8 lb. |
-| Sled               |  20 gp | 300 lb. |
-| Stabling (per day) |   5 sp |       - |
-| Wagon              |  35 gp | 400 lb. |
+## Тек, Гаршітка, та дротова перевезення
+| Елемент            | Собівартість |        Вага |
+| ------------------ | ------------:| -----------:|
+| Бардінг            |           х4 |          х2 |
+| Біт та міст        |         2 ґр |     1 фунт. |
+| Карета             |       100 ґп | 600 фунтів. |
+| Візок              |        15-гр | 200 фунтів. |
+| Chariot            |       250 ґп | 100 фунтів. |
+| Стрічка (за день)  |         5 Пр |  10 фунтів. |
+| Суддяжні пакети    |         4 ґр |   8 фунтів. |
+| Сани               |        20 ґр | 300 фунтів. |
+| Фіктивний (в день) |         5 сп |           - |
+| Вагон              |        35-гп | 400 фунтів. |
 
-## Saddles
-| Item     |  Cost | Weight |
-| -------- | -----:| ------:|
-| Exotic   | 60 gp | 40 lb. |
-| Military | 20 gp | 30 lb. |
-| Pack     |  5 gp | 15 lb. |
-| Riding   | 10 gp | 25 lb. |
+## Сідла
+| Елемент          | Собівартість |       Вага |
+| ---------------- | ------------:| ----------:|
+| Екзотичні        |        60 ґп | 40 фунтів. |
+| Військова справа |        20 ґр | 30 фунтів. |
+| Набір            |         5 ґр | 15 фунтів. |
+| Райдінг          |        10 ґр | 25 фунтів. |
 
-## Waterborne Vehicles
-| Item         |      Cost | Speed      |
-| ------------ | ---------:| ---------- |
-| Galley       | 30,000 gp | 4 mph      |
-| Keelboat     |  3,000 gp | 1 mph      |
-| Longship     | 10,000 gp | 3 mph      |
-| Rowboat      |     50 gp | 1 1/2  mph |
-| Sailing ship | 10,000 gp | 2 mph      |
-| Warship      | 25,000 gp | 2 1/2 mph  |
+## Воднобережні транспортні засоби
+| Елемент         | Собівартість | Швидкість      |
+| --------------- | ------------:| -------------- |
+| Галле           |    30,000 ґп | 4 миль/год     |
+| Keelboat        |     3,000 ґр | 1 миль/год     |
+| Довгошип        | 10 000 карту | 3 миль/год     |
+| Розрядний човен |        50 ґп | 1 1/2 миль/год |
+| Вітрильне судно | 10 000 карту | 2 миль/год     |
+| Корабель        |    25,000 ґп | 2 1/2 миль/год |
