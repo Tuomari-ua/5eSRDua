@@ -1,14 +1,14 @@
-description: Rules for saving throws from the 5th Edition (5e) System Reference Document (SRD)
+опис: Правила для збереження рядків з 5-ї версії System Reference Document (SRD)
 
-# Saving Throws
-A saving throw--also called a save--represents an attempt to resist a spell, a trap, a poison, a disease, or a similar threat. You don’t normally decide to make a saving throw; you are forced to make one because your character or monster is at risk of harm.
+# Збереження рядків
+Рятування - також називається рятувальною - являє собою спробу протистояти заклинанню, пастки, отруту, хвороби або схожою загрозою. Ви не вважаєте за що не вирішуєте робити рятування, тому що ви змушені робити його, оскільки ваш персонаж або монстр загрожує.
 
-To make a saving throw, roll a d20 and add the appropriate ability modifier. For example, you use your Dexterity modifier for a Dexterity saving throw.
+Для того, щоб зробити економію складати, написати d20 і додати відповідний модифікатор. Наприклад, ви використовуєте метод Dexterity для зберігання потоку.
 
-A saving throw can be modified by a situational bonus or penalty and can be affected by advantage and disadvantage, as determined by the GM.
+Метання заощаджень може бути модифіковане ситуаційним бонусом або покаранням і може вплинути на переваги і недолік, визначеним GM.
 
-Each class gives proficiency in at least two saving throws. The wizard, for example, is proficient in Intelligence saves. As with skill proficiencies, proficiency in a saving throw lets a character add his or her proficiency bonus to saving throws made using a particular ability score. Some monsters have saving throw proficiencies as well.
+Кожен клас дає здібності принаймні двом заощадженням. Наприклад, чарівник - це господарство розвідки. Як із майстерністю навичок, здібність до порятунку дозволяє персонажу додати свій або її химерний бонус до заощадження жбурлянь за допомогою певного рейтингу здібності. Деякі монстри також заощаджують свою майстерність.
 
-The Difficulty Class for a saving throw is determined by the effect that causes it. For example, the DC for a saving throw allowed by a spell is determined by the caster’s spellcasting ability and proficiency bonus.
+Рівень складності для рятування визначається ефектом, який набув чинності. Наприклад, округ Колумбія для порятунку, який дозволено заклинання визначається здатністю каслера та бонусом досвіду.
 
-The result of a successful or failed saving throw is also detailed in the effect that allows the save. Usually, a successful save means that a creature suffers no harm, or reduced harm, from an effect.
+Результат успішного або невдалого жбурляння детально описаний у ефекті, який дозволяє зберегти. Зазвичай успішне заощадження означає, що істота не зазнає шкоди або зменшення шкоди.
