@@ -1,13 +1,13 @@
-name: Acid Arrow level: 2 school: evocation classes: wizard
+назва: Кислотна Стріла рівень: 2 школа: евакуація класів: майстер
 
-# Acid Arrow
-_2nd-level evocation_
+# Кислотна Стріла
+_Евокація 2-го рівня_
 
-**Casting Time:** 1 action  
-**Range:** 90 feet  
-**Components:** V, S, M (powdered rhubarb leaf and an adder’s stomach)  
-**Duration:** Instantaneous
+**Час трансляції часу:** 1 дія  
+**Діапазон:** 90 футів  
+**компоненти:** V, S, M (порошковий rhubarb лист і шлунок аддера)  
+**тривалість:** миттєві
 
-A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged spell attack against the target. On a hit, the target takes 4d4 acid damage immediately and 2d4 acid damage at the end of its next turn. On a miss, the arrow splashes the target with acid for half as much of the initial damage and no damage at the end of its next turn.
+Хвилі зеленої стрілки спускаються до цілі в межах діапазону і лопаються в розпилення кислоти. Зробіть напад коливань проти цілі. При ударі ціль негайно отримує 4d4 кислотного пошкодження та 2d4 кислотного ушкодження в кінці наступного кроку. Про промах, стрілка розбиває ціль з кислотою для половини початкового збитку, і не завдає шкоди на кінці наступного кроку.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage (both initial and later) increases by 1d4 for each slot level above 2nd.
+**На вищих рівнях.** Коли ви кидаєте це заклинання використовуючи гніздо 3-го рівня або вище, пошкодження (як початкове, так і пізніше) збільшує на 1d4 рівень кожного слота вище 2nd.
