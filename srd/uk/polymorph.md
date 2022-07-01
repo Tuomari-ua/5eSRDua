@@ -1,15 +1,15 @@
-name: Polymorph level: 4 school: transmutation classes: bard druid sorcerer wizard
+назва: Поліморф рівень: 4 школа: транмутація класи: Бард druid сортувальник
 
 # Polymorph
-_4th-level transmutation_
+_4-та трансмутація_
 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S, M (a caterpillar cocoon)    
-**Duration:** Concentration, up to 1 hour
+**Час трансляції :** 1 дія    
+**Діапазон:** 60 футів    
+**компоненти:** V, S, М (коконус гусениці)    
+**тривалість:** точки, до 1 години
 
-This spell transforms a creature that you can see within range into a new form. An unwilling creature must make a Wisdom saving throw to avoid the effect. The spell has no effect on a shapechanger or a creature with 0 hit points.    
-The transformation lasts for the duration, or until the target drops to 0 hit points or dies. The new form can be any beast whose challenge rating is equal to or less than the target's (or the target's level, if it doesn't have a challenge rating). The target's game statistics, including mental ability scores, are replaced by the statistics of the chosen beast. It retains its alignment and personality.    
-The target assumes the hit points of its new form. When it reverts to its normal form, the creature returns to the number of hit points it had before it transformed. If it reverts as a result of dropping to 0 hit points, any excess damage carries over to its normal form. As long as the excess damage doesn't reduce the creature's normal form to 0 hit points, it isn't knocked unconscious.    
-The creature is limited in the actions it can perform by the nature of its new form, and it can't speak, cast spells, or take any other action that requires hands or speech.    
-The target's gear melds into the new form. The creature can't activate, use, wield, or otherwise benefit from any of its equipment. 
+Ця заклинання перетворює істоту, яку ви можете побачити в діапазоні нових форм. Для уникнення ефекту повинна зробити незахищену істоту мудрості. Заклик і заклинання не впливають на формах або на істоту, що має 0 балів.    
+Перетворення триває тривалістю або до тих пір, поки ціль не досягне 0 влучань або не помре. Нова форма може бути будь-яким звіром, рейтинг завдання якого дорівнює або менше, ніж рейтинг цілі (або рівень мети, якщо рейтинг виклику не відповідає). Ігрова статистика мети, включаючи бали психічних здібностей, замінюються статистикою обраного звіра. Він зберігає своє вирівнювання і особистість    
+Ціль сприймає точки нового форми. Коли вона повертається до нормальної форми, істота повертається до кількості вхідних точок, які вона мала до того, як перетворювалася. Якщо воно буде повертатися в результаті падіння до 0 хітових точок, будь-яке надлишкове пошкодження несе в собі нормальну форму. Якщо надмірна шкода не зменшує нормальну форму істоти до 0 очків влучання, то вона не усвідомлена.    
+Творчість обмежена діями, які вона може виконувати за природою своєї нової форми, і він не може говорити, транслювати заклинання або приймати будь-які інші дії, які вимагають рук або мовлення.    
+Жест цілі розливається у нову форму. Ця істота не може активна, використовується завширшки чи в іншому випадку в усьому обладнанні. 
