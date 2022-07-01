@@ -1,14 +1,14 @@
-name: Flesh to Stone level: 6 school: transmutation classes: warlock wizard
+назва: Плоть Каменю рівень: 6 школа: транмутація класів: варлок майстер
 
-# Flesh to Stone
-_6th-level transmutation_
+# Плоть каменю
+_6-рівень трансмутації_
 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S, M (a pinch of lime, water, and earth)    
-**Duration:** Concentration, up to 1 minute
+**Час трансляції :** 1 дія    
+**Діапазон:** 60 футів    
+**компоненти:** V, S, М (нюх частини, води і землі)    
+**тривалість:** точки, до 1 хвилини
 
-You attempt to turn one creature that you can see within range into stone. If the target's body is made of flesh, the creature must make a Constitution saving throw. On a failed save, it is restrained as its flesh begins to harden. On a successful save, the creature isn't affected.    
-A creature restrained by this spell must make another Constitution saving throw at the end of each of its turns. If it successfully saves against this spell three times, the spell ends. If it fails its saves three times, it is turned to stone and subjected to the petrified condition for the duration. The successes and failures don't need to be consecutive; keep track of both until the target collects three of a kind.    
-If the creature is physically broken while petrified, it suffers from similar deformities if it reverts to its original state.    
-If you maintain your concentration on this spell for the entire possible duration, the creature is turned to stone until the effect is removed. 
+Ви намагаєтеся перетворити одну істоту, яку видно в межах діапазону на камінь. Якщо тіло мети зроблене з плоті, істота повинна зробити економію конституції. При невдалому збереженні його тіло стає жорстким. При успішному збереженні істота не впливає.    
+істота обмежена цим заклинанням, повинна зробити інакшу Конституцію збереженням кидати в кінці кожного з цих поворотів. Якщо він успішно економить проти цього заклинання тричі, заклинання закінчується. Якщо він провалився, то він тричі перекинувся на камінь і зазнав затятого стану на тривалість. Успіхи та невдачі не повинні бути відродженими; слідкувати за обома ціллю до того, як ціль не збирається трьох доброзичливих.    
+Якщо істота була розбита фізично під час націлення, вона страждає від аналогічних поразок, якщо вона повернуться до свого початкового стану.    
+Якщо ви збережете свою концентрацію на цій заклинання впродовж усього можливого тривалість, істота перетворюється на камінь до тих пір, поки ефект не буде видалено. 
