@@ -1,19 +1,19 @@
-name: Camel type: beast cr: .125
+назва: Верблюд тип: круг cr: .125
 
-# Camel
-_Large beast, unaligned_
+# Верблюд
+_Великий звір, неприєднаний_
 
-**Armor Class** 9    
-**Hit Points** 15 (2d10 + 4)    
-**Speed** 50 ft.
+**Клас броні**    
+**Очки** 15 (2d10 + 4)    
+**швидкість** фут.
 
-| STR     | DEX    | CON     | INT    | WIS    | CHA    |
+| СТР     | ДЕКС   | CON     | ІНТ    | WIS    | CHA    |
 | ------- | ------ | ------- | ------ | ------ | ------ |
 | 16 (+3) | 8 (−1) | 14 (+2) | 2 (−4) | 8 (−1) | 5 (−3) |
 
-**Senses** passive Perception 9    
-**Languages** --    
-**Challenge** 1/8 (25 XP)
+**Подяки** пасивне сприйняття 9    
+**Мови** --    
+**виклик** 1/8 (25 XP)
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 2 (1d4) bludgeoning damage. 
+### Дії
+**Біт.** _Атака ближньої зброї:_ +5 до удару, досягає 5-ї цілі, одна мета. _Удару:_ 2 (1d4) пошкодження дублювання. 
