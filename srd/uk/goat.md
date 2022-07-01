@@ -1,22 +1,22 @@
-name: Goat type: beast cr: 0
+назва: Перехід тип: тварина cr: 0
 
-# Goat
-_Medium beast, unaligned_
+# Коза
+_Середній звір, неприєднаний_
 
 **Armor Class** 10    
 **Hit Points** 4 (1d8)    
 **Speed** 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 12 (+1) | 10 (+0) | 11 (+0) | 2 (−4) | 10 (+0) | 5 (−3) |
 
-**Senses** passive Perception 10    
-**Languages** --    
-**Challenge** 0 (10 XP)
+**Звучить** пасивне сприйняття 10    
+**Мови** --    
+**виклик** (10 XP)
 
-**Charge.** If the goat moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 2 (1d4) bludgeoning damage. If the target is a creature, it must succeed on a DC 10 Strength saving throw or be knocked prone.    
-**Sure-Footed.** The goat has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
+**Заряд.** Якщо козел рухатиметься щонайменше в 20 футів прямо до мети, а тоді влучить в нього з атакою барана на одному кроці, цілі набуває додатної 2 (1d4) пошкодження дублювання. Якщо мета це створення, вона має досягти успіху в економії потужності DC 10 або бути постукованою часткою.    
+**Звичайна журна.** Козел має перевагу в рятуванні сили і слабкості, зроблених проти наслідків, які будуть збивати його з ладу.
 
-### Actions
-**Ram.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 3 (1d4 + 1) bludgeoning damage.
+### Дії
+**Рам.** _Атака ближньої зброї:_ +3 до удару, досягає 5-ї цілі, одна мета. _Удару:_ 3 (1d4 + 1) пошкодження дублювання.
