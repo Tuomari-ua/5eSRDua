@@ -1,6 +1,6 @@
-name: Ring of Warmth type: ring
+назва: Кільце Теплоти типу: кільце
 
-# Ring of Warmth
-_Ring, uncommon (requires attunement)_
+# Кільце Теплоти
+_Рідкісний, (вимагає залучення)_
 
-While wearing this ring, you have resistance to cold damage. In addition, you and everything you wear and carry are unharmed by temperatures as low as −50 degrees Fahrenheit. 
+При цьому обручці ви обоє спростовуєте холодну шкоду. Крім того, ви та все що носите та носяться без ушкодження температури, такі ж низькі, як радіус 50 градусів за Фаренгейтом. 
