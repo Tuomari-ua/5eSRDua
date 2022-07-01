@@ -1,16 +1,16 @@
-name: Wall of Stone level: 5 school: evocation classes: druid sorcerer wizard
+назва: Стіна каменя рівень: 5 школа: евокація класі: druid сортувальник
 
-# Wall of Stone
-_5th-level evocation_
+# Кам'яна стіна
+_Евокація 5-го рівня_
 
-**Casting Time:** 1 action    
-**Range:** 120 feet    
-**Components:** V, S, M (a small block of granite)    
-**Duration:** Concentration, up to 10 minutes
+**Час трансляції часу:** 1 дія    
+**Діапазон:** 120 футів    
+**компоненти:** V, S, М (невеликий блок гранизу)    
+**Тривалість:** центри, до 10 хвилин
 
-A nonmagical wall of solid stone springs into existence at a point you choose within range. The wall is 6 inches thick and is composed of ten 10-foot- by-10-foot panels. Each panel must be contiguous with at least one other panel. Alternatively, you can create 10-foot-by-20-foot panels that are only 3 inches thick.    
-If the wall cuts through a creature's space when it appears, the creature is pushed to one side of the wall (your choice). If a creature would be surrounded on all sides by the wall (or the wall and another solid surface), that creature can make a Dexterity saving throw. On a success, it can use its reaction to move up to its speed so that it is no longer enclosed by the wall.    
-The wall can have any shape you desire, though it can't occupy the same space as a creature or object. The wall doesn't need to be vertical or rest on any firm foundation. It must, however, merge with and be solidly supported by existing stone. Thus, you can use this spell to bridge a chasm or create a ramp.    
-If you create a span greater than 20 feet in length, you must halve the size of each panel to create supports. You can crudely shape the wall to create crenellations, battlements, and so on.    
-The wall is an object made of stone that can be damaged and thus breached. Each panel has AC 15 and 30 hit points per inch of thickness. Reducing a panel to 0 hit points destroys it and might cause connected panels to collapse at the GM's discretion.    
-If you maintain your concentration on this spell for its whole duration, the wall becomes permanent and can't be dispelled. Otherwise, the wall disappears when the spell ends. 
+Немагічна стіна твердих кам'яних пружин існує в точку, яку ви обираєте в межах певного діапазону. Стіна має 6 дюймів заввишки та складається з 10 футів на 10 футів заввишки. Кожна панель має бути спільною з принаймні однією іншою панеллю. Крім того, ви можете створити плитки з 10 футів на 20 футів завтовшки лише 3 дюйми.    
+Якщо стіна вирізається через простір істоти, істота піднесена до стіни (ваш вибір). Якщо стіна чи приціл буде оточена істотою з усіх боків стіною (або іншою міцною поверхнею), ця істота може зробити згубну шкоду. За допомогою успіху вона може використати свою реакцію, щоб рухатися вгору по швидкості, щоб вона більше не була оточена стіною.    
+Стіна може мати будь-які бажані форми, хоча вона не може займати те саме місце, що й істота або об'єкт. Стіна не повинна бути вертикальною і відпочивати на жодній фірмній основі. Однак він повинен об'єднатися з чинним каменем та суцільно підтримувати. Таким чином, ви можете використовувати це заклинання для з'єднання прірви або створити пандус.    
+Якщо ви створите пробіл більше 20 футів у довжину, ви маєте вдвічі зменшити розмір кожної панелі для створення підтримки. Ти можеш грубко формувати стіну, щоби створити велетня, бою і так далі.    
+Стіна - це предмет з каменю, який можна пошкодженти, і таким чином розтоплена. Кожна панель має показник AC 15 і 30 хітів за дюйм товщини. Зменшення панелей до 0 балів знищує її та може призвести до краху на розсуд GM.    
+Якщо ви збережете свою концентрацію на цій заклинання протягом усього її часу, стіна стане постійною і не може бути відхилена. В іншому випадку стіна зникає, коли заклинання закінчується. 
