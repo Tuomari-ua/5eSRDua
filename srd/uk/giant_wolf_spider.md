@@ -1,13 +1,13 @@
-name: Giant Wolf Spider type: beast cr: .25
+назва: Гігантський Вовк тип: Звір cr: .25
 
-# Giant Wolf Spider
-_Medium beast, unaligned_
+# Гігантський Вовк Павук
+_Середній звір, неприєднаний_
 
 **Armor Class** 13    
 **Hit Points** 11 (2d8 + 2)    
 **Speed** 40 ft., climb 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 12 (+1) | 16 (+3) | 13 (+1) | 3 (−4) | 12 (+1) | 4 (−3) |
 
@@ -16,11 +16,11 @@ _Medium beast, unaligned_
 **Languages** --    
 **Challenge** 1/4 (50 XP)
 
-**Spider Climb.** The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check. Web Sense. While in contact with a web, the spider knows the exact location of any other creature in contact with the same web.    
-**Web Walker.** The spider ignores movement restrictions caused by webbing.
+**Сходження павуком** павук може піднятися на складну поверхню, включаючи перевернення вниз на стелі, не потребуючи перевірки здібності. Веб-сенс. Коли контакт з Інтернетом, павук знає точне місце розташування будь-якої іншої істоти при контакті з тим же веб.    
+**Web Walker.** Павук ігнорує обмеження на рух, спричинені webbing.
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one creature. _Hit:_ 4 (1d6 + 1) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 7 (2d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
+### Дії
+**Біт.** _Атака ближньої зброї:_ +3 на нього, досягне 5-го протання, одна істота. _Вразу:_ 4 (1d6 + 1) пробиваюча шкода, і ціль повинна зробити економію Конституції 11 DC 11, завдавши 7 (2d6) пошкодження від отрути при збереженні, або ж удвічі більше шкоди від успішного. Якщо шкода від отруєння зменшує ціль до 0 балів то ціль є стабільною, але отруєна 1 годину, навіть після відновлення вразливих точок і паралізовано під час отруєння таким чином.
 
-### Description
-Smaller than a giant spider, a giant wolf spider hunts prey across open ground or hides in a burrow or crevice, or in a hidden cavity beneath debris. 
+### Опис
+Менший за гігантського павука, гігантський павук полює на полювання на отруту через відкриті землі чи накриває болячки в копиці або моторошних, або в прихованій порожнини під смітником. 
