@@ -1,23 +1,23 @@
-name: Blue Dragon Wyrmling type: dragon cr: 3
+назва: Виверк Блакитного Дракона тип: дракона cr: 3
 
-# Blue Dragon Wyrmling
-_Medium dragon, lawful evil_
+# Блакитний Вирмлінг
+_Середній драг, законне зло_
 
-**Armor Class** 17 (natural armor)    
-**Hit Points** 52 (8d8 + 16)    
-**Speed** 30 ft., burrow 15 ft., fly 60 ft.
+**Клас обладунку** 17 (природна броня)    
+**Бали** 52 (8d8 + 16)    
+**Швидкість** фут. вершечок 15 кв.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 17 (+3) | 10 (+0) | 15 (+2) | 12 (+1) | 11 (+0) | 15 (+2) |
 
-**Saving Throws** Dex +2, Con +4, Wis +2, Cha +4    
-**Skills** Perception +4, Stealth +2    
-**Damage Immunities** lightning    
-**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14    
-**Languages** Draconic    
-**Challenge** 3 (700 XP)
+**Збереження жбурлянь** Dex +2, Con +4, Wis +2, Cha +4    
+**Навичків** Perception +4, Крадіжки +2    
+**Пошкодження** блискавок    
+**Забезпечення** оснащення 10 футів. темп 60 кв. пасивне сприйняття 14    
+мови **мов** драконя    
+**виклик** (700 XP)
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 8 (1d10 + 3) piercing damage plus 3 (1d6) lightning damage.    
-**Lightning Breath (Recharge 5–6).** The dragon exhales lightning in a 30-­foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
+### Дії
+**Біт.** _Атака ближньої зброї:_ +5 до удару, досягає 5-ї цілі, одна мета. _Вразу:_ 8 (1d10 + 3) пробиваюча шкода плюс 3 (1d6) пошкодження при світлі.    
+**Блискавка (Поповнення 5–6).** Дракон досягає сяйва за 30-метрову лінію, яка становить 5 футів в ширину. Кожна істота з цієї лінії має зробити економію Dexter DC 12, отримання 22 (4d10) блискавок про невдалу економію, або ж вдвічі більше шкоди від успішного.
