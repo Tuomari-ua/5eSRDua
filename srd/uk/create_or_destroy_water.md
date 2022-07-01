@@ -1,15 +1,15 @@
-name: Create or Destroy Water level: 1 school: transmutation classes: cleric druid
+назва: Створити або Знищити воду рівень: 1 школа: транмутація класи: клер druid
 
-# Create or Destroy Water
-_1st-level transmutation_
+# Створити або знищити воду
+_11-ша трансмутація_
 
-**Casting Time:** 1 action    
-**Range:** 30 feet    
-**Components:** V, S, M (a drop of water if creating water or a few grains of sand if destroying it)    
-**Duration:** Instantaneous
+**Час трансляції :** 1 дія    
+**Діапазон:** 30 футів    
+**компоненти:** V, S, M (крапля води, якщо створити воду або кілька зернів піску, якщо її знищувати)    
+**тривалість:** миттєві
 
-You either create or destroy water.    
-**Create Water.** You create up to 10 gallons of clean water within range in an open container. Alternatively, the water falls as rain in a 30-foot cube within range, extinguishing exposed flames in the area.    
-**Destroy Water.** You destroy up to 10 gallons of water in an open container within range. Alternatively, you destroy fog in a 30-foot cube within range.
+Ви або створюєте або руйнуєте воду.    
+**Створюйте воду.** Ви створюєте до 10 галонів чистої води в межах відкритого контейнера. Крім того, вода падає як дощ на 30-футовому кубику в межах діапазону, гасіння якої є в районі.    
+**Знищити Води.** Ви знищуєте до 10 галонів води у відкритому контейнер на відстані. Або ж знищуємо туман на 30-футовому кубі в радісному діапазоні.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you create or destroy 10 additional gallons of water, or the size of the cube increases by 5 feet, for each slot level above 1st. 
+**На вищих рівнях.** Коли ви транслюєте це заклинання використовуючи слот 2-го рівня або вище, ви створюєте або видаляєте 10 додаткових галонів води або розмір кубика збільшується на 5 футів, для кожного рівня більше 1шт. 
