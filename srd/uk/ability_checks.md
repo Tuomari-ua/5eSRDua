@@ -1,92 +1,92 @@
-description: Rule for making ability checks, contents, group and passive checks from the 5th Edition (5e) System Reference Document (SRD)
+опис: правило для перевірки здібностей, конкурсів, груп і пасивних перевірок з 5 частин видання (5) системних довідкових документів (SRD)
 
-# Ability Checks
-An ability check tests a character's or monster's innate talent and training in an effort to overcome a challenge. The GM calls for an ability check when a character or monster attempts an action (other than an attack) that has a chance of failure. When the outcome is uncertain, the dice determine the results.
+# Перевірка здібностей
+Перевірка можливостей тестує характерні таланти та підготовки персонажа для подолання проблеми. GM закликає до перевірки здібності, коли персонаж або монстр спрощує дію (крім атаки), яка має шанс на невдачу. Коли результат невизначений, кубики визначають результати.
 
-For every ability check, the GM decides which of the six abilities is relevant to the task at hand and the difficulty of the task, represented by a Difficulty Class. The more difficult a task, the higher its DC. The Typical Difficulty Classes table shows the most common DCs.
+Для кожної перевірки здатності GM вирішує, яке з шести можливостей має відношення до завдання під час виконання і складності завдання, представлений складним класом. Чим складніше завдання, тим вище його DC. Типовий таблиця класів складності показує найбільш поширені DCs.
 
-#### Typical Difficulty Classes
-| Task Difficulty   | DC |
-| ----------------- | -- |
-| Very easy         | 5  |
-| Easy              | 10 |
-| Medium            | 15 |
-| Hard              | 20 |
-| Very hard         | 25 |
-| Nearly impossible | 30 |
+#### Типові класи складності
+| Завдання складності | DC |
+| ------------------- | -- |
+| Дуже просто         | 5  |
+| Легко               | 10 |
+| Медіум              | 15 |
+| Жорсткий            | 20 |
+| Дуже важко          | 25 |
+| Майже неможливе     | 30 |
 
-To make an ability check, roll a d20 and add the relevant ability modifier. As with other d20 rolls, apply bonuses and penalties, and compare the total to the DC. If the total equals or exceeds the DC, the ability check is a success--the creature overcomes the challenge at hand. Otherwise, it's a failure, which means the character or monster makes no progress toward the objective or makes progress combined with a setback determined by the GM.
+Для того, щоб зробити перевірку на здатність повернути d20 і додати відповідні налаштування модифікатор. Як і з іншими d20 ролами, застосовуються бонуси і штрафи, і порівнюють загальну суму з ДК. Якщо загальна сума дорівнює або перевищує DC, перевірка здатності є успіхом - істота переважає перед цим виклик. Інакше - це провал, що означає персонажа чи монстра, не досягають мети чи робить прогрес у поєднанні з невдачею визначеним GM.
 
-## Contests
-Sometimes one character's or monster's efforts are directly opposed to another's. This can occur when both of them are trying to do the same thing and only one can succeed, such as attempting to snatch up a magic ring that has fallen on the floor. This situation also applies when one of them is trying to prevent the other one from accomplishing a goal--for example, when a monster tries to force open a door that an adventurer is holding closed. In situations like these, the outcome is determined by a special form of ability check, called a contest.
+## Конкурси
+Іноді зусилля одного персонажа або монстра безпосередньо протистоять іншим. Це може трапитися коли обидва намагаються зробити одне і те саме, і тільки один може досягти успіху, такі, як спроба вирвати чарівне кільце, що впало на підлогу. Ця ситуація також стосується, коли один з них намагається запобігти досягненню мети - наприклад, коли монстр намагається примусово відкрити двері, які тримає авантюр. Результат визначається спеціальною формою перевірки здібностей, яка називається конкурс.
 
-Both participants in a contest make ability checks appropriate to their efforts. They apply all appropriate bonuses and penalties, but instead of comparing the total to a DC, they compare the totals of their two checks. The participant with the higher check total wins the contest. That character or monster either succeeds at the action or prevents the other one from succeeding.
+Обидва учасники конкурсу роблять перевірки спроможності, відповідні своїм зусиллям. Вони встановлюють усі відповідні бонуси і покарання, але замість порівняння загальної суми з DC вони порівнюють загальну кількість своїх двох чеків. Учасник з більшою кількістю матчів отримав конкурс. Той персонаж, або монстр вдаються або вдаються в дію або не заважає іншому досягти успіху.
 
-If the contest results in a tie, the situation remains the same as it was before the contest. Thus, one contestant might win the contest by default. If two characters tie in a contest to snatch a ring off the floor, neither character grabs it. In a contest between a monster trying to open a door and an adventurer trying to keep the door closed, a tie means that the door remains shut.
+Якщо конкурс призводить до зв'язку, ситуація залишається такою ж, як і до конкурсу. Таким чином, один учасник може виграти конкурс за замовчуванням. Якщо дві символи прив'язані до конкурсу лише для обрізки кільця з підлоги, персонаж не схоплює його. У конкурсі між монстром, який намагається відкрити двері і пригод, які намагаються тримати двері зачиненими, краватка означає, що двері залишаються зачиненими.
 
-## Skills
-Each ability covers a broad range of capabilities, including skills that a character or a monster can be proficient in. A skill represents a specific aspect of an ability score, and an individual's proficiency in a skill demonstrates a focus on that aspect. (A character's starting skill proficiencies are determined at character creation, and a monster's skill proficiencies appear in the monster's stat block.)
+## Навики
+Кожна здатність охоплює широкий спектр можливостей, включаючи навички, які може бути персонажем чи монстром, можуть бути освіченими. Уміння представляє специфічний аспект оцінки здатності, а майстерність індивіда в вмінні демонструє зосередженість на цьому аспекті. (Початкові навички персонажа визначаються при створенні персонажів, а навички монстра з'являються в блоці роботи монстра.)
 
-For example, a Dexterity check might reflect a character's attempt to pull off an acrobatic stunt, to palm an object, or to stay hidden. Each of these aspects of Dexterity has an associated skill: Acrobatics, Sleight of Hand, and Stealth, respectively. So a character who has proficiency in the Stealth skill is particularly good at Dexterity checks related to sneaking and hiding.
+Наприклад, перевірка свідченості може відобразити спробу обличчя персонажа зняти акробатичний танець, до пальми об'єктом, або залишитися прихованим. Кожен з цих аспектів Dexterity має пов'язану навичку: Acrobatics, Sleight Hand, Stealt відповідно. Отже, персонаж, який має здібності до крадіжки вміння, особливо добре перевіряє Dexterity, пов'язані з проханням і приховуванням.
 
-The skills related to each ability score are shown in the following list. (No skills are related to Constitution.) See an ability's description in the later sections of this section for examples of how to use a skill associated with an ability.
+Навички, пов'язані з кожною кількістю здібностей, показані в наступному списку. (Немає навичок пов'язаних із Конституцією.) Переглянути опис змінної в пізніших розділах цього розділу для прикладів, як використовувати навики, пов'язані з здатністю.
 
-### Strength
-* Athletics
+### Міцність
+* Атлетика
 
-### Dexterity
-* Acrobatics
-* Sleight of Hand
-* Stealth
+### Спритність
+* Акробатика
+* Маніпуляція
+* Стелс
 
-### Intelligence
-* Arcana
-* History
-* Investigation
-* Nature
-* Religion
+### Інтелект
+* Аркана
+* Історія
+* Розслідування
+* Природа
+* Релігія
 
-### Wisdom
-* Animal Handling
-* Insight
-* Medicine
-* Perception
-* Survival
+### Віздом
+* Обробка тварин
+* Інсайт
+* Медицина
+* Сприйняття
+* Виживання
 
-### Charisma
-* Deception
-* Intimidation
-* Performance
-* Persuasion
+### Харизма
+* Обман
+* Інтермідація
+* Продуктивність
+* Переконування
 
-Sometimes, the GM might ask for an ability check using a specific skill--for example, “Make a Wisdom (Perception) check.” At other times, a player might ask the GM if proficiency in a particular skill applies to a check. In either case, proficiency in a skill means an individual can add his or her proficiency bonus to ability checks that involve that skill. Without proficiency in the skill, the individual makes a normal ability check.
+Іноді GM може запитати дозвіл використовуючи конкретні навички, - наприклад, "Зробити перевірку мудрості (виключення).” В інший час гравець може запитати GM, якщо майстерність в певній мірі полягає в перевірці. У будь-якому випадку, майстерність в навичці означає, що людина може додати свій або її досвідчений бонус до здатності перевіряти цей навик. Без здібності в навичці людина робить нормальний чек здатності.
 
-For example, if a character attempts to climb up a dangerous cliff, the GM might ask for a Strength (Athletics) check. If the character is proficient in Athletics, the character's proficiency bonus is added to the Strength check. If the character lacks that proficiency, he or she just makes a Strength check.
+Наприклад, якщо персонаж намагається піднятися на небезпечну скелю, GM може просити перевірки сильності (атлетики). Якщо персонаж є досвідченим в Атлетиці, то бонуси персонажа додаються до сили перевірки. Якщо персонажу не вистачає тієї здібності, він або вона просто перевіряє його.
 
-### Variant: Skills with Different Abilities
-Normally, your proficiency in a skill applies only to a specific kind of ability check. Proficiency in Athletics, for example, usually applies to Strength checks. In some situations, though, your proficiency might reasonably apply to a different kind of check. In such cases, the GM might ask for a check using an unusual combination of ability and skill, or you might ask your GM if you can apply a proficiency to a different check. For example, if you have to swim from an offshore island to the mainland, your GM might call for a Constitution check to see if you have the stamina to make it that far. In this case, your GM might allow you to apply your proficiency in Athletics and ask for a Constitution (Athletics) check. So if you're proficient in Athletics, you apply your proficiency bonus to the Constitution check just as you would normally do for a Strength (Athletics) check. Similarly, when your half-­‐‑orc barbarian uses a display of raw strength to intimidate an enemy, your GM might ask for a Strength (Intimidation) check, even though Intimidation is normally associated with Charisma.
+### Варіант: навички з різними здібностями
+Зазвичай ваша майстерність в навичці застосовується лише до певного роду перевірки здібностей. Наприклад, майстерність в Athletics зазвичай застосовується до пропускних перевірок. Однак у деяких ситуаціях ваша майстерність може бути обґрунтовано застосована до іншого виду перевірки. У таких випадках GM може запитати перевірку, використовуючи незвичне поєднання здібностей і навичок, або ви можете запитати у свій GM, якщо ви можете подати заявку на іншу перевірку. Наприклад, якщо вам доведеться переплисти з офшорного острова до материкового періоду, ваш GM може закликати до Перевірки Конституції, щоб перевірити, чи є у вас витривалість зробити її так далеко. У цьому випадку ваша GM може дозволити вам застосувати свою здібність в легкої атлетики і попросити перевірки Конституції (Атлетики). Отож, якщо ви є досвідченим в атлетиці, ви застосовуєте бонус здібностей до Конституції так, як це зазвичай робиться для перевірки сили (атлетики). Так само, коли ваші напівскосові варвари використовують відображення сирої сили для залякування ворога, ваш GM може запитати про силу (Intimidation) контроль, навіть якщо Intimidation зазвичай асоціюється з харизмою.
 
-## Passive Checks
-A passive check is a special kind of ability check that doesn't involve any die rolls. Such a check can represent the average result for a task done repeatedly, such as searching for secret doors over and over again, or can be used when the GM wants to secretly determine whether the characters succeed at something without rolling dice, such as noticing a hidden monster.
+## Пасивні перевірки
+Пасивна перевірка є особливим видом умінь що не передбачає ніяких помилок. Така перевірка може представляти середній результат для завдання, яке неодноразово виконується, наприклад, пошук секретних дверей знову і знову, або можна використовувати, коли GM хоче таємно визначити, чи персонажі досягають успіху в чомусь без кидання льоду, наприклад, помічаючи прихованого монстра.
 
-Here's how to determine a character's total for a passive check:
+Ось як визначити загальну кількість символів для пасивного контролю:
 
-> 10 + all modifiers that normally apply to the check
+> 10 + всі модифікатори які зазвичай застосовуються до перевірки
 
- If the character has advantage on the check, add 5. For disadvantage, subtract 5. The game refers to a passive check total as a **score**.
+ Якщо персонаж має перевагу над перевіркою, додайте 5. Щоб знедолити і відняти 5. Гру посилається на пасивну перевірити загалом як **результат**.
 
-For example, if a 1st-level character has a Wisdom of 15 and proficiency in Perception, he or she has a passive Wisdom (Perception) score of 14.
+Наприклад, якщо персонаж 1го рівня має мудрості 15 і придатність до сприйняття він або вона має пасивну мудрість (Поняття) бали 14.
 
-The rules on hiding in the “Dexterity” section below rely on passive checks, as do the exploration rules.
+Правила приховування в розділі «Декстерті» нижче покладаються на пасивні чеки, як правила розвідки.
 
-## Working Together
-Sometimes two or more characters team up to attempt a task. The character who's leading the effort--or the one with the highest ability modifier--can make an ability check with advantage, reflecting the help provided by the other characters. In combat, this requires the Help action.
+## Працюючи разом
+Іноді з двома або кількома персонажами можна виконати завдання. Характер, який веде зусилля - або той, який має найвищу здатність модифікатор здібностей - може перевірити їх з перевагою, відображаючи допомогу, що надається іншими персонажами. В бою, це вимагає дій допомоги.
 
-A character can only provide help if the task is one that he or she could attempt alone. For example, trying to open a lock requires proficiency with thieves' tools, so a character who lacks that proficiency can't help another character in that task. Moreover, a character can help only when two or more individuals working together would actually be productive. Some tasks, such as threading a needle, are no easier with help.
+Цей персонаж може надати допомогу лише в тому випадку, якщо завдання єдине, він або вона могла спробувати поодинці. Наприклад, намагання відкрити блокування вимагає майстерності з інструментами злодіїв, так що персонаж, який не вистачає цієї здібності, не може допомогти іншому персонажу у цьому завданні. Більше того, характер може допомогти лише тоді, коли двоє або більше осіб, які працюють разом, були б дійсно продуктивними. Деякі завдання, такі як потоплення голки, не простіше за допомогою.
 
-### Group Checks
-When a number of individuals are trying to accomplish something as a group, the GM might ask for a group ability check. In such a situation, the characters who are skilled at a particular task help cover those who aren't.
+### Перевірки групи
+Коли група намагається виконати декілька осіб, GM може запитати у групу перевірку здатності групи. У такій ситуації персонажі, які кваліфіковані на певному завданні, допомагають покрити тих, хто цього не робить.
 
-To make a group ability check, everyone in the group makes the ability check. If at least half the group succeeds, the whole group succeeds.
+Для перевірки здатності груп, всі користувачі перевіряють їх можливості. Якщо принаймні половина групи вдалася, вся група вдалися.
 
-Otherwise, the group fails. Group checks don't come up very often, and they're most useful when all the characters succeed or fail as a group. For example, when adventurers are navigating a swamp, the GM might call for a group Wisdom (Survival) check to see if the characters can avoid the quicksand, sinkholes, and other natural hazards of the environment. If at least half the group succeeds, the successful characters are able to guide their companions out of danger. Otherwise, the group stumbles into one of these hazards.
+В іншому випадку група зазнає невдачі. Групові перевірки - це не дуже часто, і вони є найбільш корисними, коли всі символи досягають успіху або зазнають невдачі, як група. Наприклад, коли авантюристи рухаються по болоті, GM може закликати до групової мудрості (Survival) перевірити, чи можуть символи уникнути швидкого доступу, дірки та інші природні небезпеки навколишнього середовища. Якщо принаймні половина групи вдасться, успішні персонажі зможуть вивести своїх супутників із небезпеки. В іншому випадку група вчепилася в одну з цих небезпек.
