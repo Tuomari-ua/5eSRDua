@@ -1,14 +1,14 @@
-name: Spirit Guardians level: 3 school: conjuration classes: cleric
+назва: Spirit Guardians level: 3 school: conjuration classs: cleric
 
-# Spirit Guardians
-_3rd-level conjuration_
+# Охоронці Духа
+_Однорівнева тривалість_
 
-**Casting Time:** 1 action    
-**Range:** Self (15-foot radius)    
-**Components:** V, S, M (a holy symbol)    
-**Duration:** Concentration, up to 10 minutes
+**Кастинг часу:** 1 дія    
+**Діапазон:** Самотній (15-футове радіус)    
+**Компоненти:** В, S, М (Святий символ)    
+**Тривалість:** місце, до 10 хвилин
 
-You call forth spirits to protect you. They flit around you to a distance of 15 feet for the duration. If you are good or neutral, their spectral form appears angelic or fey (your choice). If you are evil, they appear fiendish.    
-When you cast this spell, you can designate any number of creatures you can see to be unaffected by it. An affected creature's speed is halved in the area, and when the creature enters the area for the first time on a turn or starts its turn there, it must make a Wisdom saving throw. On a failed save, the creature takes 3d8 radiant damage (if you are good or neutral) or 3d8 necrotic damage (if you are evil). On a successful save, the creature takes half as much damage.
+Ви викличете духи для захисту вас. Вони освітлюють вас аж на відстані 15 футів завдовжки. Якщо ви хороший або нейтральний, їхній спектральна форма виглядає ангелом або подбайлом (ваш вибір). Якщо ви злі, вони здаються дикунами.    
+Коли ви кинули це заклинання, ви можете вказати будь-яку кількість істот, які ви можете бачити, не постраждали від неї. Втрачена швидкість істоти вдвічі зменшується в районі, і коли істота входить в область вперше на повороті або починається там, це повинно зробити економію мудрості кидком. На невдалому збереженні істота отримує 3d8 радіантних ушкоджень (якщо ви добре або нейтральні) або 3d8 некротичних пошкоджень (якщо ви зли). У успішному збереженні істота отримує половину шкоди.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd. 
+**На вищих рівнях.** Коли ви кидаєте це заклинання використовуючи слот четвертого рівня або вище, пошкодження збільшує на 1d8 для кожного рівня слоту вище 3rd. 
