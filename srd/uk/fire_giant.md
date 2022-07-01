@@ -1,13 +1,13 @@
-name: Fire Giant type: giant cr: 9
+назва: Вогняний Гігант тип: гігантський cr: 9
 
-# Fire Giant
-_Huge giant, lawful evil_
+# Вогняний гігант
+_Величезний велетня, законне зло_
 
-**Armor Class** 18 (plate)    
-**Hit Points** 162 (13d12 + 78)    
-**Speed** 30 ft.
+**Клас броні** 18 (plate)    
+**Міцність екрану** 162 (13d12 + 78)    
+**швидкість** фут.
 
-| STR     | DEX    | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС   | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------ | ------- | ------- | ------- | ------- |
 | 25 (+7) | 9 (−1) | 23 (+6) | 10 (+0) | 14 (+2) | 13 (+1) |
 
@@ -18,7 +18,7 @@ _Huge giant, lawful evil_
 **Languages** Giant    
 **Challenge** 9 (5,000 XP)
 
-### Actions
-**Multiattack.** The giant makes two greatsword attacks.    
-**Greatsword.** _Melee Weapon Attack:_ +11 to hit, reach 10 ft., one target. _Hit:_ 28 (6d6 + 7) slashing damage.    
-**Rock.** _Ranged Weapon Attack:_ +11 to hit, range 60/240 ft., one target. _Hit:_ 29 (4d10 + 7) bludgeoning damage.
+### Дії
+**Мультиатака.** Гігант робить дві великомечі атаки.    
+**Великий.** _Атака ближньої зброї:_ +11 для удару, досяжності 10-ти, однієї цілі. _Вдач:_ 28 (6d6 + 7) наносити пошкодження.    
+**Кек.** _Атака дальньої зброї:_ +11, щоб вдарити, діапазон 60/240, одна мета. _Удара:_ 29 (4d10 + 7) пошкодження дублювання.
