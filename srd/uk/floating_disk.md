@@ -1,13 +1,13 @@
-name: Floating Disk level: 1 school: conjuration classes: wizard
+назва: Розсувний Диск рівень: 1 школу: conjuration класи: майстер
 
-# Floating Disk
-_1st-level conjuration (ritual)_
+# Плаваючий диск
+_Однорівнева кон'юрація (ритуал)_
 
-**Casting Time:** 1 action    
-**Range:** 30 feet    
-**Components:** V, S, M (a drop of mercury)    
-**Duration:** 1 hour
+**Час трансляції :** 1 дія    
+**Діапазон:** 30 футів    
+**компоненти:** V, S, М (падіння ртуті)    
+**тривалість:** години
 
-This spell creates a circular, horizontal plane of force, 3 feet in diameter and 1 inch thick, that floats 3 feet above the ground in an unoccupied space of your choice that you can see within range. The disk remains for the duration, and can hold up to 500 pounds. If more weight is placed on it, the spell ends, and everything on the disk falls to the ground.    
-The disk is immobile while you are within 20 feet of it. If you move more than 20 feet away from it, the disk follows you so that it remains within 20 feet of you. It can move across uneven terrain, up or down stairs, slopes and the like, but it can't cross an elevation change of 10 feet or more. For example, the disk can't move across a 10-foot-deep pit, nor could it leave such a pit if it was created at the bottom.    
-If you move more than 100 feet from the disk (typically because it can't move around an obstacle to follow you), the spell ends. 
+Ця заклинання створює круглий, горизонтальну площину в діаметрі і товщину на 1 дюйм, це закриває 3 фути над землею в незайнятому просторі ваш вибір, який ви можете побачити в межах мети. Диск залишається на тривалість, і може тримати до 500 фунтів. Якщо на ній розміщується більша вага, заклинання закінчується і все на диску падає досередини.    
+диск нерухомий, коли ви на його висоті 20 футів. Якщо від неї відсунутися більше ніж на 20 футів, то диск слідує вам, так, щоб він залишився на відстані в 20 футів. Вона може рухатися по нерівній місцевості, вгору або вниз по сходах, схилах і подібному але вона не може перетинати зміну висоти в 10 футів або більше. Наприклад, диск не може рухатися через 20 футів в глибокій ямці, і не міг залишити таку яку, якби вона була створена внизу.    
+Якщо ви пересуваєте на диску більше ніж 100 футів від нього (зазвичай тому, що за перешкодою не можна переміщуватися), заклинання закінчується. 
