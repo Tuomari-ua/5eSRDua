@@ -1,6 +1,6 @@
-name: Headband of Intellect type: item
+назва: Headband для Інтелектуса тип: елемент
 
-# Headband of Intellect
-_Wondrous item, uncommon (requires attunement)_
+# Голова Інтелектуса
+_Нетиповий предмет Wondrous (вимагає приєднання)_
 
-Your Intelligence score is 19 while you wear this headband. It has no effect on you if your Intelligence is already 19 or higher. 
+Ваш інтелект - 19, поки Ви носите цей головний набір. Це не має ніякого впливу на вас, якщо ваша розвідка вже є 19 або вище. 
