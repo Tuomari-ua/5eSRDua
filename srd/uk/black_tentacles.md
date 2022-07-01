@@ -1,14 +1,14 @@
-name: Black Tentacles level: 4 school: conjuration classes: wizard
+назва: Чорні Tentacles рівень: 4 школа: кон'юрація класів: майстер
 
 
-# Black Tentacles
-_4th-level conjuration_
+# Чорні щупальці
+_Тривалість четвертого рівня_
 
-**Casting Time:** 1 action   
-**Range:** 90 feet   
-**Components:** V, S, M (a piece of tentacle from a giant octopus or a giant squid)   
-**Duration:** Concentration, up to 1 minute
+**Час трансляції часу:** 1 дія   
+**Діапазон:** 90 футів   
+**компоненти:** V, S, М (частина щура з гігантського восьминога чи гігантського кальмара)   
+**тривалість:** концентації, до 1 хвилини
 
-Squirming, ebony tentacles fill a 20-foot square on ground that you can see within range. For the duration, these tentacles turn the ground in the area into difficult terrain.    
-When a creature enters the affected area for the first time on a turn or starts its turn there, the creature must succeed on a Dexterity saving throw or take 3d6 bludgeoning damage and be restrained by the tentacles until the spell ends. A creature that starts its turn in the area and is already restrained by the tentacles takes 3d6 bludgeoning damage.    
-A creature restrained by the tentacles can use its action to make a Strength or Dexterity check (its choice) against your spell save DC. On a success, it frees itself.
+Лускунс, ебонні щупальці заповнюють на землі площу в 20 футів. Ці щупальці несуть поверхню на складну ділянку.    
+коли істота вступає в наступну область вперше в поворот або починає свою чергу, там, істота повинна досягти успіху в процесі скидання або отримання пошкодження на 3d6 стукотіння і бути обмежена щупальцями до кінця. Творця, яка починається з області і вже обмежена щурами, завдає шкоди 3d6 стужінкам.    
+Створіння обмежене щупальцями можуть використовувати свої дії для перевірки потужності або потужності (його вибір) проти вашого правопису зберегти DC. За успіхом він звільняє себе.
