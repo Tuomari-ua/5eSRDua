@@ -1,31 +1,31 @@
-name: Balor type: fiend (demon) cr: 19
+назва: Балор тип: fiend (demon) cr: 19
 
 # Balor
-_Huge fiend (demon), chaotic evil_
+_Величезні волокна (демон), хаотичне лихо_
 
 **Armor Class** 19 (natural armor)    
 **Hit Points** 262 (21d12 + 126)    
 **Speed** 40 ft., fly 80 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 26 (+8) | 15 (+2) | 22 (+6) | 20 (+5) | 16 (+3) | 22 (+6) |
 
-**Saving Throws** Str +14, Con +12, Wis +9, Cha +12    
-**Damage Resistances** cold, lightning; bludgeoning, piercing, and slashing from nonmagical attacks    
-**Damage Immunities** fire, poison    
-**Condition Immunities** poisoned    
-**Senses** truesight 120 ft., passive Perception 13    
-**Languages** Abyssal, telepathy 120 ft.    
-**Challenge** 19 (22,000 XP)
+**Збереження рядків** Стр +14, Con +12, Wis +9, Cha +12    
+**Стійкість до пошкоджень** холоду, освітлення; bludgeoning, пронизування і зрізання з немагічних атак    
+**Пошкодження боєприпасів** вогню отрута    
+**одиниці умови** отруєні    
+**тверджень** пікселів на 120 футів. 13 пасивного Перехоплення 13    
+**мов** Безодня, телепатія 120 футів.    
+**Виклик** (22 000 XP)
 
-**Death Throes.** When the balor dies, it explodes, and each creature within 30 feet of it must make a DC 20 Dexterity saving throw, taking 70 (20d6) fire damage on a failed save, or half as much damage on a successful one. The explosion ignites flammable objects in that area that aren't being worn or carried, and it destroys the balor's weapons.    
-**Fire Aura.** At the start of each of the balor's turns, each creature within 5 feet of it takes 10 (3d6) fire damage, and flammable objects in the aura that aren't being worn or carried ignite. A creature that touches the balor or hits it with a melee attack while within 5 feet of it takes 10 (3d6) fire damage.    
-**Magic Resistance.** The balor has advantage on saving throws against spells and other magical effects.    
-**Magic Weapons.** The balor's weapon attacks are magical.
+**Покидання смерті.** Коли балет вмирає, вибухне і кожна істота в межах 30 футів від нього повинна зробити DC 20 Складати кишечника, завдавши 70 (20d6) пошкодження від полум'я, або ж удвічі більше шкоди від успішного. Вибух запалює легкозаймисті предмети в цьому районі, які не носять і не доставляються, і знищує зброю кулі.    
+**Вогню Аура.** На початку алеї кожна істота в межах 5 футів від неї займає 10 (3d6) вогнепальної шкоди, і легкозаймисті об'єкти на аурі, які не носяться чи не старіють. Творчість, яка торкається балета або вдарить його атакою ближнього бою, тоді як до 5 футів з неї завдають 10 (3d6) пожежної шкоди.    
+**Магічна Стійкість.** Балер має перевагу на збереженні квітів проти заклинання та інших магічних ефектів.    
+**Магічна зброя.** Атака броні є магічною.
 
-### Actions
+### Дії
 **Multiattack.** The balor makes two attacks: one with its longsword and one with its whip.    
-**Longsword.** _Melee Weapon Attack:_ +14 to hit, reach 10 ft., one target. _Hit:_ 21 (3d8 + 8) slashing damage plus 13 (3d8) lightning damage. If the balor scores a critical hit, it rolls damage dice three times, instead of twice.    
-**Whip.** _Melee Weapon Attack:_ +14 to hit, reach 30 ft., one target. _Hit:_ 15 (2d6 + 8) slashing damage plus 10 (3d6) fire damage, and the target must succeed on a DC 20 Strength saving throw or be pulled up to 25 feet toward the balor.    
-**Teleport.** The balor magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
+**Longsword.** _Melee Weapon Attack:_ +14 to hit, reach 10 ft., one target. _Удач:_ 21 (3d8 + 8) пошкодження, плюс 13 (3d8) блискавка. If the balor scores a critical hit, it rolls damage dice three times, instead of twice.    
+**Whip.** _Melee Weapon Attack:_ +14 to hit, reach 30 ft., one target. _Вразу:_ 15 (2d6 + 8) зменшення шкоди плюс 10 (3d6) вогневих пошкоджень, і ціль має досягти успіху в DC 20 рівня економії сили або піднятися на 25 футів до бальсу.    
+**Телепорт.** Тверда балета магічним телепортацією, поряд з будь-яким обладнанням, яке він носить або переносить, десь понад 120 футів у незайнятий простір, який він бачить.
