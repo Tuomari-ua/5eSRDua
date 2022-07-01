@@ -1,8 +1,8 @@
-name: Dimensional Shackles type: item
+назва: розмірні ящики тип: елемент
 
-# Dimensional Shackles
-_Wondrous item, rare_
+# Розмірний шакл
+_Один предмет, рідкісний_
 
-You can use an action to place these shackles on an incapacitated creature. The shackles adjust to fit a creature of Small to Large size. In addition to serving as mundane manacles, the shackles prevent a creature bound by them from using any method of extradimensional movement, including teleportation or travel to a different plane of existence. They don't prevent the creature from passing through an interdimensional portal.
+Можна використати дію, щоб розмістити ці кайла на незаконденсованому створінні. Шекли пристосовуються, щоб забезпечити істоту малого до великого розміру. На додачу до мирської мантії, кайдани не дають істоти, зв'язаної з ними будь-яким методом екстрадиційного руху, включаючи телепортацію або подорож до іншої площини існування. Вони не заважають істоті пройти через міжвимірний портал.
 
-You and any creature you designate when you use the shackles can use an action to remove them. Once every 30 days, the bound creature can make a DC 30 Strength (Athletics) check. On a success, the creature breaks free and destroys the shackles. 
+Ви і будь-яка істота, яку ви набираєте, може використовувати дії для видалення їх. Раз кожні 30 днів, істота для прив'язки DC 30 сила кожного дня. На успіху істота порушується і руйнує кайдани. 
