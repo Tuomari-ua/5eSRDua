@@ -1,6 +1,6 @@
-name: Circlet of Blasting type: item
+назва: Поле очищення типу: елемент
 
-# Circlet of Blasting
-_Wondrous item, uncommon_
+# Циркуляційне розпалювання
+_Нетиповий для Wondrous_
 
-While wearing this circlet, you can use an action to cast the **_scorching ray_** spell with it. When you make the spell's attacks, you do so with an attack bonus of +5. The circlet can't be used this way again until the next dawn. 
+При цьому колі ви можете використати дію, щоб вивести **_на карті_** заклинання з ним. Коли ви робите напади заклинання, ви робите це з бонусом від +5. Коло не може бути використане таким чином до наступного світанку. 
