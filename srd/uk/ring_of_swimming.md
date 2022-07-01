@@ -1,6 +1,6 @@
-name: Ring of Swimming type: ring
+назва: Кільце плавани типу: кільце
 
-# Ring of Swimming
-_Ring, uncommon_
+# Кільце плавання
+_Дзвінок_
 
-You have a swimming speed of 40 feet while wearing this ring. 
+У вас швидкість плавання на висоті 40 футів під час цього обручки. 
