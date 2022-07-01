@@ -1,12 +1,12 @@
-name: Protection from Poison level: 2 school: abjuration classes: cleric druid paladin ranger
+назва: Захист від отрути рівень: 2 школа: abjuration класі: cleric druid Paladin
 
-# Protection from Poison
-_2nd-level abjuration_
+# Захист від Отрути
+_Тривалість 2НД-го рівня_
 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S   
-**Duration:** 1 hour
+**Час трансляції :** 1 дія    
+**Діапазон:** Торкніться    
+**компоненти:** V, S   
+**тривалість:** години
 
-You touch a creature. If it is poisoned, you neutralize the poison. If more than one poison afflicts the target, you neutralize one poison that you know is present, or you neutralize one at random.    
-For the duration, the target has advantage on saving throws against being poisoned, and it has resistance to poison damage. 
+Ви торкаєтеся істоти. Якщо він отруєний, ви нейтралізуєте отруту. Якщо більше ніж одна отрута страждає від цілі, ви нейтралізуєте одну отруту, яку ви знаєте, або ви нейтралізуєте випадково.    
+На цей час ціль має перевагу в збереженні рядків проти отруєних, і має опір отруєнню пошкодження. 
