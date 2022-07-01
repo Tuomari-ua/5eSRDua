@@ -1,15 +1,15 @@
-name: Banishment level: 4 school: abjuration classes: paladin cleric sorcerer warlock wizard
+назва: Банив рівень: 4 школа: abjuration класів: paladin cleric sorer warlock майстер
 
-# Banishment
-_4th-level abjuration_
+# Банив
+_Тривалість четвертого рівня_
 
-**Casting Time:** 1 action   
-**Range:** 60 feet   
-**Components:** V, S, M (an item distasteful to the target)   
-**Duration:** Concentration, up to 1 minute
+**Час трансляції :** 1 дія   
+**Діапазон:** 60 футів   
+**компоненти:** V, S, М (далекість предметів)   
+**тривалість:** середні значення, до 1 хвилини
 
-You attempt to send one creature that you can see within range to another plane of existence. The target must succeed on a Charisma saving throw or be banished.    
-If the target is native to the plane of existence you're on, you banish the target to a harmless demiplane. While there, the target is incapacitated. The target remains there until the spell ends, at which point the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.    
-If the target is native to a different plane of existence than the one you're on, the target is banished with a faint popping noise, returning to its home plane. If the spell ends before 1 minute has passed, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied. Otherwise, the target doesn't return.
+Спробуйте надіслати одне створіння, яке існує в діапазоні до іншої площини. Ціль повинна досягти успіху в процесі збереження харизми або бути заборонена.    
+Якщо ціль є власною площині існування, ви зриваєте ціль до нешкідливої боротьби. В той час як там, ціль не здатна. Ціль залишається там до закінчення заклинання в цей момент ціль з'явиться в просторі, який вона залишила, або в найближчому незайнятому просторі, якщо цей простір зайнятий.    
+Якщо ціль перенесена в інший літак існування, ніж та, яку ви ввімкнені, ціль вигнано слабким галасливим звуком, який повертається до своєї домашньої літаки. Якщо заклинання закінчується, до закінчення 1 хвилини, ціль з'явиться в просторі, який залишилося або в найближчому незайнятому просторі, якщо цей простір зайнятий. В іншому випадку ціль не повернеться.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th. 
+**На вищих рівнях.** Коли ви кидаєте це заклинання використовуючи гніздо 5-го рівня або вище, ви можете вказати ще одну істоту для кожного слоту вище 4-го рівня. 
