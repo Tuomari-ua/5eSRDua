@@ -1,228 +1,228 @@
-description: A list of gear for adventuring from the 5th Edition (5e) SRD (System Reference Document).
+description: Список передач для пригод з 5-ї версії (5e) SRD (Документація з Системної Документації).
 
-# Adventuring Gear
-This section describes items that have special rules or require further explanation.
+# Пригоди передач
+У цьому розділі описує елементи, які мають спеціальні правила або вимагають подальшого пояснення.
 
-**Acid.** As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object, treating the acid as an improvised weapon. On a hit, the target takes 2d6 acid damage.
+**кислота.** як дія, ви можете розбити вміст цієї флакону на істоту в межах 5 футів від вас або кидати флакон на 20 футів, розбивши його на контакт. В будь-якому випадку, зробіть далекобійний напад на істоту чи об'єкт, ставившись до кислоти імпровізованою зброєю. При ударі ціль завдає 2d6 кислотного пошкодження.
 
-**Alchemist's Fire.** This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating the alchemist's fire as an improvised weapon. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.
+**Паличка алхіміка.** паличка, нерішуча рідина у повітрі. В якості дії ця маска повинна підкидати на 20 футів, руйнуючи її. Зробіть далекобійну атаку проти істоти і предметів, розглядаючи вогонь алхіміка як імпровізовану зброю. На ударі ціль наносить 1d4 пошкодження вогню на початку кожної її черги. Творчість може закрити це пошкодження, використовуючи його дію, щоб зробити перевірку СРСД, щоб погасити полум’я.
 
-**Antitoxin.** A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1 hour. It confers no benefit to undead or constructs.
+**Антітоксин.** Особа, яка п'є це віальне використання рідких вигод при збереженні килимок проти отрути протягом 1 години. Це не надає користі невмираним або конструкціям.
 
-**Arcane Focus.** An arcane focus is a special item--an orb, a crystal, a rod, a specially constructed staff, a wand-like length of wood, or some similar item--designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.
+**Конкус.** Праскок - це особливий предмет - орб, кристал, паличка, спеціально збудований костук, довжина деревини, як і деревини, або аналогічний предмет - розроблений для передачі потужності цілих заклинань. Чаклун, вартовий або майстер може використовувати такий предмет як фокус.
 
-**Ball Bearings.** As an action, you can spill these tiny metal balls from their pouch to cover a level, square area that is 10 feet on a side. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall prone. A creature moving through the area at half speed doesn't need to make the save.
+**Борода з м'ячиками.** Як дія, ви можете розлити ці крихітні металеві кульки з їх сучку, щоб покрити рівень, квадратна площа дорівнює 10 футів на стороні. Творчість, що рухається по вкритій області, має досягти успіху в результаті викиду або падіння D10 Dexterity. Місце проведеного істоти, яке рухається з половиною швидкістю не потрібно робити заощадження.
 
-**Block and Tackle.** A set of pulleys with a cable threaded through them and a hook to attach to objects, a block and tackle allows you to hoist up to four times the weight you can normally lift.
+**блок і такл.** Набір блоків з кабелем потоком через них і гаком, який кріпиться до предметів, булочка дозволяє підіймати до 4 разів важіль, яку ви зазвичай можете підкинути.
 
-**Book.** A book might contain poetry, historical accounts, information pertaining to a particular field of lore, diagrams and notes on gnomish contraptions, or just about anything else that can be represented using text or pictures. A book of spells is a spellbook (described later in this section).
+**Книжка.** Книга може містити поезію, історичні рахунки, інформацію, що відноситься до певного поля втрат, діаграми та нотатки на гнітючих підскачуваннях, або стосовно всього, що може бути представлено з використанням тексту або зображень. Книга заклинання - це книга правопису (описана пізніше в цьому розділі).
 
-**Caltrops.** As an action, you can spread a bag of caltrops to cover a square area that is 5 feet on a side. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving this turn and take 1 piercing damage. Taking this damage reduces the creature's walking speed by 10 feet until the creature regains at least 1 hit point. A creature moving through the area at half speed doesn't need to make the save.
+**Кальтропи.** Як дія можна розкласти торбу з кілтропами, щоб покрити площу квадратної площі, що становить 5 футів збоку. Будь-яка істота, що входить в область має досягти успіху на швидкості врятування Dexterity 15 Dexterity або припинити переміщення цього повороту і взяти 1 проколювання шкоди. Вживання цієї шкоди знижує швидкість проходу істоти на 10 футів, поки істота не потрапить до точки удару. Місце проведеного істоти, яке рухається з половиною швидкістю не потрібно робити заощадження.
 
-**Candle.** For 1 hour, a candle sheds bright light in a 5-foot radius and dim light for an additional 5 feet.
+**Свічка.** Протягом 1 години свічка проливає яскраве світло в радіусі 5 футів і тьмяне світло для додаткових 5 футів.
 
-**Case, Crossbow Bolt.** This wooden case can hold up to twenty crossbow bolts.
+**Кейс, арбалет Болт.** Цей дерев’яний ящик може тримати до двадцяти арбалетних болтів.
 
-**Case, Map or Scroll.** This cylindrical leather case can hold up to ten rolled-up sheets of paper or five rolled-up sheets of parchment.
+**Case, Map або Scroll.** Ця циліндрична шкіра може складати до десяти аркушів паперу або п'ять пропускних листів пергаменту.
 
-**Chain.** A chain has 10 hit points. It can be burst with a successful DC 20 Strength check.
+**Ланцюг.** Ланцюг має 10 очків. Вона може бути вибухнула за допомогою успішної перевірки Сили DC 20.
 
-**Climber's Kit.** A climber's kit includes special pitons, boot tips, gloves, and a harness. You can use the climber's kit as an action to anchor yourself; when you do, you can't fall more than 25 feet from the point where you anchored yourself, and you can't climb more than 25 feet away from that point without undoing the anchor.
+**Набір скелета "Доглядач".** Набір альпінітів включає спеціальні тони, причуваки, рукавички і навантаження. Ви можете використовувати альпініст як дію для самого себе; коли ви робите це, ви не можете впасти більше, ніж за 25 футів від точки, де ви самі себе підібрали, ви не можете відсходити більш ніж на 25 футів від тієї точки, не роблячи якору.
 
-**Component Pouch.** A component pouch is a small, watertight leather belt pouch that has compartments to hold all the material components and other special items you need to cast your spells, except for those components that have a specific cost (as indicated in a spell's description).
+**Поуч компонентів.** Компонент є маленьким наріжний наречений зі шкіряним поясом, що має спільне розміщення всіх матеріальних компонентів та інших спеціальних предметів, які вам потрібно кинути заклинання окрім цих компонентів, які мають певну вартість (зазначену в описі правопису).
 
-**Crowbar.** Using a crowbar grants advantage to Strength checks where the crowbar's leverage can be applied.
+**Ворон.** використовуючи рядок матиме перевагу в силі перевірок, де можна застосовувати важелі ватажки.
 
-**Druidic Focus.** A druidic focus might be a sprig of mistletoe or holly, a wand or scepter made of yew or another special wood, a staff drawn whole out of a living tree, or a totem object incorporating feathers, fur, bones, and teeth from sacred animals. A druid can use such an object as a spellcasting focus.
+**Зручність поруїдична.** Зниклий фокус може бути пророком мішані або паскуха з тисовиська або з чиїх іншого спеціального дерева, персонал витяг всю з живого дерева або тотем предмет, що включає пір'я, хутро, кістки, зуби і з священних тварин. Друкарня може використовувати такий об'єкт як фокус орфографії.
 
-**Fishing Tackle.** This kit includes a wooden rod, silken line, corkwood bobbers, steel hooks, lead sinkers, velvet lures, and narrow netting.
+**Рибальська такла.** Цей комплект включає дерев'яну паличку, шовкову лінію, коркдерев'яні розкидки, дерев'яні розкидки, сталеві гачки, сосни і швидкі сітки.
 
-**Healer's Kit.** This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom (Medicine) check.
+**Набір здоров’я.** Цей набір є шкіряним сушею, що містить вишивки, соломи та злітки. Кіт має десять застосувань. Для стабілізації істоти, яка має 0 точок без потреби здійснювати перевірку Wisdom (Medicine).
 
-**Holy Symbol.** A holy symbol is a representation of a god or pantheon. It might be an amulet depicting a symbol representing a deity, the same symbol carefully engraved or inlaid as an emblem on a shield, or a tiny box holding a fragment of a sacred relic. A cleric or paladin can use a holy symbol as a spellcasting focus. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield.
+**Святий символ.** Святий символ - це представлення бога або пантеону. Це може бути амулет, який зображує символ, що представляє божество, той самий символ уважно вирізаний або накладений як емблема на щитах, або крихітний ящик, що тримає фрагмент священного реліквії. Клейк або паладін можуть використовувати Святий символ в якості орієнтації. Для використання символу таким чином, художник повинен утримувати його в руці, зносити його видимо, або нести його на щита.
 
-**Holy Water.** As an action, you can splash the contents of this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature, treating the holy water as an improvised weapon. If the target is a fiend or undead, it takes 2d6 radiant damage.   
-A cleric or paladin may create holy water by performing a special ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver, and requires the caster to expend a 1st-level spell slot.
+**Свята вода.** як дія, ви можете розбити вміст цієї маски на істоту на відстані в 5 футів від вас або кидати її на 20 футів, розбивши його на контакт. В будь-якому випадку здійснює далекобійний напад проти цільової істоти, яка ставиться до святої води як до імпровізованої зброї. Якщо ціль має диявол, то вона завдає 2d6 радіаційних ушкоджень.   
+священнослужитель або паладин можуть створити святу воду, виконавши спеціальний ритуал. Ритуал займає 1 годину, що буде виконуватись, використовує 25 базових запасів срібло, і для того, щоб прокласти 1найвищий слот шестикутника.
 
-**Hunting Trap.** When you use your action to set it, this trap forms a saw-toothed steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 13 Dexterity saving throw or take 1d4 piercing damage and stop moving. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of the chain (typically 3 feet long). A creature can use its action to make a DC 13 Strength check, freeing itself or another creature within its reach on a success. Each failed check deals 1 piercing damage to the trapped creature.
+**Пастка для полювання.** Коли ви використовуєте свою дію, щоб встановити її, ця пастка формує сталеве кільце, що прив'язується, коли істота ступає на притискній пластині в центрі. Пастка із ланцюжком постачає важкий ланцюжок до нерухомого об'єкту, таких як дерево чи стрибок, заглиблений в землю. Істота, яка кроки на пластині має досягти успіху в Dexterity Dexterity скидає, або набуває 1d4, що завдає шкоди для пірмінгу і перестане рухатися. Після цього, поки істота не виходить з пастки, її рух буде обмежено довжиною ланцюга (як правило, 3 фути). Творчість може використовувати її дію для перевірки DC 13 сила та звільнення себе від іншої істоти, що досягає успіху. Кожна невдала перевірка завдає 1 пронизливої шкоди пастці істоті.
 
-**Lamp.** A lamp casts bright light in a 15-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.
+**Ламп.** Лампа приливає яскраве світло в радіусі 15 футів і затемнення світла на відстані додаткових 30 футів. Одного разу, огрядний він спалює 6 годин на масці (1 пінт) нафти.
 
-**Lantern, Bullseye.** A bullseye lantern casts bright light in a 60-foot cone and dim light for an additional 60 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.
+**Ліхтар зі свічкою.** Ліхтар бульсей відкидає яскраве світло на 60 футів та тьмяне світло для додаткових 60 футів. Одного разу, огрядний він спалює 6 годин на масці (1 пінт) нафти.
 
-**Lantern, Hooded.** A hooded lantern casts bright light in a 30-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil. As an action, you can lower the hood, reducing the light to dim light in a 5-foot radius.
+**Ліхтар, засяяний.** Ліхтар видає яскраве світло в радіусі 30 футів і тьмяне світло для додаткових 30 футів. Одного разу, огрядний він спалює 6 годин на масці (1 пінт) нафти. Як діяч, можна зменшити світло для затемнення радіусу на 5 футів.
 
-**Lock.** A key is provided with the lock. Without the key, a creature proficient with thieves' tools can pick this lock with a successful DC 15 Dexterity check. Your GM may decide that better locks are available for higher prices.
+**Зафікс.** Ключ надано замком. Без ключа істота, послугована інструментами злодіїв, може обрати цей замок з успішним контролем Dexterity DC 15. Ваш GM може вирішити, що кращі блокування доступні для підвищення цін.
 
-**Magnifying Glass.** This lens allows a closer look at small objects. It is also useful as a substitute for flint and steel when starting fires. Lighting a fire with a magnifying glass requires light as bright as sunlight to focus, tinder to ignite, and about 5 minutes for the fire to ignite. A magnifying glass grants advantage on any ability check made to appraise or inspect an item that is small or highly detailed.
+**Збільшувальне скло.** Ця лінза дозволяє ближче подивитися на маленькі об'єкти. Також корисно як замінити кремінь і сталь при запуску вогнів. Освітлення вогню зі змішаним склом вимагає яскравого світла як сонячного світла, щоб зосередитись, стукотіння розпалювати, і запалювати близько 5 хвилин. Збільшувальне скло дає перевагу будь-якій перевірці, зробленій для розробки або оглянути предмет, який є невеликим або дуже детальним.
 
-**Manacles.** These metal restraints can bind a Small or Medium creature. Escaping the manacles requires a successful DC 20 Dexterity check. Breaking them requires a successful DC 20 Strength check. Each set of manacles comes with one key. Without the key, a creature proficient with thieves' tools can pick the manacles' lock with a successful DC 15 Dexterity check. Manacles have 15 hit points.
+**Вчителі.** Ці металеві обмеження можуть закріпити маленьку або середню істоту. В ландшафті необхідно мати успішну перевірку Dexterity DC 20. Для їх реалізації потрібна успішна перевірка DC 20 Сил. Кожен набір манаклів має один ключ. Без ключа істота, власник інструментів злодіїв, може вибрати замок з успішного режиму Dexterity DC 15. У Manacles є 15 пунктів влучання.
 
-**Mess Kit.** This tin box contains a cup and simple cutlery. The box clamps together, and one side can be used as a cooking pan and the other as a plate or shallow bowl.
+**Mess Kit.** У коробці міститься чашка і проста вирізка. Суклади коробки разом і одна сторона можуть бути використані як каструля для приготування їжі і інших - як тарілка або мілкова чаша.
 
-**Oil.** Oil usually comes in a clay flask that holds 1 pint. As an action, you can splash the oil in this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. Make a ranged attack against a target creature or object, treating the oil as an improvised weapon. On a hit, the target is covered in oil. If the target takes any fire damage before the oil dries (after 1 minute), the target takes an additional 5 fire damage from the burning oil. You can also pour a flask of oil on the ground to cover a 5-foot-square area, provided that the surface is level. If lit, the oil burns for 2 rounds and deals 5 fire damage to any creature that enters the area or ends its turn in the area. A creature can take this damage only once per turn.
+**Oil.** Oil usually comes in a clay flask that holds 1 pint. Як акція, ви можете розбити нафту на маскування на істоту в межах 5 футів або кидати її на 20 футів, розбивши його на контакт. Зробіть далекобійний напад проти цільової істоти або об'єкта, трактуючи нафту як імпровізовану зброю. На удар, ціль покрита нафтою. Якщо ціль забере пошкодження від вогню до висихання нафти (після 1 хвилини), ціль займає додаткове 5 втрати вогню від палаючої нафти. Ви також можете налити на землю флеску олії для покриття 5-футового квадратного району, за умови, що поверхня зросте. При освітленні, нафта горить за 2 раунди та завдає 5 вогняних пошкоджень будь-якій істоті, яка входить в площу або закінчується своєю місцевістю. Істота може набрати цю шкоду лише один раз на свою чергу.
 
-**Poison, Basic.** You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take 1d4 poison damage. Once applied, the poison retains potency for 1 minute before drying.
+**Отрута, Основа.** Ви можете використовувати отруту в цьому флаконі один удар або проколючу зброю або до трьох частин боєприпасу. Застосування отрути вживає дію. істота, яку поставила отруєна зброя або набої боєприпасів, повинна зробити ефект Десяти Конституції округ Колумбія, або завдати 1d4 отрути. Після застосування, сила отрути зберігає силу на 1 хвилину до схання.
 
-**Potion of Healing.** A character who drinks the magical red fluid in this vial regains 2d4 + 2 hit points. Drinking or administering a potion takes an action.
+**Зілля здоров’я.** Сервець, який п'є магічну червону рідину у цьому лабічному покритті 2d4 + 2 влучаних очок. Питя або управління зіллям здійснює дію.
 
-**Pouch.** A cloth or leather pouch can hold up to 20 sling bullets or 50 blowgun needles, among other things. A compartmentalized pouch for holding spell components is called a component pouch (described earlier in this section).
+**Pouch.** A cloth or leather pouch can hold up to 20 sling bullets or 50 blowgun needles, among other things. Компартменталізована сумка для утримання компонентів заклинання називається "пух компонентів" (описана раніше у цьому розділі).
 
-**Quiver.** A quiver can hold up to 20 arrows.
+**Тип.** Приймач може утримувати до 20 стріл.
 
-**Ram, Portable.** You can use a portable ram to break down doors. When doing so, you gain a +4 bonus on the Strength check. One other character can help you use the ram, giving you advantage on this check.
+**Ram, портативний** Ви можете використовувати портативний баран для переривання дверей. Коли це відбувається, ви отримуєте +4 бонус за перевірку. Один з персонажів допоможе вам використовувати баран даючи вам перевагу над цим чеком.
 
-**Rations.** Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.
+**Rations** Rations складається з сухих продуктів, які придатні для розширеної подорожі, включно з футболкою, висушеним фруктом, тенетами та горіхами.
 
-**Rope.** Rope, whether made of hemp or silk, has 2 hit points and can be burst with a DC 17 Strength check.
+**Мотузка** Мотузка, будь то з коноплі або шовку, має 2 хіт-точки і може вибухнути із перевіркою DC 17.
 
-**Scale, Merchant's.** A scale includes a small balance, pans, and a suitable assortment of weights up to 2 pounds. With it, you can measure the exact weight of small objects, such as raw precious metals or trade goods, to help determine their worth.
+**Масштаб, Торговець є.** Масштаб включає в себе невеликий баланс, панелі та відповідний асортимент ваги до 2 фунтів. Завдяки ньому ви можете виміряти точну вагу малих об'єктів, таких як необроблені дорогоцінні метали чи торгові товари, щоб допомогти визначити їх цінність.
 
-**Spellbook.** Essential for wizards, a spellbook is a leather-bound tome with 100 blank vellum pages suitable for recording spells.
+**Орфографіка з орфографією** Істота для майстрів, підручник являє собою стиль, зв'язаний зі 100 порожніми велетенськими сторінками для запису орфографій.
 
-**Spyglass.** Objects viewed through a spyglass are magnified to twice their size.
+**Шипована скла.** Об'єктів, які розглядають через хрестоскло, збільшено вдвічі до їх розміру.
 
-**Tent.** A simple and portable canvas shelter, a tent sleeps two.
+**Надто** Простий і портативний притулок, намет спить два.
 
-**Tinderbox.** This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch--or anything else with abundant, exposed fuel--takes an action. Lighting any other fire takes 1 minute.
+**Скринька Tinderbox.** Цей маленький контейнер міняється кремезним, вогнище сталь та пудру (зазвичай суха тканина із просоченою в світлі олії), що використовується для розпалювання вогню. Використовуючи його, щоб запалити факел - або все інше з багатим, викривленим паливом - бере якусь дію. Освітлення будь-якого іншого вогню займає 1 хвилину.
 
-**Torch.** A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.
+**Ліхтарик.** Смолоскип згоряє 1 годину, забезпечуючи яскраве світло в радіусі 20-футовому радіусі та тьмяному світлі ще 20 футів. Якщо ви атакуєте ближнього бою з палаючим смолоскипом і ударом, він завдає 1 вогонь.
 
-## Adventuring Gear Tables
-### Ammunition
-| Item                 | Cost | Weight    |
-| -------------------- | ---- | --------- |
-| Arrows (20)          | 1 gp | 1 lb.     |
-| Blowgun needles (50) | 1 gp | 1 lb.     |
-| Crossbow bolts (20)  | 1 gp | 1 1/2 lb. |
-| Sling bullets (20)   | 4 cp | 1 1/2 lb. |
+## Пригоди столи для передач
+### Боєприпаси
+| Елемент                 | Собівартість | Вага      |
+| ----------------------- | ------------ | --------- |
+| Стріли (20)             | 1 ґр         | 1 фунт.   |
+| Голка Клоуна (50)       | 1 ґр         | 1 фунт.   |
+| Болти для арбалету (20) | 1 ґр         | 1 1/2 lb. |
+| Маркери (20)            | 4 Пр         | 1 1/2 lb. |
 
-### Arcane focus
-| Item    | Cost  | Weight |
-| ------- | ----- | ------ |
-| Crystal | 10 gp | 1 lb.  |
-| Orb     | 20 gp | 3 lb.  |
-| Rod     | 10 gp | 2 lb.  |
-| Staff   | 5 gp  | 4 lb.  |
-| Wand    | 10 gp | 1 lb.  |
+### Таємний фокус
+| Елемент  | Собівартість | Вага     |
+| -------- | ------------ | -------- |
+| Кристал  | 10 ґр        | 1 фунт.  |
+| Orb      | 20 ґр        | 3 фунти. |
+| Род      | 10 ґр        | 2 фунти. |
+| Персонал | 5 ґр         | 4 фунти. |
+| Wand     | 10 ґр        | 1 фунт.  |
 
-### Druidic focus
-| Item               | Cost  | Weight |
-| ------------------ | ----- | ------ |
-| Sprig of mistletoe | 1 gp  | -      |
-| Totem              | 1 gp  | -      |
-| Wooden staff       | 5 gp  | 4 lb.  |
-| Yew wand           | 10 gp | 1 lb.  |
+### Сфокус друїда
+| Елемент         | Собівартість | Вага     |
+| --------------- | ------------ | -------- |
+| Сприг мішковини | 1 ґр         | -        |
+| Тотем           | 1 ґр         | -        |
+| Дерев'яний штаб | 5 ґр         | 4 фунти. |
+| Yew wand        | 10 ґр        | 1 фунт.  |
 
-### Holy Symbol
-| Item      | Cost | Weight |
-| --------- | ---- | ------ |
-| Amulet    | 5 gp | 1 lb.  |
-| Emblem    | 5 gp | -      |
-| Reliquary | 5 gp | 2 lb.  |
+### Святий символ
+| Елемент    | Собівартість | Вага     |
+| ---------- | ------------ | -------- |
+| Amulet     | 5 ґр         | 1 фунт.  |
+| Емблема    | 5 ґр         | -        |
+| Релікуарій | 5 ґр         | 2 фунти. |
 
-### Adventuring Gear
-| Item                         | Cost     | Weight       |
-| ---------------------------- | -------- | ------------ |
-| Abacus                       | 2 gp     | 2 lb.        |
-| Acid (vial)                  | 25 gp    | 1 lb.        |
-| Alchemist's fire (flask)     | 50 gp    | 1 lb.        |
-| Antitoxin (vial)             | 50 gp    | -            |
-| Backpack                     | 2 gp     | 5 lb.        |
-| Ball bearings (bag of 1,000) | 1 gp     | 2 lb.        |
-| Barrel                       | 2 gp     | 70 lb.       |
-| Basket                       | 4 sp     | 2 lb.        |
-| Bedroll                      | 1 gp     | 7 lb.        |
-| Bell                         | 1 gp     | -            |
-| Blanket                      | 5 sp     | 3 lb.        |
-| Block and tackle             | 1 gp     | 5 lb.        |
-| Book                         | 25 gp    | 5 lb.        |
-| Bottle, glass                | 2 gp     | 2 lb.        |
-| Bucket                       | 5 cp     | 2 lb.        |
-| Caltrops (bag of 20)         | 1 gp     | 2 lb.        |
-| Candle                       | 1 cp     | -            |
-| Case, crossbow bolt          | 1 gp     | 1 lb.        |
-| Case, map or scroll          | 1 gp     | 1 lb.        |
-| Chain (10 feet)              | 5 gp     | 10 lb.       |
-| Chalk (1 piece)              | 1 cp     | -            |
-| Chest                        | 5 gp     | 25 lb.       |
-| Climber's kit                | 25 gp    | 12 lb.       |
-| Clothes, common              | 5 sp     | 3 lb.        |
-| Clothes, costume             | 5 gp     | 4 lb.        |
-| Clothes, fine                | 15 gp    | 6 lb.        |
-| Clothes, traveler's          | 2 gp     | 4 lb.        |
-| Component pouch              | 25 gp    | 2 lb.        |
-| Crowbar                      | 2 gp     | 5 lb.        |
-| Fishing tackle               | 1 gp     | 4 lb.        |
-| Flask or tankard             | 2 cp     | 1 lb.        |
-| Grappling hook               | 2 gp     | 4 lb.        |
-| Hammer                       | 1 gp     | 3 lb.        |
-| Hammer, sledge               | 2 gp     | 10 lb.       |
-| Healer's kit                 | 5 gp     | 3 lb.        |
-| Holy water (flask)           | 25 gp    | 1 lb.        |
-| Hourglass                    | 25 gp    | 1 lb.        |
-| Hunting trap                 | 5 gp     | 25 lb.       |
-| Ink (1 ounce bottle)         | 10 gp    | -            |
-| Ink pen                      | 2 cp     | -            |
-| Jug or pitcher               | 2 cp     | 4 lb.        |
-| Ladder (10 foot)             | 1 sp     | 25 lb.       |
-| Lamp                         | 5 sp     | 1 lb.        |
-| Lantern, bullseye            | 10 gp    | 2 lb.        |
-| Lantern, hooded              | 5 gp     | 2 lb.        |
-| Lock                         | 10 gp    | 1 lb.        |
-| Magnifying glass             | 100 gp   | -            |
-| Manacles                     | 2 gp     | 6 lb.        |
-| Mess kit                     | 2 sp     | 1 lb.        |
-| Mirror, steel                | 5 gp     | 1/2 lb.      |
-| Oil (flask)                  | 1 sp     | 1 lb.        |
-| Paper (one sheet)            | 2 sp     | -            |
-| Parchment (one sheet)        | 1 sp     | -            |
-| Perfume (vial)               | 5 gp     | -            |
-| Pick, miner's                | 2 gp     | 10 lb.       |
-| Piton                        | 5 cp     | 1/4 lb.      |
-| Poison, basic (vial)         | 100 gp   | -            |
-| Pole (10-foot)               | 5 cp     | 7 lb.        |
-| Pot, iron                    | 2 gp     | 10 lb.       |
-| Potion of healing            | 50 gp    | 1/2 lb.      |
-| Pouch                        | 5 sp     | 1 lb.        |
-| Quiver                       | 1 gp     | 1 lb.        |
-| Ram, portable                | 4 gp     | 35 lb.       |
-| Rations (1 day)              | 5 sp     | 2 lb.        |
-| Robes                        | 1 gp     | 4 lb.        |
-| Rope, hempen (50 feet)       | 1 gp     | 10 lb.       |
-| Rope, silk (50 feet)         | 10 gp    | 5 lb.        |
-| Sack                         | 1 cp     | 1/2 lb.      |
-| Scale, merchant's            | 5 gp     | 3 lb.        |
-| Sealing wax                  | 5 sp     | -            |
-| Shovel                       | 2 gp     | 5 lb.        |
-| Signal whistle               | 5 cp     | -            |
-| Signet ring                  | 5 gp     | -            |
-| Soap                         | 2 cp     | -            |
-| Spellbook                    | 50 gp    | 3 lb.        |
-| Spikes, iron (10)            | 1 gp     | 5 lb.        |
-| Spyglass                     | 1,000 gp | 1 lb.        |
-| Tent, two-person             | 2 gp     | 20 lb.       |
-| Tinderbox                    | 5 sp     | 1 lb.        |
-| Torch                        | 1 cp     | 1 lb.        |
-| Vial                         | 1 gp     | -            |
-| Waterskin                    | 2 sp     | 5 lb. (full) |
-| Whetstone                    | 1 cp     | 1 lb.        |
+### Пригоди передач
+| Елемент                            | Собівартість | Вага           |
+| ---------------------------------- | ------------ | -------------- |
+| Abacus                             | 2 ґр         | 2 фунти.       |
+| Acid (філа)                        | 25 ґп        | 1 фунт.        |
+| Підйомник Алхіміка (пласки)        | 50 ґп        | 1 фунт.        |
+| Антиоксин (філа)                   | 50 ґп        | -              |
+| Рюкзак                             | 2 ґр         | 5 фунтів.      |
+| Кумедні опори (мішок з 1,000)      | 1 ґр         | 2 фунти.       |
+| Барель                             | 2 ґр         | 70 фунтів.     |
+| Кошик                              | 4 сп         | 2 фунти.       |
+| Бедролл                            | 1 ґр         | 7 фунтів.      |
+| Дзвін                              | 1 ґр         | -              |
+| Ковдра                             | 5 сп         | 3 фунти.       |
+| Поліспаст                          | 1 ґр         | 5 фунтів.      |
+| Книжка                             | 25 ґп        | 5 фунтів.      |
+| Пляшка, скло                       | 2 ґр         | 2 фунти.       |
+| Відро                              | 5 Пр         | 2 фунти.       |
+| Кальтропи (пакет 20)               | 1 ґр         | 2 фунти.       |
+| Свічка                             | 1 сп         | -              |
+| Звернення на плече                 | 1 ґр         | 1 фунт.        |
+| Звернення, карта чи прокручування  | 1 ґр         | 1 фунт.        |
+| Ланцюг (10 футів)                  | 5 ґр         | 10 фунтів.     |
+| Чалка (1 шматочка)                 | 1 сп         | -              |
+| Скриня                             | 5 ґр         | 25 фунтів.     |
+| Клімберн                           | 25 ґп        | 12 фунтів.     |
+| Одяг, поширений                    | 5 сп         | 3 фунти.       |
+| Одяг                               | 5 ґр         | 4 фунти.       |
+| Одяг, штраф                        | 15-гр        | 6 фунтів.      |
+| Одяг, мандрівник                   | 2 ґр         | 4 фунти.       |
+| Component pouch                    | 25 ґп        | 2 фунти.       |
+| Цвяходер                           | 2 ґр         | 5 фунтів.      |
+| Вудка                              | 1 ґр         | 4 фунти.       |
+| Опора або танкарда                 | 2 Пр         | 1 фунт.        |
+| Абордажна кішка                    | 2 ґр         | 4 фунти.       |
+| Молот                              | 1 ґр         | 3 фунти.       |
+| Гаммер                             | 2 ґр         | 10 фунтів.     |
+| Набір здоров’я                     | 5 ґр         | 3 фунти.       |
+| Свята вода (пласки)                | 25 ґп        | 1 фунт.        |
+| Пісковий годинник                  | 25 ґп        | 1 фунт.        |
+| Пастка для полювання               | 5 ґр         | 25 фунтів.     |
+| Чорнило (1 відмовитись від пляшки) | 10 ґр        | -              |
+| Чорнильна ручка                    | 2 Пр         | -              |
+| Жук або глечик                     | 2 Пр         | 4 фунти.       |
+| Драбина (10 міс.)                  | 1 сп         | 25 фунтів.     |
+| Лампа                              | 5 сп         | 1 фунт.        |
+| Lantern, bullseye                  | 10 ґр        | 2 фунти.       |
+| Лантерн, укріплений                | 5 ґр         | 2 фунти.       |
+| Зачинити                           | 10 ґр        | 1 фунт.        |
+| Збільшувальне скло                 | 100 ґп       | -              |
+| Манакл                             | 2 ґр         | 6 фунтів.      |
+| Комбінація Mess                    | 2 піски      | 1 фунт.        |
+| Дзеркало                           | 5 ґр         | 1/2 lb.        |
+| Нафта (flask)                      | 1 сп         | 1 фунт.        |
+| Папір (один лист)                  | 2 піски      | -              |
+| Пергамент (один лист)              | 1 сп         | -              |
+| Ідеальний (філія)                  | 5 ґр         | -              |
+| Вибірка, шахтар                    | 2 ґр         | 10 фунтів.     |
+| Пітон                              | 5 Пр         | 1/4 фунта.     |
+| Отрую, основний (фінальний)        | 100 ґп       | -              |
+| Полюс (10-год)                     | 5 Пр         | 7 фунтів.      |
+| Пот, залізо                        | 2 ґр         | 10 фунтів.     |
+| Зілля зцілення                     | 50 ґп        | 1/2 lb.        |
+| Pouch                              | 5 сп         | 1 фунт.        |
+| Колчан                             | 1 ґр         | 1 фунт.        |
+| Рам, переносний                    | 4 ґр         | 35 фунт.       |
+| Шкала (1 день)                     | 5 сп         | 2 фунти.       |
+| Робес                              | 1 ґр         | 4 фунти.       |
+| Мотузка (50 футів)                 | 1 ґр         | 10 фунтів.     |
+| Мотузка (50 футів)                 | 10 ґр        | 5 фунтів.      |
+| Мішок                              | 1 сп         | 1/2 lb.        |
+| Шкала торговця                     | 5 ґр         | 3 фунти.       |
+| Сургуч                             | 5 сп         | -              |
+| Лопата                             | 2 ґр         | 5 фунтів.      |
+| Снігоносець                        | 5 Пр         | -              |
+| Логічне кільце                     | 5 ґр         | -              |
+| Мило                               | 2 Пр         | -              |
+| Spellbook                          | 50 ґп        | 3 фунти.       |
+| Шипи, залізо (10)                  | 1 ґр         | 5 фунтів.      |
+| Spyglass                           | 1 000 GPS    | 1 фунт.        |
+| Намет, дві людини                  | 2 ґр         | 20 фунтів.     |
+| Tinderbox                          | 5 сп         | 1 фунт.        |
+| Смолоскип                          | 1 сп         | 1 фунт.        |
+| Фіал                               | 1 ґр         | -              |
+| Бурдюк                             | 2 піски      | 5 lb. (повний) |
+| Вулстоун                           | 1 сп         | 1 фунт.        |
 
-## Container Capacity
-| Container        | Capacity                               |
-| ---------------- | -------------------------------------- |
-| Backpack*        | 1 cubic foot/30 pounds of gear         |
-| Barrel           | 40 gallons liquid, 4 cubic feet solid  |
-| Basket           | 2 cubic feet/40 pounds of gear         |
-| Bottle           | 1 1/2 pints liquid                     |
-| Bucket           | 3 gallons liquid, 1/2 cubic foot solid |
-| Chest            | 12 cubic feet/300 pounds gear          |
-| Flask or tankard | 1 pint liquid                          |
-| Jug or pitcher   | 1 gallon liquid                        |
-| Pot, iron        | 1 gallon liquid                        |
-| Pouch            | 1/5 cubic foot/6 pounds of gear        |
-| Sack             | 1 cubic foot/30 pounds of gear         |
-| Vial             | 4 ounces liquid                        |
-| Waterskin        | 4 pints liquid                         |
+## Ємність контейнера
+| Контейнер          | Ємність                                    |
+| ------------------ | ------------------------------------------ |
+| Бекпак *           | 1 кубічний фут/30 фунтів шестерні          |
+| Барель             | Сорок 40 галонів рідкий, 4 кубічний фут    |
+| Кошик              | 2 кубічний корпус / 40 фунтів від передачі |
+| Пляшка             | 1 1/2 Фарбує рідину                        |
+| Відро              | 3 галони рідини, 1/2 кубічного солі        |
+| Скриня             | 12 кубічних фут/300 фунтів шестерня        |
+| Опора або танкарда | 1 пінтована рідина                         |
+| Жук або глечик     | 1 галонна рідина                           |
+| Пот, залізо        | 1 галонна рідина                           |
+| Pouch              | 1/5 кубічного пікселя, 6 фунтів шестерні   |
+| Мішок              | 1 кубічний фут/30 фунтів шестерні          |
+| Фіал               | 4 унції рідини                             |
+| Бурдюк             | 4 основи рідини                            |
 
-\* You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.
+\* Ви також можете робити ремені предмети, наприклад спальню або котушку мотузки, назовні рюкзаку.
