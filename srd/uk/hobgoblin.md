@@ -1,22 +1,22 @@
-name: Hobgoblin type: humanoid (goblinoid) cr: .5
+назва: Hobgoblin type: humanoid (goblinoid) cr: .5
 
 # Hobgoblin
-_Medium humanoid (goblinoid), lawful evil_
+_Середній гуманоїд (гобліноїд), законне зло_
 
-**Armor Class** 18 (chain mail, shield)    
-**Hit Points** 11 (2d8 + 2)    
-**Speed** 30 ft.
+**Клас броні** 18 (тестова пошта, захист)    
+**Очки** 11 (2d8 + 2)    
+**швидкість** фут.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA    |
 | ------- | ------- | ------- | ------- | ------- | ------ |
 | 13 (+1) | 12 (+1) | 12 (+1) | 10 (+0) | 10 (+0) | 9 (−1) |
 
-**Senses** darkvision 60 ft., passive Perception 10    
-**Languages** Common, Goblin    
-**Challenge** 1/2 (100 XP)
+**Способи** затемнення 60, пасивні Перехоплення 10    
+**Мови** Спасибі, Гоблін    
+**Виклик** 1/2 (100 XP)
 
-**Martial Advantage.** Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated.
+**Політична перевага.** раз в свою чергу, гобіт може завдати шкоди іншим, 7 (2d6) істоті, яку він вдаряє у збройному нападі, якщо ця істота перебуває на протязі 5 футів від союзника гобіта, який не здатний працювати.
 
-### Actions
-**Longsword.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands.    
-**Longbow.** _Ranged Weapon Attack:_ +3 to hit, range 150/600 ft., one target. _Hit:_ 5 (1d8 + 1) piercing damage.
+### Дії
+**Довгий меч.** _Атака ближньої зброї:_ +3 до влучання, досягає 5 щитів, одна ціль. _Hit:_ 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands.    
+**Longbow.** _Ranged Weapon Attack:_ +3 to hit, range 150/600 ft., one target. _Вразів:_ 5 (1d8 + 1) пошкодження від проколу.
