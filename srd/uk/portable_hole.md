@@ -1,14 +1,14 @@
-name: Portable Hole type: item
+назва: Портативний вузол тип: елемент
 
-# Portable Hole
-_Wondrous item, rare_
+# Портативна діра
+_Один предмет, рідкісний_
 
-This fine black cloth, soft as silk, is folded up to the dimensions of a handkerchief. It unfolds into a circular sheet 6 feet in diameter.
+Ця гарна чорна тканина, м'яка - це шовк, складена до розмірів хустинки. Він розгортається в круговий лист, 6 футів у діаметрі.
 
-You can use an action to unfold a **portable hole** and place it on or against a solid surface, whereupon the **portable hole** creates an extradimensional hole 10 feet deep. The cylindrical space within the hole exists on a different plane, so it can't be used to create open passages. Any creature inside an open **portable hole** can exit the hole by climbing out of it.
+Ви можете використати дію для розкриття **портативної діри** і розмістити її на або навпроти твердої поверхні, де **портативна діра** створює екстрадиційну діру на 10 футів глибоко. Циліндричний простір в отворах існує в іншому літаку, тому його не можна використовувати для створення відкритих уривків. Будь-яка істота всередині відкритої **портативної нори** може вийти з діри, вилізши з неї.
 
-You can use an action to close a **portable hole** by taking hold of the edges of the cloth and folding it up. Folding the cloth closes the hole, and any creatures or objects within remain in the extradimensional space. No matter what's in it, the hole weighs next to nothing.
+Ви можете використати дію для закриття **портативної нори** взявши на себе кулі тканини і згорнувши її. Занесення тканини закриває дірку, а також будь-які істоти або об'єкти в іншому вимірі. Незалежно від того, що в ньому вага, вага недалеко від нічого.
 
-If the hole is folded up, a creature within the hole's extradimensional space can use an action to make a DC 10 Strength check. On a successful check, the creature forces its way out and appears within 5 feet of the **portable hole** or the creature carrying it. A breathing creature within a closed **portable hole** can survive for up to 10 minutes, after which time it begins to suffocate.
+Якщо отвір згортається, істота в межах екстрадиційного простору ями може використати дію для перевірки DC 10. При успішному перевірці, істота скасовує її вихід і з'являється в межах 5 футів від **портативної нори** або у істоті, що несе її. Всередині закритого **портативного отвір** може вижити до 10 хвилин, після якого часу він починає душити.
 
-Placing a **portable hole** inside an extradimensional space created by a **bag of holding**, **handy haversack**, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened. 
+Розміщення **портативної діри** у екстрадиційному просторі, створеному **торби** **зручний манера**або аналогічний предмет миттєво знищує і предмети і відкриває ворота до літака Астрал. Ворота має бути розташований там, де був розміщений один елемент. Будь-яка істота в межах 10 футів воріт всмокнута і вкладена у випадкове місце на літаку Астрал. Хвіртка зачиняється. Хвіртка лише один шлях і не може бути відкрита. 
