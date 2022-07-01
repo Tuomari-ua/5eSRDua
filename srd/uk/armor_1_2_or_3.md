@@ -1,6 +1,6 @@
 name: Armor, +1, +2, or +3 type: armor
 
-# Armor, +1, +2, or +3
-_Armor (light, medium, or heavy), rare (+1), very rare (+2), or legendary (+3)_
+# Броня +1, +2, або +3
+_Броня (світла, середня або важка), рідкісна (+1), дуже рідкісна (+2) або легендарна (+3)_
 
-You have a bonus to AC while wearing this armor. The bonus is determined by its rarity. 
+У вас є бонус до AC під час носіння цього обладунку. Бонус визначається його рідкістю. 
