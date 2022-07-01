@@ -1,6 +1,6 @@
-name: Horseshoes of a Zephyr type: item
+назва: Хорсешури Zephyr типу: предмет
 
-# Horseshoes of a Zephyr
-_Wondrous item, very rare_
+# Підкови Зефіра
+_Чудові речі - дуже рідкісні_
 
-These iron horseshoes come in a set of four. While all four shoes are affixed to the hooves of a horse or similar creature, they allow the creature to move normally while floating 4 inches above the ground. This effect means the creature can cross or stand above non-solid or unstable surfaces, such as water or lava. The creature leaves no tracks and ignores difficult terrain. In addition, the creature can move at normal speed for up to 12 hours a day without suffering exhaustion from a forced march. 
+Ці залізні підкови входять в ряд з чотирьох складових. Всі чотири черевики прикріплені до коня або ж подібної істоти, вони дозволяють істоті рухатися, як правило, під час плавання 4 дюйми над землею. Цей ефект означає, що істота може перетнути або стати над неміцними або нестабільними поверхнями, такими як вода або лава. Істота не залишає жодного шляху і не ігнорує складну ділянку. Крім того, істота може рухатися з нормальною швидкістю до 12 годин на день без втрати виснаження від примусового маршу. 
