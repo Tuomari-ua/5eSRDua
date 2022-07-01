@@ -1,10 +1,10 @@
-name: Bead of Force type: item
+назва: Крапка сили типу: предмет
 
-# Bead of Force
-_Wondrous item, rare_
+# Бідум сили
+_Один предмет, рідкісний_
 
-This small black sphere measures 3/4 of an inch in diameter and weighs an ounce. Typically, 1d4 + 4 **beads of force** are found together.
+Маленька чорна сфера вимірює 3/4 дюйма в діаметрі і зважує віддачу. Типово зустрічаються 1d4 + 4 + **бісер сили** разом.
 
-You can use an action to throw the bead up to 60 feet. The bead explodes on impact and is destroyed. Each creature within a 10-foot radius of where the bead landed must succeed on a DC 15 Dexterity saving throw or take 5d4 force damage. A sphere of transparent force then encloses the area for 1 minute. Any creature that failed the save and is completely within the area is trapped inside this sphere. Creatures that succeeded on the save, or are partially within the area, are pushed away from the center of the sphere until they are no longer inside it. Only breathable air can pass through the sphere's wall. No attack or other effect can.
+Можна використати дію для кидання бісер на 60 футів. Дзьоба вибухає на роботу і знищується. Кожна істота в межах 10-футового радіусу де приземлена біда повинна досягти успіху в процесі накопичення Dexterity throw або отримати 5d4 шкоду сили. Сфера прозорої сили, тепер включає цю площу на 1 хвилину. Будь-яка істота, що провалилась під час збереження, повністю знаходиться в пастці цієї сфери. Істоти, які досягли успіху щодо заощадження, або частково перебувають у межах території, відштовхнуті від центру сфери, поки вони вже не знаходяться всередині. Лише дихання може пройти через стіну, що дихає. Атака чи інший ефект не можуть.
 
-An enclosed creature can use its action to push against the sphere's wall, moving the sphere up to half the creature's walking speed. The sphere can be picked up, and its magic causes it to weigh only 1 pound, regardless of the weight of creatures inside. 
+Огорожена істота може використовувати її дію, щоб штовхати від стіни, переміщати сферу до половини швидкість істоти. Сферу можна витягти, і її магія змушує її важити лише 1 фунт, не зважаючи на вагу істот всередині. 
