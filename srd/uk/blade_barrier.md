@@ -1,10 +1,10 @@
-name: Blade Barrier level: 6 school: evocation classes: cleric
+назва: Лезо Бар'єра рівень: 6 школа: виправлення класів: копію
 
-# Blade Barrier
-_6th-level evocation_
+# Блейд Бар'єр
+_Евокація 6-го рівня_
 
 **Casting Time:** 1 action   
 **Range:** 90 feet   
 **Components:** V, S   
-**Duration:** Concentration, up to 10 minutes You create a vertical wall of whirling, razor-sharp blades made of magical energy. The wall appears within range and lasts for the duration. You can make a straight wall up to 100 feet long, 20 feet high, and 5 feet thick, or a ringed wall up to 60 feet in diameter, 20 feet high, and 5 feet thick. The wall provides three-quarters cover to creatures behind it, and its space is difficult terrain.    
-When a creature enters the wall's area for the first time on a turn or starts its turn there, the creature must make a Dexterity saving throw. On a failed save, the creature takes 6d10 slashing damage. On a successful save, the creature takes half as much damage. 
+**Duration:** Concentration, up to 10 minutes You create a vertical wall of whirling, razor-sharp blades made of magical energy. Стіна з'являється в діапазоні та триває тривалість. Проста стіна може бути висотою до 100 футів у висоту, висоту 20 футів і 5 футів, або кільцева стіна має 60 футів у діаметрі, 20 футів заввишки і 5 футів товщини. Стіна забезпечує тричверть для істот за нею, а її простір важко поставити.    
+Коли істота вступає в область стіни вперше ввімкніть або розпочинайте її, у створіння має бути можливість заощадити після катастрофи. При невдалому збереженні істота отримує 6d10 ушкоджень. У успішному збереженні істота отримує половину шкоди. 
