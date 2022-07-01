@@ -1,13 +1,13 @@
-name: Rakshasa type: fiend cr: 13
+назва: Rakshasa тип: fiend cr: 13
 
 # Rakshasa
-_Medium fiend, lawful evil_
+_Середні кулаки, законне зло_
 
-**Armor Class** 16 (natural armor)    
-**Hit Points** 110 (13d8 + 52)    
-**Speed** 40 ft.
+**Клас броні** 16 (природна броня)    
+**Бали** 110 (13d8 + 52)    
+**швидкість** фут.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 14 (+2) | 17 (+3) | 18 (+4) | 13 (+1) | 16 (+3) | 20 (+5) |
 
@@ -18,12 +18,12 @@ _Medium fiend, lawful evil_
 **Languages** Common, Infernal    
 **Challenge** 13 (10,000 XP)
 
-**Limited Magic Immunity.** The rakshasa can't be affected or detected by spells of 6th level or lower unless it wishes to be. It has advantage on saving throws against all other spells and magical effects.     
-**Innate Spellcasting.** The rakshasa's innate spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). The rakshasa can innately cast the following spells, requiring no material components:    
+**Обмежена магічна імунітет.** Rakshasa не може бути пошкоджений або виявлений заклинаннями 6-го рівня або нижче, якщо вона не бажає. Воно має перевагу над збереженням орфорів у всіх інших заклинаннях та магічних ефектах.     
+**Innate Spellcasting.** вроджене правомовлення компанії rakshasa є Харісма (заклинання врятування DC 18, +10 до удару заклинання атак). The rakshasa can innately cast the following spells, requiring no material components:    
 At will: **_detect thoughts, disguise self, mage hand, minor illusion_**    
 3/day each: **_charm person, detect magic, invisibility, major image, suggestion_**    
 1/day each: **_dominate person, fly, plane shift, true seeing_**
 
-### Actions
+### Дії
 **Multiattack.** The rakshasa makes two claw attacks.    
-**Claw.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 9 (2d6 + 2) slashing damage, and the target is cursed if it is a creature. The magical curse takes effect whenever the target takes a short or long rest, filling the target's thoughts with horrible images and dreams. The cursed target gains no benefit from finishing a short or long rest. The curse lasts until it is lifted by a remove curse spell or similar magic.
+**Claw.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Удача:_ 9 (2d6 + 2) наносить шкоду, і ціль буде проклята, якщо це істота. Чарівне прокляття набуває чинності, коли ціль займає короткий або тривалий відчинок, заповнення думок цілі жахливими зображеннями та мріями. Зігнута ціль не отримує користі від завершення коротко- чи довгого відпочинку. Прокляття триває до того моменту, поки його не знімають заклинання чи щось подібне.
