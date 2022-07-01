@@ -1,19 +1,19 @@
-name: Poisonous Snake type: beast cr: .125
+назва: Poisonous Snake type: звір cr: .125
 
-# Poisonous Snake
-_Tiny beast, unaligned_
+# Отруйна змія
+_Крихітний звір, неприєднаний_
 
-**Armor Class** 13    
-**Hit Points** 2 (1d4)    
-**Speed** 30 ft., swim 30 ft.
+**Клас броні** 13    
+**Очки** 2 (1d4)    
+**швидкість** 30 ft., плисти на 30 фут.
 
-| STR    | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР    | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------ | ------- | ------- | ------ | ------- | ------ |
 | 2 (−4) | 16 (+3) | 11 (+0) | 1 (−5) | 10 (+0) | 3 (−4) |
 
-**Senses** blindsight 10 ft., passive Perception 10    
-**Languages** --    
-**Challenge** 1/8 (25 XP)
+**Senses** оснащення 10, пасивне сприйняття 10    
+**Мови** --    
+**виклик** 1/8 (25 XP)
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 1 piercing damage, and the target must make a DC 10 Constitution saving throw, taking 5 (2d4) poison damage on a failed save, or half as much damage on a successful one. 
+### Дії
+**Біт.** _Атака ближньої зброї:_ +5 до удару, досягає 5-ї цілі, одна мета. _Вразу:_ 1 пробивання і ціль повинна зробити збереження Великобританії 10 Склад завдавши 5 (2d4) пошкодження від завади, або вдвічі більше шкоди від успішного. 
