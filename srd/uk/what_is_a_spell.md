@@ -1,44 +1,44 @@
-description: General information about spells from the 5th Edition (5e) SRD (System Reference Document).
+опис: Загальна інформація про заклинання з 5-ї версії (5e) SRD (Документація по Системній Документації).
 
-# What Is a Spell?
-A spell is a discrete magical effect, a single shaping of the magical energies that suffuse the multiverse into a specific, limited expression. In casting a spell, a character carefully plucks at the invisible strands of raw magic suffusing the world, pins them in place in a particular pattern, sets them vibrating in a specific way, and then releases them to unleash the desired effect--in most cases, all in the span of seconds.
+# Що таке правопис?
+Класика - це різкий магічний ефект, разове формуючи магічну енергію, що наповнює множення в конкретний, обмежений вираз. Кидаючи заклинання, персонаж ретельно смикає в невидимі пучки сирої магії задухи на світі, закріплює їх за певним зразком, змушує їх в певний спосіб вібрацію і потім виділяє їх, щоб розкрити потрібний ефект у більшості випадків - все за секунди.
 
-Spells can be versatile tools, weapons, or protective wards. They can deal damage or undo it, impose or remove conditions, drain life energy away, and restore life to the dead.
+Правописи можуть бути ворожими інструментами, зброєю або захистими. Вони можуть завдати шкоди або скасувати, встановити або усунути умови, позбавити енергії від життя, та відновити життя загиблим.
 
-Uncounted thousands of spells have been created over the course of the multiverse's history, and many of them are long forgotten. Some might yet lie recorded in crumbling spellbooks hidden in ancient ruins or trapped in the minds of dead gods. Or they might someday be reinvented by a character who has amassed enough power and wisdom to do so.
+За історію було створено не враховані тисячі заклинань, і багато з них давно забуті. Дехто ще може лежати в книжках, захованих у давніх руїнах або ув'язнених у свідомості мертвих богів. Або ж колись вони можуть бути винайдені героєм, який нагромадив достатньо сили і мудрості для цього.
 
-## Spell Level
-Every spell has a level from 0 to 9. A spell's level is a general indicator of how powerful it is, with the lowly (but still impressive) **_magic missile_** at 1st level and the earth-shaking **_wish_** at 9th. Cantrips--simple but powerful spells that characters can cast almost by rote--are level 0. The higher a spell's level, the higher level a spellcaster must be to use that spell.
+## Рівень заклинання
+Кожна заклинання має рівень від 0 до 9. Рівень заклинання є загальним показником сили його, з низькою (але все ще вражаючу) **_магічну ракету_** на 1-му рівні і земляного трушування **_бажано_** у 9 степені. Поїздки - прості але потужні заклинання, які персонажі можуть кидати майже за роти - рівень 0. Чим вище рівень заклинання тим вищим буде використання заклинання цього заклинання.
 
-Spell level and character level don't correspond directly. Typically, a character has to be at least 17th level, not 9th level, to cast a 9th-level spell.
+Рівень орфографії і рівня символів не відповідає безпосередньо. Зазвичай персонаж має бути як мінімум 17 рівня, а не 9 рівня, щоб створити заклинання 9-го рівня.
 
-## Known and Prepared Spells
-Before a spellcaster can use a spell, he or she must have the spell firmly fixed in mind, or must have access to the spell in a magic item. Members of a few classes, including bards and sorcerers, have a limited list of spells they know that are always fixed in mind. The same thing is true of many magic-using monsters. Other spellcasters, such as clerics and wizards, undergo a process of preparing spells. This process varies for different classes, as detailed in their descriptions.
+## Відомі та догойні заклинання
+Перед появою заклинання він або вона повинна мати твердо фіксовані, або повинен мати доступ до заклинання в чарівному предметі. Члени кількох класів, зокрема барви і чаклуни, мають обмежений список заклинань, які вони знають, що завжди є фіксованими. Те саме стосується багатьох магічних, що використовують монстрів. Інші заклинавці, такі як священнослужителі і чарівники, знаходяться в процесі підготовки заклинань. Цей процес змінює різні класи, як детальний опис подій.
 
-In every case, the number of spells a caster can have fixed in mind at any given time depends on the character's level.
+У кожному випадку, кількість заклинань, яку може зафіксувати у будь-який час, залежить від рівня персонажа.
 
 ## Spell Slots
-Regardless of how many spells a caster knows or prepares, he or she can cast only a limited number of spells before resting. Manipulating the fabric of magic and channeling its energy into even a simple spell is physically and mentally taxing, and higher- level spells are even more so. Thus, each spellcasting class's description (except that of the warlock) includes a table showing how many spell slots of each spell level a character can use at each character level. For example, the 3rd-level wizard Umara has four 1st-level spell slots and two 2nd-level slots.
+Незалежно від того, скільки заклинання знає або готується, він або вона може кинути тільки обмежену кількість заклинань до відпочинку. Маніпулювання магією та спрямування енергії навіть у просте заклинання фізично та розумове оподаткування, і заклинання вищого рівня ще більше. Таким чином, опис класу орфографії на кожному класі (крім вартових годинників) включає в себе таблицю, яка показує скільки пролистів кожного рівня заклинання персонаж може використовувати на кожному рівні персонажів. Наприклад, майстер третього рівня Umara має чотири клітинки першого рівня і два слоти на 2-му рівні.
 
-When a character casts a spell, he or she expends a slot of that spell's level or higher, effectively "filling" a slot with the spell. You can think of a spell slot as a groove of a certain size--small for a 1st-level slot, larger for a spell of higher level. A 1st-level spell fits into a slot of any size, but a 9th-level spell fits only in a 9th-level slot. So when Umara casts **_magic missile_**, a 1st-level spell, she spends one of her four 1st-level slots and has three remaining.
+Коли персонаж приводить орфографію, він або вона випускає слот рівня правопису або вище, фактично "заповнює" слот з заклинанням. Можна вважати орфографію одного розміру невеликою для слота високого рівня, більшою для заклинання вищого рівня. 1разове заклинання пасує до слоту будь-якого розміру, але заклинання на 9-му рівні вміщається лише у слот одного рівня. Отже, коли Umara casts **_магічна ракета_**в 11-му рівні пироги вона витрачає одну з чотирьох найліпших слотів і залишається три з них.
 
-Finishing a long rest restores any expended spell slots.
+Завершення довгого відпочинку відновлює всі необхідні слоти заклинання .
 
-Some characters and monsters have special abilities that let them cast spells without using spell slots. For example, a monk who follows the Way of the Four Elements, a warlock who chooses certain eldritch invocations, and a pit fiend from the Nine Hells can all cast spells in such a way.
+Деякі символи та монстри мають спеціальні здібності, які дозволять їм кидати заклинання без використання орфографічних слотів. Наприклад, монах, який слідує за шляхом чотирьох елементів, вартовий годинник, який вибирає певні заклинання в шоці, і чіпляються від Дев'ять пекла можуть транслювати заклинання таким чином.
 
-## Casting a Spell at a Higher Level
-When a spellcaster casts a spell using a slot that is of a higher level than the spell, the spell assumes the higher level for that casting. For instance, if Umara casts **_magic missile_** using one of her 2nd-level slots, that **_magic missile_** is 2nd level. Effectively, the spell expands to fill the slot it is put into.
+## Прокидання заклинання на Вищому рівні
+Коли заклинання приводить орфографію, використовуючи слот який має більш високий рівень, ніж орфографія, заклинання має на увазі більш високий рівень цієї передачі. Наприклад, якщо Umara casts **_магічна ракета_** використовує один з її слотів на 2-му рівні, що **_магічна ракета_** є 2-м рівнем. По суті, заклинання розширюється на заповнення слота.
 
-Some spells, such as **_magic missile_** and **_cure wounds_**, have more powerful effects when cast at a higher level, as detailed in a spell's description.
+Деякі заклинання, такі як **_магічну ракету_** і **_рани_**, мають більш потужні ефекти при вставці на більш високому рівні, як детально в описі заклинання.
 
-> ### Casting in Armor 
+> ### Кастинг у броні 
 > 
-> Because of the mental focus and precise gestures required for spellcasting, you must be proficient with the armor you are wearing to cast a spell. You are otherwise too distracted and physically hampered by your armor for spellcasting.
+> Тепер від розумових та точних жестів, необхідних для орфографії, вам потрібно бути забезпеченим броню для кидання заклинання. Ви в іншому випадку занадто відволікаються і фізично гальмуєте ваш обладунок для орфографії.
 
-## Cantrips
-A cantrip is a spell that can be cast at will, without using a spell slot and without being prepared in advance. Repeated practice has fixed the spell in the caster's mind and infused the caster with the magic needed to produce the effect over and over. A cantrip's spell level is 0.
+## Кандії
+Канюк - це заклинання, яке можна роздати за бажанням без використання заклинання і без підготовки до роботи. Практика з самовідслуханням зафіксувала заклинання в уяві замку, потім наповнила чари, необхідною для того, щоб передати ефект знову і знову. Рівень заклинання каністра дорівнює 0.
 
-## Rituals
-Certain spells have a special tag: ritual. Such a spell can be cast following the normal rules for spellcasting, or the spell can be cast as a ritual. The ritual version of a spell takes 10 minutes longer to cast than normal. It also doesn't expend a spell slot, which means the ritual version of a spell can't be cast at a higher level.
+## Ритуали
+Деякі заклинання мають спеціальний тег: ритуал. Таке заклинання може бути приведене за нормальними правилами орфографії або заклинання може бути приведене як ритуал. Версія заклинання займає 10 хвилин довше, ніж нормально. Він також не підлягає орфографічному слоту, це означає, що ритуальну версію заклинання неможливо кинути на більш високому рівні.
 
-To cast a spell as a ritual, a spellcaster must have a feature that grants the ability to do so. The cleric and the druid, for example, have such a feature. The caster must also have the spell prepared or on his or her list of spells known, unless the character's ritual feature specifies otherwise, as the wizard's does.
+Для приведення заклинання як ритуалу, у нього повинна бути функція, яка здатна на це робити. Наприклад, священнослужителі і друкарські мають таку функцію. Майстровий може також мати підготовлене заклинання або на його списку заклинань, Хіба що ритуальна ритуал персонажа не визначає інакше, як це робить чарівник.
