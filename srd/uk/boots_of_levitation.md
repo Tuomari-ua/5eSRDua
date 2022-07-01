@@ -1,6 +1,6 @@
-name: Boots of Levitation type: item
+назва: Чоботи Левітації тип: елемент
 
-# Boots of Levitation
-_Wondrous item, rare (requires attunement)_
+# Черевики Левітації
+_Чудотвор, рідкісний (вимагає захоплення)_
 
-While you wear these boots, you can use an action to cast the **_levitate_** spell on yourself at will. 
+Поки ви носите ці чоботи, ви можете скористатися дією, щоб кинути **_висоту_** заклинання себе за власним бажанням. 
