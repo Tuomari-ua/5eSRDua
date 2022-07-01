@@ -1,13 +1,13 @@
-name: Blink Dog type: fey cr: .25
+назва: Blink Dog тип: fey cr: .25
 
-# Blink Dog
-_Medium fey, lawful good_
+# Блимання собаки
+_Середня винагорода, законне задоволення_
 
-**Armor Class** 13    
-**Hit Points** 22 (4d8 + 4)    
-**Speed** 40 ft.
+**Клас броні** 13    
+**Очки** 22 (4d8 + 4)    
+**швидкість** фут.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 12 (+1) | 17 (+3) | 12 (+1) | 10 (+0) | 13 (+1) | 11 (+0) |
 
@@ -16,11 +16,11 @@ _Medium fey, lawful good_
 **Languages** Blink Dog, understands Sylvan but can't speak it    
 **Challenge** 1/4 (50 XP)
 
-**Keen Hearing and Smell.** The dog has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+**Keen Hearing і Smell.** Собака має перевагу в мудрості (Виключення), які покладаються на слух або запах.
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage.    
-**Teleport (Recharge 4–6).** The dog magically teleports, along with any equipment it is wearing or carrying, up to 40 feet to an unoccupied space it can see. Before or after teleporting, the dog can make one bite attack.
+### Дії
+**Біт.** _Атака ближньої зброї:_ +3 до влучання, досягли 5-ї цілі, одна мета. _Вражає:_ 4 (1d6 + 1) наносити пошкодження.    
+**Телепорт (повторне заряджання 4–6).** магічним чином телепортує собаку, поряд з будь-яким обладнанням, яке він носить або переносить, може бачити до менш ніж 40 футів у незайнятому просторі. Перед або після телепортації, собака може зробити одну кускову атаку.
 
-### Description
-A blink dog takes its name from its ability to blink in and out of existence, a talent it uses to aid its attacks and to avoid harm.
+### Опис
+Собака мигне за мізком від можливості блимнути і вийти з присутності, талант, яким він використовує для допомоги своїм атакам і щоб уникнути шкоди.
