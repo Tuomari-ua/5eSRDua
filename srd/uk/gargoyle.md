@@ -1,13 +1,13 @@
-name: Gargoyle type: elemental cr: 2
+назва: Горгулья тип: елемент cr: 2
 
-# Gargoyle
-_Medium elemental, chaotic evil_
+# Гаргуйль
+_Середнє елементарне, хаотичне зло_
 
-**Armor Class** 15 (natural armor)    
-**Hit Points** 52 (7d8 + 21)    
-**Speed** 30 ft., fly 60 ft.
+**Клас броні** 15 (природна броня)    
+**Бали** 52 (7d8 + 21)    
+**Швидкість** фут. політ 60 футів.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 15 (+2) | 11 (+0) | 16 (+3) | 6 (−2) | 11 (+0) | 7 (−2) |
 
@@ -18,9 +18,9 @@ _Medium elemental, chaotic evil_
 **Languages** Terran    
 **Challenge** 2 (450 XP)
 
-**False Appearance.** While the gargoyle remains motionless, it is indistinguishable from an inanimate statue.
+**Помилковий вигляд.** Хоча горгульї залишаються нерухомими, їх не можна відрізнити від неанімованої статуї.
 
-### Actions
-**Multiattack.** The gargoyle makes two attacks: one with its bite and one with its claws.    
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.    
-**Claws.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) slashing damage.
+### Дії
+**Мультиатака.** Горгулій робить дві атаки: один з одним, куснутим, а один - його кігті.    
+**Біт.** _Атака ближньої зброї:_ +4, щоб ударити до 5, одна ціль. _Вразу:_ 5 (1d6 + 2) пробна шкода.    
+**Кігті.** _Атака ближньої зброї:_ +4 щоб вдарити, досягти 5-ти цілі, одна ціль. _Удач:_ 5 (1d6 + 2) пошкодження.
