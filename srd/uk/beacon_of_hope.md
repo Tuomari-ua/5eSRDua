@@ -1,11 +1,11 @@
-name: Beacon of Hope level: 3 school: abjuration classes: cleric
+назва: Маяк надії рівень: 3 школа: abjuration класів: копію
 
-# Beacon of Hope
-_3rd-level abjuration_
+# Маяк надії
+_Відступ на третьому рівні_
 
 **Casting Time:** 1 action   
 **Range:** 30 feet   
 **Components:** V, S    
 **Duration:** Concentration, up to 1 minute
 
-This spell bestows hope and vitality. Choose any number of creatures within range. For the duration, each target has advantage on Wisdom saving throws and death saving throws, and regains the maximum number of hit points possible from any healing. 
+Писемність дає надію і життєздатність. Вибрати будь-яку кількість істот у межах діапазону. Протягом тривалого часу кожна мета має перевагу в рятуванні мудрості та збереженні смертоносних кидків, і повертає максимальну кількість точок на рівні від будь-якого зцілення. 
