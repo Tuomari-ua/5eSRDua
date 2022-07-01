@@ -1,11 +1,11 @@
-name: Power Word Kill level: 9 school: enchantment classes: bard sorcerer warlock wizard
+назва: Вбивство Потужних слів рівень: 9 школа: зачарування класі: Бард сортувальник вартовий
 
-# Power Word Kill
-_9th-level enchantment_
+# Вбивство енергетичних слів
+_Зачарування 9-го рівня_
 
 **Casting Time:** 1 action    
 **Range:** 60 feet    
 **Components:** V    
 **Duration:** Instantaneous
 
-You utter a word of power that can compel one creature you can see within range to die instantly. If the creature you choose has 100 hit points or fewer, it dies. Otherwise, the spell has no effect.
+Ви промовляєте слово влади, яке може змусити одну істоту, яку можна побачити в діапазоні, щоб померти миттєво. Якщо обрана Вами істота має 100 точок або менше точок, вона гине. Інакше заклинання не надає.
