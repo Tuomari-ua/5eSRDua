@@ -1,13 +1,13 @@
-name: Cultist type: humanoid (any race) cr: .125
+назва: Зрозумілий тип: humanoid (будь-яка область) cr: .125
 
-# Cultist
-_Medium humanoid (any race), any non-good alignment_
+# Культист
+_Середня гуманоїда (будь-яке негарне вирівнювання_
 
-**Armor Class** 12 (leather armor)    
-**Hit Points** 9 (2d8)    
-**Speed** 30 ft.
+**Клас броні** 12 (шкіряна броня)    
+**Очки** 9 (2d8)    
+**Швидкість** фут.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 11 (+0) | 12 (+1) | 10 (+0) | 10 (+0) | 11 (+0) | 10 (+0) |
 
@@ -16,10 +16,10 @@ _Medium humanoid (any race), any non-good alignment_
 **Languages** any one language (usually Common)    
 **Challenge** 1/8 (25 XP)
 
-**Dark Devotion.** The cultist has advantage on saving throws against being charmed or frightened.
+**Темний відкат.** Ховст має перевагу в збереженні квітів проти того, щоб його зачарували або налякали.
 
-### Actions
-**Scimitar.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one creature. _Hit:_ 4 (1d6 + 1) slashing damage.
+### Дії
+**Художник.** _Атака ближньої зброї:_ +3, сягнути до 5, одна істота. _Удач:_ 4 (1d6 + 1) зменшення шкоди.
 
-### Description
-Cultists swear allegiance to dark powers such as elemental princes, demon lords, or archdevils. Most conceal their loyalties to avoid being ostracized, imprisoned, or executed for their beliefs. Unlike evil acolytes, cultists often show signs of insanity in their beliefs and practices. 
+### Опис
+Кулі клянуться вірністю темних держав, таких як стихійні князі, лорди демонів чи архідияволи. Більшість приховують свою вірність, щоб уникнути остракізованого, ув'язненого чи стратили за свої переконання. На відміну від злих аколітів, культисти часто виявляють ознаки божевілля в своїх переконаннях і практиках. 
