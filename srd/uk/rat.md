@@ -1,21 +1,21 @@
-name: Rat type: beast cr: 0
+назва: Rat type: звір cr: 0
 
-# Rat
-_Tiny beast, unaligned_
+# Щур
+_Крихітний звір, неприєднаний_
 
 **Armor Class** 10    
 **Hit Points** 1 (1d4 − 1)    
 **Speed** 20 ft.
 
-| STR    | DEX     | CON    | INT    | WIS     | CHA    |
+| СТР    | ДЕКС    | CON    | ІНТ    | WIS     | CHA    |
 | ------ | ------- | ------ | ------ | ------- | ------ |
 | 2 (−4) | 11 (+0) | 9 (−1) | 2 (−4) | 10 (+0) | 4 (−3) |
 
-**Senses** darkvision 30 ft., passive Perception 10    
-**Languages** --    
-**Challenge** 0 (10 XP)
+**Способи** затемнення 30, пасивний перехоплення 10    
+**Мови** --    
+**виклик** (10 XP)
 
-**Keen Smell.** The rat has advantage on Wisdom (Perception) checks that rely on smell.
+**Keen Smell.** Пацюк має перевагу в Wisdom (виключення) перевірки, які покладаються на запах.
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +0 to hit, reach 5 ft., one target. _Hit:_ 1 piercing damage. 
+### Дії
+**Біт.** _Атака ближньої зброї:_ +0, щоб ударити на 5, одна ціль. _Вразів:_ 1 проколювання пошкодження. 
