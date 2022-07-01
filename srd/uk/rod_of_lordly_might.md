@@ -1,26 +1,26 @@
-name: Rod of Lordly Might type: rod
+назва: Род Лорда Мотив : Січ.
 
-# Rod of Lordly Might
-_Rod, legendary (requires attunement)_
+# Род Володаря Миги
+_Род, легендарний (вимагає відвідування)_
 
-This rod has a flanged head, and it functions as a magic mace that grants a +3 bonus to attack and damage rolls made with it. The rod has properties associated with six different buttons that are set in a row along the haft. It has three other properties as well, detailed below.
+Цей стрижень має обмахнуту голову, і це функціонує як чарівна куля, яка дає бонус +3 на атаку і кількість ушкодження зроблена з нею. Стержень має властивості, пов'язані з шістьма різними кнопками, які встановлені ряд уздовж краю. Він має ще три властивості, і також описані нижче.
 
-**Six Buttons.** You can press one of the rod's six buttons as a bonus action. A button's effect lasts until you push a different button or until you push the same button again, which causes the rod to revert to its normal form.
+**Шість кнопок.** Можна натиснути одну з шести кнопок у якості бонусної дії. Дія кнопки повторюється, поки не натисне на іншу кнопку або поки не натиснете ще раз на одну і ту саму кнопку. що змушує стрижка повернутися до нормальної форми.
 
-If you press **button 1**, the rod becomes a **flame tongue**, as a fiery blade sprouts from the end opposite the rod's flanged head.
+Якщо ви натиснете кнопку **1**, червоний стає **вогненним язиком**, в якості вогненного леза лозуба з кінця навпроти стирчали головою.
 
-If you press **button 2**, the rod's flanged head folds down and two crescent-shaped blades spring out, transforming the rod into a magic battleaxe that grants a +3 bonus to attack and damage rolls made with it.
+Якщо ви натиснете кнопку ****на кнопку, з гнилою головою згортається донизу, і дві серпанкоподібні леза вискочками, перетворення палиця в чарівну сокиру бою, яка надає бонус +3 на атаку і ушкодження зроблені з нею.
 
 If you press **button 3**, the rod's flanged head folds down, a spear point springs from the rod's tip, and the rod's handle lengthens into a 6-foot haft, transforming the rod into a magic spear that grants a +3 bonus to attack and damage rolls made with it.
 
-If you press **button 4**, the rod transforms into a climbing pole up to 50 feet long, as you specify. In surfaces as hard as granite, a spike at the bottom and three hooks at the top anchor the pole. Horizontal bars 3 inches long fold out from the sides, 1 foot apart, forming a ladder. The pole can bear up to 4,000 pounds. More weight or lack of solid anchoring causes the rod to revert to its normal form.
+Якщо ви натиснете кнопку **,4**, стійка перетворюється на палицю сходження вгору до 50 футів завдовжки, як ви вкажете. У поверхонях настільки ж тверді, як граніт, стрибок внизу і три гаки на верхній ялині палиці. Горизонтальні лінії, 3 дюйми зрізані з сторін, на відстані 1 фут, утворюючи драбину. Слюб може підняти до 4000 фунтів. Більше ваги або відсутність твердого прив’язки змушує мотузку повернутися до нормальної форми.
 
-If you press **button 5**, the rod transforms into a handheld battering ram and grants its user a +10 bonus to Strength checks made to break through doors, barricades, and other barriers.
+Якщо ви натиснете **кнопку 5**, стрижень перетворюється на ручне таблетку з батарейками і надає користувачеві бонус +10 до сильних перевірок зроблених для прориву крізь двері, барикади та інші бар'єри.
 
-If you press **button 6**, the rod assumes or remains in its normal form and indicates magnetic north. (Nothing happens if this function of the rod is used in a location that has no magnetic north.) The rod also gives you knowledge of your approximate depth beneath the ground or your height above it.
+Якщо натиснути **кнопку 6**, стержня приймає або залишається в нормальній формі і вказує на магнітну півночі. (Нічого не відбувається, якщо ця функція стрижня використовується у місці, де немає магнітної півночі.) Стержень також дає вам знання про вашу приблизну глибину під землею або на вашій висоті над ним.
 
-**Drain Life.** When you hit a creature with a melee attack using the rod, you can force the target to make a DC 17 Constitution saving throw. On a failure, the target takes an extra 4d6 necrotic damage, and you regain a number of hit points equal to half that necrotic damage. This property can't be used again until the next dawn.
+**Життєвий цикл.** Коли ви вдаряєте істоту з атакою ближнього бою, використовуючи палицю, ви можете змусити ціль зробити економію Конституції DC 17 спокійно. На невдачу ціль наносить додаткові 4d6 некротичних ушкоджень та відновлює величезну кількість балів, що дорівнює половині, того що наносить некротичне пошкодження. Ця властивість не може бути використана знову до наступного світанку.
 
-**Paralyze.** When you hit a creature with a melee attack using the rod, you can force the target to make a DC 17 Strength saving throw. On a failure, the target is paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on a success. This property can't be used again until the next dawn.
+**<unk> .** Коли ви вдаряєте істоту з атакою ближнього бою, використовуючи палицю, ви можете змусити ціль зробити будинок 17 рівня економії міцності DC. При невдачі ціль паралізована протягом 1 хвилини. Ціль може повторити порятунок в кінці кожної своєї черги, припинивши вплив на успіх. Ця властивість не може бути використана знову до наступного світанку.
 
-**Terrify.** While holding the rod, you can use an action to force each creature you can see within 30 feet of you to make a DC 17 Wisdom saving throw. On a failure, a target is frightened of you for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. This property can't be used again until the next dawn. 
+**Термін.** Тримаючи палицю, ви можете використати дію, щоб примусити кожного створіння, яке ви можете бачити в межах 30 футів від вас, щоб зробити DC 17 Мудрої зберігання. На невдачу ціль злякається вас на одну хвилину. Страшна ціль може повторити порятунок, який кидає в кінець кожного свого повороту, припинивши вплив на себе на успіх. Ця властивість не може бути використана знову до наступного світанку. 
