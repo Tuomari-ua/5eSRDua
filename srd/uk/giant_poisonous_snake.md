@@ -1,13 +1,13 @@
-name: Giant Poisonous Snake type: beast cr: .25
+назва: Велетенська отруйна змія тип: тварина cr: .25
 
-# Giant Poisonous Snake
-_Medium beast, unaligned_
+# Велетенська отруйна змія
+_Середній звір, неприєднаний_
 
 **Armor Class** 14    
 **Hit Points** 11 (2d8 + 2)    
 **Speed** 30 ft., swim 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 10 (+0) | 18 (+4) | 13 (+1) | 2 (−4) | 10 (+0) | 3 (−4) |
 
@@ -16,5 +16,5 @@ _Medium beast, unaligned_
 **Languages** --    
 **Challenge** 1/4 (50 XP)
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +6 to hit, reach 10 ft., one target. _Hit:_ 6 (1d4 + 4) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one. 
+### Дії
+**Біт.** _Атака ближньої зброї:_ +6 до удару, досягає 10-ти, одна ціль. _Вразу:_ 6 (1d4 + 4) пробиваючи пошкодження, і мета повинна зробити економію конституції DC 11 з, заподіяння 10 (3d6) пошкодження від пошкодження, або ж удвічі більше шкоди від успішного. 
