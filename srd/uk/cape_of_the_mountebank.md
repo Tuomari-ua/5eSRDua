@@ -1,8 +1,8 @@
-name: Cape of the Mountebank type: item
+назва: Кейп Гірського банку типу: елемент
 
-# Cape of the Mountebank
-_Wondrous item, rare_
+# Мис Маунтебанк
+_Один предмет, рідкісний_
 
-This cape smells faintly of brimstone. While wearing it, you can use it to cast the **_dimension door_** spell as an action. This property of the cape can't be used again until the next dawn.
+Ця плащ тьмяно пахне сіркою. Під час одягу ви можете використати його, щоб кинути **_двері розміру_** заклинання як дію. Ця властивість капсису не може бути використана знову до наступного світанку.
 
-When you disappear, you leave behind a cloud of smoke, and you appear in a similar cloud of smoke at your destination. The smoke lightly obscures the space you left and the space you appear in, and it dissipates at the end of your next turn. A light or stronger wind disperses the smoke.
+Коли ви зникнете, ви залишаєте позаду хмару диму. І ви з’являєтесь у подібній хмарі диму під час призначення. Дим легенько затемнює простір для вас і простір, в якому ви знаходитесь, і він розпускається наприкінці вашого наступного повороту. Світло чи сильніший вітер розставляє дим.
