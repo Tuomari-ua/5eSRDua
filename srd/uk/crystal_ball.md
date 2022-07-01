@@ -1,14 +1,14 @@
-name: Crystal Ball type: item
+назва: Кристальна кулька тип: елемент
 
-# Crystal Ball
-_Wondrous item, very rare or legendary (requires attunement)_
+# Кришталевий м'яч
+_Чудотвор, дуже рідкісний або легендарний (вимагає досягнення)_
 
-The typical **crystal ball**, a very rare item, is about 6 inches in diameter. While touching it, you can cast the **_scrying_** spell (save DC 17) with it.
+Типовий **кристал**- дуже рідкісний предмет, діаметр близько 6 дюймів. Під час дотику до нього ви можете поставити **_розвідку_** заклинання (зберегти DC 17) з ним.
 
-The following **crystal ball** variants are legendary items and have additional properties.
+Нижчение **кристалічний м'яч** варіанти легендарних предметів і мають додаткові властивості.
 
-**Crystal Ball of Mind Reading.** You can use an action to cast the **_detect thoughts_** spell (save DC 17) while you are scrying with the **crystal ball**, targeting creatures you can see within 30 feet of the spell's sensor. You don't need to concentrate on this **_detect thoughts_** to maintain it during its duration, but it ends if **_scrying_** ends.
+**Кристальна куля розумового читання.** Ви можете використовувати дію, щоб кинути **_виявити думки_** заклинання (зберегти DC 17) поки ви боїтеся **кристал**націлені на істот, які можна побачити в радіусі 30 футів від датчика заклинання. Вам не потрібно концентруватися на цьому **_виявити думки_** , щоб зберегти його протягом його тривалості, але він закінчується, якщо **_розсіяння_** закінчується.
 
-**Crystal Ball of Telepathy.** While scrying with the crystal ball, you can communicate telepathically with creatures you can see within 30 feet of the spell's sensor. You can also use an action to cast the **_suggestion_** spell (save DC 17) through the sensor on one of those creatures. You don't need to concentrate on this **_suggestion_** to maintain it during its duration, but it ends if **_scrying_** ends. Once used, the **_suggestion_** power of the crystal ball can't be used again until the next dawn.
+**Кришталева кулька телепатії.** Коли скрейдиш із кришталевим м'язом, ви можете телепато спілкуватися з істотами ви можете побачити в межах 30 футів від датчика заклинання. Можна також використовувати дію, щоб кидати **_пропозицію_** заклинання (збереження DC 17) через датчик на одній з таких істот. You don't need to concentrate on this **_suggestion_** to maintain it during its duration, but it ends if **_scrying_** ends. Після використання, пропозицію **_</strong> пропозиції_** кришталевого м'яча не можна буде використовувати знову до наступного світанку.
 
-**Crystal Ball of True Seeing.** While scrying with the crystal ball, you have truesight with a radius of 120 feet centered on the spell's sensor. 
+**Кристальна куля Справжнього моряка.** , поки розсіяний кришталевий м'яч, ви маєте truesight із радіусом у 120 футів, зосереджених на датчику заклинання. 
