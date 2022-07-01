@@ -1,23 +1,23 @@
-# Half-Dragon Template
+# Шаблон Напівдракона
 
-A beast, humanoid, giant, or monstrosity can become a half-dragon. It keeps its statistics, except as follows.    
-**Challenge**. To avoid recalculating the creature's challenge rating, apply the template only to a creature that meets the optional prerequisite in the Breath Weapon table below. Otherwise, recalculate the rating after you apply the template.    
-**Senses**. The half-dragon gains blindsight with a radius of 10 feet and darkvision with a radius of 60 feet.    
-**Resistances.** The half-dragon gains resistance to a type of damage based on its color.
+Звір, гуманоїд, гігант чи чудовисько може стати напівдраконом. Зберігає свою статистику, за винятком випадків.    
+**Виклик**. Щоб уникнути перерахунку рейтингу завдання тваринництва, застосовуйте шаблон лише до істоти, яка відповідає необов'язковій передумови у таблиці Вдихної зброї нижче. В іншому випадку перерахуйте рейтинг після застосування шаблону.    
+**Senses**. Наполовину дракона отримує радіус 10 футів і темряви із радіусом 60 футів.    
+**Опір .** Здатність наполовину дракона отримує пошкодження на основі його кольору.
 
-| Color               | Damage Resistance |
-| ------------------- | ----------------- |
-| Black or copper     | Acid              |
-| Blue or bronze      | Lightning         |
-| Brass, gold, or red | Fire              |
-| Green               | Poison            |
-| Silver or white     | Cold              |
+| Колір                     | Стійкість до пошкоджень |
+| ------------------------- | ----------------------- |
+| Чорний або мідний         | Кислоти                 |
+| Синя або бронза           | Блискавка               |
+| Брас, золото або червоний | Вогонь                  |
+| Зелений                   | Отрута                  |
+| Сріблястий або білий      | Холод                   |
 
-**Languages**. The half-dragon speaks Draconic in addition to any other languages it knows.    
-**New Action: Breath Weapon.** The half-dragon has the breath weapon of its dragon half. The half-dragon's size determines how this action functions.
+**Мови**. Цей напівдракон говорить драконічним додатком на будь-які інші мови, які він знає.    
+**Нова Дія: дихати зброю.** Наполовину дракона має дихальну зброю його дракона половину. Розмір напівдракона визначає, як виконує ця дія.
 
-| Size             | Breath Weapon      | Optional Prerequisite |
-| ---------------- | ------------------ | --------------------- |
-| Large or smaller | As a wyrmling      | Challenge 2 or higher |
-| Huge             | As a young dragon  | Challenge 7 or higher |
-| Gargantuan       | As an adult dragon | Challenge 8 or higher |
+| Розмір            | Зброя дихання        | Опціональний передумовит |
+| ----------------- | -------------------- | ------------------------ |
+| Великий або менше | Як буркотун          | Виклик 2 або вище        |
+| Дуже великий      | Як молодий дракон    | Виклик 7 або вище        |
+| Gargantuan        | Як дорослого дракона | Виклик 8 або вище        |
