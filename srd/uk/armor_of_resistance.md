@@ -1,19 +1,19 @@
-name: Armor of Resistance type: armor
+назва: Броня Стійкості тип: броня
 
-# Armor of Resistance
-_Armor (light, medium, or heavy), rare (requires attunement)_
+# Броня Стійкості
+_Броня (світла, середня або важка), рідкісна (вимагає залучення)_
 
-You have resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly from the options below.
+Ви відчуваєте стійкість до одного типу пошкоджень, коли носите цю броню. GM вибирає тип або випадково визначає його від нижченаведених варіантів.
 
-| d10 | Damage Type |
-| --- | ----------- |
-| 1   | Acid        |
-| 2   | Cold        |
-| 3   | Fire        |
-| 4   | Force       |
-| 5   | Lightning   |
-| 6   | Necrotic    |
-| 7   | Poison      |
-| 8   | Psychic     |
-| 9   | Radiant     |
-| 10  | Thunder     |
+| д10 | Тип шкоди |
+| --- | --------- |
+| 1   | Кислоти   |
+| 2   | Холод     |
+| 3   | Вогонь    |
+| 4   | Сторона   |
+| 5   | Блискавка |
+| 6   | Некротика |
+| 7   | Отрута    |
+| 8   | Психіка   |
+| 9   | Сяйво     |
+| 10  | Грім      |
