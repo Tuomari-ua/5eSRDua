@@ -1,22 +1,22 @@
-name: Giant Goat type: beast cr: .5
+назва: Гігантний Козник тип: звір cr: .5
 
-# Giant Goat
-_Large beast, unaligned_
+# Гігантський козел
+_Великий звір, неприєднаний_
 
-**Armor Class** 11 (natural armor)    
-**Hit Points** 19 (3d10 + 3)    
-**Speed** 40 ft.
+**Клас броні** 11 (природна броня)    
+**Бали** 19 (3d10 + 3)    
+**Швидкість** фут.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 17 (+3) | 11 (+0) | 12 (+1) | 3 (−4) | 12 (+1) | 6 (−2) |
 
-**Senses** passive Perception 11    
-**Languages** --    
-**Challenge** 1/2 (100 XP)
+**Звуки** пасивне сприйняття 11    
+**Мови** --    
+**виклик** 1/2 (100 XP)
 
-**Charge.** If the goat moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 5 (2d4) bludgeoning damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.    
-**Sure-Footed.** The goat has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
+**Заряд.** Якщо козел рухатиметься щонайменше в 20 футів прямо до мети, а тоді влучить в нього з атакою барана на одному кроці, цілі потрібно додатково 5 (2d4) пошкодити пошкодження. Якщо ціль є створенням, вона має бути успішною в заощадженні DC 13 або бути постукованою часткою.    
+**Звичайна журна.** Козел має перевагу в рятуванні сили і слабкості, зроблених проти наслідків, які будуть збивати його з ладу.
 
-### Actions
-**Ram.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 8 (2d4 + 3) bludgeoning damage. 
+### Дії
+**Рам.** _Атака ближньої зброї:_ +5 до удару, досягає 5-ї цілі, одна мета. _Удара:_ 8 (2d4 + 3) пошкодження душення душок. 
