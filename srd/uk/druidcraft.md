@@ -1,15 +1,15 @@
-name: Druidcraft level: 0 school: transmutation classes: druid
+назва: Druidcraft рівень: 0 школа: транмутація класи: druid
 
-# Druidcraft
-_Transmutation cantrip_
+# Друїдкрафт
+_Трансмутація_
 
-**Casting Time:** 1 action    
-**Range:** 30 feet    
-**Components:** V, S    
-**Duration:** Instantaneous
+**Час трансляції :** 1 дія    
+**Діапазон:** 30 футів    
+**компоненти:** V, S    
+**тривалість:** миттєві
 
-Whispering to the spirits of nature, you create one of the following effects within range:
-* You create a tiny, harmless sensory effect that predicts what the weather will be at your location for the next 24 hours. The effect might manifest as a golden orb for clear skies, a cloud for rain, falling snowflakes for snow, and so on. This effect persists for 1 round.
-* You instantly make a flower blossom, a seed pod open, or a leaf bud bloom.
-* You create an instantaneous, harmless sensory effect, such as falling leaves, a puff of wind, the sound of a small animal, or the faint odor of skunk. The effect must fit in a 5-foot cube.
-* You instantly light or snuff out a candle, a torch, or a small campfire.
+Шепітація від духів природи, ви створюєте один із наступних ефектів в межі:
+* Ви створюєте нешкідливий сенсорний ефект, який передбачає погоду протягом наступних 24 годин. Ефект може проявитись як золота яблука для ясного неба, а хмара на дощ падає сніжинки на сніг і так далі. Цей ефект зберігається на 1 раунд.
+* Ви миттєво робите квітковий цвіт, відкриваєте трибуну з насіння, або цвітень бухти.
+* Ви створюєте миттєвий, шкідливий сенсорний ефект, наприклад, падіння листя, видих вітру, звук невеликої тварини, або слабкий запах шкіри. Ефект має розміщуватися на кубі 5-футів.
+* Ви миттєво засвічуєте свічку, або можете висмоктати ліхтарик або невелике багаття.
