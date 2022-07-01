@@ -1,13 +1,13 @@
-name: Lizardfolk type: humanoid (lizardfolk) cr: .5
+назва: Lizardfolk type: humanoid (lizardfolk) cr: .5
 
-# Lizardfolk
-_Medium humanoid (lizardfolk), neutral_
+# Лізардфолк
+_Середній Гуманоїд (lizardfolk), нейтральний_
 
-**Armor Class** 15 (natural armor, shield)    
-**Hit Points** 22 (4d8 + 4)    
-**Speed** 30 ft., swim 30 ft.
+**Клас броні** 15 (природна броня, щита)    
+**Очки** 22 (4d8 + 4)    
+**швидкість** фут. плавати на висоті 30 футів.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 15 (+2) | 10 (+0) | 13 (+1) | 7 (−2) | 12 (+1) | 7 (−2) |
 
@@ -16,11 +16,11 @@ _Medium humanoid (lizardfolk), neutral_
 **Languages** Draconic    
 **Challenge** 1/2 (100 XP)
 
-**Hold Breath.** The lizardfolk can hold its breath for 15 minutes.
+**Тримати дух.** Іржак може вдихнути 15 хвилин.
 
-### Actions
-**Multiattack.** The lizardfolk makes two melee attacks, each one with a different weapon.    
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.    
-**Heavy Club.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) bludgeoning damage.    
-**Javelin.** _Melee or _Ranged Weapon Attack:__ +4 to hit, reach 5 ft. or range 30/120 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.    
-**Spiked Shield.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.
+### Дії
+**Багатоатака.** Запас ящірка робить дві битви ближнього бою, кожен з яких має різну зброю.    
+**Біт.** _Атака ближньої зброї:_ +4, щоб ударити до 5, одна ціль. _Вражаємо:_ 5 (1d6 + 2) наносити пошкодження.    
+**Важкий клуб.** _Атака ближньої зброї:_ +4 щоб вдарити, досягти 5-ти цілі, одна ціль. _Удачі:_ 5 (1d6 + 2) пошкодження дублювання.    
+**Javelin.** _Атака ближнього або _Стрільбища Зброї:__ +4, щоб влучити по 5 футів. або діапазон 30/120 ft., одна ціль. _Вдач:_ 5 (1d6 + 2) пробивання пошкодження.    
+**Шпигун щит.** _Атака ближньої зброї:_ +4 щоб вдарити в нього, досягти 5-ти цілі, одну ціль. _Вразів:_ 5 (1d6 + 2) пробивання пошкоджень.
