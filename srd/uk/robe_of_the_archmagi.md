@@ -1,10 +1,10 @@
-name: Robe of the Archmagi type: item
+назва: Родовище Архіархівного типу: елемент
 
-# Robe of the Archmagi
-_Wondrous item, legendary (requires attunement by a sorcerer, warlock, or wizard)_
+# Родіс Арчмагі
+_Під пахвою, легендарний (потрібен підсумок сортувальника, гармату або чарівнику)_
 
-This elegant garment is made from exquisite cloth of white, gray, or black and adorned with silvery runes. The robe's color corresponds to the alignment for which the item was created. A white robe was made for good, gray for neutral, and black for evil. You can't attune to a **robe of the archmagi** that doesn't correspond to your alignment. You gain these benefits while wearing the robe:
+Цей елегантний одяг зроблений з вишуканої тканини біла, сірої або чорні, прикрашені шовковими рунами. Колір Роба відповідає вирівнюванню, для якого був створений елемент. Біла сукня виготовлялась для добра, сірого для нейтрального і чорного зла. Ви не можете натякати на **сукню з архімагії** , яка не відповідає вашому вирівню. Ви отримуєте ці переваги під час носіння у роботі:
 
-* If you aren't wearing armor, your base Armor Class is 15 + your Dexterity modifier.
-* You have advantage on saving throws against spells and other magical effects.
-* Your spell save DC and spell attack bonus each increase by 2. 
+* Якщо ви не носили обладунок, ваш базовий клас обладунку 15 + ваш Модифікатор Dexterity.
+* Ви маєте перевагу над збереженням квітів у заклинаннях та інших магічних ефектах.
+* Ваше заклинання заощаджує DC та витрачає бонус атаки кожен приріст на 2. 
