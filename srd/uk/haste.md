@@ -1,11 +1,11 @@
-name: Haste level: 3 school: transmutation classes: sorcerer wizard
+назва: Прискорювач рівень: 3 школа: передача класів: майстер сортувальника
 
-# Haste
-_3rd-level transmutation_
+# Поспіх
+_Трансмутація третього рівня_
 
-**Casting Time:** 1 action    
-**Range:** 30 feet    
-**Components:** V, S, M (a shaving of licorice root)    
-**Duration:** Concentration, up to 1 minute
+**Час трансляції :** 1 дія    
+**Діапазон:** 30 футів    
+**компоненти:** V, S, М (прийняття корінь)    
+**тривалість:** гр., до 1 хвилини
 
-Choose a willing creature that you can see within range. Until the spell ends, the target's speed is doubled, it gains a +2 bonus to AC, it has advantage on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used only to take the Attack (one weapon attack only), Dash, Disengage, Hide, or Use an Object action. When the spell ends, the target can't move or take actions until after its next turn, as a wave of lethargy sweeps over it. 
+Виберіть готову істоту, яку ви можете бачити на відстані. Поки заклинання не закінчиться, швидкість цілі буде подвоєна, вона отримає бонус +2 до СА, він має перевагу над викидами економії Dexterity і він отримує додаткові дії на кожному зі своїх поворотів. Цю дію можна використовувати лише для того, щоб здійснити атаку (лише одна зброя), лише Dash, Штучку, Групу або Активного об'єкта. Коли заклинання закінчується, ціль не може переміщуватися і приймати дії до наступного кроку, як хвиля летаргії. 
