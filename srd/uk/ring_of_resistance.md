@@ -1,19 +1,19 @@
-name: Ring of Resistance type: ring
+назва: Кільце Стійкості типу: кільце
 
-# Ring of Resistance
-_Ring, rare (requires attunement)_
+# Кільце Опору
+_Рідкісний, рідкісний (вимагає відвідування)_
 
-You have resistance to one damage type while wearing this ring. The gem in the ring indicates the type, which the GM chooses or determines randomly.
+Ви протиставитеся одному типу пошкодження, носячи це кільце. Гем кільця вказує на тип, який GM обирає, або визначається випадковим чином.
 
-| d10 | Damage Type | Gem        |
-| --- | ----------- | ---------- |
-| 1   | Acid        | Pearl      |
-| 2   | Cold        | Tourmaline |
-| 3   | Fire        | Garnet     |
-| 4   | Force       | Sapphire   |
-| 5   | Lightning   | Citrine    |
-| 6   | Necrotic    | Jet        |
-| 7   | Poison      | Amethyst   |
-| 8   | Psychic     | Jade       |
-| 9   | Radiant     | Topaz      |
-| 10  | Thunder     | Spinel     |
+| д10 | Тип шкоди | Самоцвіт |
+| --- | --------- | -------- |
+| 1   | Кислоти   | Перл     |
+| 2   | Холод     | Турмалін |
+| 3   | Вогонь    | Гранат   |
+| 4   | Сторона   | Sapphire |
+| 5   | Блискавка | Цитрин   |
+| 6   | Некротика | Струмінь |
+| 7   | Отрута    | Amethyst |
+| 8   | Психіка   | Jade     |
+| 9   | Сяйво     | Topaz    |
+| 10  | Грім      | Шпінель  |
