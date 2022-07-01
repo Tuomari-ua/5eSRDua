@@ -1,6 +1,6 @@
-name: Pearl of Power type: item
+назва: Перлина потужності тип: елемент
 
-# Pearl of Power
-_Wondrous item, uncommon (requires attunement by a spellcaster)_
+# Перлина влади
+_Незвичайний предмет (вимагає участь орфографії)_
 
-While this pearl is on your person, you can use an action to speak its command word and regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level. Once you use the pearl, it can􀁠t be used again until the next dawn. 
+Поки на вас перлину немає, ви можете використати дію, щоб говорити його командним словом і повернути один витрачений слот заклинання на вас. Якщо розширені слоти були в 4-му рівні або вище, новий слот є 3-м рівним. Коли ви візьмете перлину, вона не зможе використати її знову до наступного світанку. 
