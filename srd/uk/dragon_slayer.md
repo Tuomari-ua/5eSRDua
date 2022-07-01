@@ -1,8 +1,8 @@
-name: Dragon Slayer type: weapon
+назва: Літак дракона тип: зброя
 
-# Dragon Slayer
-_Weapon (any sword), rare_
+# Вбивця Драконів
+_Зброя (будь який меч), рідкісний_
 
-You gain a +1 bonus to attack and damage rolls made with this magic weapon.
+Ви отримуєте бонус +1 для атаки та ушкодження зроблені за допомогою цієї чарівної зброї.
 
-When you hit a dragon with this weapon, the dragon takes an extra 3d6 damage of the weapon's type. For the purpose of this weapon, "dragon" refers to any creature with the dragon type, including dragon turtles and wyverns. 
+Коли ви влучили в дракона з цією зброєю, дракон отримує ще 3d6 пошкодження від зброї цього типу зброї. В цілях цієї зброї, "дракона" означає будь-яку істоту з типом дракона, включаючи черепах і плетені. 
