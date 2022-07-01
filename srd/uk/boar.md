@@ -1,22 +1,22 @@
-name: Boar type: beast cr: .25
+назва: Boar тип: звір cr: .25
 
-# Boar
-_Medium beast, unaligned_
+# Кабан
+_Середній звір, неприєднаний_
 
-**Armor Class** 11 (natural armor)    
-**Hit Points** 11 (2d8 + 2)    
-**Speed** 40 ft.
+**Клас броні** 11 (природна броня)    
+**Бали** 11 (2d8 + 2)    
+**швидкість** фут.
 
-| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS    | CHA    |
 | ------- | ------- | ------- | ------ | ------ | ------ |
 | 13 (+1) | 11 (+0) | 12 (+1) | 2 (−4) | 9 (−1) | 5 (−3) |
 
-**Senses** passive Perception 9    
-**Languages** --    
-**Challenge** 1/4 (50 XP)
+**Звуки** пасивне сприйняття 9    
+**Мови** --    
+**виклик** 1/4 (50 XP)
 
-**Charge.** If the boar moves at least 20 feet straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra 3 (1d6) slashing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.   
-**Relentless (Recharges after a Short or Long Rest).** If the boar takes 7 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
+**Заряд.** Якщо кабан буде рухатися щонайменше в 20 футів прямо до цілі і потім ударяє його з тупиком атаки на тому ж поверсі, ціль наносить додаткові 3 (1d6) пошкодження. Якщо ціль є створенням, вона повинна перейти до успіху в економії сили DC 11 або бути постукованою часткою.   
+**Безжалісні (перехідні після короткого або довгого відновлення).** Якщо кабан отримує 7 шкоди або менше, це зменшить значення до 0 очків, він зменшується до 1 точки досягнення.
 
-### Actions
-**Tusk.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) slashing damage. 
+### Дії
+**Терміни вибуху.** _Атака ближньої зброї:_ +3 до влучання, досягає 5 щитів, одна ціль. _Удач:_ 4 (1d6 + 1) зменшення шкоди. 
