@@ -1,6 +1,6 @@
-name: Rod of Rulership type: rod
+назва: Родовик лінійки типу: rod
 
-# Rod of Rulership
-_Rod, rare (requires attunement)_
+# Род-терапія
+_Род, рідкісний (вимагає залучення)_
 
-You can use an action to present the rod and command obedience from each creature of your choice that you can see within 120 feet of you. Each target must succeed on a DC 15 Wisdom saving throw or be charmed by you for 8 hours. While charmed in this way, the creature regards you as its trusted leader. If harmed by you or your companions, or commanded to do something contrary to its nature, a target ceases to be charmed in this way. The rod can't be used again until the next dawn.
+Можна використати дію, щоб представити мотузку та командувати покорою у кожній істоті свого вибору, що ви можете бачити на відстані 120 футів від вас. Кожна ціль має досягти успіху в DC 15 разів економити мудрість, або її зачарують вам протягом 8 годин. Зачарований таким чином, істота вважає вас його довіреним лідером. Якщо вас чи супутники наголосували або наказували зробити щось на противагу його природі, то ціль перестає накреслити таким чином. Стержень не можна використовувати знову до наступного світанку.
