@@ -1,13 +1,13 @@
-name: Minotaur type: monstrosity cr: 3
+назва: Минотавр тип: монстроз cr: 3
 
 # Minotaur
-_Large monstrosity, chaotic evil_
+_Велике чудовисько, хаотичне зло_
 
-**Armor Class** 14 (natural armor)    
-**Hit Points** 76 (9d10 + 27)    
-**Speed** 40 ft.
+**Клас броні** 14 (природна броня)    
+**Очки влучання** 76 (9d10 + 27)    
+**Швидкість** фут.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 18 (+4) | 11 (+0) | 16 (+3) | 6 (−2) | 16 (+3) | 9 (−1) |
 
@@ -16,10 +16,10 @@ _Large monstrosity, chaotic evil_
 **Languages** Abyssal    
 **Challenge** 3 (700 XP)
 
-**Charge.** If the minotaur moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked prone.    
-**Labyrinthine Recall.** The minotaur can perfectly recall any path it has traveled.    
-**Reckless.** At the start of its turn, the minotaur can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.
+**Заряд.** Якщо мінотавр рухатиметься щонайменше в 10 футів прямо до цілі і тоді вдаряється в силу атаки на одному кроці, ціль отримує додаткові 9 (2d8) пошкодження від проколу. Якщо ціль є істотою, він має досягнути успіху в DC 14 Заощадженні сили або бути висунутий до 10 футів далеко і постуковану частку.    
+**Labyrinthy Recall.** Мінотавр може чудово повернути будь-який шлях, який він пройшов.    
+**Безрозсудливі.** На початку свого повороту мінотавр може отримати перевагу від всіх атак ближнього бою, які він робить під час цього повороту, але напад проти нього має перевагу до початку наступного кроку.
 
-### Actions
-**Greataxe.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 17 (2d12 + 4) slashing damage.    
-**Gore.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) piercing damage.
+### Дії
+**Чудова сокира.** _Атака ближньої зброї:_ +6 для удару, досягає 5 щитів, одна ціль. _Вдач:_ 17 (2d12 + 4) наносити шкоду    
+**Гор.** _Атака ближньої зброї:_ +6 щоб вдарити, досягти 5-ти цілі, одна ціль. _Вразів:_ 13 (2d8 + 4) наносити пошкодження.
