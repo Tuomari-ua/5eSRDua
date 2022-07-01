@@ -1,29 +1,29 @@
-name: Clay Golem type: construct cr: 9
+назва: Clay Golem тип: конструкція cr: 9
 
-# Clay Golem
-_Large construct, unaligned_
+# Клей Голем
+_Велика конструкція, не вирівняти_
 
 **Armor Class** 14 (natural armor)    
 **Hit Points** 133 (14d10 + 56)    
 **Speed** 20 ft.
 
-| STR     | DEX    | CON     | INT    | WIS    | CHA    |
+| СТР     | ДЕКС   | CON     | ІНТ    | WIS    | CHA    |
 | ------- | ------ | ------- | ------ | ------ | ------ |
 | 20 (+5) | 9 (−1) | 18 (+4) | 3 (−4) | 8 (−1) | 1 (−5) |
 
-**Damage Immunities** acid, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine    
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned    
-**Senses** darkvision 60 ft., passive Perception 9    
-**Languages** understands the languages of its creator but can't speak    
-**Challenge** 9 (5,000 XP)
+**Імунітет до пошкоджень** кислота, отрута, психіка; bludgeoning, проколювання і різання з немагічних атак, які не є несанкціонованими    
+**Імунітети з умов** забарвлені, виснаження, перелякане, паралізоване, нашаруване, отруєне    
+**Сил** Темпл 60 футів. пасивне сприйняття 9    
+**мови** розуміє мови свого творця, але не може говорити    
+виклик**Завдань** (5, 5, 00 ДОСВІДУ)
 
 **Acid Absorption.** Whenever the golem is subjected to acid damage, it takes no damage and instead regains a number of hit points equal to the acid damage dealt.    
-**Berserk.** Whenever the golem starts its turn with 60 hit points or fewer, roll a d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object, with preference for an object smaller than itself. Once the golem goes berserk, it continues to do so until it is destroyed or regains all its hit points.    
-**Immutable Form.** The golem is immune to any spell or effect that would alter its form.    
-**Magic Resistance.** The golem has advantage on saving throws against spells and other magical effects.    
-**Magic Weapons.** The golem's weapon attacks are magical.
+**Berserk.** Whenever the golem starts its turn with 60 hit points or fewer, roll a d6. На 6 голема зображена як рясніє. При кожному розлозі під час рятування големи атакує найближчу істоту, яку вона бачить. Якщо жодна істота не є достатньою для переходу до атаки, голем атакує предмет, з перевагою об'єкта стати меншою за себе. Після того, як голем стає берсерйозним, він продовжує це робити, допоки він не буде знищений чи не перетворився на всі влучні точки.    
+**Незмінний Форм.** Golem захищений від будь-якої заклинання чи наслідки, які б змінили її форму.    
+**Магічний Стійкер.** Голем має перевагу над збереженням квітів проти заклинань та інших магічних ефектів.    
+**Магічної зброї.** Атака від големи є магічною.
 
-### Actions
-**Multiattack.** The golem makes two slam attacks.    
-**Slam.** _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 16 (2d10 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw or have its hit point maximum reduced by an amount equal to the damage taken. The target dies if this attack reduces its hit point maximum to 0. The reduction lasts until removed by the greater restoration spell or other magic.    
-**Haste (Recharge 5–6).** Until the end of its next turn, the golem magically gains a +2 bonus to its AC, has advantage on Dexterity saving throws, and can use its slam attack as a bonus action.
+### Дії
+**Багатоатака.** Голем зробив дві лебові атаки.    
+**Слем.** _Атака ближньої зброї:_ +8 щоб вдарити в нього, досягти 5-ти ціль, одну ціль. _Удара:_ 16 (2d10 + 5) пошкоджені блокуванням. Якщо ціль є істотою, це має досягти успіху в економії Конституції округ Колумбія 15 або отримати максимальний розмір точки удару, який зменшується на суму, яка дорівнює розподіленій шкоді. Ціль вмирає, якщо ця атака зменшить її кінцеву точку до 0. Зменшення триває поки не буде видалено більшим заклинанням до відновлення або іншої магії.    
+**Смак (повторна зарядка 5–6).** До закінчення наступного повороту, голема магічно отримує бонус +2 до свого СВ, має перевагу рятувальникам слабкості, і може використовувати свою слабку атаку як бонусні дії.
