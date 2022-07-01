@@ -1,13 +1,13 @@
-name: Bane level: 1 school: enchantment classes: bard cleric
+назва: Бун рівень: 1 школа: зачарування класів: Бард священник
 
-# Bane
-_1st-level enchantment_
+# Бане
+_Зачарування на перший рівень_
 
-**Casting Time:** 1 action   
-**Range:** 30 feet   
-**Components:** V, S, M (a drop of blood)   
-**Duration:** Concentration, up to 1 minute
+**Час трансляції :** 1 дія   
+**Діапазон:** 30 футів   
+**компоненти:** V, S, М (падіння крові)   
+**тривалість:** Мета, до 1 хвилини
 
-Up to three creatures of your choice that you can see within range must make Charisma saving throws. Whenever a target that fails this saving throw makes an attack roll or a saving throw before the spell ends, the target must roll a d4 and subtract the number rolled from the attack roll or saving throw.
+До трьох істот, які дають змогу заощадити Харизму. Щоразу, коли ціль, яка не вдається цим заощадженням, робить атаку роллю або кидати їх, перш ніж закінчиться заклинання ціль повинна в колі d4 і відняти число, викинутий від нападу або зберегти поле.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. 
+**На вищих рівнях.** Коли ви транслюєте це заклинання використовуючи слот 2-го рівня або вище, ви можете назначити ще одну істоту для кожного рівня слоту вище 1st. 
