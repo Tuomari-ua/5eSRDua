@@ -1,6 +1,6 @@
-name: Amulet of the Planes type: item
+назва: Amulet з площин тип: елемент
 
-# Amulet of the Planes
-_Wondrous item, very rare (requires attunement)_
+# Амулет літаків
+_Wondrous позиція, дуже рідкісна (вимагає захоплення)_
 
-While wearing this amulet, you can use an action to name a location that you are familiar with on another plane of existence. Then make a DC 15 Intelligence check. On a successful check, you cast the **_plane shift_** spell. On a failure, you and each creature and object within 15 feet of you travel to a random destination. Roll a d100. On a 1–60, you travel to a random location on the plane you named. On a 61–100, you travel to a randomly determined plane of existence. 
+При одязі цього amulet, ви можете використовувати дію, щоб назвати місце, яке ви знайомі з іншим літаком. Потім зробіть перевірку розвідки DC 15. При успішній перевірці ви кинули **_зсув літака_** орфографію. На невдачі, ви та кожна істота і об'єкт, що знаходиться на відстані 15 футів від вас переходить у випадкове призначення. Нахиліть d100. 1–60 ви переміщуєтеся у випадкове місце в літаку, яке ви наробили. На 61-100 ви прямуєте до навмання визначеного літака існування. 
