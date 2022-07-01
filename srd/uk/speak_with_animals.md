@@ -1,11 +1,11 @@
-name: Speak with Animals level: 1 school: divination classes: bard druid ranger
+назва: Говорити з тваринами рівень: 1 школу: divination класі: Бард druid ranger
 
-# Speak with Animals
-_1st-level divination (ritual)_
+# Говорити тваринами
+_Однорівневе розлучення (ритуал)_
 
 **Casting Time:** 1 action    
 **Range:** Self    
 **Components:** V, S    
 **Duration:** 10 minutes
 
-You gain the ability to comprehend and verbally communicate with beasts for the duration. The knowledge and awareness of many beasts is limited by their intelligence, but at minimum, beasts can give you information about nearby locations and monsters, including whatever they can perceive or have perceived within the past day. You might be able to persuade a beast to perform a small favor for you, at the GM's discretion. 
+Ви отримуєте здатність розуміти і вертикально спілкуватися з звірами протягом довгого. Знання і усвідомлення багатьох звірів обмежене інтелектом, але мінімально, звір може надавати вам інформацію про найближчі місця та монстри, в тому числі про те, що вони можуть сприймати або сприймати їх протягом останнього дня. Ви можете переконати звіра зробити невелику користь для вас, на розсуд GM. 
