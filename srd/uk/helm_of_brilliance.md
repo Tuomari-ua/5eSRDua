@@ -1,16 +1,16 @@
-name: Helm of Brilliance type: item
+назва: Шолом з рідкістю типу: предмет
 
-# Helm of Brilliance
-_Wondrous item, very rare (requires attunement)_
+# Гельм з Бріліансу
+_Wondrous позиція, дуже рідкісна (вимагає захоплення)_
 
-This dazzling helm is set with 1d10 diamonds, 2d10 rubies, 3d10 fire opals, and 4d10 opals. Any gem pried from the helm crumbles to dust. When all the gems are removed or destroyed, the helm loses its magic.
+Ця лазня шолома встановлена з 1d10 діамантами, 2d10 рубінами, 3d10 пожежних опалив і 410 опалив. Будь яка каблучка — це від шолома до пилу. Коли всі дорогоцінні камені будуть видалені або знищені, шолом втрачає свою магію.
 
-You gain the following benefits while wearing it:
+Ви отримуєте такі переваги, носячи його:
 
-* You can use an action to cast one of the following spells (save DC 18), using one of the helm's gems of the specified type as a component: **_daylight_** (opal), **_fireball_** (fire opal), **_prismatic spray_** (diamond), or **_wall of fire_** (ruby). The gem is destroyed when the spell is cast and disappears from the helm.
-* As long as it has at least one diamond, the helm emits dim light in a 30-foot radius when at least one undead is within that area. Any undead that starts its turn in that area takes 1d6 radiant damage.
-* As long as the helm has at least one ruby, you have resistance to fire damage.
-* As long as the helm has at least one fire opal, you can use an action and speak a command word to cause one weapon you are holding to burst into flames. The flames emit bright light in a 10-foot radius and dim light for an additional 10 feet. The flames are harmless to you and the weapon. When you hit with an attack using the blazing weapon, the target takes an extra 1d6 fire damage. The flames last until you use a bonus action to speak the command word again or until you drop or stow the weapon.
+* Ви можете використати дію, щоб кинути одну з наступних орфографів (заощадити DC 18), для використання однієї з ґейми вказаного типу в якості компонента: **_daylight_** (прозорий), **_вогняний м'яч_** (вогняний опал), **_призматичний розпил_** (алмаз), або **_стіни вогню_** (ruby). Поглинання знищило при киданні і зникло з шолому.
+* До тих пір, поки в нього є принаймні один діамант, струм випромінює тьмяний світлий в радіусі 30 футів, якщо в межах цієї області. Невмируйте, що починається своєю чергою, завдає 1–6 радіанних ушкоджень.
+* Поки шолом має хоча б один руб, ви маєте опір вогню пошкодження.
+* Поки шолом має принаймні один пожежостійкий, ви можете використовувати дію і говорити командним словом, щоб викликати одну зброю, яку ви тримаєте в полум'ї. Це випромінювання випромінює яскраве світло в 10-футовому радіусі та тьмяне світло на додаткові 10 футів. Полум'я нешкідливе для вас та зброї. Коли ви вдарили при атаці за допомогою палаючої зброї, ціль завдає додатково 1d6 шкоди вогню. Полум'я останнє, доки ви не скористаєтесь бонусною дією для зміни слова командування, а також доки не впадете або не вкажете зброю.
 
 
-Roll a d20 if you are wearing the helm and take fire damage as a result of failing a saving throw against a spell. On a roll of 1, the helm emits beams of light from its remaining gems. Each creature within 60 feet of the helm other than you must succeed on a DC 17 Dexterity saving throw or be struck by a beam, taking radiant damage equal to the number of gems in the helm. The helm and its gems are then destroyed. 
+Проводьте d20, якщо ви носите шолом і звільніть пошкодження в результаті того, як заощадити удар від заклинання. На звороті 1 шолом випромінює бруски світла з інших коштовних каменів. Кожна істота в 60 футах керма, окрім того, що ви повинні досягти успіху у виконанні врятування Dexterity Dexterity, викидання або завдати удару об колоду, отримуючи радіантну шкоду, що дорівнює кількості самоцвітів з шоломом. Шолом та його дорогоцінні камені потім знищені. 
