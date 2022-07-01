@@ -1,13 +1,13 @@
-name: Dust Mephit type: elemental cr: .5
+назва: Mephit тип: елемент cr: .5
 
-# Dust Mephit
-_Small elemental, neutral evil_
+# Пил Мефіт
+_Невелике елементарне, нейтральне зло_
 
-**Armor Class** 12    
-**Hit Points** 17 (5d6)    
-**Speed** 30 ft., fly 30 ft.
+**Клас броні** 12    
+**Очки** 17 (5d6)    
+**швидкість** 30 висоти і летить 30 футів.
 
-| STR    | DEX     | CON     | INT    | WIS     | CHA     |
+| СТР    | ДЕКС    | CON     | ІНТ    | WIS     | CHA     |
 | ------ | ------- | ------- | ------ | ------- | ------- |
 | 5 (−3) | 14 (+2) | 10 (+0) | 9 (−1) | 11 (+0) | 10 (+0) |
 
@@ -19,9 +19,9 @@ _Small elemental, neutral evil_
 **Languages** Auran, Terran    
 **Challenge** 1/2 (100 XP)
 
-**Death Burst.** When the mephit dies, it explodes in a burst of dust. Each creature within 5 feet of it must then succeed on a DC 10 Constitution saving throw or be blinded for 1 minute. A blinded creature can repeat the saving throw on each of its turns, ending the effect on itself on a success.    
-**Innate Spellcasting (1/Day).** The mephit can innately cast **_sleep_**, requiring no material components. Its innate spellcasting ability is Charisma.
+**Вибух смерті.** Коли мефіта загине, вона вибухає в сплеску. Кожна істота в межах 5 футів від неї має досягти успіху на шляху збереження Конституції DC 10 або бути осліплена протягом 1 хвилини. Осліплена істота може повторювати порятунок нападу на кожен свій поворот, припинення впливу на себе успіху.    
+**Запізнати орфографію (1/Day).** Mephit може дати своє місце й трансляції **_sleep_**, вимагаючи не маючи матеріальних компонентів. Його вроджена здатність заклинання - харизма.
 
-### Actions
-**Claws.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 4 (1d4 + 2) slashing damage.    
-**Blinding Breath (Recharge 6).** The mephit exhales a 15- foot cone of blinding dust. Each creature in that area must succeed on a DC 10 Dexterity saving throw or be blinded for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+### Дії
+**Клини.** _Атака ближньої зброї:_ +4, досягає 5, одна істота. _Вдач:_ 4 (1d4 + 2) удар пошкодження.    
+**Засліплююче дихання (Поповнення 6).** The mephit exhales 15 - футів від сліпучих пилів. Кожна істота в цій зоні повинна бути успішною в заощадженні Dexterity 10 хвилин, або засліпленою протягом 1 хвилини. Створіння може повторити порятунок в кінці кожного своєї оберту, припинивши вплив на себе при успіху.
