@@ -1,12 +1,12 @@
-name: Foresight level: 9 school: divination classes: bard druid warlock wizard
+назва: Передбачування рівень: 9 школу: divination класи: жорстке заглушення воїна
 
-# Foresight
-_9th-level divination_
+# Проникливість
+_Девінація 9-го рівня_
 
-**Casting Time:** 1 minute    
-**Range:** Touch    
-**Components:** V, S, M (a hummingbird feather)    
-**Duration:** 8 hours
+**Час трансляції :** 1 хвилину    
+**Діапазон:** Торкніться    
+**компоненти:** V, S, М (обгортання hummingbird    
+**тривалість:** 8 годин
 
-You touch a willing creature and bestow a limited ability to see into the immediate future. For the duration, the target can't be surprised and has advantage on attack rolls, ability checks, and saving throws. Additionally, other creatures have disadvantage on attack rolls against the target for the duration.    
-This spell immediately ends if you cast it again before its duration ends. 
+Ви підтримуєте готові істоти і даруєте обмежену можливість бачити в найближчому майбутньому. На певний час ціль не може бути здивована і має перевагу від атаки роликів, перевірок здатності та економії кидів. Крім того, інші істоти мають невпинний вплив на атаку проти цілі на тривалість.    
+Ця заклинання закінчується, якщо ви перекидаєте її знову до закінчення тривалості. 
