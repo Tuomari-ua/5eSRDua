@@ -1,16 +1,16 @@
-name: Moonbeam level: 2 school: evocation classes: druid
+назва: Moonbeam рівень: 2 школа: евакуація класів: druid
 
-# Moonbeam
-_2nd-level evocation_
+# Місячний бум
+_Евокація 2-го рівня_
 
-**Casting Time:** 1 action    
-**Range:** 120 feet    
-**Components:** V, S, M (several seeds of any moonseed plant and a piece of opalescent feldspar)    
-**Duration:** Concentration, up to 1 minute
+**Час трансляції:** 1 дія    
+**Діапазон:** 120 футів    
+**компонентів:** V, S, M (будь-яке насіння Місячної Рослини та частина однопрозорої фельдспіралі)    
+**тривалість:** Зосередження, до 1 хвилини
 
-A silvery beam of pale light shines down in a 5-foot- radius, 40-foot-high cylinder centered on a point within range. Until the spell ends, dim light fills the cylinder.    
-When a creature enters the spell's area for the first time on a turn or starts its turn there, it is engulfed in ghostly flames that cause searing pain, and it must make a Constitution saving throw. It takes 2d10 radiant damage on a failed save, or half as much damage on a successful one.    
-A shapechanger makes its saving throw with disadvantage. If it fails, it also instantly reverts to its original form and can't assume a different form until it leaves the spell's light.    
-On each of your turns after you cast this spell, you can use an action to move the beam 60 feet in any direction.
+Сріблястий промінь світиться вниз на 5-20 кілометровому радіусі, 40-футовий циліндер зосереджений на точці за межами відстані. Аж поки заклинання не закінчиться, тьмяне світло заповнює циліндр.    
+Коли істота вступає в область орфографії вперше, при повороті або при старті в ньому розпочинається, він охоплений примарним полум'ям, які спричиняють біль у пошуку, і він повинен зробити економію Конституції. Вона забирає 2d10 радіантних ушкоджень при невдалому заощадженні, або ж удвічі більше шкоди від успішного.    
+Кухон дозволяє зберігати зміни в шкоді. Якщо вона зазнає невдачі, вона також миттєво повертається до своєї початкової форми і не може придумати іншої форми, доки не залишить її світлом.    
+На кожному з ваших поворотів після того, як ви кинули це заклинання ви можете використати дію, щоб рухати промінь на 60 футів в будь-якому напрямку.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d10 for each slot level above 2nd. 
+**На вищих рівнях.** Коли ви кидаєте це заклинання використовуючи гніздо 3-го рівня або вище, збільшення шкоди на 1d10 для кожного слоту вище 2nd. 
