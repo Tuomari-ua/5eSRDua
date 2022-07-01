@@ -1,13 +1,13 @@
-name: Lemure type: fiend (devil) cr: 0
+назва: Lemure type: fiend (devil) cr: 0
 
-# Lemure
-_Medium fiend (devil), lawful evil_
+# Лемури
+_Середній диявол), законне зло_
 
 **Armor Class** 7    
 **Hit Points** 13 (3d8)    
 **Speed** 15 ft.
 
-| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС   | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------ | ------- | ------ | ------- | ------ |
 | 10 (+0) | 5 (−3) | 11 (+0) | 1 (−5) | 11 (+0) | 3 (−4) |
 
@@ -21,5 +21,5 @@ _Medium fiend (devil), lawful evil_
 **Devil's Sight.** Magical darkness doesn't impede the lemure's darkvision.    
 **Hellish Rejuvenation.** A lemure that dies in the Nine Hells comes back to life with all its hit points in 1d10 days unless it is killed by a good‐aligned creature with a bless spell cast on that creature or its remains are sprinkled with holy water.
 
-### Actions
-**Fist.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 2 (1d4) bludgeoning damage.
+### Дії
+**Fist.** _Атака ближньої зброї:_ +3 до удару, досягає 5-ї цілі, одна мета. _Удару:_ 2 (1d4) пошкодження дублювання.
