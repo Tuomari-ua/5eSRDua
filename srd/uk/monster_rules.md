@@ -1,311 +1,311 @@
-description: General rules and descriptions for monsters from the 5th Edition (5e) SRD (System Reference Document).
+опис: Загальні правила та описи для монстрів з 5-ї версії (5e) SRD (Документація з Системної Документації).
 
-# Monster Rules
-A monster's statistics, sometimes referred to as its **stat block**, provide the essential information that you need to run the monster.
+# Правила монстрів
+Статистика монстра, яку іноді називають **блоком для штрихів**, надає необхідну інформацію для запуску монстра.
 
-## Size
-A monster can be Tiny, Small, Medium, Large, Huge, or Gargantuan. The Size Categories table shows how much space a creature of a particular size controls in combat. See the **Player's Handbook** for more information on creature size and space.
-### Size Categories
+## Розмір
+Гонщик може бути Тіні, малий, Середній, Великий, Великий, Великий, або Гаргантуань. Розмір категорії категорій показує об'єм місця істоти певного розміру в бою. Дивіться **Довідник гравця** для отримання додаткової інформації про розмір та простір істот.
+### Категорії розміру
 
-| Size       | Space                  | Examples            |
-| ---------- | ---------------------- | ------------------- |
-| Tiny       | 2 1/2 by 2 1/2 ft.     | Imp, sprite         |
-| Small      | 5 by 5 ft.             | Giant rat, goblin   |
-| Medium     | 5 by 5 ft.             | Orc, werewolf       |
-| Large      | 10 by 10 ft.           | Hippogriff, ogre    |
-| Huge       | 15 by 15 ft.           | Fire giant, treant  |
-| Gargantuan | 20 by 20 ft. or larger | Kraken, purple worm |
-> ### Modifying Creatures
+| Розмір       | З відступом               | Приклади                  |
+| ------------ | ------------------------- | ------------------------- |
+| Дрібний      | 2 1/2 на 2 1/2 фут.       | Imp, sprite               |
+| Маленький    | 5 на 5 фут.               | Величезний щур            |
+| Медіум       | 5 на 5 фут.               | Орк                       |
+| Великий      | 10 на фут.                | Hippogriff, ogre          |
+| Дуже великий | 15 на 15 фут.             | Вогняний гігант, він      |
+| Gargantuan   | 20 на 20 футів або більше | Кракен, фіолетовий хробак |
+> ### Зміна істот
 > 
-> Despite the versatile collection of monsters in this book, you might be at a loss when it comes to finding the perfect creature for part of an adventure. Feel free to tweak an existing creature to make it into something more useful for you, perhaps by borrowing a trait or two from a different monster or by using a **variant** or **template**, such as the ones in this book. Keep in mind that modifying a monster, including when you apply a template to it, might change its challenge rating.
+> Не зважаючи на ворожу колекцію монстрів у цій книзі, може загубитися, коли справа доходить до пошуку ідеальної істоти під час пригод. Ви можете налаштувати існуючу істоту, щоб зробити її більш корисною для вас, можливо запозичивши риса або два з іншого монстра, або використовуючи **варіант** або **шаблон**таких, як в цій книзі. Майте на увазі, що зміна монстра, включаючи, коли ви застосовуєте до нього шаблон, може змінити його оцінку виклику.
 
-## Type
-A monster's type speaks to its fundamental nature. Certain spells, magic items, class features, and other effects in the game interact in special ways with creatures of a particular type. For example, an **arrow of dragon slaying** deals extra damage not only to dragons but also other creatures of the dragon type, such as dragon turtles and wyverns.
+## Тип
+Тип монстра говорить про його фундаментальну природу. Деякі заклинання, магічні предмети, класові риси та інші ефекти у грі взаємодіють особливими способами з істотами певного типу. Наприклад, **стріла дракона вбиває** наносить додаткові пошкодження не тільки драконам, але й інших істот типу дракона, такі, як драконські черепахи і брови.
 
-The game includes the following monster types, which have no rules of their own.
+В грі включені наступні типи монстрів, які не мають власних правил.
 
-**Aberrations** are utterly alien beings. Many of them have innate magical abilities drawn from the creature's alien mind rather than the mystical forces of the world. The quintessential aberrations are aboleths, and slaadi.
+**Аберрації** є абсолютно іноземними істотами. Багато з них мають вроджені магічні здібності, що випливають із чужоземного розуму, а не містичні сили світу. Фантастичні аберації - це підлітки, і рабство.
 
-**Beasts** are nonhumanoid creatures that are a natural part of the fantasy ecology. Some of them have magical powers, but most are unintelligent and lack any society or language. Beasts include all varieties of ordinary animals, dinosaurs, and giant versions of animals.
+**Звірі** це нехуманові створіння, які є природною частиною фантазії екології. Деякі з них мають магічні сили, але більшість нерозумна і не мають жодної суспільства чи мови. У звірях входять всі різновиди звичайних тварин, динозаврів і гігантських версій тварин.
 
-**Celestials** are creatures native to the Upper Planes. Many of them are the servants of deities, employed as messengers or agents in the mortal realm and throughout the planes. Celestials are good by nature, so the exceptional celestial who strays from a good alignment is a horrifying rarity. Celestials include angels, couatls, and pegasi.
+**Знаменитості** є істотами рідними у Верхньому Планеті. Багато з них слуги божеств, які використовуються як посланці чи агенти смертної сфери і по всьому літаку. Знамениті добрі природи. Отож, винятковий небеса, що простягається від доброго вирівнювання - це жахлива рідкісність. Знамениті є ангели, куати та пегації.
 
-**Constructs** are made, not born. Some are programmed by their creators to follow a simple set of instructions, while others are imbued with sentience and capable of independent thought. Golems are the iconic constructs. Many creatures native to the outer plane of Mechanus, such as modrons, are constructs shaped from the raw material of the plane by the will of more powerful creatures.
+**Збирання** зроблені, а не народжуються. Деякі запрограмовані своїми творцями, щоб дотримуватися простого набору інструкцій, а інші піддаються чутливості та незалежній думці. Големи - це знакові конструкції. Багато істот родинних в зовнішній літаку Механія, таких як модрони, є конструкціями формою з сировини літака від волі сильніших істот.
 
-**Dragons** are large reptilian creatures of ancient origin and tremendous power. True dragons, including the good metallic dragons and the evil chromatic dragons, are highly intelligent and have innate magic. Also in this category are creatures distantly related to true dragons, but less powerful, less intelligent, and less magical, such as wyverns and pseudodragons.
+**Дракони** — великі прямокутні створіння стародавнього походження і надзвичайної сили. Вірні дракони, включаючи добрих металічних драконів і злих хроматичних драконів, є дуже розумними та мають вроджену магію. Також у цій категорії істоти дистанційно пов'язані з справжніми драконами, але менш потужними, менш розумними і менш магічними, такими, як водорості і псевдодракони.
 
-**Elementals** are creatures native to the elemental planes. Some creatures of this type are little more than animate masses of their respective elements, including the creatures simply called elementals. Others have biological forms infused with elemental energy. The races of genies, including djinn and efreet, form the most important civilizations on the elemental planes. Other elemental creatures include azers, invisible stalkers, and water weirds.
+**Елементи** є носіями носіїв на елементарних літаках. Деякі істоти такого типу трохи більше, ніж анімувати маси відповідних елементів, включаючи створінь, які просто називають елементами. Інші мають біологічні форми, наповнені елементарною енергією. Гонки генів, зокрема, джин і ефрит, утворюють найважливіші цивілізації на елементарних планах. Інші елементні істоти включають азери, невидимі тупикові та водяні диваки.
 
-**Fey** are magical creatures closely tied to the forces of nature. They dwell in twilight groves and misty forests. In some worlds, they are closely tied to the Feywild, also called the Plane of Faerie. Some are also found in the Outer Planes, particularly the planes of Arborea and the Beastlands. Fey include dryads, pixies, and satyrs.
+**Лев** — магічні створіння, тісно пов'язані з військами природи. Вони сидять в присмерках і туманних лісах. В деяких країнах вони тісно пов'язані з Фейдилом, також називається Площа Фарі. Деякі також зустрічаються в зовнішніх літаках, особливо в літаках Арборея і у чудовиськах. До речі, саме Фей дріади, пікселі та сатири.
 
-**Fiends** are creatures of wickedness that are native to the Lower Planes. A few are the servants of deities, but many more labor under the leadership of archdevils and demon princes. Evil priests and mages sometimes summon fiends to the material world to do their bidding. If an evil celestial is a rarity, a good fiend is almost inconceivable. Fiends include demons, devils, hell hounds, rakshasas, and yugoloths.
+**Воїни** — це мізерні істоти зла, які є носіями до нижчих літаків. Деякі з них слуги божеств, але багато хто більше робочої сили під керівництвом архідебілів та демонів князях. Злі священики та плутанини іноді викликають кулаки в матеріальний світ, щоб виконувати їхню пропозицію. Якщо лиха небеса - це рідкісність, хороша диявол майже немислима. До боєприпасів належать демони, дияволи, пеклі гонки, раскази та юголоти.
 
-**Giants** tower over humans and their kind. They are humanlike in shape, though some have multiple heads (ettins) or deformities (fomorians). The six varieties of true giant are hill giants, stone giants, frost giants, fire giants, cloud giants, and storm giants. Besides these, creatures such as ogres and trolls are giants.
+**Гіганти** вежі над людьми та їх родом. Вони схожі на людську форму але в деяких є кілька голів (еттинки) чи деформацій (фоморіанців). Шість різновидів справжнього гіганта - гіганта, кам'яні гіганти, морозні гіганти, вогняні велетні, хмарні та грозові гіганти. Крім них, істоти, такі як огре, і тролі - гіганта.
 
-**Humanoids** are the main peoples of a fantasy gaming world, both civilized and savage, including humans and a tremendous variety of other species. They have language and culture, few if any innate magical abilities (though most humanoids can learn spellcasting), and a bipedal form. The most common humanoid races are the ones most suitable as player characters: humans, dwarves, elves, and halflings. Almost as numerous but far more savage and brutal, and almost uniformly evil, are the races of goblinoids (goblins, hobgoblins, and bugbears), orcs, gnolls, lizardfolk, and kobolds.
+**Гуманоїди** є головними народами фантазійного ігрового світу, як цивілізованого, так і дикуна, включаючи людину і величезну кількість інших видів. Вони мають мову та культуру, мало хто з вроджених магічних здібностей (хоча більшість гуманоїдів вивчає заклинання) та біпедальну форму. Найпоширеніші перегони людства – найімовірніші люди серед гравців: люди, гноми, ельфи та двоє. Майже стільки але набагато дикіше і жорстоке, і майже рівномірно зле, гонки гоблінів (гобліни, гобіти, губи, будяки), орки, шибениці, шибениці та коболов'яни, чи всякі гобліни.
 
-**Monstrosities** are monsters in the strictest sense--frightening creatures that are not ordinary, not truly natural, and almost never benign. Some are the results of magical experimentation gone awry (such as owlbears), and others are the product of terrible curses (including minotaurs). They defy categorization, and in some sense serve as a catch-all category for creatures that don't fit into any other type.
+**Монстр** є монстрами в найсуворішому сенсі - страхітливі істоти, які не є звичайними, а не справді природними і майже ніколи не доброякісними. Деякі - результати магічних експериментів пішли незручно (як соверди), а інші - це продукт жахливих прокляттів (включаючи мінотаври). Вони зневажають категоризацію, а в деякому сенсі слугують викоріненою категорією для створінь, які не відповідають ніяким іншим типом.
 
-**Oozes** are gelatinous creatures that rarely have a fixed shape. They are mostly subterranean, dwelling in caves and dungeons and feeding on refuse, carrion, or creatures unlucky enough to get in their way. Black puddings and gelatinous cubes are among the most recognizable oozes.
+**Oozes** це гелаторні істоти, які рідко мають фіксовану форму. Більшість вони підземні, мешкають в печерах, в підземеллях, в яких годують відмову, падло та створіння, і їм не пощастило пробити дорогу. Чорні пудинги та желатинні кубики є одними з найбільш впізнаваних юбів.
 
-**Plants** in this context are vegetable creatures, not ordinary flora. Most of them are ambulatory, and some are carnivorous. The quintessential plants are the shambling mound and the treant. Fungal creatures such as the gas spore and the myconid also fall into this category.
+**Рослини** у цьому контексті - це створіння, а не звичайні флори. Більшість з них швидка і хижаки. Квадратні істотні рослини - це ганьба гармата і третина. Миготливі істоти, такі як газовий спора і міконід також впадають в цю категорію.
 
-**Undead** are once-living creatures brought to a horrifying state of undeath through the practice of necromantic magic or some unholy curse. Undead include walking corpses, such as vampires and zombies, as well as bodiless spirits, such as ghosts and specters.
+**Невмирущий** - це колись живі істоти, які принесли до жахливого стану безсмертної практики некромантичних магій або деякого недобросовісного прокляття. Немертві відносяться до суходільних корпів, таких як вампіри та зомбі, а також до духів без тіл, таких як привиди та глядачі.
 
-### Tags
-A monster might have one or more tags appended to its type, in parentheses. For example, an orc has the humanoid (orc) type. The parenthetical tags provide additional categorization for certain creatures. The tags have no rules of their own, but something in the game, such as a magic item, might refer to them. For instance, a spear that is especially effective at fighting demons would work against any monster that has the demon tag.
+### Мітки
+Монстр може мати одну або кілька тегів для свого типу в дужках. Наприклад, орк має тип Хуманоїда (orc). Батьківські теги забезпечують додаткову категоризацію для певних істот. Теги не мають власних правил, але щось в грі, такі як магічний предмет, можуть посилатися на них. Наприклад, спис, що особливо ефективний у боротьбі з демонами буде працювати проти будь-якого монстра, який має тег демону.
 
-## Alignment
-A monster's alignment provides a clue to its disposition and how it behaves in a roleplaying or combat situation. For example, a chaotic evil monster might be difficult to reason with and might attack characters on sight, whereas a neutral monster might be willing to negotiate.
+## Вирівнювання
+Вирівнювання монстра дає ключ до його схильності та того, як він поводиться в ролі або в бойовій ситуації. Наприклад, хаотичного злого монстра може бути важко міркувати і може атакувати персонажів на перший погляд, Тоді як нейтральний монстр може бути готовий домовитися.
 
-The alignment specified in a monster's stat block is the default. Feel free to depart from it and change a monster's alignment to suit the needs of your campaign. If you want a good-aligned green dragon or an evil storm giant, there's nothing stopping you.
+Вирівнювання у блоці монстра є стандартним. Відчуйте свої відчуття та змінюйте вирівнювання монстра відповідно до потреб вашої кампанії. Якщо ви хочете доброго узгодженого зеленого дракона або злого гіганта шторму, то вас нічого не зупинить.
 
-Some creatures can have **any alignment**. In other words, you choose the monster's alignment. Some monster's alignment entry indicates a tendency or aversion toward law, chaos, good, or evil. For example, a berserker can be any chaotic alignment (chaotic good, chaotic neutral, or chaotic evil), as befits its wild nature.
+Деякі істоти можуть мати **будь-який вирівнювання**. Іншими словами, ви вибираєте вирівнювання монстра. Запис вирівнювання деяких монстрів вказує на тенденцію або відхилення від закону, хаосу, хорошого чи зла. Наприклад, берсеркер може бути будь-яким хаотичним вирівнюванням (хаотичним хорошим, хаотичним нейтральним або хаотичним злом), наданим його диким природою.
 
-Many creatures of low intelligence have no comprehension of law or chaos, good or evil. They don't make moral or ethical choices, but rather act on instinct. These creatures are unaligned, which means they don't have an alignment.
+Багато істот низької розвідки не мають розуміння закону або хаосу, хорошого чи зла. Вони не приймають моральний чи етичний вибір, а скоріше діють за свій інстинкт. Ці істоти неприєднані, а це означає, що вони не мають вирівнювання.
 
-## Armor Class
-A monster that wears armor or carries a shield has an Armor Class (AC) that takes its armor, shield, and Dexterity into account. Otherwise, a monster's AC is based on its Dexterity modifier and natural armor, if any. If a monster has natural armor, wears armor, or carries a shield, this is noted in parentheses after its AC value.
+## Клас броні
+Монстр, який носить обладунок або має щит з обладунком (AC), який враховує його обладунок, щит, та коштує. В іншому випадку AC монстра базується на модифікаторі Dexterity і природній броні, якщо є. Якщо монстр має природну броню, носить броню, або має щит, він відзначається в дужках після його значення AC.
 
-## Hit Points
-A monster usually dies or is destroyed when it drops to 0 hit points.
+## Хіт точок
+Монстр зазвичай помирає або руйнується, коли опускає 0 влучених очок.
 
-A monster's hit points are presented both as a die expression and as an average number. For example, a monster with 2d8 hit points has 9 hit points on average (2 × 4½).
+Потужні точки монстра представлені як вираз смерти, так і як середнє число. Наприклад, монстр з 2d8 пунктами досягає 9 пунктів в середньому (2 × 41↑ 2).
 
-A monster's size determines the die used to calculate its hit points, as shown in the Hit Dice by Size table.
+Розмір монстра визначає розмір смерті, який використовується для обчислення його точок удару, як показано в кущах за розмірами таблиці.
 
-### Hit Dice by Size
-| Monster Size | Hit Die | Average HP per Die |
-| ------------ | ------- | ------------------ |
-| Tiny         | d4      | 2 1/2              |
-| Small        | d6      | 3 1/2              |
-| Medium       | d8      | 4 1/2              |
-| Large        | d10     | 5 1/2              |
-| Huge         | d12     | 6 1/2              |
-| Gargantuan   | d20     | 10 1/2             |
+### Захоплюючий кусок за розміром
+| Розмір монстра | Хіт померти | Середній ОЗ за смерть |
+| -------------- | ----------- | --------------------- |
+| Дрібний        | д4          | 2 1/2                 |
+| Маленький      | д6          | 3 1/2                 |
+| Медіум         | д8          | 4 1/2                 |
+| Великий        | д10         | 5 1/2                 |
+| Дуже великий   | д12         | 6 1/2                 |
+| Gargantuan     | д20         | 10 1/2                |
 
-A monster's Constitution modifier also affects the number of hit points it has. Its Constitution modifier is multiplied by the number of Hit Dice it possesses, and the result is added to its hit points. For example, if a monster has a Constitution of 12 (+1 modifier) and 2d8 Hit Dice, it has 2d8 + 2 hit points (average 11).
+Також модифікатор Конституції монстра впливає на кількість ударів яких він має. Модифікатор його Конституції помножений на кількість таймера хіту, який він має, і результат додається до відповідних точок. Наприклад, якщо монстр має Конституцію 12 (+1 модифікатор) і 2 d8 - він має 2 d8 + 2 пункти (середній показник 11).
 
-## Speed
-A monster's speed tells you how far it can move on its turn.
+## Швидкість
+Швидкість монстра говорить про те, наскільки далеко він може рухатися на повороті.
 
-All creatures have a walking speed, simply called the monster's speed. Creatures that have no form of ground-based locomotion have a walking speed of 0 feet. Some creatures have one or more of the following additional movement modes.
+Усі істоти мають швидкість ходу, просто називають монстром. Твори що не мають форми локомоції на основі ґрунту, мають швидкість ходьби на висоті 0 футів. Деякі істоти мають один або більше таких додаткових режимів руху.
 
 
-### Burrow
-A monster that has a burrowing speed can use that speed to move through sand, earth, mud, or ice. A monster can't burrow through solid rock unless it has a special trait that allows it to do so.
+### Нора
+Монстр, який має швидкість стрільби може використати цю швидкість для переміщення через пісок, Землю, або лід. Монстр не може проховатися крізь твердий камінь, доки не має особливої ознаки, яка дозволяє йому це зробити.
 
-### Climb
-A monster that has a climbing speed can use all or part of its movement to move on vertical surfaces. The monster doesn't need to spend extra movement to climb.
+### Піднятися
+Монстр зі швидкістю підйому може використати все або частину руху на вертикальній поверхні. Монстр не повинен витрачати більше руху, щоб піднятися.
 
-### Fly
-A monster that has a flying speed can use all or part of its movement to fly. Some monsters have the ability to **hover**, which makes them hard to knock out of the air. Such a monster stops hovering when it dies.
+### Політ
+Монстр зі швидкістю польоту, може використовувати все або частину його руху для польоту. Деякі монстри мають можливість **зависати**, що ускладнює їх викидання з повітря. Такий монстр перестає ховувати, коли він помирає.
 
-### Swim
-A monster that has a swimming speed doesn't need to spend extra movement to swim.
+### Плавець
+Монстр, який має швидкість плавання, не повинен витрачати додатковий рух для плавання.
 
-## Ability Scores
-Every monster has six ability scores (Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma) and corresponding modifiers.
+## Результати здібностей
+Кожен монстр має шість пунктів здатності (потужність, спритність, Складова, інтелект, мудрість та харизма) і відповідні модифікатори.
 
-## Saving Throws
-The Saving Throws entry is reserved for creatures that are adept at resisting certain kinds of effects. For example, a creature that isn't easily charmed or frightened might gain a bonus on its Wisdom saving throws. Most creatures don't have special saving throw bonuses, in which case this section is absent.
+## Збереження рядків
+Неможливо зберегти запис для істот, які не вміють опиратися на інші види ефектів. Наприклад, істота, яку не легко зачарувати і перелякати, може отримати бонус у її мудрості рятуванні кидачів. Більшість істот не мають спеціалізованих жбурлянь для скидання, тоді цей розділ відсутній.
 
-A saving throw bonus is the sum of a monster's relevant ability modifier and its proficiency bonus, which is determined by the monster's challenge rating (as shown in the Proficiency Bonus by Challenge Rating table).
+Бонус, що заощаджується, є сумою відповідного модифікатора здатності монстра та його бонусу, який визначається рейтингом виклику монстра (як це показано в горі бонус виклику за оцінкою виклику).
 
-### Proficiency Bonus by Challenge Rating
-| Challenge | Proficiency Bonus |
-| --------- |:----------------- |
-| 0         | +2                |
-| 1/8       | +2                |
-| 1/4       | +2                |
-| 1/2       | +2                |
-| 1         | +2                |
-| 2         | +2                |
-| 3         | +2                |
-| 4         | +2                |
-| 5         | +3                |
-| 6         | +3                |
-| 7         | +3                |
-| 8         | +3                |
-| 9         | +4                |
-| 10        | +4                |
-| 11        | +4                |
-| 12        | +4                |
-| 13        | +5                |
-| 14        | +5                |
-| 15        | +5                |
-| 16        | +5                |
-| 17        | +6                |
-| 18        | +6                |
-| 19        | +6                |
-| 20        | +6                |
-| 21        | +7                |
-| 22        | +7                |
-| 23        | +7                |
-| 24        | +7                |
-| 25        | +8                |
-| 26        | +8                |
-| 27        | +8                |
-| 28        | +8                |
-| 29        | +9                |
-| 30        | +9                |
+### Бонус майстерності за оцінкою виклику
+| Виклик | Бонус здібностей |
+| ------ |:---------------- |
+| 0      | +2               |
+| 1/8    | +2               |
+| 1/4    | +2               |
+| 1/2    | +2               |
+| 1      | +2               |
+| 2      | +2               |
+| 3      | +2               |
+| 4      | +2               |
+| 5      | +3               |
+| 6      | +3               |
+| 7      | +3               |
+| 8      | +3               |
+| 9      | +4               |
+| 10     | +4               |
+| 11     | +4               |
+| 12     | +4               |
+| 13     | +5               |
+| 14     | +5               |
+| 15     | +5               |
+| 16     | +5               |
+| 17     | +6               |
+| 18     | +6               |
+| 19     | +6               |
+| 20     | +6               |
+| 21     | +7               |
+| 22     | +7               |
+| 23     | +7               |
+| 24     | +7               |
+| 25     | +8               |
+| 26     | +8               |
+| 27     | +8               |
+| 28     | +8               |
+| 29     | +9               |
+| 30     | +9               |
 
-## Skills
-The Skills entry is reserved for monsters that are proficient in one or more skills. For example, a monster that is very perceptive and stealthy might have bonuses to Wisdom (Perception) and Dexterity (Stealth) checks.
+## Навики
+Запис Вмінь зарезервований для монстрів, які є досвідченими в одному або кількох вміннях. Наприклад, монстр, який є дуже сприйнятливим і непохитним, може мати бонуси у Мудрості (Виняття) та аналізі (непохитності) чеки.
 
-A skill bonus is the sum of a monster's relevant ability modifier and its proficiency bonus, which is determined by the monster's challenge rating (as shown in the Proficiency Bonus by Challenge Rating table). Other modifiers might apply. For instance, a monster might have a larger-than-expected bonus (usually double its proficiency bonus) to account for its heightened expertise.
+Бонус навичок є сумою відповідного модифікатора здатності монстра та його бонусу, який визначається рейтингом виклику монстра (як це показано в горі бонус виклику за оцінкою виклику). Інші модифікатори можуть застосувати. Наприклад, монстр може мати більш очікуваний бонус (зазвичай вдвічі більше його досвіду бонусу) для врахування його посиленого експертизи.
 
-## Armor, Weapon, and Tool Proficiencies
-Assume that a creature is proficient with its armor, weapons, and tools. If you swap them out, you decide whether the creature is proficient with its new equipment.
+## Броня, зброя та інструмент
+Припустимо, що створіння є досвідченим для обладунків, зброї та інструментів. Якщо їх замінити, то вирішимо, що істота є ефективною у новому обладнанні.
 
-For example, a hill giant typically wears hide armor and wields a greatclub. You could equip a hill giant with chain mail and a greataxe instead, and assume the giant is proficient with both, one or the other, or neither.
+Наприклад, гігант пагорба, як правило, носить броню і має чудовий клуб. Ви могли б екіпірувати гіганта з ланцюговою поштою і перевагою, натомість, і припускати, що гігант досвідчений з обох, з одинаком чи іншим, або з іншим.
 
-## Vulnerabilities, Resistances, and Immunities
-Some creatures have vulnerability, resistance, or immunity to certain types of damage. Particular creatures are even resistant or immune to damage from nonmagical attacks (a magical attack is an attack delivered by a spell, a magic item, or another magical source). In addition, some creatures are immune to certain conditions.
+## Вразливість, Стійкість та Імунітети
+Деякі істоти мають вразливість, опір або імунітет до певних типів пошкоджень. Особливі істоти навіть стійкі чи імунітети до пошкодження від немагічних атак (магічна атака - це напад, атака надана заклинанням, магічний предмет або інший магічний джерело). Крім того, деякі істоти незахищені у певних умовах.
 
-## Senses
-The Senses entry notes a monster's passive Wisdom (Perception) score, as well as any special senses the monster might have. Special senses are described below.
+## Сумісність
+Запис Senses зазначає пасивну мудрість монстра (Поняття) бачення, так само як і будь-який інший відчуває монстра. Спеціальні відчуття описані нижче.
 
-### Blindsight
-A monster with blindsight can perceive its surroundings without relying on sight, within a specific radius.
+### Сліпобачення
+Монстр з сліпим зором може сприймати його оточення, не покладаючи на нього очей, він знаходиться в певному радіусі.
 
-Creatures without eyes, such as grimlocks and gray oozes, typically have this special sense, as do creatures with echolocation or heightened senses, such as bats and true dragons.
+Істоти без очей, такі як похмурі та сірі муки, зазвичай мають такий особливий сенс, як істоти з ехолокацією чи підвищенням відчуттів, таких як кажани та справжні дракони.
 
-If a monster is naturally blind, it has a parenthetical note to this effect, indicating that the radius of its blindsight defines the maximum range of its perception.
+Якщо монстр природно сліпий, у нього є батькова нотатка до цього ефекту, вказавши, що радіус його сліпоти визначає максимальний діапазон його сприйняття.
 
-### Darkvision
-A monster with darkvision can see in the dark within a specific radius. The monster can see in dim light within the radius as if it were bright light, and in darkness as if it were dim light. The monster can't discern color in darkness, only shades of gray. Many creatures that live underground have this special sense.
+### Затемнення
+Монстр із темним зором бачить у темряві всередині певного радіусу. Монстр може бачити в тьмяному світлі в радіусі так, ніби в ньому було яскраве світло і в темряві наче світло затемнене. Монстр не може розпізнати колір у темряві, тільки відтінки сірого кольору. У багатьох істот, які живуть під землею, є такий особливий сенс.
 
 ### Tremorsense
-A monster with tremorsense can detect and pinpoint the origin of vibrations within a specific radius, provided that the monster and the source of the vibrations are in contact with the same ground or substance. Tremorsense can't be used to detect flying or incorporeal creatures. Many burrowing creatures, such as ankhegs, have this special sense.
+Монстр з треморством може виявити і визначити походження вібрацій у конкретному радіусі, за умови, що монстр і джерело вібрацій контактують з однаковою землею або речовиною. Не можна використовувати морський глузд для виявлення літаючих або інкорпоративних істот. Багато пахне створіння, такі як бокчеги, мають цей особливий сенс.
 
-### Truesight
-A monster with truesight can, out to a specific range, see in normal and magical darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceive the original form of a shapechanger or a creature that is transformed by magic. Furthermore, the monster can see into the Ethereal Plane within the same range.
+### Трудовий
+Монстр з істиною манка, на певному діапазоні, бачить в нормальному і магічній темряві, бачить невидимих істот і предметів, автоматично виявляти візуальні ілюзії і успішним збереженням на них ґрунтів, і сприймає оригінальну форму форма. чи істоту, яка трансформується магією. Крім того, монстр може зазирнути в Хемальну площину Ethereal в межах одного діапазону.
 
-## Languages
-The languages that a monster can speak are listed in alphabetical order. Sometimes a monster can understand a language but can't speak it, and this is noted in its entry. A "--" indicates that a creature neither speaks nor understands any language.
+## Мови
+Мови, якими володіє монстра, перераховані в алфавітному порядку. Іноді монстр може розуміти мову, але не може нею говорити, і це відзначалось в його вступі. "-" вказує на те, що істота не говорить і не розуміє жодної мови.
 
 ### Telepathy
-Telepathy is a magical ability that allows a monster to communicate mentally with another creature within a specified range. The contacted creature doesn't need to share a language with the monster to communicate in this way with it, but it must be able to understand at least one language. A creature without telepathy can receive and respond to telepathic messages but can't initiate or terminate a telepathic conversation.
+Телепатія - це магічна здатність, яка дозволяє монстру спілкуватися з розумово з іншою істотою у певному діапазоні. Контактна істота не потребує спільного спілкування з монстром, щоб спілкуватися з нею так, але це має бути здатним зрозуміти принаймні одну мову. Творчість без телепатії може отримувати та реагувати на телепатичні повідомлення, але не може ініціювати чи припинити телепатичну розмову.
 
-A telepathic monster doesn't need to see a contacted creature and can end the telepathic contact at any time. The contact is broken as soon as the two creatures are no longer within range of each other or if the telepathic monster contacts a different creature within range. A telepathic monster can initiate or terminate a telepathic conversation without using an action, but while the monster is incapacitated, it can't initiate telepathic contact, and any current contact is terminated.
+Телепатичний монстр не потребує побачити контактну істоту і може припинити телепатичний контакт в будь-який час. Контакт розбитий, як тільки два створіння вже не в межах один одного або якщо телепатичний монстр контактує з іншою істотою за діапазоном. Телепатичний монстр може ініціювати або припинити телепатичну розмову без використання дії, але у той час як монстр має втрату конденсатору, він не може ініціювати телепний контакт, і будь-який поточний контакт припиняється.
 
-A creature within the area of an **_antimagic field_** or in any other location where magic doesn't function can't send or receive telepathic messages.
+Функція в області **_антимагічного поля_** або у будь-якому іншому місці, де магія не може надсилати або отримувати телеплексичні повідомлення.
 
-## Challenge
-A monster's **challenge rating** tells you how great a threat the monster is. An appropriately equipped and well-rested party of four adventurers should be able to defeat a monster that has a challenge rating equal to its level without suffering any deaths. For example, a party of four 3rd-level characters should find a monster with a challenge rating of 3 to be a worthy challenge, but not a deadly one.
+## Виклик
+Рейтинг битви **монстра** покаже вам, наскільки чудовий монстр є. Достойно оснащена та добре виконана партія чотирьох авантюристів повинна бути в змозі перемогти монстра, який має рейтинг до його рівня, не зазнає будь-якої смерті. Наприклад, партія з чотирма персонажами третього рівня повинна знайти монстра з викликовим рейтингом 3 для того, щоб стати гідним викликом, але не смертоносний.
 
-Monsters that are significantly weaker than 1st- level characters have a challenge rating lower than 1. Monsters with a challenge rating of 0 are insignificant except in large numbers; those with no effective attacks are worth no experience points, while those that have attacks are worth 10 XP each.
+Монстри, які значно слабші за 11-й рівень персонажів мають виклик рейтингу нижче 1, ніж 1. Монстри з рейтингом завдання 0 є незначними, за винятком великих чисел; ті, хто не має ефективних атак, не вартують жодних балів досвіду, тоді як ті, які мають атаки, варті 10 досвіду кожного.
 
-Some monsters present a greater challenge than even a typical 20th-level party can handle. These monsters have a challenge rating of 21 or higher and are specifically designed to test player skill.
+Деякі монстри ставлять більший виклик ніж навіть типова партія 20-го рівня може впоратися. Ці монстри мають рейтинг 21 або вище і спеціально розроблені для перевірки навички гравців.
 
-### Experience Points
-The number of experience points (XP) a monster is worth is based on its challenge rating. Typically, XP is awarded for defeating the monster, although the GM may also award XP for neutralizing the threat posed by the monster in some other manner. Unless something tells you otherwise, a monster summoned by a spell or other magical ability is worth the XP noted in its stat block.
+### Очки досвіду
+Кількість очків досвіду (XP) монстр вартий того, щоб його оцінити виклик. Зазвичай XP нагороджений за те, що ви перемогли монстра, хоча GM також може присудити XP для нейтралізації загрози, яку створює монстр в чомусь іншому випадку. Якщо щось не розповість вам, інакше, монстр викликав заклинання або іншу магічну здатність варто знати XP в блоці.
 
-#### Experience Points by Challenge Rating
-| Challenge | XP      |
-| --------- | ------- |
-| 0         | 0 or 10 |
-| 1/8       | 25      |
-| 1/4       | 50      |
-| 1/2       | 100     |
-| 1         | 200     |
-| 2         | 450     |
-| 3         | 700     |
-| 4         | 1,100   |
-| 5         | 1,800   |
-| 6         | 2,300   |
-| 7         | 2,900   |
-| 8         | 3,900   |
-| 9         | 5,000   |
-| 10        | 5,900   |
-| 11        | 7,200   |
-| 12        | 8,400   |
-| 13        | 10,000  |
-| 14        | 11,500  |
-| 15        | 13,000  |
-| 16        | 15,000  |
-| 17        | 18,000  |
-| 18        | 20,000  |
-| 19        | 22,000  |
-| 20        | 25,000  |
-| 21        | 33,000  |
-| 22        | 41,000  |
-| 23        | 50,000  |
-| 24        | 62,000  |
-| 25        | 75,000  |
-| 26        | 90,000  |
-| 27        | 150,000 |
-| 28        | 120,000 |
-| 29        | 135,000 |
-| 30        | 155,000 |
+#### Очки досвіду за оцінкою виклику
+| Виклик | Досвід   |
+| ------ | -------- |
+| 0      | 0 або 10 |
+| 1/8    | 25       |
+| 1/4    | 50       |
+| 1/2    | 100      |
+| 1      | 200      |
+| 2      | 450      |
+| 3      | 700      |
+| 4      | 1,100    |
+| 5      | 1,800    |
+| 6      | 2,300    |
+| 7      | 2,900    |
+| 8      | 3,900    |
+| 9      | 5,000    |
+| 10     | 5,900    |
+| 11     | 7,200    |
+| 12     | 8,400    |
+| 13     | 10,000   |
+| 14     | 11,500   |
+| 15     | 13,000   |
+| 16     | 15,000   |
+| 17     | 18,000   |
+| 18     | 20,000   |
+| 19     | 22,000   |
+| 20     | 25,000   |
+| 21     | 33,000   |
+| 22     | 41,000   |
+| 23     | 50,000   |
+| 24     | 62,000   |
+| 25     | 75,000   |
+| 26     | 90,000   |
+| 27     | 150,000  |
+| 28     | 120,000  |
+| 29     | 135,000  |
+| 30     | 155,000  |
 
-## Special Traits
-Special traits (which appear after a monster's challenge rating but before any actions or reactions) are characteristics that are likely to be relevant in a combat encounter and that require some explanation.
+## Особливості
+Особливі риси (які з'являються після рейтингу виклику монстра, але перед будь-якими діями чи реакціями) є характеристиками, які, ймовірно, будуть актуальними у боротьбі і це вимагає деяких пояснень.
 
-### Innate Spellcasting
-A monster with the innate ability to cast spells has the Innate Spellcasting special trait. Unless noted otherwise, an innate spell of 1st level or higher is always cast at its lowest possible level and can't be cast at a higher level. If a monster has a cantrip where its level matters and no level is given, use the monster's challenge rating.
+### Innate орфографію
+Монстр з вродженою здатністю транслювати заклинання має особливу спецефектну рису. Якщо не помітити в іншому випадку, вроджене заклинання 1-го рівня або вище завжди кладається на найнижчий можливий рівень і не може бути накладений на вищому рівні. Якщо монстр має колір, де має значення свого рівня, і який не буде дано, використовуйте рейтинг виклику монстра.
 
-An innate spell can have special rules or restrictions. For example, a drow mage can innately cast the **_levitate_** spell, but the spell has a "self only" restriction, which means that the spell affects only the drow mage.
+Природне заклинання може мати спеціальні правила або обмеження. Наприклад, w mage can innately cast **_levitate_** spell, але заклинання має єдине "лише" обмеження, що означає, що заклинання впливає лише на масу ролі.
 
-A monster's innate spells can't be swapped out with other spells. If a monster's innate spells don't require attack rolls, no attack bonus is given for them.
+Політні заклинання монстра не можуть бути замінені з іншими заклинаннями. Коли вроджені заклинання монстра не потребують атаки, бонус атаки не надається для них.
 
-### Spellcasting
-A monster with the Spellcasting special trait has a spellcaster level and spell slots, which it uses to cast its spells of 1st level and higher. The spellcaster level is also used for any cantrips included in the feature.
+### Орфографію
+Монстр зі спеціальною рисою орфографії правопису має рівні заклинання і прописні слоти, який він використовує, щоб транслювати заклинання 1-го рівня і вище. Рівень заклинання використовується також для будь-яких канікул, включених до функції.
 
-The monster has a list of spells known or prepared from a specific class. The list might also include spells from a feature in that class, such as the Divine Domain feature of the cleric or the Druid Circle feature of the druid. The monster is considered a member of that class when attuning to or using a magic item that requires membership in the class or access to its spell list.
+Монстр має список заклинань, відомих або підготовлених від конкретного класу. Список також може включати заклинання з можливості цього класу, наприклад функцію "Божественний домен" для священнослужителів або "Druid" Круг Круга від druid. Монстр вважається членом цього класу при захопленні або використанні чарівного пункту, що вимагає членства в класі або доступу до його списку.
 
-A monster can cast a spell from its list at a higher level if it has the spell slot to do so. For example, a drow mage with the 3rd-level **_lightning bolt_** spell can cast it as a 5th-level spell by using one of its 5th-level spell slots.
+Монстр може придавати заклинання зі свого списку на більш високому рівні, якщо у нього є слот заклинання для цього. Наприклад, дроворубка Межі з 3D-рівня **_блискавка_** орфографії може чавити її як заклинання 5-го рівня, використовуючи один з його слотів 5-го рівня.
 
-You can change the spells that a monster knows or has prepared, replacing any spell on its spell list with a spell of the same level and from the same class list. If you do so, you might cause the monster to be a greater or lesser threat than suggested by its challenge rating.
+Ви можете змінити заклинання які монстр знає або вже готовий, замінивши будь-які заклинання на заклинання списком одного рівня і з тогочасного списку класів. Якщо ви це зробите, ви можете змусити монстра бути більшою або меншою загрозою, ніж запропонованою його рейтингом викликів.
 
-### Psionics
-A monster that casts spells using only the power of its mind has the psionics tag added to its Spellcasting or Innate Spellcasting special trait. This tag carries no special rules of its own, but other parts of the game might refer to it. A monster that has this tag typically doesn't require any components to cast its spells.
+### Псіоніка
+Монстр, який кидає орфографію, використовуючи тільки потужність розуму, повинен бути доданий до Тег заклинання або іннація спеціальної риси, що лищить спецефекти. Цей тег не містить жодних спеціальних правил, але інші частини гри можуть посилатися на них. Монстр, який має цей тег, як правило, не вимагає ніяких компонентів для трансляції своїх заклинань.
 
-## Actions
-When a monster takes its action, it can choose from the options in the Actions section of its stat block or use one of the actions available to all creatures, such as the Dash or Hide action.
+## Дії
+Коли монстр вживає свої дії, він може обирати з опцій у розділі Дії блока характеристик або використовувати одну з дій, доступних для всіх істот, наприклад, Забіг або Приховати дію.
 
-### Melee and Ranged Attacks
-The most common actions that a monster will take in combat are melee and ranged attacks. These can be spell attacks or weapon attacks, where the "weapon" might be a manufactured item or a natural weapon, such as a claw or tail spike.
+### Атака ближнього і дальнього бою
+Найбільш поширені дії, які монстр вживатиме в бою, - це рукопашні та далекобійні атаки. Це теракти на заклинання або атаки зброї, де "зброя" може бути виробленим предметом або природною зброєю, наприклад, кіготь або килим.
 
-**Creature vs. Target.** The target of a melee or ranged attack is usually either one creature or one target, the difference being that a "target" can be a creature or an object.
+**Створіння проти цілі.** Ціль ближнього або далекобійного атаки зазвичай є однією істотою або однією ціллю, різниця в тому, що "мета" може бути істотою або об'єктом.
 
-**Hit.** Any damage dealt or other effects that occur as a result of an attack hitting a target are described after the "**Hit**" notation. You have the option of taking average damage or rolling the damage; for this reason, both the average damage and the die expression are presented.
+**Ударитись.** Будь-яка шкода нанесена або інші ефекти, які трапляються в результаті атаки, вдаривши по цілі, описуються після „**удар**". У вас є можливість нанести середні збитки або забити шкоду; з цієї причини як середній шкоду, так і вираз смерті подається в даний час.
 
-**Miss.** If an attack has an effect that occurs on a miss, that information is presented after the "**Miss:**" notation.
+**Пропущ.** Якщо атака має ефект, що відбувається на промах, ця інформація буде представлена після "**Пропусті:**" Нотації ".
 
-### Multiattack
-A creature that can make multiple attacks on its turn has the Multiattack action. A creature can't use Multiattack when making an opportunity attack, which must be a single melee attack.
+### Багатоатака
+істота, яка може робити кілька атак на її кроці, має мультиатаку. Творчість не може використовувати мультиатаку під час боротьби з можливістю, яка має бути однією атакою ближнього бою.
 
-### Ammunition
-A monster carries enough ammunition to make its ranged attacks. You can assume that a monster has 2d4 pieces of ammunition for a thrown weapon attack, and 2d10 pieces of ammunition for a projectile weapon such as a bow or crossbow.
+### Боєприпаси
+Монстр має достатньо боєприпасів, щоб зробити далекобійні атаки. Ви можете припустити, що монстр має 2d4 кусків боєприпасів для атаки з кинутою зброєю, і 2d10 одиниць боєприпасів для снаряду, наприклад, лук або арбалет.
 
-## Reactions
-If a monster can do something special with its reaction, that information is contained here. If a creature has no special reaction, this section is absent.
+## Реакції
+Якщо монстр зможе зробити щось особливе в його реакції, тут міститься ця інформація. Якщо істота не має спеціальної реакції, відсутній цей розділ.
 
-## Limited Usage
-Some special abilities have restrictions on the number of times they can be used.
+## Обмежене використання
+Деякі особливі можливості мають обмеження на кількість використань.
 
-**X/Day.** The notation "X/Day" means a special ability can be used X number of times and that a monster must finish a long rest to regain expended uses. For example, "1/Day" means a special ability can be used once and that the monster must finish a long rest to use it again.
+**X/Day.** Нотація "X/Day" означає спеціальну здатність використовувати Х число разів, і що монстр повинен завершити тривале відпочинку, щоб відновити використання. Наприклад, "1/Day" означає спеціальні можливості, які можна використовувати один раз і що монстр повинен завершити тривале відпочинку.
 
-**Recharge X–Y.** The notation "Recharge X–Y" means a monster can use a special ability once and that the ability then has a random chance of recharging during each subsequent round of combat. At the start of each of the monster's turns, roll a d6. If the roll is one of the numbers in the recharge notation, the monster regains the use of the special ability. The ability also recharges when the monster finishes a short or long rest.
+**Поповнення X–Y.** Нотація "Перезарядження X–Y" означає, що монстр може використовувати спеціальну здатність один раз і що здатність тоді має випадковий шанс підзарядки під час кожного наступного раунду бою. На початку черги кожного монстра жбурляє d6. Якщо жбурляння є однією з чисел для позначення заряду, монстр відновлює використання спеціальної здатності. Здатність також перезаряджається, коли монстр завершує коротке або тривале відпочинки.
 
-For example, "Recharge 5–6" means a monster can use the special ability once. Then, at the start of the monster's turn, it regains the use of that ability if it rolls a 5 or 6 on a d6.
+Наприклад, "перезарядка 5–6" означає, що монстр може одноразово використовувати спеціальні здібності. Потім, на початку черги монстра він знову користується цією здатністю, якщо котиться 5-6 на d6.
 
-**Recharge after a Short or Long Rest.** This notation means that a monster can use a special ability once and then must finish a short or long rest to use it again.
+**Поповнення після короткого або довгого відновлення.** Цей запис означає, що монстр може використовувати один раз спеціальну здатність, а потім має закінчувати коротке або довге відпочинку, щоб використовувати його знову.
 
-## Grapple Rules for Monsters
-Many monsters have special attacks that allow them to quickly grapple prey. When a monster hits with such an attack, it doesn't need to make an additional ability check to determine whether the grapple succeeds, unless the attack says otherwise.
+## Граяблуні правила для Монстрів
+Багато монстрів мають спеціальні атаки, які дозволяють їм швидко боротися зі здобиччю. Коли монстр вдаряється з такою атакою, не потрібно перевіряти додаткові можливості визначити, чи успішне жалюгідність і хіба атака говорить про інакше.
 
-A creature grappled by the monster can use its action to try to escape. To do so, it must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check against the escape DC in the monster's stat block. If no escape DC is given, assume the DC is 10 + the monster's Strength (Athletics) modifier.
+Полювання, зібране монстром, може використати свої дії, щоб спробувати втікти. Щоб це зробити, це має бути успішним в блоці сильності (Athletic), або Декстрики (Acrobatics) без втечі DC в блоці монстра. Якщо не дано взагалі, припускаємо, що DC дорівнює 10 + Сила монстра (Athletics) модифікатор.
 
-## Equipment
-A stat block rarely refers to equipment, other than armor or weapons used by a monster. A creature that customarily wears clothes, such as a humanoid, is assumed to be dressed appropriately.
+## Устаткування
+Блок статистики рідко посилається на обладнання, крім броні чи зброї, що використовується монстром. Припускається істота, яка зазвичай носить одяг, така як гуманоїд, повинна бути вдягнена відповідно.
 
-You can equip monsters with additional gear and trinkets however you like, and you decide how much of a monster's equipment is recoverable after the creature is slain and whether any of that equipment is still usable. A battered suit of armor made for a monster is rarely usable by someone else, for instance. If a spellcasting monster needs material components to cast its spells, assume that it has the material components it needs to cast the spells in its stat block.
+Ви можете оснастити монстрів додатковою передачею і Trinkets як вам заманеться, і ви вирішуєте, наскільки велика частина спорядження монстра буде відновлена після того, як істота буде забита і чи будь-яке з цього обладнання досі можна використовувати. Амка, побита костюмом броні, зроблена для монстра, рідко використовується кимось іншим. Якщо заклинання монстра потребує матеріальних компонентів, щоб транслювати його заклинання, припустимо, що у нього є матеріальні компоненти, потрібні для того, щоб покласти заклинання в штатний блок.
 
-## Monster Indexes
+## Індекси монстрів
 
-* [Monsters by CR](/gamemaster_rules/monster_indexes/monsters_by_cr/)
-* [Monsters by Name](/gamemaster_rules/monster_indexes/monsters_by_name/)
-* [Monsters by Type](/gamemaster_rules/monster_indexes/monsters_by_type)
+* [Монстри по CR](/gamemaster_rules/monster_indexes/monsters_by_cr/)
+* [Монстри за назвою](/gamemaster_rules/monster_indexes/monsters_by_name/)
+* [Монстри за типом](/gamemaster_rules/monster_indexes/monsters_by_type)
