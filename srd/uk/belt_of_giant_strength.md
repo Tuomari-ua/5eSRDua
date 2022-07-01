@@ -1,16 +1,16 @@
-name: Belt of Giant Strength type: item
+назва: Пояс великої потужності типу: елемент
 
-# Belt of Giant Strength
-_Wondrous item, rarity varies (requires attunement)_
+# Ремінь великої могутності
+_Разом з Wondrous, рідкість змінюється (вимагає супроводу)_
 
-While wearing this belt, your Strength score changes to a score granted by the belt. If your Strength is already equal to or greater than the belt's score, the item has no effect on you.
+Носячи цей пояс, ваш рівень потужності змінився на результат, наданий конвеєром. Якщо ваша сила вже дорівнює або перевищує результат конвеєра, предмет не впливає на вас.
 
-Six varieties of this belt exist, corresponding with and having rarity according to the six kinds of true giants. The **belt of stone giant strength** and the **belt of frost giant strength** look different, but they have the same effect.
+Існує шість різновидів даного поясу, що відповідають відповідають шести видів гіганта. **Пояс кам'яної величезної сили** і **пояс з заморозеним сильним** виглядає інакше, але вони мають той же ефект.
 
-| Type              | Strength | Rarity    |
-| ----------------- | -------- | --------- |
-| Hill giant        | 21       | Rare      |
-| Stone/frost giant | 23       | Very rare |
-| Fire giant        | 25       | Very rare |
-| Cloud giant       | 27       | Legendary |
-| Storm giant       | 29       | Legendary |
+| Тип                        | Міцність | Рідкість       |
+| -------------------------- | -------- | -------------- |
+| Гілл-Гілл                  | 21       | Рідкісний      |
+| Кам'яні/заморожений гігант | 23       | Дуже рідкісний |
+| Вогняний гігант            | 25       | Дуже рідкісний |
+| Велетенські хмари          | 27       | Легендарний    |
+| Штормовий гігант           | 29       | Легендарний    |
