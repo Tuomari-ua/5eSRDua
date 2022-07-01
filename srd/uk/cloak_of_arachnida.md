@@ -1,12 +1,12 @@
-name: Cloak of Arachnida type: item
+назва: Cloak Arachnida тип: елемент
 
-# Cloak of Arachnida
-_Wondrous item, very rare (requires attunement)_
+# Плащаник Арахніди
+_Wondrous позиція, дуже рідкісна (вимагає захоплення)_
 
-This fine garment is made of black silk interwoven with faint silvery threads. While wearing it, you gain the following benefits:
+Цей прекрасний одяг виготовлений з чорних шовкових вбрань з блідими нитками. Під час одягу ви отримуєте наступні переваги:
 
-* You have resistance to poison damage.
-* You have a climbing speed equal to your walking speed.
-* You can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free.
-* You can't be caught in webs of any sort and can move through webs as if they were difficult terrain.
-* You can use an action to cast the **_web_** spell (save DC 13). The web created by the spell fills twice its normal area. Once used, this property of the cloak can't be used again until the next dawn. 
+* Ви маєте опір отруйному пошкодженню.
+* У вас швидкість сходження дорівнює вашій швидкості руху.
+* Ви можете рухатись вгору, вниз, вниз і через вертикальну поверхню і вниз по стелі, залишаючи ваші руки вільними.
+* Вас неможливо спіймати в павутині й може пересуватися через павутини, наче такої важкої місцевості.
+* Ви можете використати дію, щоб кинути **_веб-сайт_** заклинання (зберегти DC 13). Інтернет, створений за допомогою заклинання заповнює 2 нормальної ділянки. Як тільки використовується ця властивість плаща не може бути використана знову до наступного світанку. 
