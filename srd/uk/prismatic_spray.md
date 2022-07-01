@@ -1,19 +1,19 @@
-name: Prismatic Spray level: 7 school: evocation classes: sorcerer wizard
+назва: Призматичний Спрей рівень: 7 школа: евакуація класів: сортувальник
 
-# Prismatic Spray
-_7th-level evocation_
+# Призматичний Спрей
+_Евокація 7-го рівня_
 
 **Casting Time:** 1 action    
 **Range:** Self (60-foot cone)    
 **Components:** V, S    
 **Duration:** Instantaneous
 
-Eight multicolored rays of light flash from your hand. Each ray is a different color and has a different power and purpose. Each creature in a 60-foot cone must make a Dexterity saving throw. For each target, roll a d8 to determine which color ray affects it.    
-**1. Red.** The target takes 10d6 fire damage on a failed save, or half as much damage on a successful one.    
-**2. Orange.** The target takes 10d6 acid damage on a failed save, or half as much damage on a successful one.    
-**3. Yellow.** The target takes 10d6 lightning damage on a failed save, or half as much damage on a successful one.    
-**4. Green.** The target takes 10d6 poison damage on a failed save, or half as much damage on a successful one.    
-**5. Blue.** The target takes 10d6 cold damage on a failed save, or half as much damage on a successful one.    
-**6. Indigo.** On a failed save, the target is restrained. It must then make a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the spell ends. If it fails its save three times, it permanently turns to stone and is subjected to the petrified condition. The successes and failures don't need to be consecutive; keep track of both until the target collects three of a kind.    
-**7. Violet.** On a failed save, the target is blinded. It must then make a Wisdom saving throw at the start of your next turn. A successful save ends the blindness. If it fails that save, the creature is transported to another plane of existence of the GM's choosing and is no longer blinded. (Typically, a creature that is on a plane that isn't its home plane is banished home, while other creatures are usually cast into the Astral or Ethereal planes.)    
-**8. Special.** The target is struck by two rays. Roll twice more, rerolling any 8. 
+Вісім багатокольорових променів світла від вашої руки. Кожен промінь має інший колір і має іншу силу та мету. Кожна істота в 60 футових конусах повинна зробити розподілення поспіль. Для кожної цілі, напишіть d8 для визначення, який колір променів впливає на це.    
+**1. Год.** Ціль забирає 10d6 шкоди від невдалої збереження, або ж половину шкоди від успішного.    
+**2. Апельсин.** Ціль отримує 10d6 кислотних пошкоджень від невдалої збереження, або ж половину шкоди від успішного.    
+**3. Ціль** Єльність отримує 10d6 освітніх пошкоджень від вдалого заощадження, або ж удвічі більше шкоди від успішного.    
+**4. Зелена компанія.** Ціль отримує 10d6 пошкодження від отрути при невдалому збереженні, або ж удвічі менше шкоди від успішного.    
+**5. Синій.** Ціль отримує 10d6 холодних пошкоджень від невдалого заощадження або ж половину шкоди від успішного.    
+**6. Індіго.** Після невдалого збереження ціль стримана. Тоді це має зробити економію Конституції кидати наприкінці кожного свого повороту. Якщо вона успішно заощаджує тричі, заклинання закінчується. Якщо він не вдається, то три рази він повернеться до каменю і зазнає обвішаного стану. Помилки та помилки не повинні бути виправданими; відстежуйте обидва до тих пір, поки цільова не збере 3 типу.    
+**7. Віолет.** При невдалому збереженні ціль втрачена. Тоді можливе заощадження мудрості на початку вашого наступного кроку. Успішний порятунок завершує сліпоту. Якщо він не вдається, це заощаджує, істота передається іншому літаку існування GM і більше не осліплюється. (Як правило, істота, що знаходиться в літаку, в якому не вигнано додому, поки інші істоти зазвичай вкидаються в літаки Astral або Ethereal.    
+**8. Особливий.** ціль вражає два промені. Поворот двічі більше, скорочуючи 8. 
