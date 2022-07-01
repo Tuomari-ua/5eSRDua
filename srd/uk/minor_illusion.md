@@ -1,14 +1,14 @@
-name: Minor Illusion level: 0 school: illusion classes: bard sorcerer warlock wizard
+назва: Неповнота ілюзії рівень: 0 школа: ілюзія класів: сад сортувальник warlock
 
-# Minor Illusion
-_Illusion cantrip_
+# Неповноцінний інлюзія
+_Ілюзійний канал_
 
-**Casting Time:** 1 action    
-**Range:** 30 feet    
-**Components:** S, M (a bit of fleece)    
-**Duration:** 1 minute
+**Час трансляції:** 1 дія    
+**Діапазон:** 30 футів    
+**компоненти:** S, М (трохи темних)    
+**Тривалість:** хвилини
 
-You create a sound or an image of an object within range that lasts for the duration. The illusion also ends if you dismiss it as an action or cast this spell again.    
-If you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else's voice, a lion's roar, a beating of drums, or any other sound you choose. The sound continues unabated throughout the duration, or you can make discrete sounds at different times before the spell ends.    
-If you create an image of an object--such as a chair, muddy footprints, or a small chest--it must be no larger than a 5-foot cube. The image can't create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, because things can pass through it.    
-If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature. 
+Ви створюєте звук чи зображення об’єкта в межах цього діапазону триває тривалість. Ілюзія також закінчиться, якщо ви відкинете її як дію або кинете це заклинання знову.    
+Якщо ви створите звук, його об'єм буде коливатися від шепоту до крику. Це може бути ваш голос, чужий голос, рев лева, б'ючи барабани, чи будь-який інший звук, який ви вибираєте. Звук триває триває тривалістю, або ви можете робити перервні звуки по-різному перед закінченням заклинання.    
+Якщо ви створите зображення об’єкта, наприклад крісла, каламутні сліди або невелика скриня - вона повинна бути не більше, ніж куб 5 футів. Зображення не може створити звук, світло, запах, або будь-який інший сенсорний ефект. Фізична взаємодія з зображенням виявляє, що вона є ілюзією, тому що вона може пройти через неї.    
+Якщо істота використовує свою дію для вивчення звуку чи зображення, істота може визначити, що вона є ілюзією з успішним розвідкою (слідкування) перевірити проти вашого заклинання збереження DC. Якщо істота виявляє ілюзію того, що вона є, ілюзія стає слабкою для істоти. 
