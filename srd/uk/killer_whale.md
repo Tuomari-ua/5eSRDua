@@ -1,13 +1,13 @@
-name: Killer Whale type: beast cr: 3
+назва: Вбивця тип: звір cr: 3
 
-# Killer Whale
-_Huge beast, unaligned_
+# Кіллерський кит
+_Величезний звір, неприєднаний_
 
-**Armor Class** 12 (natural armor)    
-**Hit Points** 90 (12d12 + 12)    
-**Speed** 0 ft., swim 60 ft.
+**Клас броні** 12 (природна броня)    
+**Бали** 90 (12d12 + 12)    
+**Швидкість** фут. плавати на 60 футів.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 19 (+4) | 10 (+0) | 13 (+1) | 3 (−4) | 12 (+1) | 7 (−2) |
 
@@ -16,9 +16,9 @@ _Huge beast, unaligned_
 **Languages** --    
 **Challenge** 3 (700 XP)
 
-**Echolocation.** The whale can't use its blindsight while deafened.    
-**Hold Breath.** The whale can hold its breath for 30 minutes.    
-**Keen Hearing.** The whale has advantage on Wisdom (Perception) checks that rely on hearing.
+**Ехолокація.** Кіт не може використовувати його сліпого бачення під час оглушення.    
+**Утримуйте дух.** Кит може вдихнути протягом 30 хвилин.    
+**Keen Hearing.** кита переймає перевагу в Wisdom (Perception) перевіряє, які покладаються на слухання.
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 21 (5d6 + 4) piercing damage. 
+### Дії
+**Біт.** _Атака ближньої зброї:_ +6 до удару, досягає 5-ї цілі, одна мета. _Вразів:_ 21 (5d6 + 4) пробивної шкоди. 
