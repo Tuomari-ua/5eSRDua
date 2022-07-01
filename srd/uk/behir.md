@@ -1,13 +1,13 @@
-name: Behir type: monstrosity cr: 11
+назва: Behir тип: чудовість К: 11
 
-# Behir
-_Huge monstrosity, neutral evil_
+# Бегір
+_Величезне чудовисько, нейтральне зло_
 
 **Armor Class** 17 (natural armor)    
 **Hit Points** 168 (16d12 + 64)    
 **Speed** 50 ft., climb 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA     |
 | ------- | ------- | ------- | ------ | ------- | ------- |
 | 23 (+6) | 16 (+3) | 18 (+4) | 7 (-2) | 14 (+2) | 12 (+1) |
 
@@ -18,10 +18,10 @@ _Huge monstrosity, neutral evil_
 **Challenge** 11 (7,200 XP)
 
 
-### Actions
-**Multiattack.** The behir makes two attacks: one with its bite and one to constrict.    
-**Bite.** _Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Hit:_ 22 (3d10 + 6) piercing damage.    
-**Constrict.** _Melee Weapon Attack:_ +10 to hit, reach 5 ft., one Large or smaller creature. _Hit:_ 17 (2d10 + 6) bludgeoning damage plus 17 (2d10 + 6) slashing damage. The target is grappled (escape DC 16) if the behir isn't already constricting a creature, and the target is restrained until this grapple ends.    
-**Lightning Breath (Recharge 5–6).** The behir exhales a line of lightning that is 20 feet long and 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.    
-**Swallow.** The behir makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is also swallowed, and the grapple ends. While swallowed, the target is blinded and restrained, it has total cover against attacks and other effects outside the behir, and it takes 21 (6d6) acid damage at the start of each of the behir's turns. A behir can have only one creature swallowed at a time.    
-If the behir takes 30 damage or more on a single turn from the swallowed creature, the behir must succeed on a DC 14 Constitution saving throw at the end of that turn or regurgitate the creature, which falls prone in a space within 10 feet of the behir. If the behir dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 15 feet of movement, exiting prone.
+### Дії
+**Мультиатака.** Бегір робить дві атаки: один за своїм укусом та один до округу.    
+**Біт.** _Атака ближньої зброї:_ +10 до удару, досягає 10 щитів, одна ціль. _Удара:_ 22 (3d10 + 6) пробиваючої шкоди.    
+**Крут.** _Атака ближньої зброї:_ +10 для удару, досягає 5 великих або менших істот. _Вдач:_ 17 (2d10 + 6) пошкодження душення плюсу 17 (2d10 + 6) Пошкодження від пошкодження. Ціль перетягується (escape DC 16) якщо бегір не буде вже обмежувати істоту, і ціль буде обмежена до кінця.    
+**Дихання блискавок (Поповнення 5-6).** Бегір демонструє лінію блискавки, довжиною 20 футів і 5 футів в ширину. Кожна істота в цьому рядку повинна зробити економію Dexter DC 16 завдаючи шкоди 66 (12d10) при невдалому збереженні, або ж це наполовину шкода за успішний.    
+**Swallow.** Бегір робить атаку на кусень об Середню або меншу ціль — пересадка. Якщо атака вдаряє, ціль також ковтне, і жаль завершується. Незважаючи на ковтання, ціль засліплена та стримана, вона має загальний прикриття проти атак та інших наслідків поза заднім лісом, і він забирає 21 (6d6) кислотного пошкодження на початку кожного з поворотів бека. Бегір може за один момент поглинути лише одну істоту.    
+Якщо бегір отримує 30 шкоди або більше після одного повороту від коваленої істоти, Бегір повинен досягти успіху в конституції DC 14 року, наприкінці цього повороту або регресувати істоту, що попадає на морійку в межах 10 футів на спину. Якщо Бегір помре, ковтаюча істота більше не обмежується нею і може текти з трупу використовуючи 15 футів руху, виходячи з кори.
