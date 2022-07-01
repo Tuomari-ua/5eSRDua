@@ -1,27 +1,27 @@
-name: Roper type: monstrosity cr: 5
+назва: Roper type: monstrosity cr: 5
 
-# Roper
-_Large monstrosity, neutral evil_
+# Мотузка
+_Велике чудовисько, нейтральне зло_
 
-**Armor Class** 20 (natural armor)    
-**Hit Points** 93 (11d10 + 33)    
-**Speed** 10 ft., climb 10 ft.
+**Клас броні** 20 (природна броня)    
+**Бали** 93 (11d10 + 33)    
+**Швидкість** фут. лізти на 10 футів.
 
-| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС   | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------ | ------- | ------ | ------- | ------ |
 | 18 (+4) | 8 (−1) | 17 (+3) | 7 (−2) | 16 (+3) | 6 (−2) |
 
-**Skills** Perception +6, Stealth +5    
-**Senses** darkvision 60 ft., passive Perception 16    
-**Languages** --    
-**Challenge** 5 (1,800 XP)
+**Навичка** Перехоплення +6, Stealth +5    
+**Звуки** затемнення 60 фут. пасивне сприйняття 16    
+Мови**Мови** ,    
+**виклик** (1,800 XP)
 
-**False Appearance.** While the roper remains motionless, it is indistinguishable from a normal cave formation, such as a stalagmite.    
-**Grasping Tendrils.** The roper can have up to six tendrils at a time. Each tendril can be attacked (AC 20; 10 hit points; immunity to poison and psychic damage). Destroying a tendril deals no damage to the roper, which can extrude a replacement tendril on its next turn. A tendril can also be broken if a creature takes an action and succeeds on a DC 15 Strength check against it.    
-**Spider Climb.** The roper can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+**Помилковий вигляд.** Хоча романт залишається нерухомим, його не відрізняє від нормального формування печери, наприклад переслідування.    
+**Грасинг Tendrils.** Вона може мати до шести сухожил за раз. На кожен сухожил можна напасти (AC 20; 10 очки; імунітет до отрути та психічної шкоди). Знищення сухожильної суміші не наносить шкоди обрізанню, що може спричинити тенденцію заміни на наступний поворот. Тендріл може також бути зламаний, якщо істота бере на себе дію і досягає статусу DC 15 проти нього. Ліфт    
+**павука.** Робінка може піднятися на важкі поверхи, в тому числі і вниз по стелях, не потребуючи перевірки здібності.
 
-### Actions
-**Multiattack.** The roper makes four attacks with its tendrils, uses Reel, and makes one attack with its bite.    
-**Bite.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 22 (4d8 + 4) piercing damage.    
-**Tendril.** _Melee Weapon Attack:_ +7 to hit, reach 50 ft., one creature. _Hit:_ The target is grappled (escape DC 15). Until the grapple ends, the target is restrained and has disadvantage on Strength checks and Strength saving throws, and the roper can't use the same tendril on another target.    
-**Reel.** The roper pulls each creature grappled by it up to 25 feet straight toward it.
+### Дії
+**Мультиатака.** Родочка робить чотири напади з її вусиками, за допомогою Рельса і робить одну атаку з його укусом.    
+**Біт.** _Атака ближнього бою зброї:_ +7 щоб вдарити, сягнути 5 літер, одна ціль. _Удара:_ 22 (4d8 + 4) наносить шкоду від проколу.    
+**Тендріл.** _Атака ближньої зброї:_ +7 щоб ударити, досягнути 50 прот., одна істота. _Удару:_ Ціль запланована (escape-DC 15). Доки кінцеве жалем буде обмежена мета і не зможе завдати шкоди сильним перевіральникам та сильним заощадженням, і шахрай не може використовувати таку ж тенденцію на іншу ціль.    
+**Реп.** Ораж тягне кожну істоту схоплено до 25 футів прямо до неї.
