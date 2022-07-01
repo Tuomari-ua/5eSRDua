@@ -1,12 +1,12 @@
-name: Fire Storm level: 7 school: evocation classes: cleric druid sorcerer
+назва: Вогняна Шторма рівень: 7 школа: евакуація класів: цифровий druid сортувальник
 
-# Fire Storm
-_7th-level evocation_
+# Вогняна буря
+_Евокація 7-го рівня_
 
-**Casting Time:** 1 action    
-**Range:** 150 feet    
-**Components:** V, S    
-**Duration:** Instantaneous
+**Час трансляції часу:** 1 дія    
+**Діапазон:** 150 футів    
+**компоненти:** V, S    
+**тривалість:** миттєві
 
-A storm made up of sheets of roaring flame appears in a location you choose within range. The area of the storm consists of up to ten 10-foot cubes, which you can arrange as you wish. Each cube must have at least one face adjacent to the face of another cube. Each creature in the area must make a Dexterity saving throw. It takes 7d10 fire damage on a failed save, or half as much damage on a successful one.    
-The fire damages objects in the area and ignites flammable objects that aren't being worn or carried. If you choose, plant life in the area is unaffected by this spell. 
+Шторм складається з листів ревучого полум'я, в місці, за яким ви обираєте в радіусі дії. Площа шторму складається з приблизно 10-ти футів кубиків, які можна організувати за бажанням. Кожен кубик повинен мати принаймні одне обличчя суміжне обличчя до обличчя іншого куба. Кожна істота в області повинна створити рятування поспіль. Наносить 7d10 шкоди від втрати втрати полум'я, або ж удвічі більше шкоди від успішного.    
+вогонь пошкоджує об'єкти в районі і запалює легкозаймисті об'єкти, які не носять або не доставляються. Але якщо оберемо життя, посадіть життя за цей заклинання не вплине. 
