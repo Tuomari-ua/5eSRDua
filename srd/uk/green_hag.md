@@ -1,13 +1,13 @@
-name: Green Hag type: fey cr: 3
+назва: Зелений Hg вид: fey cr: 3
 
 # Green Hag
-_Medium fey, neutral evil_
+_Середнє лихо_
 
-**Armor Class** 17 (natural armor)    
-**Hit Points** 82 (11d8 + 33)    
-**Speed** 30 ft.
+**Клас броні** 17 (природна броня)    
+**Бали** 82 (11d8 + 33)    
+**Швидкість** фут.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 12 (+1) | 16 (+3) | 13 (+1) | 14 (+2) | 14 (+2) |
 
@@ -16,13 +16,13 @@ _Medium fey, neutral evil_
 **Languages** Common, Draconic, Sylvan    
 **Challenge** 3 (700 XP)
 
-**Amphibious.** The hag can breathe air and water.    
-**Innate Spellcasting.** The hag's innate spellcasting ability is Charisma (spell save DC 12). She can innately cast the following spells, requiring no material components:    
-At will: **_dancing lights_**, **_minor illusion_**, **_vicious mockery_**    
-**Mimicry.** The hag can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom (Insight) check.
+**Слабкий.** Гаг може дихати повітрям і водом    
+**У пізній орфографії.** вроджена здатність орфографії викликати Харизму (заклинання збереження DC 12). Вона може вродиститися прикидати наступні заклинання, вимагає не жодних матеріальних компонентів:    
+О буде: **_танцюючи вогні_** **_ілюзія_**, **_порочний мотор_**    
+**Мімікрії.** Меги можуть міміняти тваринні звуки та голоси гуманоїду. Творність, яка чує звуки, може сказати, що вони є імітаціями з успішною перевіркою DC 14 Мудрою (далеко) дикістю.
 
-### Actions
-**Claws.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) slashing damage.    
-**Illusory Appearance.** The hag covers herself and anything she is wearing or carrying with a magical illusion that makes her look like another creature of her general size and humanoid shape. The illusion ends if the hag takes a bonus action to end it or if she dies.    
-The changes wrought by this effect fail to hold up to physical inspection. For example, the hag could appear to have smooth skin, but someone touching her would feel her rough flesh. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 20 Intelligence (Investigation) check to discern that the hag is disguised.    
-**Invisible Passage.** The hag magically turns invisible until she attacks or casts a spell, or until her concentration ends (as if concentrating on a spell). While invisible, she leaves no physical evidence of her passage, so she can be tracked only by magic. Any equipment she wears or carries is invisible with her.
+### Дії
+**Кістки** _Атака ближньої зброї:_ +6 до удару, досягають 5 щитів, одна ціль. _Вдач:_ 13 (2d8 + 4) пошкодити    
+**Ілюсори Appearance.** закриває себе яга, і все, що вона носить або несе магічну ілюзію, яка робить її схожим на іншу істоту її загального розміру і гуманоїдної форми. Ілюзія закінчується, якщо яг приймає бонус дії для її завершення, або якщо вона помирає.    
+Зміни, спричинені цим ефектом, не стримували фізичного перевірки. Наприклад, его може мати гладку шкіру, але хтось торкнеться її до грубої плоті. Інакше істота повинна вживати заходів для візуального дослідження ілюзії і успіху на розвідці DC 20 розвідки (слідкування за тим, що замасковується туга.    
+**Невидимий Пасаж.** Механізм магічно стає невидимим, поки вона не нападає або кидає заклинання або поки її концентрація не закінчиться, (як якщо концентрується на орфові). Хоча вона невидима, вона не залишає фізичних доказів її проходження, тому її можна відстежувати лише магією. Будь-яке обладнання вона носить або несе пастки невидиме з нею.
