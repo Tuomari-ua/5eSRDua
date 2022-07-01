@@ -1,10 +1,10 @@
-name: Staff of Charming type: staff
+назва: Співробітники Озброєння типу: співробітники
 
-# Staff of Charming
-_Staff, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)_
+# Персонал Чаркінгу
+_Персонал, рідкісний (потрібно бути в курсі з шинки, клери, ддери, соратник, вартовий або чарівник)_
 
-While holding this staff, you can use an action to expend 1 of its 10 charges to cast **_charm person_**, **_command_**, or **_comprehend languages_** from it using your spell save DC. The staff can also be used as a magic quarterstaff.
+While holding this staff, you can use an action to expend 1 of its 10 charges to cast **_charm person_**, **_command_**, or **_comprehend languages_** from it using your spell save DC. Співробітник також можна використовувати як магічну квартиру.
 
-If you are holding the staff and fail a saving throw against an enchantment spell that targets only you, you can turn your failed save into a successful one. You can't use this property of the staff again until the next dawn. If you succeed on a save against an enchantment spell that targets only you, with or without the staff's intervention, you can use your reaction to expend 1 charge from the staff and turn the spell back on its caster as if you had cast the spell.
+Якщо ви тримаєте персонал і не зберігаєте заощадження, киньте заклинання про чари, які стосуються лише вас, ви можете перетворити своє невдале збереження на успішне. Ви не можете використати цю властивість персоналу знову до наступного світанку. Якщо у вас є успіх у рятуванні проти зачарування цього заклинання націлюється лише на вас з таким втручанням персонажа, ви можете використати реакцію, щоб запрограмувати на 1 заряд, і повернути заклинання назад на його майстерню, ніби ви кинули заклинання наприклад.
 
-The staff regains 1d8 + 2 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff becomes a nonmagical quarterstaff. 
+Персонал відновлює 1d8 + 2 витрати щодня на світанку. Якщо ви витягнете останній заряд, покладіть d20. У 1 працівники стають немагічною квартирою. 
