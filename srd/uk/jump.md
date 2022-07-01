@@ -1,11 +1,11 @@
-name: Jump level: 1 school: transmutation classes: druid ranger sorcerer wizard
+назва: Jump level: 1 school: transmutation classes: druid ranger sorer
 
-# Jump
-_1st-level transmutation_
+# Стрибнути
+_11-ша трансмутація_
 
 **Casting Time:** 1 action    
 **Range:** Touch    
 **Components:** V, S, M (a grasshopper's hind leg)    
 **Duration:** 1 minute
 
-You touch a creature. The creature's jump distance is tripled until the spell ends.
+Ви торкаєтеся істоти. Відстань стрибків істоти потроху до закінчення заклинання не закінчиться.
