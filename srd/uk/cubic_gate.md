@@ -1,10 +1,10 @@
-name: Cubic Gate type: item
+назва: Кубічна брама тип: елемент
 
 # Cubic Gate
-_Wondrous item, legendary_
+_Несумний предмет, легендарний_
 
-This cube is 3 inches across and radiates palpable magical energy. The six sides of the cube are each keyed to a different plane of existence, one of which is the Material Plane. The other sides are linked to planes determined by the GM.
+Цей куб має 3 дюйми через і випромінює відчутну магічну енергію. Шестеро сторін кубика є ключем до різних площин існування, один з яких є літаком. Інші сторони пов'язані з літаками, визначеними GM.
 
-You can use an action to press one side of the cube to cast the **_gate_** spell with it, opening a portal to the plane keyed to that side. Alternatively, if you use an action to press one side twice, you can cast the **_plane shift_** spell (save DC 17) with the cube and transport the targets to the plane keyed to that side.
+Щоб натиснути одну сторону кубика, ви можете скористатися дією **_ворота_** заклинання ним, відкривати портал у літак ключ до цієї сторони. Або ж, якщо ви використаєте дію, щоб натиснути одну сторону двічі, ви можете повернути **_зсув площини_** орфографії (заощадити DC 17) за допомогою кубика і транспортувати цілі до літака клюй на той бік.
 
-The cube has 3 charges. Each use of the cube expends 1 charge. The cube regains 1d3 expended charges daily at dawn.	
+Куб має 3 заряди. Кожне використання куба витрачає 1 заряд. Куб відновив щоденно 1d3 витрати, витрачені на світанку.	
