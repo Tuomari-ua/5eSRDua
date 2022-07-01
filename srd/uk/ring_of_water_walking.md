@@ -1,6 +1,6 @@
-name: Ring of Water Walking type: ring
+назва: Кільце Водної ходьби тип: кільце
 
-# Ring of Water Walking
-_Ring, uncommon_
+# Кільце води ходьби
+_Дзвінок_
 
-While wearing this ring, you can stand on and move across any liquid surface as if it were solid ground. 
+Під час цього обручки, ви можете зупинитися на будь-якій рідинній поверхні наче тверда земля. 
