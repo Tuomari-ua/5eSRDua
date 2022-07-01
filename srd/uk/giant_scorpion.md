@@ -1,21 +1,21 @@
-name: Giant Scorpion type: beast cr: 3
+назва: Гігантський Скорпіон тип: звір cr: 3
 
-# Giant Scorpion
-_Large beast, unaligned_
+# Гігантський Скорпіон
+_Великий звір, неприєднаний_
 
-**Armor Class** 15 (natural armor)    
-**Hit Points** 52 (7d10 + 14)    
-**Speed** 40 ft.
+**Клас броні** 15 (природна броня)    
+**Бали** 52 (7d10 + 14)    
+**Швидкість** фут.
 
-| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS    | CHA    |
 | ------- | ------- | ------- | ------ | ------ | ------ |
 | 15 (+2) | 13 (+1) | 15 (+2) | 1 (−5) | 9 (−1) | 3 (−4) |
 
-**Senses** blindsight 60 ft., passive Perception 9    
-**Languages** --    
-**Challenge** 3 (700 XP)
+**Сигнал** оснащення 60., пасивний сприйняття 9    
+**Мови** --    
+**виклик** (700 ОЗП)
 
-### Actions
+### Дії
 **Multiattack.** The scorpion makes three attacks: two with its claws and one with its sting.    
-**Claw.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 12). The scorpion has two claws, each of which can grapple only one target.    
-**Sting.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 7 (1d10 + 2) piercing damage, and the target must make a DC 12 Constitution saving throw, taking 22 (4d10) poison damage on a failed save, or half as much damage on a successful one. 
+**Claw.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Удара:_ 6 (1d8 + 2) пошкодження дублювання, а ціль перетягується (escape DC 12). The scorpion has two claws, each of which can grapple only one target.    
+**Sting.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Вдач:_ 7 (1d10 + 2) пробивання пошкодження, і ціль повинна зробити економію Конституції 12 струм, отримання 22 (4d10) пошкодження від отрути при збереженні або ж вдвічі більше шкоди від успішного. 
