@@ -1,6 +1,6 @@
-name: Helm of Comprehending Languages type: item
+назва: Шолом Комплексних мов тип: елемент
 
-# Helm of Comprehending Languages
-_Wondrous item, uncommon_
+# Гельм всеосяжних мов
+_Нетиповий для Wondrous_
 
-While wearing this helm, you can use an action to cast the **_comprehend languages_** spell from it at will. 
+Під час одягу цього привітання, ви можете використовувати дію, щоб транслювати **_зрозумілі мови_** заклинання за власним бажанням. 
