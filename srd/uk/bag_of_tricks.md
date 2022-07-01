@@ -1,50 +1,50 @@
-name: Bag of Tricks type: item
+назва: Кошик з хитрощами тип: елемент
 
-# Bag of Tricks
-_Wondrous item, uncommon_
+# Мішок з хитрощами
+_Нетиповий для Wondrous_
 
-This ordinary bag, made from gray, rust, or tan cloth, appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object. The bag weighs 1/2 pound.
+Цей звичайний мішок, зроблений з сірого, іржавого або смолистого тканини, виявляється порожнім. Однак вихід всередині мішки виявляє присутність невеликого, нечіткого об'єкта. Сумка важить 1/2 фунта.
 
-You can use an action to pull the fuzzy object from the bag and throw it up to 20 feet. When the object lands, it transforms into a creature you determine by rolling a d8 and consulting the table that corresponds to the bag's color.
+Ви можете використати дію, щоб витягнути нечіткий об'єкт з торби і викинути його вгору до 20 футів. Коли об'єкт земляє, він перетворюється на істоту, яку ви визначаєте, котивши d8 і консультуючи таблицю, яка відповідає кольору торби.
 
-The creature is friendly to you and your companions, and it acts on your turn. You can use a bonus action to command how the creature moves and what action it takes on its next turn, or to give it general orders, such as to attack your enemies. In the absence of such orders, the creature acts in a fashion appropriate to its nature.
+Ця істота є доброзичливою до вас і ваших компаньйонів, і вона діє на вашу чергу. Ви можете використовувати бонусну дію для того, щоб команда, як рухається істота і які дії вона набуває свого наступного кроку, або надати йому загальні порядки, такі, щоб атакувати ваших ворогів. За відсутності таких упорядків істота діє у формі, яка відповідає його природі.
 
-Once three fuzzy objects have been pulled from the bag, the bag can't be used again until the next dawn.
+Як тільки три нечітких об'єкти витягнули з даної торби, це не можна використати знову до наступної світанку.
 
-### Grey Bag of Tricks
+### Сірий мішок з хитрощами
 
-| d8 | Creature     |
-| -- | ------------ |
-| 1  | Weasel       |
-| 2  | Giant rat    |
-| 3  | Badger       |
-| 4  | Boar         |
-| 5  | Panther      |
-| 6  | Giant badger |
-| 7  | Dire wolf    |
-| 8  | Giant elk    |
+| д8 | Створіння           |
+| -- | ------------------- |
+| 1  | Візл                |
+| 2  | Пацюк великий       |
+| 3  | Беджер              |
+| 4  | Кабан               |
+| 5  | Пантера             |
+| 6  | Борсук велетенський |
+| 7  | Вовк жахливий       |
+| 8  | Величезний ослик    |
 
-### Rust Bag of Tricks
+### Кошик для іржа з хитрощами
 
-| d8 | Creature   |
-| -- | ---------- |
-| 1  | Rat        |
-| 2  | Owl        |
-| 3  | Mastiff    |
-| 4  | Goat       |
-| 5  | Giant goat |
-| 6  | Giant boar |
-| 7  | Lion       |
-| 8  | Brown bear |
+| д8 | Створіння            |
+| -- | -------------------- |
+| 1  | Щур                  |
+| 2  | Совоподібні          |
+| 3  | Мастиф               |
+| 4  | Коза                 |
+| 5  | Гігантський козел    |
+| 6  | Килимок велетенський |
+| 7  | Лев                  |
+| 8  | Ведмідь бурий        |
 
-### Tan bag of Tricks
-| d8 | Creature     |
-| -- | ------------ |
-| 1  | Jackal       |
-| 2  | Ape          |
-| 3  | Baboon       |
-| 4  | Axe beak     |
-| 5  | Black bear   |
-| 6  | Giant weasel |
-| 7  | Giant hyena  |
-| 8  | Tiger        |
+### Мішок з хитрощами
+| д8 | Створіння          |
+| -- | ------------------ |
+| 1  | Jackal             |
+| 2  | Ape                |
+| 3  | Павіан             |
+| 4  | Білизна            |
+| 5  | Ведмідь чорний     |
+| 6  | Мустела гігантська |
+| 7  | Гієна велетенська  |
+| 8  | Тигр               |
