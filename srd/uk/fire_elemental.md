@@ -1,13 +1,13 @@
-name: Fire Elemental type: elemental cr: 5
+назва: Вогняний Елемент тип: елемент cr: 5
 
-# Fire Elemental
-_Large elemental, neutral_
+# Вогняний ґолем
+_Великий елементарний, нейтральний_
 
 **Armor Class** 13    
 **Hit Points** 102 (12d10 + 36)    
 **Speed** 50 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 10 (+0) | 17 (+3) | 16 (+3) | 6 (-2) | 10 (+0) | 7 (-2) |
 
@@ -18,10 +18,10 @@ _Large elemental, neutral_
 **Languages** Ignan    
 **Challenge** 5 (1,800 XP)
 
-**Fire Form.** The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes 5 (1d10) fire damage. In addition, the elemental can enter a hostile creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes 5 (1d10) fire damage and catches fire; until someone takes an action to douse the fire, the creature takes 5 (1d10) fire damage at the start of each of its turns.    
-**Illumination.** The elemental sheds bright light in a 30-foot radius and dim light in an additional 30 feet.    
-**Water Susceptibility.** For every 5 feet the elemental moves in water, or for every gallon of water splashed on it, it takes 1 cold damage.
+**Вогняний Форм.** Елемент може рухатися через пробіл як вузький, як на 1 дюйм широкий без стискання. Твердірка, яка торкається елементарного або удару при атаці ближнього бою, тоді як до 5 футів з неї завдають 5-ти (1d10) пожежної шкоди. Крім того, елемент, що може входити до простору ворожої істоти і зупинятися там. Вперше він входить до простору істоти, що істота бере 5-ти (1d10) вогнепальну ушкодження та ловить вогонь; доти, доки хтось не візьме панує вогонь, істота завдає шкоди 5 (1d10) на початку кожної своєї черги.    
+**світла.** Яскраве сяє яскраве світло в радіусі 30 футів і тьмяне світло на додаткових 30 футів.    
+**Потужність води.** Для кожні 5 футів елементної ходи в воді, або в кожній галоні вода сплюнеться, це завдає 1 холодну шкоду.
 
-### Actions
-**Multiattack.** The elemental makes two touch attacks.    
-**Touch.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (1d10) fire damage at the start of each of its turns.
+### Дії
+**Багатоатака.** Елемент робить дві напади на дотик    
+**Утримуйте.** _Атака ближньої зброї:_ +6 щоб вдарити, досягти 5-ти цілі, одна ціль. _Удару:_ 10 (2d6 + 3) пошкодження вогню. Якщо мета це істота або легкозаймистий об'єкт, вона запалює. Доки істота не набуває чинності для підкорення вогню, ціль забирає пошкодження від 5 (1d10) на початку кожної своєї черги.
