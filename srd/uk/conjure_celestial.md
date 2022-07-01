@@ -1,15 +1,15 @@
-name: Conjure Celestial level: 7 school: conjuration classes: cleric
+ім'я: Небесний склад кон'юра рівень: 7 школа: конждьорт класів: священний
 
-# Conjure Celestial
-_7th-level conjuration_
+# Складові небесні
+_7-ми рівнева тривалість_
 
-**Casting Time:** 1 minute    
-**Range:** 90 feet    
-**Components:** V, S    
-**Duration:** Concentration, up to 1 hour
+**Час Кастингу:** 1 хвилину    
+**Діапазон:** 90 футів    
+**компоненти:** V, S    
+дублювання**тривалість:** концентрування, до 1 години
 
-You summon a celestial of challenge rating 4 or lower, which appears in an unoccupied space that you can see within range. The celestial disappears when it drops to 0 hit points or when the spell ends.    
-The celestial is friendly to you and your companions for the duration. Roll initiative for the celestial, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you), as long as they don't violate its alignment. If you don't issue any commands to the celestial, it defends itself from hostile creatures but otherwise takes no actions.    
-The GM has the celestial's statistics.
+Ви викликаєте небесну оцінку 4 або нижче, і це з"являється в незайнятому просторі, яку ви можете побачити в діапазоні його дії. Небесне зникнення коли воно опускається до 0 балів або коли заклинання закінчується.    
+небеса дружить до вас і до ваших супутників довговічності. Скоріша ініціатива щодо небесної, яка має свій поворот. Він підтримує будь-які вербальні команди, на які ви задаєте (ніяких дій, необхідних для вас), доки вони не порушують його вирівнювання. Якщо ви не випускаєте жодної команди небесним, вона захищається від ворожих істот, але в іншому випадку не відбувається дії.    
+GM містить небесну статистику.
 
-**At Higher Levels.** When you cast this spell using a 9th-level spell slot, you summon a celestial of challenge rating 5 or lower. 
+**На вищих рівнях.** Коли ви кидаєте це заклинання за допомогою слоту правопису на 9-му рівні, ви викличете небесну ділянку виклику рейтингу 5 або нижче. 
