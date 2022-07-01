@@ -1,37 +1,37 @@
-name: Aboleth cr: 10 type: aberration
+назва: Aboleth cr: 10 тип: аберація
 
 
 # Aboleth
-_Large aberration, lawful evil_
+_Велике відхилення, законне зло_
 
 **Armor Class** 17 (natural armor)    
 **Hit Points** 135 (18d10 + 36)    
 **Speed** 10 ft., swim 40 ft.
 
-| STR     | DEX    | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС   | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------ | ------- | ------- | ------- | ------- |
 | 21 (+5) | 9 (-1) | 15 (+2) | 18 (+4) | 15 (+2) | 18 (+4) |
 
-**Saving Throws** Con +6, Int +8, Wis +6    
-**Skills** History +12, Perception +10    
-**Senses** darkvision 120 ft., passive Perception 20    
-**Languages** Deep Speech, telepathy 120 ft.    
-**Challenge** 10 (5,900 XP)
+**Збереження кишені** Con +6, Int +8, Wis +6    
+**Навичності** Історія +12, Виперечення +10    
+**Senses** рівня затемнення 120 футів. пасивне сприйняття 20    
+**мови** глибинних мов, телепатія 120 футів.    
+завдання**Завдання** (5,900 ДОСП)
 
-**Amphibious.** The aboleth can breathe air and water.    
-**Mucous Cloud.** While underwater, the aboleth is surrounded by transformative mucus. A creature that touches the aboleth or that hits it with a melee attack while within 5 feet of it must make a DC 14 Constitution saving throw. On a failure, the creature is diseased for 1d4 hours. The diseased creature can breathe only underwater.    
-**Probing Telepathy.** If a creature communicates telepathically with the aboleth, the aboleth learns the creature's greatest desires if the aboleth can see the creature.
+**Сумня.** Соковитий вітер може дихати повітря і воду.    
+**Мхудова хмара.** Поки під водою, підлітки оточені трансформаційним слизом. Творця, яка торкається алфавіту або страждає від нападу ближнього бою, а на межах 5 футів від нього повинна зробити DC 14 Конституції рятованою чергою. На невдачу істота захворіла на 1d4 години. Захворіла істота може дихати лише під водою.    
+**Проконувати Телепатію.** Якщо істота контактує телепатично з іменем, аболета дізнається про найбільші бажання істоти, якщо її лев може побачити істота.
 
-### Actions
+### Дії
 
-**Multiattack.** The aboleth makes three tentacle attacks.    
-**Tentacle.** _Melee Weapon Attack:_ +9 to hit, reach 10 ft., one target. _Hit:_ 12 (2d6 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Constitution saving throw or become diseased. The disease has no effect for 1 minute and can be removed by any magic that cures disease. After 1 minute, the diseased creature's skin becomes translucent and slimy, the creature can't regain hit points unless it is underwater, and the disease can be removed only by heal or another disease-­‐curing spell of 6th level or higher. When the creature is outside a body of water, it takes 6 (1d12) acid damage every 10 minutes unless moisture is applied to the skin before 10 minutes have passed.    
-**Tail.** _Melee Weapon Attack:_ +9 to hit, reach 10 ft. one target. _Hit:_ 15 (3d6 + 5) bludgeoning damage.    
-**Enslave (3/Day).** The aboleth targets one creature it can see within 30 feet of it. The target must succeed on a DC 14 Wisdom saving throw or be magically charmed by the aboleth until the aboleth dies or until it is on a different plane of existence from the target. The charmed target is under the aboleth's control and can't take reactions, and the aboleth and the target can communicate telepathically with each other over any distance.    
-Whenever the charmed target takes damage, the target can repeat the saving throw. On a success, the effect ends. No more than once every 24 hours, the target can also repeat the saving throw when it is at least 1 mile away from the aboleth.
+**Багатоатака.** Сильний ібн робить три напади щупальців.    
+**Милосердя.** _Атака ближньої зброї:_ +9, щоб вдарити, досягти 10-ти, одна ціль. _Удара:_ 12 (2d6 + 5) пошкоджені блокуванням. Якщо ціль є створенням, вона повинна досягти успіху в економії конституції DC 14 року, або стати хворою. Хвороба не має ніякого впливу на 1 хвилину, її можна вилучити будь-якою з чарів, яка лікує захворювання. Через 1 хвилину шкіра незліченної хвороби стає напівпрозорою і струнка, істота не може повернути собі точки під водою, якщо вона не є під водою, і цю хворобу можна усунути лише за допомогою лікування, або за допомогою іншої хвороби заклинання 6-го рівня або вище. Коли істота поза тілом води, завдає шкоди 6 (1d12) кислоті кожні 10 хвилин, якщо не близько не буде застосовано до шкіри, перш ніж минуло 10 хвилин.    
+**зворотній бік.** _Атака важкої зброї:_ +9 щоб вдарити, досягає 10 футів. _Вразу:_ 15 (3d6 + 5) пошкодження душок.    
+**Рабом (3/День).** У аболеті наводиться одна істота, яку вона може бачити в межах 30 футів. Ціль має досягти успіху на постійному киданні дикої мудрості 14 років або бути магічним шаром з моменту появи підлітків або до тих пір, поки вона не відбудеться в іншому літаку існування з цілі. Зачарована ціль знаходиться під контролем алфавіту і не може вжити реакцій, і підлітки та ціль можуть телепато взаємодіяти між собою на будь-якій відстані.    
+Щоразу, коли нагадана ціль пошкоджена, ціль може повторити зряд. Під час успіху ефект закінчується. Не більше ніж раз на 24 години, ціль також може повторювати накопичення коли воно знаходиться на відстані не менше 1 милі від підлітка.
 
-### Legendary Actions
-The aboleth can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The aboleth regains spent legendary actions at the start of its turn.    
-**Detect.** The aboleth makes a Wisdom (Perception) check.    
-**Tail Swipe.** The aboleth makes one tail attack.    
-**Psychic Drain** (Costs 2 Actions). One creature charmed by the aboleth takes 10 (3d6) psychic damage, and the aboleth regains hit points equal to the damage the creature takes.
+### Легендарні дії
+Аболети можуть узяти 3 легендарні дії, обираючи варіанти нижче. Тільки один легендарний параметр може бути використаний в той час і тільки на кінці черги іншої істоти. Летва відновлює легендарні дії на початку свого повороту.    
+**виявляти.** Місяць робить перевірку мудрості (виключення).    
+**Хвіст вітрилом.** Вітрильний сміх робить одну хвісту атаку.    
+**Психічна Drain** (Витрати 2 дії). Одна істота, побудована на одному, бере 10 (3d6) психічні ушкодження, і трошки підлітків уражують місця, які отримує істота.
