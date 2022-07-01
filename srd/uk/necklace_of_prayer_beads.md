@@ -1,17 +1,17 @@
-name: Necklace of Prayer Beads type: item
+ім'я: Намисто бляшанок молитви тип: предмет
 
-# Necklace of Prayer Beads
-_Wondrous item, rare (requires attunement by a cleric, druid, or paladin)_
+# Намисто з жуків Молитви
+_Чудові предмети, рідкісні (вимагає відвідування священним, другом або палітурником)_
 
-This necklace has 1d4 + 2 magic beads made from aquamarine, black pearl, or topaz. It also has many nonmagical beads made from stones such as amber, bloodstone, citrine, coral, jade, pearl, or quartz. If a magic bead is removed from the necklace, that bead loses its magic.
+Це намисто 1d4 + 2 магічні намистини, виготовлені з аквамарину, чорної перлини або топазу. В ній також є багато немагічних куль, виготовлених з камінців, таких як буря, кров'яний камін, цитрин, корали, намисто, пеляр, чи кварц. Якщо чари вилучаться з намиста, цей бісер втратить його магію.
 
-Six types of magic beads exist. The GM decides the type of each bead on the necklace or determines it randomly. A necklace can have more than one bead of the same type. To use one, you must be wearing the necklace. Each bead contains a spell that you can cast from it as a bonus action (using your spell save DC if a save is necessary). Once a magic bead's spell is cast, that bead can't be used again until the next dawn.
+Шість типів магічних кульків існують. GM визначає тип кожного намиста або випадковим чином визначає його. Намисто може мати більше, ніж одна біда одного типу. Щоб скористатися ним, вам потрібно носити намисто. Кожен культ містить заклинання, яке ви можете відкинути як бонусну дію (за допомогою орфографії DC при необхідному збереженні). Як тільки заклинання чарівного дзьоба є минулим, то цю намистину не можна використовувати знову до наступного світанку.
 
-| d20   | Bead of...   | Spell                                                     |
-| ----- | ------------ | --------------------------------------------------------- |
-| 1-6   | Blessing     | **_Bless_**                                               |
-| 7-12  | Curing       | **_Cure wounds**_ (2nd level) or **_lesser restoration_** |
-| 13-16 | Favor        | **_Greater restoration_**                                 |
-| 17-18 | Smiting      | **_Branding smite_**                                      |
-| 19    | Summons      | **_Planar ally_**                                         |
-| 20    | Wind walking | **_Wind walk_**                                           |
+| д20   | Сигнал...     | Spell                                               |
+| ----- | ------------- | --------------------------------------------------- |
+| 1-6   | Благословення | **_Благословення_**                                 |
+| 7-12  | Отверджувач   | **_Ліки**_ (2-й рівень) або **_менше відновлення_** |
+| 13-16 | Улюблений     | **_Більше реставрації_**                            |
+| 17-18 | Ремінант      | **_Фригуючий смайл_**                               |
+| 19    | Призиваємі    | **_Планарні союзники_**                             |
+| 20    | Гуляти вітром | **_Гурт_**                                          |
