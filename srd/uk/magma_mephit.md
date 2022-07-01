@@ -1,13 +1,13 @@
-name: Magma Mephit type: elemental cr: .5
+назва: Magma Mephit тип: елемент cr: .5
 
 # Magma Mephit
-_Small elemental, neutral evil_
+_Невелике елементарне, нейтральне зло_
 
 **Armor Class** 11    
 **Hit Points** 22 (5d6 + 5)    
 **Speed** 30 ft., fly 30 ft.
 
-| STR    | DEX     | CON     | INT    | WIS     | CHA     |
+| СТР    | ДЕКС    | CON     | ІНТ    | WIS     | CHA     |
 | ------ | ------- | ------- | ------ | ------- | ------- |
 | 8 (−1) | 12 (+1) | 12 (+1) | 7 (−2) | 10 (+0) | 10 (+0) |
 
@@ -19,10 +19,10 @@ _Small elemental, neutral evil_
 **Languages** Ignan, Terran    
 **Challenge** 1/2 (100 XP)
 
-**Death Burst.** When the mephit dies, it explodes in a burst of lava. Each creature within 5 feet of it must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.    
-**False Appearance.** While the mephit remains motionless, it is indistinguishable from an ordinary mound of magma.    
-**Innate Spellcasting (1/Day).** The mephit can innately cast **_heat metal_** (spell save DC 10), requiring no material components. Its innate spellcasting ability is Charisma.
+**Вибух смерті.** Коли мефіт загине, він вибухає в розі лави. Кожна істота в межах 5 футів її має зробити заощадливість DC 11 заподіяння 7 (2d6) пошкодження від полум'я, або ж удвічі більше шкоди від успішного.    
+**False Appearance.** Незважаючи на те, що mephit залишається нерухомим, він не відрізняється від звичайного фунта магми.    
+**Innate Spellcasting (1/Day).** Мепіт може включати в себе вогонь **_Нагрівач_** (заклинання заощаджень DA 10), не вимагаючи ніяких матеріальних компонентів. Його вроджена здатність заклинання - харизма.
 
-### Actions
-**Claws.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one creature. _Hit:_ 3 (1d4 + 1) slashing damage plus 2 (1d4) fire damage.    
-**Fire Breath (Recharge 6).** The mephit exhales a 15-foot cone of fire. Each creature in that area must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.
+### Дії
+**Кістки** _Атака ближньої зброї:_ +3, сягнути до 5, одна істота. _Удач:_ 3 (1d4 + 1) удар плюс 2 (1d4) пошкодження вогню.    
+**Вогняне дихання (Поповнення 6).** Мишею виділяє 15 футів вогню. Кожна істота в цій області має зробити економію Dexter DC 11 заподіяння 7 (2d6) пошкодження від полум'я, або ж удвічі більше шкоди від успішного.
