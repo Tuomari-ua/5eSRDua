@@ -1,21 +1,21 @@
-name: Rhinoceros type: beast cr: 2
+назва: Rhinoceros тип: звір cr: 2
 
 # Rhinoceros
-_Large beast, unaligned_
+_Великий звір, неприєднаний_
 
-**Armor Class** 11 (natural armor)    
-**Hit Points** 45 (6d10 + 12)    
-**Speed** 40 ft.
+**Клас броні** 11 (природна броня)    
+**Бали** 45 (6d10 + 12)    
+**Швидкість** фут.
 
-| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС   | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------ | ------- | ------ | ------- | ------ |
 | 21 (+5) | 8 (−1) | 15 (+2) | 2 (−4) | 12 (+1) | 6 (−2) |
 
-**Senses** passive Perception 11    
-**Languages** --    
-**Challenge** 2 (450 XP)
+**Витрати** пасивне сприйняття 11    
+**Мови** --    
+**виклик** (450 XP)
 
-**Charge.** If the rhinoceros moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
+**Заряд.** Якщо носороги рухатиметься щонайменше в 20 футів прямо до мети, а потім потрапляє в її з нападом на той же бік, ціль має додаткові 9 (2d8) пошкодження цукерки. Якщо ціль є створенням, вона повинна перейти до успіху в економії потужності DC 15 або бути постукованою часткою.
 
-### Actions
-**Gore.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 14 (2d8 + 5) bludgeoning damage. 
+### Дії
+**Гор.** _Атака ближньої зброї:_ +7 до влучання, досягає 5 щитів, одна ціль. _Удара:_ 14 (2d8 + 5) пошкоджені душення душок. 
