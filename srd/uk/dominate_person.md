@@ -1,16 +1,16 @@
-name: Dominate Person level: 5 school: enchantment classes: bard sorcerer wizard
+назва: Домінуйте людину рівень: 5 школа: зачарування класів: сад глядач
 
-# Dominate Person
-_5th-level enchantment_
+# Домінате людина
+_Зачарування 5-го рівня_
 
 **Casting Time:** 1 action    
 **Range:** 60 feet    
 **Components:** V, S    
 **Duration:** Concentration, up to 1 minute
 
-You attempt to beguile a humanoid that you can see within range. It must succeed on a Wisdom saving throw or be charmed by you for the duration. If you or creatures that are friendly to you are fighting it, it has advantage on the saving throw.    
-While the target is charmed, you have a telepathic link with it as long as the two of you are on the same plane of existence. You can use this telepathic link to issue commands to the creature while you are conscious (no action required), which it does its best to obey. You can specify a simple and general course of action, such as "Attack that creature," "Run over there," or "Fetch that object." If the creature completes the order and doesn't receive further direction from you, it defends and preserves itself to the best of its ability.    
-You can use your action to take total and precise control of the target. Until the end of your next turn, the creature takes only the actions you choose, and doesn't do anything that you don't allow it to do. During this time you can also cause the creature to use a reaction, but this requires you to use your own reaction as well.    
-Each time the target takes damage, it makes a new Wisdom saving throw against the spell. If the saving throw succeeds, the spell ends.
+Ви намагаєтесь накрутити гуманоїду, що можна побачити на відстані. Це може досягти успіху в економії мудрості або зачаровувати вас протягом тривалого часу. Якщо ви або істоти, які вам до вподоби боротися з цим, то у вас є перевага в збереженні.    
+доки ціль затухана, у вас є телепатичний зв'язок, доки ви двоє живуть на одному літаку. Цей телепатський лінк можна використовувати для виконання команд у формі створіння, коли ви свідомий (дія не потрібна), які вони найкраще підкоряються. Ви можете вказати простий і загальний хід дій, наприклад, "Атакувати, що створення", "Запустити туди" або "Отримати цей об'єкт." Якщо істота виконає порядок і не отримає далі від вас, вона захищає і зберігає себе в найкращому для його здатності.    
+Ви можете використати свої дії, щоб зробити повний і точний контроль над ціллю. До закінчення наступної черги, істота набуває тільки дій, які ви обрали, і не робить нічого такого, чого б ти не дозволила. В цей час ви також можете викликати реакцію істоти, але для цього потрібно, щоб ви скористалися вашою власною реакцією.    
+кожного разу, коли ціль завдає пошкодження, це робить новий викид мудрості проти заклинання. Якщо історія заощаджень - справа завершується.
 
-**At Higher Levels.** When you cast this spell using a 6th-level spell slot, the duration is concentration, up to 10 minutes. When you use a 7th-level spell slot, the duration is concentration, up to 1 hour. When you use a spell slot of 8th level or higher, the duration is concentration, up to 8 hours. 
+**На вищих рівнях.** Коли ви кидаєте це заклинання за допомогою слоту 6-го рівня, тривалість - це концентрація до 10 хвилин. Якщо використовувати комірку західного рівня, то концентрація тривалістю до 1 години. При використанні заклинання на 8-му рівні чи вище, концентрація займає до 8 годин. 
