@@ -1,12 +1,12 @@
-name: Awaken level: 5 school: transmutation classes: bard druid
+назва: Пробудження рівень: 5 школа: транмутація класи: Бард druid
 
-# Awaken
-_5th-level transmutation_
+# Пробудження
+_Ретрансмутація 5-го рівня_
 
 **Casting Time:** 8 hours   
 **Range:** Touch   
 **Components:** V, S, M (an agate worth at least 1,000 gp, which the spell consumes)   
 **Duration:** Instantaneous
 
-After spending the casting time tracing magical pathways within a precious gemstone, you touch a Huge or smaller beast or plant. The target must have either no Intelligence score or an Intelligence of 3 or less. The target gains an Intelligence of 10. The target also gains the ability to speak one language you know. If the target is a plant, it gains the ability to move its limbs, roots, vines, creepers, and so forth, and it gains senses similar to a human's. Your GM chooses statistics appropriate for the awakened plant, such as the statistics for the awakened shrub or the awakened tree.   
-The awakened beast or plant is charmed by you for 30 days or until you or your companions do anything harmful to it. When the charmed condition ends, the awakened creature chooses whether to remain friendly to you, based on how you treated it while it was charmed.
+Провівши час трансляції магічні шляхи в дорогоцінному камені, ви торкаєтеся Великого або меншого звіра, чи рослини. Мета повинна не мати або жодної оцінки інтелекту, або інтелекту 3-х або менше. Ціль набуває інтелекту 10. Ціль також набирає можливості говорити однією мовою. Якщо ціль є рослиною, вона отримує можливість переміщувати кінцівки, корінь, вино, кріперів, і так далі, і він надходить щось подібне до людських клітин. Ваш GM вибирає статистику, відповідну для пробудженого заводу, таку як статистика для пробудженого удару або пробудженого дерева.   
+Пробуджений звір або рослина зачаровані вами протягом 30 днів і поки ви або ваші товариші не зробите нічого шкідливого для нього. Коли закінчується зачарована умова, пробудила істота обирає можливість залишатися дружніми до вас, залежно від того, як ви ставилися до неї, поки вона була зачарована.
