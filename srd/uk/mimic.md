@@ -1,13 +1,13 @@
-name: Mimic type: monstrosity (shapechanger) cr: 2
+назва: Mimic type: чудовисько (фігур) cr: 2
 
-# Mimic
-_Medium monstrosity (shapechanger), neutral_
+# Мімікрія
+_Середній чудовисько (шестикул), нейтральний_
 
 **Armor Class** 12 (natural armor)    
 **Hit Points** 58 (9d8 + 18)    
 **Speed** 15 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 17 (+3) | 12 (+1) | 15 (+2) | 5 (−3) | 13 (+1) | 8 (−1) |
 
@@ -18,11 +18,11 @@ _Medium monstrosity (shapechanger), neutral_
 **Languages** --    
 **Challenge** 2 (450 XP)
 
-**Shapechanger.** The mimic can use its action to polymorph into an object or back into its true, amorphous form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.    
-**Adhesive (Object Form Only).** The mimic adheres to anything that touches it. A Huge or smaller creature adhered to the mimic is also grappled by it (escape DC 13). Ability checks made to escape this grapple have disadvantage.    
-**False Appearance (Object Form Only).** While the mimic remains motionless, it is indistinguishable from an ordinary object.    
-**Grappler.** The mimic has advantage on attack rolls against any creature grappled by it.
+**Shapechanger.** Mimic може використовувати свою дію для поліморфа на об’єкт або повернутися до його істинної аморфної форми. Її статистика - однакова в кожній формі. Будь-яке спорядження воно одягнуте або перенесене не перетворюється. Він повертається до істинної форми, якщо вона помирає.    
+**Тільки хесійна (форма об'єкта).** Мімімістика додає будь-чого, що торкнеться його. Величезна або менша істота, яку дотримуються до мікрофона, також зачепилася ним (уникнути DC 13). Можливість перевірки можливості, що виконуються для виходу з цього сорту має недолік.    
+**False Appearance (Тільки Object Form).** Незважаючи на те, що мімімістика залишається нерухомою, вона не відрізняється від звичайного об'єкта.    
+**Греплер.** Мімікрія має перевагу в атаці по відношенню до будь-якого істоти, що перемістилась.
 
-### Actions
-**Pseudopod.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) bludgeoning damage. If the mimic is in object form, the target is subjected to its Adhesive trait.    
-**Bite.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) piercing damage plus 4 (1d8) acid damage.
+### Дії
+**Псевдо.** _Атака ближньої зброї:_ +5 - до удару, досягнути 5-ї цілі, одну ціль. _Удара:_ 7 (1d8 + 3) пошкодження душок. Якщо мікросхема перебуває у формі об'єкта, ціль піддається вказаному об’єкту    
+**Кути.** _Атака ближньої зброї:_ +5 до удару, досягає 5-ти показників, одна ціль. _Вразу:_ 7 (1d8 + 3) пошкодження проникнення плюс 4 (1d8) кислоти.
