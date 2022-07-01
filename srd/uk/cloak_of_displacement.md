@@ -1,6 +1,6 @@
-name: Cloak of Displacement type: item
+назва: Cloak переміщення тип: елемент
 
-# Cloak of Displacement
-_Wondrous item, rare (requires attunement)_
+# Cloak зміщення
+_Чудотвор, рідкісний (вимагає захоплення)_
 
-While you wear this cloak, it projects an illusion that makes you appear to be standing in a place near your actual location, causing any creature to have disadvantage on attack rolls against you. If you take damage, the property ceases to function until the start of your next turn. This property is suppressed while you are incapacitated, restrained, or otherwise unable to move. 
+Якщо ти носиш цей плащ, то він проектує ілюзію, яка змушує тебе виглядати біля свого місця знаходження, що викликає проти вас будь-які істоти, що завдала шкоди нападам на решту. Якщо візьмемо пошкодження, властивість перестає функціонувати до початку вашого наступного кроку. Ця властивість придушується, поки ви не обходитесь, обмежена чи не в змозі змінити її іншим чином. 
