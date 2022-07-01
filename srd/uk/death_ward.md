@@ -1,13 +1,13 @@
-name: Death Ward level: 4 school: abjuration classes: cleric paladin
+назва: Колодяр смерті рівень: 4 школа: abjuration класів: cladin paladin
 
-# Death Ward
-_4th-level abjuration_
+# Смертевард
+_Тривалість четвертого рівня_
 
 **Casting Time:** 1 action    
 **Range:** Touch    
 **Components:** V, S    
 **Duration:** 8 hours
 
-You touch a creature and grant it a measure of protection from death.    
-The first time the target would drop to 0 hit points as a result of taking damage, the target instead drops to 1 hit point, and the spell ends.    
-If the spell is still in effect when the target is subjected to an effect that would kill it instantaneously without dealing damage, that effect is instead negated against the target, and the spell ends. 
+Доторкніться до істоти і надайте їй міру захисту від смерті.    
+Перший раз ціль перетвориться на 0 влучань у результаті нанесення пошкоджень, натомість надається ціль в 1 точку що стріляє, і заклинання закінчуються.    
+Якщо заклинання все ще діє, коли ціль зазнає наслідку, що може вбити його раптом, не завдаючи шкоди, цей ефект натомість заперечує проти цілі, і заклинання закінчується. 
