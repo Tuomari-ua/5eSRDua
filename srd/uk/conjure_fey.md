@@ -1,16 +1,16 @@
-name: Conjure Fey level: 6 school: conjuration classes: druid warlock
+назва: Кон'юре Фей рівень: 6 школа: conjuration класі: druid warlock
 
 # Conjure Fey
-_6th-level conjuration_
+_Тривалість 6-го рівня_
 
-**Casting Time:** 1 minute    
-**Range:** 90 feet    
-**Components:** V, S    
-**Duration:** Concentration, up to 1 hour
+**Час Кастингу:** 1 хвилину    
+**Діапазон:** 90 футів    
+**компоненти:** V, S    
+дублювання**тривалість:** концентрування, до 1 години
 
-You summon a fey creature of challenge rating 6 or lower, or a fey spirit that takes the form of a beast of challenge rating 6 or lower. It appears in an unoccupied space that you can see within range. The fey creature disappears when it drops to 0 hit points or when the spell ends.    
-The fey creature is friendly to you and your companions for the duration. Roll initiative for the creature, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you), as long as they don't violate its alignment. If you don't issue any commands to the fey creature, it defends itself from hostile creatures but otherwise takes no actions.    
-If your concentration is broken, the fey creature doesn't disappear. Instead, you lose control of the fey creature, it becomes hostile toward you and your companions, and it might attack. An uncontrolled fey creature can't be dismissed by you, and it disappears 1 hour after you summoned it.    
-The GM has the fey creature's statistics.
+Ви викличете слабке створіння під час оцінки 6 або нижче, або підступний дух, що має форму звіра, який кидає виклик рейтингу 6 або нижче. Воно з'являється в незайнятому просторі, яку можна побачити в межах діапазону. Коли хвороба зникає нуль, або коли вона втрачає нуль, або коли закінчується заклинання закінчується.    
+Тенденційна істота друкує вас і ваших супутників на тривалість. Скоротіть ініціативу створення, яка має свій поворот. Він підтримує будь-які вербальні команди, на які ви задаєте (ніяких дій, необхідних для вас), доки вони не порушують його вирівнювання. Якщо не видавати жодних команд на істоту, вона захищається від ворожих істот, але в іншому випадку не йде на ніяких дій.    
+Якщо ваша концентрація зламана, істота не зникає. Натомість, ви втрачаєте контроль над святою істотою, вона стає вороже до вас і до ваших компаньйонів, і вона може атакувати. Неконтрольована зайва істота не може бути відхилена вами, і вона зникає через 1 годину після того, як ви його викликали.    
+GM має фіктивну статистику істоти.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, the challenge rating increases by 1 for each slot level above 6th. 
+**На вищих рівнях.** Коли ви кидаєте це заклинання використовуючи гніздо 7-го рівня або вище, рейтинг завдання збільшує на 1 для кожного слоту вище шостої години. 
