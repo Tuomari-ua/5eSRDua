@@ -1,6 +1,6 @@
-name: Ring of Spell Turning type: ring
+ім'я: Поворот орфографії типу: ring
 
-# Ring of Spell Turning
-_Ring, legendary (requires attunement)_
+# Переворот орфографії
+_Надмірний кільце, легендарний (вимагає відвідування)_
 
-While wearing this ring, you have advantage on saving throws against any spell that targets only you (not in an area of effect). In addition, if you roll a 20 for the save and the spell is 7th level or lower, the spell has no effect on you and instead targets the caster, using the slot level, spell save DC, attack bonus, and spellcasting ability of the caster. 
+При цьому обручці ви можете перевагу на рівні заощаджень від будь-якого заклинання, яке спрямоване лише на вас (не в умовах ефекту). Крім того, якщо ви жбурляєте 20 для заощадження, а заклинання - у 7-му або нижчому рівні, заклинання не має ніякого впливу на вас і замість нього надається векселю, з використанням рівня слоту, заклинання заощаджують DC, атакуючи бонуси і орфографію здатність кожного. 
