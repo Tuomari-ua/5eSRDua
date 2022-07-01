@@ -1,25 +1,25 @@
-name: Guardian Naga type: monstrosity cr: 10
+назва: Нага Охоронця тип: чудовисько cr: 10
 
-# Guardian Naga
-_Large monstrosity, lawful good_
+# Вартовий Нага
+_Великий чудовисько, законне добро_
 
 **Armor Class** 18 (natural armor)    
 **Hit Points** 127 (15d10 + 45)    
 **Speed** 40 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 19 (+4) | 18 (+4) | 16 (+3) | 16 (+3) | 19 (+4) | 18 (+4) |
 
-**Saving Throws** Dex +8, Con +7, Int +7, Wis +8, Cha +8    
-**Damage Immunities** poison    
-**Condition Immunities** charmed, poisoned    
-**Senses** darkvision 60 ft., passive Perception 14    
-**Languages** Celestial, Common    
-**Challenge** 10 (5,900 XP)
+**Збереження рядків** Dex +8, Con +7, Int +7, Wis +8, Wis +8, Cha +8    
+**Ушкодження** отрути    
+**Імунітети** , Графік умови, отруєний    
+**Установки** затемнення 60 футів. пасивне сприйняття 14    
+мови **мов** Селестіальних, Загальних    
+**виклику** 10 (5,900 XP)
 
-**Rejuvenation.** If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a wish spell can prevent this trait from functioning.    
-**Spellcasting.** The naga is an 11th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following cleric spells prepared:    
+**Омолодість.** Якщо він помре, Нага повернеться до життя за 1d6 днів, і знову потрапить у всі свої влучання. Лише бажане заклинання може завадити цій рисі функціонувати.    
+**орфографії орфографії.** Нага це орфографія на одинадцятому рівні. Його здатність заклинання є мудрістю (заклинання заощадити DC 16 + 8, щоб вдарити заклинання атаки), і їй потрібні лише словесні компоненти, щоб транслювати його заклинання . It has the following cleric spells prepared:    
 Cantrips (at will): **_mending, sacred flame, thaumaturgy_**    
 1st level (4 slots): **_command, cure wounds, shield of faith_**    
 2nd level (3 slots): **_calm emotions, hold person_**    
@@ -28,6 +28,6 @@ Cantrips (at will): **_mending, sacred flame, thaumaturgy_**
 5th level (2 slots): **_flame strike, geas_**    
 6th level (1 slot): **_true seeing_**
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +8 to hit, reach 10 ft., one creature. _Hit:_ 8 (1d8 + 4) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.    
-**Spit Poison.** _Ranged Weapon Attack:_ +8 to hit, range 15/30 ft., one creature. _Hit:_ The target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
+### Дії
+**Біт.** _Атака ближньої зброї:_ +8, досягне 10-ти, одна істота. _Вразу:_ 8 (1d8 + 4) пробиваючи пошкодження, і ціль має зробити економію конституції DC 15 отримання 45 (10d8) пошкодження отрути при невдалому збереженні, або ж удвічі більше шкоди від успішного.    
+**Отруйний плювач.** _Атака Зброї:_ +8 у влучанні, діапазон 15/30, одна істота. _Удача:_ Ціль повинна зробити економію Конституції DC 15 отримання 45 (10d8) пошкодження отрути при невдалому збереженні, або ж удвічі більше шкоди від успішного.
