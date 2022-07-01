@@ -1,8 +1,8 @@
-name: Mace of Terror type: weapon
+назва: Маса терору типу: зброя
 
-# Mace of Terror
-_Weapon (mace), rare (requires attunement)_
+# Пані терору
+_Зброя (маса), рідкісна (вимагає залучення)_
 
-This magic weapon has 3 charges. While holding it, you can use an action and expend 1 charge to release a wave of terror. Each creature of your choice in a 30-foot radius extending from you must succeed on a DC 15 Wisdom saving throw or become frightened of you for 1 minute. While it is frightened in this way, a creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If it has nowhere it can move, the creature can use the Dodge action. At the end of each of its turns, a creature can repeat the saving throw, ending the effect on itself on a success.
+Ця чарівна зброя має 3 заряд. Тримаючи його, можна скористатися дією та витратити 1 заряд, щоб звільнити терор. Кожна істота вашого вибору в радіусі 30 футів, що простягаються від вас до 30 футів, повинна досягти успіху в DC 15 Мудро, щоб заощадити або стати наляканим вас на одну хвилину. Хоча вона перелякана таким чином, істота повинна витрачати свої черги намагаючись відійти настільки далеко від вас, як вона може, і воно не може охоче переміститися на простір в межах 30 футів від вас. Вони також не можуть приймати реакції. Для його дії він може використовувати лише Dash або намагатися уникнути ефекту, який заважає йому рухатися. Якщо він нікуди не може рухатися, істота може використовувати дію ходи. Наприкінці кожного зі своїх поворотів істота може повторювати рятувальну стрілу, припиняючи вплив на себе успіх.
 
-The mace regains 1d3 expended charges daily at dawn.
+За допомогою килимів постійно стягується 1d3 збори.
