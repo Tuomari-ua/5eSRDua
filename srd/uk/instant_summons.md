@@ -1,14 +1,14 @@
-name: Instant Summons level: 6 school: conjuration classes: wizard
+назва: Одноразовий прийом рівень: 6 школу: кон'юрація класів: майстер
 
-# Instant Summons
-_6th-level conjuration (ritual)_
+# Миттєві заклики
+_Тривалість 6-го рівня (ритуал)_
 
-**Casting Time:** 1 minute    
-**Range:** Touch    
-**Components:** V, S, M (a sapphire worth 1,000 gp)    
-**Duration:** Until dispelled
+**Час трансляції :** 1 хвилину    
+**Діапазон:** Торкніться    
+**компоненти:** V, S, М (сапфір вартістю 1000 спарення)    
+**тривалість:** До тих пір, поки не буде виключено
 
-You touch an object weighing 10 pounds or less whose longest dimension is 6 feet or less. The spell leaves an invisible mark on its surface and invisibly inscribes the name of the item on the sapphire you use as the material component. Each time you cast this spell, you must use a different sapphire.    
-At any time thereafter, you can use your action to speak the item's name and crush the sapphire. The item instantly appears in your hand regardless of physical or planar distances, and the spell ends.    
-If another creature is holding or carrying the item, crushing the sapphire doesn't transport the item to you, but instead you learn who the creature possessing the object is and roughly where that creature is located at that moment.    
-**_Dispel magic_** or a similar effect successfully applied to the sapphire ends this spell's effect. 
+Ви торкаєтесь об'єкта, що важить 10 фунтів або менше, найдовший вимір якого дорівнює 6 футів або менше. Письмо залишає невидимий знак на поверхні та невидимо видере ім'я елемента на сапфірі ви використовуєте як компонент матеріалів. Кожного разу, коли ви кидаєте це орфографію, ви повинні використовувати інше сапфір.    
+у будь-який час після цього ви зможете використати свою дію, щоб говорити ім'я об'єкта та розбивати сапфір. Цей предмет миттєво з'являється у Вашій руці, незалежно від фізичних або планових відстаней, і заклинання закінчуються.    
+Якщо інша істота тримає або тримає предмет, розбиваючи сапфір вам не транспортує, але натомість, ти дізнаєшся, хто володіє об'єктом і чи знаходиться ця істота в той момент.    
+**_Малювати магію_** або подібний ефект успішно застосований до сапфіру, завершує ефект цього заклинання. 
