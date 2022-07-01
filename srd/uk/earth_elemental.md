@@ -1,13 +1,13 @@
-name: Earth Elemental type: elemental cr: 5
+назва: Елемент Землі тип: елемент cr: 5
 
-# Earth Elemental
-_Large elemental, neutral_
+# Ясенний ґолем Землі
+_Великий елементарний, нейтральний_
 
 **Armor Class** 17 (natural armor)    
 **Hit Points** 126 (12d10 + 60)    
 **Speed** 30 ft., burrow 30 ft.
 
-| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС   | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------ | ------- | ------ | ------- | ------ |
 | 20 (+5) | 8 (−1) | 20 (+5) | 5 (−3) | 10 (+0) | 5 (−3) |
 
@@ -19,9 +19,9 @@ _Large elemental, neutral_
 **Languages** Terran    
 **Challenge** 5 (1,800 XP)
 
-**Earth Glide.** The elemental can burrow through nonmagical, unworked earth and stone. While doing so, the elemental doesn't disturb the material it moves through.    
-**Siege Monster.** The elemental deals double damage to objects and structures.
+**Земля зліз.** Елемент може прориватися через немагічну, необроблену землю та камінь. Хоча це відбувається, елементи не заважають матеріалу, через який він проходить .    
+**Облоговий Монстр.** Елемент завдає подвійного пошкодження об’єктам і будівлям.
 
-### Actions
-**Multiattack.** The elemental makes two slam attacks.    
-**Slam.** _Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target. _Hit:_ 14 (2d8 + 5) bludgeoning damage.
+### Дії
+**Багатоатака.** Елемент зробив дві лебедні атаки.    
+**Слем.** _Атака ближньої зброї:_ +8 щоб вдарити, досягти 10-ти, одна ціль. _Удара:_ 14 (2d8 + 5) пошкоджені душення душок.
