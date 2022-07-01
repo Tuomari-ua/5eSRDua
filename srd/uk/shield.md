@@ -1,11 +1,11 @@
-name: Shield level: 1 school: abjuration classes: sorcerer wizard
+назва: Рівень Щита : 1 навчання : abjuration класів: частр майстер
 
-# Shield
-_1st-level abjuration_
+# Щит
+_Однорівнева тривалість_
 
-**Casting Time:** 1 reaction, which you take when you are hit by an attack or targeted by the magic missile spell    
-**Range:** Self    
-**Components:** V, S    
-**Duration:** 1 round
+**Час відтворення :** 1 реакція який ви берете, коли отримуєте напад або націлений на магічну ракету    
+**Діапазон:** Самостій    
+**компоненти:** V, S    
+**тривалість:** 1 раунд
 
-An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from **_magic missile_**. 
+Невидимий бар'єр магічної сили виявляється і захищає вас. До початку наступного повороту у вас є бонус +5 до AC, в тому числі проти атаки, що тригер і ви не отримуєте ніякої шкоди від **_магічної ракети_**. 
