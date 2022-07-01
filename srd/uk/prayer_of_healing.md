@@ -1,13 +1,13 @@
-name: Prayer of Healing level: 2 school: evocation classes: cleric
+ім'я: Молитва зцілення рівень: 2 школа: евакуація класів: священнослужителя
 
-# Prayer of Healing
-_2nd-level evocation_
+# Зцілення молитви
+_Евокація 2-го рівня_
 
 **Casting Time:** 10 minutes    
 **Range:** 30 feet    
 **Components:** V    
 **Duration:** Instantaneous
 
-Up to six creatures of your choice that you can see within range each regain hit points equal to 2d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+До шести істот на ваш вибір, які можна побачити у межах кожної точки відновлення, що дорівнює 2d8 + вашій здатності приведення орфографії. Ця заклинання не впливає на незгадані чи конструкції.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the healing increases by 1d8 for each slot level above 2nd.
+**На вищих рівнях.** Коли ви кидаєте це заклинання використовуючи гніздо 3-го рівня або вище, зцілення збільшується на 1d8 для кожного рівня слота вище 2nd.
