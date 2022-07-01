@@ -1,15 +1,15 @@
-name: Speak with Plants level: 3 school: transmutation classes: bard druid ranger
+назва: Говорити з Plants рівень: 3 школа: транмутація класі: Бард druid ranger
 
-# Speak with Plants
-_3rd-level transmutation_
+# Говорити з Рослинами
+_Трансмутація третього рівня_
 
 **Casting Time:** 1 action    
 **Range:** Self (30-foot radius)    
 **Components:** V, S    
 **Duration:** 10 minutes
 
-You imbue plants within 30 feet of you with limited sentience and animation, giving them the ability to communicate with you and follow your simple commands. You can question plants about events in the spell's area within the past day, gaining information about creatures that have passed, weather, and other circumstances.    
-You can also turn difficult terrain caused by plant growth (such as thickets and undergrowth) into ordinary terrain that lasts for the duration. Or you can turn ordinary terrain where plants are present into difficult terrain that lasts for the duration, causing vines and branches to hinder pursuers, for example.    
-Plants might be able to perform other tasks on your behalf, at the GM's discretion. The spell doesn't enable plants to uproot themselves and move about, but they can freely move branches, tendrils, and stalks.    
-If a plant creature is in the area, you can communicate with it as if you shared a common language, but you gain no magical ability to influence it.    
-This spell can cause the plants created by the **_entangle_** spell to release a restrained creature. 
+Ви імпровуєте рослини в межах 30 футів з обмеженою чутливістю та анімацією, даючи їм можливість спілкуватися з вами і виконувати свої прості команди. Ви можете запитувати рослин про події в районі заклинання протягом останнього дня, набираючи інформацію про прийнятих істот, що пройшли погоду та інші обставини.    
+Ви можете також перетворити важку місцевість, спричинену зростанням рослин (наприклад, товщиною та нижчим зростанням) на звичайну місцевість, яка триває протягом тривалого часу. Або ви можете перетворити звичайні ландшафти, де рослини переносять на важку ділянку, яка триває тривалість, що викликає антилопи і гілки перешкоджає переслідувачам, наприклад.    
+Рослини можуть виконувати інші завдання від вашого імені на розсуд GM. заклинання не дозволяє рослинам знущатися і рухатись, але вони можуть вільно вільно переміщати гілочки та астероїди.    
+Якщо в районі засада істота, ви можете спілкуватись з ним, ніби ви ділились загальною мовою, але не отримуєте чарівної здатності впливати на неї.    
+Це заклинання може спричинити станції, створені **_ent_** заклинання для звільнення стриманої істоти. 
