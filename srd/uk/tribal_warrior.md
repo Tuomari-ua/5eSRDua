@@ -1,25 +1,25 @@
-name: Tribal Warrior type: humanoid (any race) cr: .125
+назва: Воїн племені тип: humanoid (будь-які раси) cr: .125
 
-# Tribal Warrior
-_Medium humanoid (any race), any alignment_
+# Воїн племен
+_Середня гуманоїда (будь-яке не), будь-яке вирівнювання_
 
-**Armor Class** 12 (hide armor)    
-**Hit Points** 11 (2d8 + 2)    
-**Speed** 30 ft.
+**Клас броні** 12 (приховувати броню)    
+**Бали** 11 (2d8 + 2)    
+**швидкість** фут.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 13 (+1) | 11 (+0) | 12 (+1) | 8 (−1) | 11 (+0) | 8 (−1) |
 
-**Senses** passive Perception 10    
-**Languages** any one language    
-**Challenge** 1/8 (25 XP)
+**Подяки** пасивне сприйняття 10    
+**Мови** будь-якої мови    
+**виклику** 1/8 (25 XP)
 
-**Pack Tactics.** The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 feet of the creature and the ally isn't incapacitated.
+**Тактики пакета.** Воїн має перевагу на атаці, яка виступає проти істоти, якщо принаймні один з союзників воїна знаходиться в межах 5 футів істоти, і союзник не буде недієздатним.
 
-### Actions
-**Spear.** _Melee or _Ranged Weapon Attack:__ +3 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
+### Дії
+**Спів.** _ближній або _Рейкова Зброя Атаку:__ +3 щоб влучати, досягнути 5 футів. або ж діапазон 20/60 метрів, одна ціль. _Вітаємо:_ 4 (1d6 + 1) пробиваюча шкода або 5 (1d8 + 1) пробиваюча шкода, якщо використовується з двома руками, щоб зробити атаку ближнього бою.
 
 
-### Description
-Tribal warriors live beyond civilization, most often subsisting on fishing and hunting. Each tribe acts in accordance with the wishes of its chief, who is the greatest or oldest warrior of the tribe or a tribe member blessed by the gods. 
+### Опис
+Воїни племен живуть поза цивілізацією, найчастіше проживають на риболовлі та полювання. Кожне плем'я відповідно до побажань свого начальника, який є найбільшим чи найстаршим воїном племені чи членом племени, благословенного богами. 
