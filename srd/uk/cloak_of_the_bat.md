@@ -1,8 +1,8 @@
-name: Cloak of the Bat type: item
+ім'я: Cloak м'ята типу: елемент
 
-# Cloak of the Bat
-_Wondrous item, rare (requires attunement)_
+# Cloak кажана
+_Чудотвор, рідкісний (вимагає захоплення)_
 
-While wearing this cloak, you have advantage on Dexterity (Stealth) checks. In an area of dim light or darkness, you can grip the edges of the cloak with both hands and use it to fly at a speed of 40 feet. If you ever fail to grip the cloak's edges while flying in this way, or if you are no longer in dim light or darkness, you lose this flying speed.
+Під час одягу на цьому плащі, ви можете скористатися перевіркою Dexterity (Stealth). В області затемненого світла або темряви, можна розчепити краї плаща, обома руками і використовувати їх, щоб літати зі швидкістю 40 футів. Якщо вам колись не вдається схопити кубики плаща, тоді летячи таким чином, або якщо ви більше не в тьмяному світлі або темряві, ви втрачаєте швидкість польоту.
 
-While wearing the cloak in an area of dim light or darkness, you can use your action to cast polymorph on yourself, transforming into a bat. While you are in the form of the bat, you retain your Intelligence, Wisdom, and Charisma scores. The cloak can't be used this way again until the next dawn. 
+При одязі плаща в області тьмяного світла або темряви, ви можете використати свою дію, щоб кинути поліморф собі, перетворюючи на кажана. Поки ви у формі кажана, ви зберігаєте свій інтелект, Вісдом і очками Харизми. Цей плащ не можна використовувати знову до наступного світанку. 
