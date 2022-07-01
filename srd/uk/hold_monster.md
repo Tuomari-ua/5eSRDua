@@ -1,13 +1,13 @@
-name: Hold Monster level: 5 school: enchantment classes: bard sorcerer warlock wizard
+назва: Тримаючий Монстр рівень: 5 школу: зачарування класі: Бард сортувальник вартовий
 
-# Hold Monster
-_5th-level enchantment_
+# Тримай монстр
+_Зачарування 5-го рівня_
 
-**Casting Time:** 1 action    
-**Range:** 90 feet    
-**Components:** V, S, M (a small, straight piece of iron)    
-**Duration:** Concentration, up to 1 minute
+**Час трансляції часу:** 1 дія    
+**Діапазон:** 90 футів    
+**компоненти:** V, S, М (невеликий, прямий кусок заліза)    
+**тривалість:** точки, до 1 хвилини
 
-Choose a creature that you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. This spell has no effect on undead. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target.
+Виберіть істоту, яку можна побачити на відстані. Ціль повинна досягти успіху в процесі економії мудрості або бути паралізованою протягом тривалого часу. Ця заклинання не має ніякого впливу на мертвих. Наприкінці кожного своєї черги ціль може зробити ще одну мудрість збереженням стріли. За успіхом заклинання закінчується ціллю.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, you can target one additional creature for each slot level above 5th. The creatures must be within 30 feet of each other when you target them. 
+**На вищих рівнях.** Коли ви кидаєте це заклинання використовуючи слот 6-го рівня або вище, ви можете вказати ще одну істоту для кожного слоту вище 5 рівня. Приклади повинні бути в межах 30 футів одна одної, коли ви націлите на неї. 
