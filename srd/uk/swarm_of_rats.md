@@ -1,13 +1,13 @@
-name: Swarm of Rats type: swarm of Tiny beasts cr: .25
+назва: Оточення пацюків типу: рій деревних звірів cr: .25
 
-# Swarm of Rats
-_Medium swarm of Tiny beasts, unaligned_
+# Оточення щурів
+_Середній рій крихітних звірів, невирівняний_
 
 **Armor Class** 10    
 **Hit Points** 24 (7d8 − 7)    
 **Speed** 30 ft.
 
-| STR    | DEX     | CON    | INT    | WIS     | CHA    |
+| СТР    | ДЕКС    | CON    | ІНТ    | WIS     | CHA    |
 | ------ | ------- | ------ | ------ | ------- | ------ |
 | 9 (−1) | 11 (+0) | 9 (−1) | 2 (−4) | 10 (+0) | 3 (−4) |
 
@@ -17,8 +17,8 @@ _Medium swarm of Tiny beasts, unaligned_
 **Languages** --    
 **Challenge** 1/4 (50 XP)
 
-**Keen Smell.** The swarm has advantage on Wisdom (Perception) checks that rely on smell.    
-**Swarm.** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can't regain hit points or gain temporary hit points.
+**Keen Smell.** Тепло має перевагу в Wisdom (Perception) перевірки, які покладаються на запах.    
+**Swarm.** рій може займати простір інших істот і навпаки, і рій може рухатися крізь будь-який отвір достатньо великий для крихітного щура. Оточення не може повернути влучні бали або отримати тимчасові влучання.
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +2 to hit, reach 0 ft., one target in the swarm's space. _Hit:_ 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer. 
+### Дії
+**Біт.** _Атака ближньої зброї:_ +2 до удару, досягає 0 ft., одна мета у просторі Гріна. _Вдач:_ 7 (2d6) пробивання пошкоджень, або 3 (1d6) пробивання шкоди, якщо оскол має половину своїх перших точок або менше. 
