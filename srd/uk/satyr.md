@@ -1,13 +1,13 @@
-name: Satyr type: fey cr: .5
+назва: Satyr тип: fey cr: .5
 
-# Satyr
-_Medium fey, chaotic neutral_
+# Сатир
+_Середній заробіток та хаотичний нейтральний_
 
-**Armor Class** 14 (leather armor)    
-**Hit Points** 31 (7d8)    
-**Speed** 40 ft.
+**Клас броні** 14 (шкіряна броня)    
+**Очки** 31 (7d8)    
+**Швидкість** фут.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 12 (+1) | 16 (+3) | 11 (+0) | 12 (+1) | 10 (+0) | 14 (+2) |
 
@@ -16,9 +16,9 @@ _Medium fey, chaotic neutral_
 **Languages** Common, Elvish, Sylvan    
 **Challenge** 1/2 (100 XP)
 
-**Magic Resistance.** The satyr has advantage on saving throws against spells and other magical effects.
+**Магічний Стійкість до** Сатир має перевагу над збереженням квітів проти заклинань та інших магічних ефектів.
 
-### Actions
-**Ram.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 6 (2d4 + 1) bludgeoning damage.    
-**Shortsword.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) piercing damage.    
-**Shortbow.** _Ranged Weapon Attack:_ +5 to hit, range 80/320 ft., one target. _Hit:_ 6 (1d6 + 3) piercing damage.
+### Дії
+**Рам.** _Атака ближньої зброї:_ +3 до удару, досягає 5-ї цілі, одна мета. _Удара:_ 6 (2d4 + 1) пошкодження дублювання.    
+**Короткий меч.** _Атака ближньої зброї:_ +5, щоб вдарити в нього, досягти 5-ї цілі, одну ціль. _Вдач:_ 6 (1d6 + 3) пробивання пошкоджень.    
+**Короткий лук.** _Атака дальньої зброї:_ +5, щоб вдарити, діапазон 80/320., одна мета. _Вразів:_ 6 (1d6 + 3) наносити пошкодження.
