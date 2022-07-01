@@ -1,22 +1,22 @@
-name: Conjure Animals level: 3 school: conjuration classes: druid ranger
+назва: Тварини кон'юри рівня: 3 школа: конджТривалість класі: druid діапазон
 
-# Conjure Animals
-_3rd-level conjuration_
+# Кон'юрейські тварини
+_Однорівнева тривалість_
 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S    
-**Duration:** Concentration, up to 1 hour
+**Час трансляції :** 1 дія    
+**Діапазон:** 60 футів    
+**компоненти:** V, S    
+дублювання**тривалість:** концентрування, до 1 години
 
-You summon fey spirits that take the form of beasts and appear in unoccupied spaces that you can see within range. Choose one of the following options for what appears:
+Ви прикликаєте неприємні духи, які приймають форму звірів і з'являються в незайнятих місцях, які можна побачити в межах діапазону. Виберіть один з варіантів, які з'являються:
 
-* One beast of challenge rating 2 or lower
-* Two beasts of challenge rating 1 or lower
-* Four beasts of challenge rating 1/2 or lower
-* Eight beasts of challenge rating 1/4 or lower
+* Одна тварина рейтингу виклику 2 або нижче
+* Дві звірі з оцінкою 1 або нижче
+* Чотири звірі рейтингу виклику 1/2 або нижче
+* Вісім звірів кидають виклик рейтингу 1/4 або нижче
 
-Each beast is also considered fey, and it disappears when it drops to 0 hit points or when the spell ends.    
-The summoned creatures are friendly to you and your companions. Roll initiative for the summoned creatures as a group, which has its own turns. They obey any verbal commands that you issue to them (no action required by you). If you don't issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions.    
-The GM has the creatures' statistics.
+Кожний звір також вважається сином, і він зникає, коли падає до 0 хітів або коли пишеться кінець.    
+Прикликані істоти дружні до вас і ваших приятелів. Стало ініціативу щодо викликових істот як групи, яка має свій черг. Вони слухаються будь-яких словесних команд, котрі ви видаєте перед ними (ніяких дій, які вам потрібні). Якщо ви не створюватимете на них жодних команд, вони захищаються від ворожих істот, але в іншому випадку не вживати жодних дій.    
+GM містить статистику істот.
 
-**At Higher Levels.** When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 5th-level slot, three times as many with a 7th-level slot, and four times as many with a 9th-level slot. 
+**На вищих рівнях.** Коли ви кидаєте це заклинання за допомогою певних слотів вищого рівня, ви обираєте одну з наведених вище варіантів, і більше істот з'являються: удвічі більше з прощею на 5-му рівні, три рази більше 7-го рівня, і в чотири рази більше з площею 9-го рівня. 
