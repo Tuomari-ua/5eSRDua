@@ -1,37 +1,37 @@
-description: Rules for leveling up a character from the 5th Edition (5e) SRD (System Reference Document).
+опис: Правила вирівнювання персонажа з 5-ї версії (5e) SRD (Документація з Системної Документації).
 
-# Leveling Up
-As your character goes on adventures and overcomes challenges, he or she gains experience, represented by experience points. A character who reaches a specified experience point total advances in capability. This advancement is called **gaining a level**.
+# Вирівнювання вгору
+Так як ваш персонаж відправляється на пригоди і подолає виклики, він або відчуває досвід роботи, представлені моментами досвіду. Символ, який досягає зазначеного рівня досвіду, загалом досягає можливостей. Цей прогрес називається **отримати рівень**.
 
-When your character gains a level, his or her class often grants additional features, as detailed in the class description. Some of these features allow you to increase your ability scores, either increasing two scores by 1 each or increasing one score by 2. You can’t increase an ability score above 20. In addition, every character's proficiency bonus increases at certain levels.
+Коли ваш персонаж досягає рівня, його чи її клас часто надає додаткову функціональність, в деталях курсу опису. Деякі з цих функцій дозволять вам збільшити оцінку здатності, або збільшити два бали на 1 або 1 бал на 2. Ви не можете збільшити здібність старша 20. Крім того, бонус здібності кожного персонажа зростає на певних рівнях.
 
-Each time you gain a level, you gain 1 additional Hit Die. Roll that Hit Die, add your Constitution modifier to the roll, and add the total to your hit point maximum. Alternatively, you can use the fixed value shown in your class entry, which is the average result of the die roll (rounded up).
+Кожного разу, коли ви отримуєте рівень, ви отримуєте 1 додатковий Втрат. Поворот, що влучить при ударі, додайте ваш модифікатор Конституції до початку і додайте загальну суму до максимуму вашого максимуму. Крім того, ви можете використати фіксоване значення, показане у вході у вашому класі, яке є середнім результатом подій смерті (округлення вгору).
 
-When your Constitution modifier increases by 1, your hit point maximum increases by 1 for each level you have attained. For example, if your 7th-level fighter has a Constitution score of 18, when he reaches 8th level, he increases his Constitution score from 17 to 18, thus increasing his Constitution modifier from +3 to +4. His hit point maximum then increases by 8.
+Коли ваш модифікатор Конституції збільшується на 1, ваш максимальний розмір точки досягнення на 1 для кожного рівня. Наприклад, якщо винищувач на вашому 7-му рівні має 18-ий бал за Конституцію, коли він досягне 8-го рівня, він збільшує рахунок своєї Конституції з 17 до 18, збільшуючи таким чином його модифікатор Конституції з +3 до +4. Його удар досягає максимального значення, потім збільшується на 8.
 
-The Character Advancement table summarizes the XP you need to advance in levels from level 1 through level 20, and the proficiency bonus for a character of that level. Consult the information in your character's class description to see what other improvements you gain at each level.
+Підсумовує таблицю з питань розширень символів для досвіду, необхідного для підвищення рівня від 1 до рівня 20, і сприятливий бонус за характер цього рівня. Звертайте до опису класів ваших персонажів, щоб побачити, які інші покращення ви отримуєте на кожному рівні.
 
-**Character Advancement**
+**Покращення Персонажа**
 
-| Experience Points | Level | Proficiency Bonus |
-| ----------------- | ----- | ----------------- |
-| 0                 | 1     | +2                |
-| 300               | 2     | +2                |
-| 900               | 3     | +2                |
-| 2,700             | 4     | +2                |
-| 6,500             | 5     | +3                |
-| 14,000            | 6     | +3                |
-| 23,000            | 7     | +3                |
-| 34,000            | 8     | +3                |
-| 48,000            | 9     | +4                |
-| 64,000            | 10    | +4                |
-| 85,000            | 11    | +4                |
-| 100,000           | 12    | +4                |
-| 120,000           | 13    | +5                |
-| 140,000           | 14    | +5                |
-| 165,000           | 15    | +5                |
-| 195,000           | 16    | +5                |
-| 225,000           | 17    | +6                |
-| 265,000           | 18    | +6                |
-| 305,000           | 19    | +6                |
-| 355,000           | 20    | +6                |
+| Очки досвіду | Рівень | Бонус здібностей |
+| ------------ | ------ | ---------------- |
+| 0            | 1      | +2               |
+| 300          | 2      | +2               |
+| 900          | 3      | +2               |
+| 2,700        | 4      | +2               |
+| 6,500        | 5      | +3               |
+| 14,000       | 6      | +3               |
+| 23,000       | 7      | +3               |
+| 34,000       | 8      | +3               |
+| 48,000       | 9      | +4               |
+| 64,000       | 10     | +4               |
+| 85,000       | 11     | +4               |
+| 100,000      | 12     | +4               |
+| 120,000      | 13     | +5               |
+| 140,000      | 14     | +5               |
+| 165,000      | 15     | +5               |
+| 195,000      | 16     | +5               |
+| 225,000      | 17     | +6               |
+| 265,000      | 18     | +6               |
+| 305,000      | 19     | +6               |
+| 355,000      | 20     | +6               |
