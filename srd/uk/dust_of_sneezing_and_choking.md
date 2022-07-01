@@ -1,8 +1,8 @@
-name: Dust of Sneezing and Choking type: item
+назва: Пил сплесків і хотя тип: елемент
 
-# Dust of Sneezing and Choking
-_Wondrous item, uncommon_
+# Пил тріщини та хокінгу
+_Нетиповий для Wondrous_
 
-Found in a small container, this powder resembles very fine sand. It appears to be **dust of disappearance**, and an **_identify_** spell reveals it to be such. There is enough of it for one use.
+Знайдений у невеликих контейнерах, цей порошок нагадує дуже тонкий пісок. Схоже, **пил зникнення**, і **_ідентифікувати_** може виявити, що це так. Цього достатньо, для одного використання.
 
-When you use an action to throw a handful of the dust into the air, you and each creature that needs to breathe within 30 feet of you must succeed on a DC 15 Constitution saving throw or become unable to breathe, while sneezing uncontrollably. A creature affected in this way is incapacitated and suffocating. As long as it is conscious, a creature can repeat the saving throw at the end of each of its turns, ending the effect on it on a success. The **_lesser restoration_** spell can also end the effect on a creature. 
+Коли ви використовуєте дію, щоб кинути жменьку пилу в повітря, ви і кожна істота, що повинна дихати в межах 30 футів від вас має досягти успіху в групі DC 15 до тих, що рятують або не можуть дихати, чхати неконтрольно. Виразка, яка впливає таким чином, не здатна та задушлива. Доки вона усвідомлена, істота може повторюватись порятунок в кінці кожної з її черг, припинення впливу на це на успіх. Під час відновлення **__** орфографію може бути ефект на істоті. 
