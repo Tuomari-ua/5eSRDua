@@ -1,13 +1,13 @@
-name: Chill Touch level: 0 school: necromancy classes: sorcerer warlock wizard
+назва: Cill Touch рівень: 0 школа: некромантність класі: сортувальник warlock
 
-# Chill Touch
-_Necromancy cantrip_
+# Холодний дотик
+_Некромантія_
 
-**Casting Time:** 1 action    
-**Range:** 120 feet    
-**Components:** V, S   
-**Duration:** 1 round
+**Час трансляції часу:** 1 дія    
+**Діапазон:** 120 футів    
+**компоненти:** V, S   
+**тривалість:** 1 раунд
 
-You create a ghostly, skeletal hand in the space of a creature within range. Make a ranged spell attack against the creature to assail it with the chill of the grave. On a hit, the target takes 1d8 necrotic damage, and it can't regain hit points until the start of your next turn. Until then, the hand clings to the target.    
-If you hit an undead target, it also has disadvantage on attack rolls against you until the end of your next turn.    
-This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8). 
+Ви створюєте примарну, скелетину руку на простір істоти в раді. Зробіть напад коливань на істоту, щоб накласти звір на могилу. Вдарувавши його, ціль завдає 1d8 некротичних пошкоджень, і вона не зможе повернути очки до початку вашого наступного кроку. До цього часу рука чіпляється до мети.    
+Якщо ви досягнете нежитої цілі, вона також завдала шкоди атакам проти вас до кінця вашого наступного кроку.    
+Шкода від цього заклинання збільшується на 1d8, коли ви досягнете 5-го рівня (2d8), 11-го рівня (3d8) та 17-го рівня (4d8). 
