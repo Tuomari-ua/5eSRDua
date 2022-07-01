@@ -1,13 +1,13 @@
-name: Black Pudding type: ooze cr: 4
+назва: Чорні псевдоніми тип: ooze cr: 4
 
-# Black Pudding
-_Large ooze, unaligned_
+# Чорний пудинг
+_Велике око, не вирівняти_
 
-**Armor Class** 7    
-**Hit Points** 85 (10d10 + 30)    
-**Speed** 20 ft., climb 20 ft.
+**Клас броні** 7    
+**Очки** 85 (10d10 + 30)    
+**Швидкість** 20 ft., підніміть 20 футів.
 
-| STR     | DEX    | CON     | INT    | WIS    | CHA    |
+| СТР     | ДЕКС   | CON     | ІНТ    | WIS    | CHA    |
 | ------- | ------ | ------- | ------ | ------ | ------ |
 | 16 (+3) | 5 (−3) | 16 (+3) | 1 (−5) | 6 (−2) | 1 (−5) |
 
@@ -17,13 +17,13 @@ _Large ooze, unaligned_
 **Languages** --    
 **Challenge** 4 (1,100 XP)
 
-**Amorphous.** The pudding can move through a space as narrow as 1 inch wide without squeezing.    
-**Corrosive Form.** A creature that touches the pudding or hits it with a melee attack while within 5 feet of it takes 4 (1d8) acid damage. Any nonmagical weapon made of metal or wood that hits the pudding corrodes. After dealing damage, the weapon takes a permanent and cumulative −1 penalty to damage rolls. If its penalty drops to −5, the weapon is destroyed. Nonmagical ammunition made of metal or wood that hits the pudding is destroyed after dealing damage.    
-The pudding can eat through 2-inch-thick, nonmagical wood or metal in 1 round.    
-**Spider Climb.** The pudding can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+**Аморфна.** Пудинг може переміщуватися в просторі як вузький, як на 1 дюйм широкий без стискання.    
+**Корросивний Форм.** істота, яка торкнеться стукотіння або вдаряє в ближньому бою та знаходиться в межах 5 футів від неї вимагає 4 (1d8) кислотного пошкодження. Будь-яка немагічна зброя з металу чи деревини вдаряє в пудинг. Після завдавання шкоди, зброя займає постійну і кумулятивну штрафу проти пошкодження роликів. Якщо його краплі покарання до ремонту 5, зброя зруйнується. Магічні боєприпаси з металу чи деревини, які вдаряють до кита, руйнуються після нанесення пошкоджень.    
+Каштування може з'їсти через 2-дюймову, немагічну деревину або метал в 1 раунд.    
+**Павук сходиться.** Сутінги можуть підійматися складними поверхнями, в тому числі й вниз на стелі, не потребуючи перевірки здібності.
 
-### Actions
-**Pseudopod.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) bludgeoning damage plus 18 (4d8) acid damage. In addition, nonmagical armor worn by the target is partly dissolved and takes a permanent and cumulative −1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
+### Дії
+**Псевдо.** _Атака ближньої зброї:_ +5 - до удару, досягнути 5-ї цілі, одну ціль. _Вразу:_ 6 (1d6 + 3) пошкодження дубості плюс 18 (4d8) кислотного пошкодження. Крім того, немагічний обладунок одягнутий ціллю, частково розпускається і приймає постійний і кумулятивний абориген, 1 штраф на АК, який він пропонує. Броня знищує, якщо штраф у розмірі АК до 10.
 
-### Reactions
-**Split.** When a pudding that is Medium or larger is subjected to lightning or slashing damage, it splits into two new puddings if it has at least 10 hit points. Each new pudding has hit points equal to half the original pudding's, rounded down. New puddings are one size smaller than the original pudding.
+### Реакції
+**Розрідж.** При наближенні середнього або більшого піддаються блискавкам або відкиданню пошкоджень, він розділяється на два нових пудинги, якщо в нього є щонайменше 10 балів. Кожен новий пудінг зазнав точок, рівних половині початкового кита, округлений вниз. Нові пудинги - один розмір менший, ніж вихідне пудінг.
