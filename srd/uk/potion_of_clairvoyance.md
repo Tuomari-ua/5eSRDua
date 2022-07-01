@@ -1,6 +1,6 @@
-name: Potion of Clairvoyance type: potion
+назва: Зілля захоплення типу: зілля
 
-# Potion of Clairvoyance
-_Potion, rare_
+# Зілля блиску
+_Зілля_
 
-When you drink this potion, you gain the effect of the **_clairvoyance_** spell. An eyeball bobs in this yellowish liquid but vanishes when the potion is opened. 
+Коли ви п'єте це зілля, ви отримаєте ефект **_вказівки_** заклинання . Коли зілля, він розчиняється у жовтому рідкому рідині, але зникає. 
