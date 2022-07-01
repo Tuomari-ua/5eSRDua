@@ -1,20 +1,20 @@
-name: Ogre type: giant cr: 2
+назва: Огр тип: гігантський cr: 2
 
 # Ogre
-_Large giant, chaotic evil_
+_Велике гігантське хаотичне лихо_
 
-**Armor Class** 11 (hide armor)    
-**Hit Points** 59 (7d10 + 21)    
-**Speed** 40 ft.
+**Клас броні** 11 (приховати броню)    
+**Вітають** 59 (7d10 + 21)    
+**Швидкість** фут.
 
-| STR     | DEX    | CON     | INT    | WIS    | CHA    |
+| СТР     | ДЕКС   | CON     | ІНТ    | WIS    | CHA    |
 | ------- | ------ | ------- | ------ | ------ | ------ |
 | 19 (+4) | 8 (−1) | 16 (+3) | 5 (−3) | 7 (−2) | 7 (−2) |
 
-**Senses** darkvision 60 ft., passive Perception 8    
-**Languages** Common, Giant    
-**Challenge** 2 (450 XP)
+**Способи** затемнення 60, пасивний перехоплення 8    
+**Мови** Common, Giant    
+**Виклик** (450 XP)
 
-### Actions
-**Greatclub.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) bludgeoning damage.    
-**Javelin.** _Melee or Ranged Weapon Attack:_ +6 to hit, reach 5 ft. or range 30/120 ft., one target. _Hit:_ 11 (2d6 + 4) piercing damage.
+### Дії
+**Великий клуб.** _Атака ближньої зброї:_ +6, щоб ударити по 5, одна ціль. _Вразів:_ 13 (2d8 + 4) пошкодження дублювання.    
+**Javelin.** _Атака ближнього бою або дальньої зброї:_ +6 щоб вдарити, сягнути 5 футів або отримати діапазон 30/120 метрів, одна ціль. _Вразів:_ 11 (2d6 + 4) пробивної шкоди.
