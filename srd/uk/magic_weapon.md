@@ -1,13 +1,13 @@
-name: Magic Weapon level: 2 school: transmutation classes: paladin wizard
+назва: Магічна зброя рівень: 2 школа: транмутація класи: Paladin майстер
 
-# Magic Weapon
-_2nd-level transmutation_
+# Магічна зброя
+_Трансмутація 2N-рівня_
 
-**Casting Time:** 1 bonus action    
-**Range:** Touch    
-**Components:** V, S    
-**Duration:** Concentration, up to 1 hour
+**Кастинг часу:** 1 бонусна дія    
+**Діапазон:** Торкніться    
+**компонентів:** V, S    
+дублювання**тривалість:** концентрування, до 1 години
 
-You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic weapon with a +1 bonus to attack rolls and damage rolls.
+Ви торкаєтеся немагічної зброї. Поки заклинання не закінчується, ця зброя стає магічною зброєю з бонусом +1 атакувати мухи і пошкодження рулей.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the bonus increases to +2. When you use a spell slot of 6th level or higher, the bonus increases to +3. 
+**На вищих рівнях.** Коли ви кидаєте це заклинання використовуючи слот 4-го рівня або вище, бонус збільшується до +2. Коли ви використовуєте гніздо шостого рівня або вище, бонус збільшується до +3. 
