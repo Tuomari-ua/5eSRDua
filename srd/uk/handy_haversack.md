@@ -1,12 +1,12 @@
-name: Handy Haversack type: item
+ім'я: Handy Haversack тип: елемент
 
-# Handy Haversack
-_Wondrous item, rare_
+# Зручний гавань
+_Один предмет, рідкісний_
 
-This backpack has a central pouch and two side pouches, each of which is an extradimensional space. Each side pouch can hold up to 20 pounds of material, not exceeding a volume of 2 cubic feet. The large central pouch can hold up to 8 cubic feet or 80 pounds of material. The backpack always weighs 5 pounds, regardless of its contents.
+Ця рюкзак має центральну сумку і дві бічні сумки, кожен з яких є екстрадиційним простором. Кожна бічна сумка може мати до 20 фунтів матеріалу, а не перевищує об'єм 2 кубічних футів. Велика центральна сумка може утримувати до 8 кубічних футів або 80 фунтів матеріалу. Рюкзак завжди важить 5 фунтів, незалежно від його вмісту.
 
-Placing an object in the haversack follows the normal rules for interacting with objects. Retrieving an item from the haversack requires you to use an action. When you reach into the haversack for a specific item, the item is always magically on top.
+Розміщення предмета в заваді слідує за звичайними правилами для взаємодії з об'єктами. Щоб отримати предмет з аверсака, потрібно скористатися дією. Коли ви потрапляєте в зверху, товар завжди знаходиться магічно зверху.
 
-The haversack has a few limitations. If it is overloaded, or if a sharp object pierces it or tears it, the haversack ruptures and is destroyed. If the haversack is destroyed, its contents are lost forever, although an artifact always turns up again somewhere. If the haversack is turned inside out, its contents spill forth, unharmed, and the haversack must be put right before it can be used again. If a breathing creature is placed within the haversack, the creature can survive for up to 10 minutes, after which time it begins to suffocate.
+У аверсії є кілька обмежень. Якщо він перевантажений, або якщо різкий об’єкт пробиває його або сльози його, противник розриви і знищений. Якщо противника зруйновано, його вміст втрачено вічність, хоча артефакт завжди десь повернується. Якщо звернення повернуто звернення назовні, його вміст розливається без ушкодження, він повинен бути поставлений прямо перед тим, як може бути використаний знову. Якщо істота дихання розміщена під кулак, істота зможе вижити не більше 10 хвилин, після цього часу вона починає задушуватися.
 
-Placing the haversack inside an extradimensional space created by a **bag of holding**, **portable hole**, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
+Розміщення апарата в межах екстраденціального простору, створеного **кошиком**, **портативний отвір**, або аналогічний предмет миттєво знищує і предмети і відкриває ворота до літака Астраль. Ворота має бути розташований там, де був розміщений один елемент. Будь-яка істота в межах 10 футів воріт всмокнута і вкладена у випадкове місце на літаку Астрал. Хвіртка зачиняється. Хвіртка лише один шлях і не може бути відкрита.
