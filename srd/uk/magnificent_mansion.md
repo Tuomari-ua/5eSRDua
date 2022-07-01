@@ -1,13 +1,13 @@
-name: Magnificent Mansion level: 7 school: conjuration classes: bard wizard
+назва: Величезний Чоловік рівень: 7 школа: перевірка класів: майстер лінійки
 
-# Magnificent Mansion
-_7th-level conjuration_
+# Чудовий маєток
+_7-ми рівнева тривалість_
 
-**Casting Time:** 1 minute    
-**Range:** 300 feet    
-**Components:** V, S, M (a miniature portal carved from ivory, a small piece of polished marble, and a tiny silver spoon, each item worth at least 5 gp)    
-**Duration:** 24 hours
+**Час Кастинг часу:** 1 хвилина    
+**Діапазон:** 300 футів    
+**компоненти:** V, S, M (портал мініатюри вирізьблений з слонової кістки, невеликий шматок полірованого мармуру та крихітну срібну ложку, кожен елемент вартістю не менше 5 пікселів)    
+**тривалість:** 24 години
 
-You conjure an extradimensional dwelling in range that lasts for the duration. You choose where its one entrance is located. The entrance shimmers faintly and is 5 feet wide and 10 feet tall. You and any creature you designate when you cast the spell can enter the extradimensional dwelling as long as the portal remains open. You can open or close the portal if you are within 30 feet of it. While closed, the portal is invisible.    
-Beyond the portal is a magnificent foyer with numerous chambers beyond. The atmosphere is clean, fresh, and warm.    
-You can create any floor plan you like, but the space can't exceed 50 cubes, each cube being 10 feet on each side. The place is furnished and decorated as you choose. It contains sufficient food to serve a nine-course banquet for up to 100 people. A staff of 100 near-transparent servants attends all who enter. You decide the visual appearance of these servants and their attire. They are completely obedient to your orders. Each servant can perform any task a normal human servant could perform, but they can't attack or take any action that would directly harm another creature. Thus the servants can fetch things, clean, mend, fold clothes, light fires, serve food, pour wine, and so on. The servants can go anywhere in the mansion but can't leave it. Furnishings and other objects created by this spell dissipate into smoke if removed from the mansion. When the spell ends, any creatures inside the extradimensional space are expelled into the open spaces nearest to the entrance. 
+Ви зрегулюєте екстрадиційне помешкання в діапазоні, яке триває довго. Ви виберете, де знаходиться його один вхід. Вхід шалено сяє і має 5 футів заввишки і 10 футів у висоту. Ви і будь-яка істота, яку Ви призначаєте, коли транслюєте заклинання може увійти в екстрадингове поселення до тих пір, поки портал залишається відкритими. Ви можете відкрити або закрити портал, якщо Ви знаходитесь на відстані 30 футів. Поки закритий, портал невидимий.    
+поза порталом є чудовим помічником з численними палатами за його межами. В атмосфері чиста, свіжа та тепло.    
+Ви можете створити будь-який план поверху, який забажаєте, але простір не може перевищувати 50 кубів, кожен куб стає на відстані 10 футів з кожної сторони. Це місце мебльоване і прикрашене за вашим вибором. Бракує їжі для дев'яти курсу банкет до 100 людей. Трохи з 100 майже прозорих слуг відвідують усіх, хто входить. Ви самі вирішуєте появу цих слуг та їх сукні. Вони повністю слухняні вашим наказам. Кожен раб може виконати будь-яке завдання нормального людського слуги може виконати, але вони не можуть атакувати або вжити будь-яких дій, які б безпосередньо зашкодили іншій істоті. І можуть слуги принести речі, чисті, пошиті, одежі, легкі огні, служать поживи, вино та туди. Слуги можуть нікуди піти в особняку, але не можуть залишити її. Виплавлення та інші об'єкти, що створюються цим заклинання при вилученні з особи. Коли заклинання закінчується, всі істоти всередині екстрадиційного простору будуть викладені у відкритий простір, найближчий до входу. 
