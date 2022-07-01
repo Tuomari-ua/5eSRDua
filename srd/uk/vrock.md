@@ -1,13 +1,13 @@
-name: Vrock type: fiend (demon) cr: 6
+назва: Vrock тип: fiend (demon) cr: 6
 
 # Vrock
-_Large fiend (demon), chaotic evil_
+_Велика кулака (демо), хаотичне зло_
 
 **Armor Class** 15 (natural armor)    
 **Hit Points** 104 (11d10 + 44)    
 **Speed** 40 ft., fly 60 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 17 (+3) | 15 (+2) | 18 (+4) | 8 (−1) | 13 (+1) | 8 (−1) |
 
@@ -19,11 +19,11 @@ _Large fiend (demon), chaotic evil_
 **Languages** Abyssal, telepathy 120 ft.    
 **Challenge** 6 (2,300 XP)
 
-**Magic Resistance.** The vrock has advantage on saving throws against spells and other magical effects.
+**Магічний Стійка.** Візок має перевагу в збереженні квітів проти заклинань та інших магічних ефектів.
 
-### Actions
-**Multiattack.** The vrock makes two attacks: one with its beak and one with its talons.    
-**Beak.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) piercing damage.    
-**Talons.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 14 (2d10 + 3) slashing damage.    
-**Spores (Recharge 6).** A 15­‐foot­‐radius cloud of toxic spores extends out from the vrock. The spores spread around corners. Each creature in that area must succeed on a DC 14 Constitution saving throw or become poisoned. While poisoned in this way, a target takes 5 (1d10) poison damage at the start of each of its turns. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Emptying a vial of holy water on the target also ends the effect on it.    
-**Stunning Screech (1/Day).** The vrock emits a horrific screech. Each creature within 20 feet of it that can hear it and that isn't a demon must succeed on a DC 14 Constitution saving throw or be stunned until the end of the vrock's next turn.
+### Дії
+**Мультиатака.** Вороча порода робить дві атаки: один з них дзьобом і один з його талантами.    
+**Дзьоб.** _Атака Міле Зброя:_ +6 щоб вдарити, досягнути 5-ї цілі, одну ціль. _Вразів:_ 10 (2d6 + 3) + 3). Потребує пошкодження    
+**Говори.** _Атака ближньої зброї:_ +6 щоб вдарити, досягти 5-ти цілі, одна ціль. _Вразів:_ 14 (2d10 + 3) і 3). Поразка    
+**Способи (Recharge 6).** <unk> <unk> <unk> A радіус, хмара токсичних спорів виходить з-під сукні. Спори поширюються по кутах. Кожна істота в цій галузі повинна досягти успіху на кидку Конституції 14 року, або стати отруєною. У той час як отруєний способом, ціль забирає 5 (1d10) отруту під час початку кожної з цих черг. Ціль може повторювати накопичення в кінці кожної своєї черги, закінчуючи вплив на себе на успіх. Закликаючи флакон святої води на цілі, також закінчується ефектом на неї.    
+**Тонкий Крик (1/Day).** Вітряна порода видає жахливий екран. Кожна істота в межах 20 футів від неї можуть це чути, і що не демон повинен досягти успіху в групі кидання Конституції DC 14 або бути приголомшеним до кінця наступного повороту.
