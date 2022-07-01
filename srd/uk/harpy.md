@@ -1,24 +1,24 @@
-name: Harpy type: monstrosity cr: 1
+назва: Гарпія тип: чудовисько cr: 1
 
 # Harpy
-_Medium monstrosity, chaotic evil_
+_Середнє чудовисько, хаотичне зло_
 
 **Armor Class** 11    
 **Hit Points** 38 (7d8 + 7)    
 **Speed** 20 ft., fly 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA     |
 | ------- | ------- | ------- | ------ | ------- | ------- |
 | 12 (+1) | 13 (+1) | 12 (+1) | 7 (−2) | 10 (+0) | 13 (+1) |
 
-**Senses** passive Perception 10    
-**Languages** Common    
-**Challenge** 1 (200 XP)
+**Подяки** пасивне сприйняття 10    
+**Мови** Common    
+**Challenge** </strong> (200 XP)
 
-### Actions
+### Дії
 **Multiattack.** The harpy makes two attacks: one with its claws and one with its club.    
-**Claws.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 6 (2d4 + 1) slashing damage.    
-**Club.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 3 (1d4 + 1) bludgeoning damage.    
-**Luring Song.** The harpy sings a magical melody. Every humanoid and giant within 300 feet of the harpy that can hear the song must succeed on a DC 11 Wisdom saving throw or be charmed until the song ends. The harpy must take a bonus action on its subsequent turns to continue singing. It can stop singing at any time. The song ends if the harpy is incapacitated.    
-While charmed by the harpy, a target is incapacitated and ignores the songs of other harpies. If the charmed target is more than 5 feet away from the harpy, the target must move on its turn toward the harpy by the most direct route, trying to get within 5 feet. It doesn't avoid opportunity attacks, but before moving into damaging terrain, such as lava or a pit, and whenever it takes damage from a source other than the harpy, the target can repeat the saving throw. A charmed target can also repeat the saving throw at the end of each of its turns. If the saving throw is successful, the effect ends on it.    
-A target that successfully saves is immune to this harpy's song for the next 24 hours.
+**Claws.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Вдач:_ 6 (2d4 + 1) удар пошкодження.    
+**Клуб.** _Атака ближньої зброї:_ +3 для удару, досягає 5-ти показників, одна ціль. _Удари:_ 3 (1d4 + 1) пошкодження дублювальної пісні.    
+**Слухайте пісню.** Гарпова співає чарівна мелодія. Кожен гуманоїд і гігант у межах 300 футів арпії, які можуть чути, що пісня має успішно смоктувати DC 11 Мудро, щоб зберігати кидання або бути зачаровані до закінчення пісні. Гарпія повинна вжити бонусних заходів щодо його наступних черг, щоб продовжувати співати. Це може припинити співати в будь-який час. Пісня закінчується, якщо арфа недієздатна.    
+, хоч і зачаровані арфією, ціль не містить і ігнорує пісні інших арпіров. Якщо зачарована ціль знаходиться більш ніж на 5 футів від гарпії, ціль повинна рухатися до арфі на найпряміший маршрут, намагаючись дістатися до 5 футів. Він не уникає пригод, але перед тим, як перейти на згубну територію, таку як лава чи пастка, і коли б це не шкодить джерелу, відмінним від арфі, ціль може повторити рятувальну стрілу. Зачарована ціль також може повторити зберіг, кидати в кінець кожного з її поворотів. Якщо кидання заощаджень буде успішним, ефект закінчиться його.    
+Ціль успішного збереження є імунітетом до наступної 24 години.
