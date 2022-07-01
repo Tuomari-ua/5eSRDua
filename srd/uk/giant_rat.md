@@ -1,26 +1,26 @@
-name: Giant Rat type: beast cr: .125
+назва: Гігантський Щат тип: звір cr: .125
 
-# Giant Rat
-_Small beast, unaligned_
+# Величезний щур
+_Малий звір, неприєднаний_
 
 **Armor Class** 12    
 **Hit Points** 7 (2d6)    
 **Speed** 30 ft.
 
-| STR    | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР    | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------ | ------- | ------- | ------ | ------- | ------ |
 | 7 (−2) | 15 (+2) | 11 (+0) | 2 (−4) | 10 (+0) | 4 (−3) |
 
-**Senses** darkvision 60 ft., passive Perception 10    
-**Languages** --    
-**Challenge** 1/8 (25 XP)
+**Способи** затемнення 60, пасивне сприйняття 10    
+**Мови** --    
+**виклик** 1/8 (25 XP)
 
-**Keen Smell.** The rat has advantage on Wisdom (Perception) checks that rely on smell.    
-**Pack Tactics.** The rat has advantage on an attack roll against a creature if at least one of the rat's allies is within 5 feet of the creature and the ally isn't incapacitated.
+**Keen Smell.** Пацюк має перевагу в Wisdom (виключання) перевірки, які покладаються на запах.    
+**Пакет тактики.** Щур має перевагу на атаку, яка грає проти істоти, якщо принаймні один з союзників щура знаходиться на протязі 5 футів істоти, і союзник не недієздатний.
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage.
+### Дії
+**Біт.** _Атака ближньої зброї:_ +4 до удару, досягає 5-ї цілі, одна мета. _Вразів:_ 4 (1d4 + 2) проколювання пошкоджень.
 
-### Variant: Diseased Giant Rats
-Some giant rats carry vile diseases that they spread with their bites. A diseased giant rat has a challenge rating of 1/8 (25 XP) and the following action instead of its normal bite attack.     
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 10 Constitution saving throw or contract a disease. Until the disease is cured, the target can't regain hit points except by magical means, and the target's hit point maximum decreases by 3 (1d6) every 24 hours. If the target's hit point maximum drops to 0 as a result of this disease, the target dies. 
+### Варіант: померлі гігантські пацюки
+Деяких гігантських щурів приносять порочні хвороби, які поширюються на кусаки. Задуманий гігантський щур має високий рейтинг 1/8 (25 XP) і наступну дію замість своєї нормальної атаки.     
+**Біт.** _Атака складної зброї:_ +4, щоб ударити до 5, досягає 1 ціль. _Вразів:_ 4 (1d4 + 2) проколювання пошкоджень. Якщо ціль є створенням, це має досягти успіху в економії Конституції DC 10, або ж обмежити захворювання. Поки хвороба не вилікує, ціль не зможе повернути очки за винятком магічних засобів, і максимальна точка битви цілі зменшується на 3 (1d6) кожні 24 години. Якщо максимальна максимальна точка наближення цілі до 0 в результаті цієї хвороби, то ціль гине. 
