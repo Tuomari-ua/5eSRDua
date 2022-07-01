@@ -1,11 +1,11 @@
-name: Nondetection level: 3 school: abjuration classes: bard ranger wizard
+назва: Недетекція рівень: 3 школа: abjuration класі: пов'язаний майстер
 
-# Nondetection
-_3rd-level abjuration_
+# Непізнування
+_Відступ на третьому рівні_
 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S, M (a pinch of diamond dust worth 25 gp sprinkled over the target, which the spell consumes)    
-**Duration:** 8 hours
+**Час трансляції :** 1 дія    
+**Діапазон:** Торкніться    
+**компоненти:** V, S, М (висота алмазного пилу вартує 25 кг від цілі, який витрачає заклинання    
+**тривалість:** години
 
-For the duration, you hide a target that you touch from divination magic. The target can be a willing creature or a place or an object no larger than 10 feet in any dimension. The target can't be targeted by any divination magic or perceived through magical scrying sensors.
+На цей час ви приховуєте ціль від божественної магії. Ціль може бути готовим створінням, або місцем або об’єктом не більше ніж 10 футів у будь-якому вимірі. Ціль не може бути націлена на божественну магію або сприйнята магічними сенсорами та розсіяних сенсорів.
