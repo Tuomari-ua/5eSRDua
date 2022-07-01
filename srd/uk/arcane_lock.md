@@ -1,12 +1,12 @@
-name: Arcane Lock level: 2 school: abjuration classes: wizard
+назва: Вічне Блокування рівень: 2 школа: abjuration класи: майстер
 
-# Arcane Lock
-_2nd-level abjuration_
+# Таємний замок
+_Тривалість 2НД-го рівня_
 
-**Casting Time:** 1 action   
-**Range:** Touch   
-**Components:** V, S, M (gold dust worth at least 25 gp, which the spell consumes)   
-**Duration:** Until dispelled
+**Час трансляції :** 1 дія   
+**Діапазон:** Торкніться   
+**компоненти:** V, S, М (золотий пил вартий щонайменше 25 Gp, який споживає заклинання)   
+**тривалість:** Допоки не виключено
 
-You touch a closed door, window, gate, chest, or other entryway, and it becomes locked for the duration. You and the creatures you designate when you cast this spell can open the object normally. You can also set a password that, when spoken within 5 feet of the object, suppresses this spell for 1 minute. Otherwise, it is impassable until it is broken or the spell is dispelled or suppressed. Casting **_knock_** on the object suppresses **_arcane lock_** for 10 minutes.    
-While affected by this spell, the object is more difficult to break or force open; the DC to break it or pick any locks on it increases by 10. 
+Ви торкаєтеся зачинених дверей, вікон, воріт, скрині або інших записів і вона стає заблокована на тривалість. Ви і істоти, які ви визначаєте, коли кидаєте це заклинання можуть відкрити об’єкт, що нормально. Ви можете також встановити пароль, який у межах 5 футів від об'єкта пригноює це заклинання до 1 хвилини. Інакше вона непрохідна, поки вона не буде зламана, або заклинання буде розпущена або придушена. Кастинг **_нот_** на об’єкт пригнічує **_приховане блокування_** на 10 хвилин.    
+Незважаючи на те, що на нього впливає цей заклинань, об'єкт складніше зламати або відкрити; DC щоб розбити його, або обрати будь-яке замикування збільшує на 10. 
