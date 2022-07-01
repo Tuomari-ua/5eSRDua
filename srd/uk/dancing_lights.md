@@ -1,12 +1,12 @@
-name: Dancing Lights level: 0 school: evocation classes: bard sorcerer wizard
+назва: Команда танців Lights рівень: 0 школа: evocation класів: очевидний сортувальник
 
-# Dancing Lights
-_Evocation cantrip_
+# Танцюючі вогні
+_Евокаційна конфіскація_
 
-**Casting Time:** 1 action    
-**Range:** 120 feet    
-**Components:** V, S, M (a bit of phosphorus or wychwood, or a glowworm)    
-**Duration:** Concentration, up to 1 minute
+**Час трансляції часу:** 1 дія    
+**Діапазон:** 120 футів    
+**компоненти:** V, S, М (трохи фосфору або wychwood, або світлочерв"яка,    
+**тривалість:** Мета, до 1 хвилини
 
-You create up to four torch-sized lights within range, making them appear as torches, lanterns, or glowing orbs that hover in the air for the duration. You can also combine the four lights into one glowing vaguely humanoid form of Medium size. Whichever form you choose, each light sheds dim light in a 10- foot radius.    
-As a bonus action on your turn, you can move the lights up to 60 feet to a new spot within range. A light must be within 20 feet of another light created by this spell, and a light winks out if it exceeds the spell's range.
+Ви створюєте для діапазону до чотирьох розмірів смолоскипів, і змушує їх появитися як смолоскипи, ліхтарі, або світяться орли, які протягом довголіття рокуть у повітрі. Ви також можете поєднати чотири лампи в одну м'яко гуманоподібну форму середнього розміру. Який би ви не обрали, кожне світло випромінює тьмяне світло на 10 футів від нас.    
+В якості бонусної дії на свою чергу, ви можете перемістити світло вгору до 60 футів на нову точку в межах діапазону. Світло має бути не більше 20 футів від цього заклинання, і світло вивергає, якщо воно перевищує відстань заклинання.
