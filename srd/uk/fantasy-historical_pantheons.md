@@ -1,105 +1,105 @@
-description: Descriptions of different fantasy and historical pantheons from the 5th Edition (5e) SRD (System Reference Document).
+опис: описи різної фантазії та історичної пантеони з 5-ї редакції (5) СРД (Системна довідкова Документація).
 
-# Fantasy-Historical Pantheons
-The Celtic, Egyptian, Greek, and Norse pantheons are fantasy interpretations of historical religions from our world's ancient times. They include deities that are most appropriate for use in a game, divorced from their historical context in the real world and united into pantheons that serve the needs of the game.
+# Історична пантеонська
+Цельтія, єгиптяни, греки та норвезькі пантеони - це фантазійні тлумачення історичних релігій наших давніх часів нашого світу. Це безлади, які є найбільш доречними для використання у грі, Відділився їх історичним змістом в реальному світі і об'єднався в пантеони, що слугують потребам гри.
 
-## The Celtic Pantheon
-It's said that something wild lurks in the heart of every soul, a space that thrills to the sound of geese calling at night, to the whispering wind through the pines, to the unexpected red of mistletoe on an oak--and it is in this space that the Celtic gods dwell. They sprang from the brook and stream, their might heightened by the strength of the oak and the beauty of the woodlands and open moor. When the first forester dared put a name to the face seen in the bole of a tree or the voice babbling in a brook, these gods forced themselves into being.
+## Пантеон кельтського
+Кажуть, що в серці кожної душі ховається щось дике — простір, який трепетує до голосу гусей, що кличуть вночі, до шепоту вітру крізь рожеві, до несподіваного червоного комірця на дубі — і воно в цьому просторі водили кельтські боги. Вони скочили з потоку та з струмка, на силу дуба й красу лісових земель та відчинені болота. Коли перший лісник зважився посадити ім'я до обличчя, яке було видно в суглобах дерева, або голос, що лунав в брові, ці боги змусили себе бути такими.
 
-The Celtic gods are as often served by druids as by clerics, for they are closely aligned with the forces of nature that druids revere.
+Цельтських богів так само часто подають черви, як і священнослужителі, бо вони тісно співвідносяться з силами природи, які руйнують себе.
 
-## The Greek Pantheon
-The gods of Olympus make themselves known with the gentle lap of waves against the shores and the crash of the thunder among the cloud-enshrouded peaks. The thick boar-infested woods and the sere, olive-covered hillsides hold evidence of their passing. Every aspect of nature echoes with their presence, and they've made a place for themselves inside the human heart, too.
+## Грецький пантеон
+Бог Олімп сам уміє знатись із лагідним коліном хвиль від берегів і з гуркотом грім серед запонених хмар. Товсті накинуті хвіртки і сироті пагорби ще проходили їхню подорож. Кожен аспект природи перегукується з її присутністю, і вони теж створили своє місце для себе всередині серця людини.
 
-## The Egyptian Pantheon
-These gods are a young dynasty of an ancient divine family, heirs to the rulership of the cosmos and the maintenance of the divine principle of Ma'at--the fundamental order of truth, justice, law, and order that puts gods, mortal pharaohs, and ordinary men and women in their logical and rightful place in the universe.
+## Єгипетський пантеон
+Ці боги - молоді династії старовинної божественної сім'ї, спадкоємці упорядкування космосу та підтримання божественного принципу Маа - фундаментального порядку істини, правосуддя, закон, упорядкування богів, смертних фараонів і звичайних чоловіків і жінок у своєму логічному і правильному місці Всесвіту.
 
-The Egyptian pantheon is unusual in having three gods responsible for death, each with different alignments. Anubis is the lawful neutral god of the afterlife, who judges the souls of the dead. Set is a chaotic evil god of murder, perhaps best known for killing his brother Osiris. And Nephthys is a chaotic good goddess of mourning.
+Єгипетський пантеон незвичайний в тому, щоб мати трьох богів відповідальні за смерть, кожен із різними вирівнюваннями. Анубіс - законний нейтральний бог після життя, який судить душі мертвих. Набір - хаотичний злий бог вбивства, можливо, найвідоміший за вбивство свого брата Осіріса. А Нефтіс - хаотична богиня скорботи.
 
 ## The Norse Pantheon
-Where the land plummets from the snowy hills into the icy fjords below, where the longboats draw up on to the beach, where the glaciers flow forward and retreat with every fall and spring--this is the land of the Vikings, the home of the Norse pantheon. It's a brutal clime, and one that calls for brutal living. The warriors of the land have had to adapt to the harsh conditions in order to survive, but they haven't been too twisted by the needs of their environment. Given the necessity of raiding for food and wealth, it's surprising the mortals turned out as well as they did. Their powers reflect the need these warriors had for strong leadership and decisive action. Thus, they see their deities in every bend of a river, hear them in the crash of the thunder and the booming of the glaciers, and smell them in the smoke of a burning longhouse.
+Земля свербить з сніжних пагорбів на крижані ріпаки нижче, де довгі човни залунаються на пляж, де льодовики протікають вперед і вступають з кожною осінню та джерелом - це земля вікінгів, де є норвезький пантеон. Цей підйом жорстокий, який закликає до жорстокого життя. воїни землі повинні були пристосуватися до суворих умов, щоб вижити, але вони не були занадто перекручені потребами свого середовища. Беручи до уваги необхідність шукаючих їжі та багатства, виявляється як і в смертних, так і в них це було дивно. Їхні повноваження відображають необхідність цих воїнів для сильного лідерства та рішучих дій. Таким чином, вони бачать свої божества в кожному вигині річки, Слухайте їх, коли грози й грім бринів льодовиків, і ви почуєте від галасу сонних.
 
-The Norse pantheon includes two main families, the Aesir (deities of war and destiny) and the Vanir (gods of fertility and prosperity). Once enemies, these two families are now closely allied against their common enemies, the giants (including the gods Surtur and Thrym).
+Північний пантеон включає дві основні сім'ї, Есір (боки війни та долі) і ванір (боги народжуваності та процвітання). Після того, як вороги, ці дві родини зараз тісно пов'язані проти своїх спільних ворогів, гіганів (включаючи богів Суртур та Трим).
 
-### Celtic Deities
-| Deity                                             | Alignment | Suggested Domains | Symbol                             |
-| ------------------------------------------------- | --------- | ----------------- | ---------------------------------- |
-| The Daghdha, god of weather and crops             | CG        | Nature, Trickery  | Bubbling cauldron or shield        |
-| Arawn, god of life and death                      | NE        | Life, Death       | Black star on gray background      |
-| Belenus, god of sun, light, and warmth            | NG        | Light             | Solar disk and standing stones     |
-| Brigantia, goddess of rivers and livestock        | NG        | Life              | Footbridge                         |
-| Diancecht, god of medicine and healing            | LG        | Life              | Crossed oak and mistletoe branches |
-| Dunatis, god of mountains and peaks               | N         | Nature            | Red sun-capped mountain peak       |
-| Goibhniu, god of smiths and healing               | NG        | Knowledge, Life   | Giant mallet over sword            |
-| Lugh, god of arts, travel, and commerce           | CN        | Knowledge, Life   | Pair of long hands                 |
-| Manannan mac Lir, god of oceans and sea creatures | LN        | Nature, Tempest   | Wave of white water on green       |
-| Math Mathonwy, god of magic                       | NE        | Knowledge         | Staff                              |
-| Morrigan, goddess of battle                       | CE        | War               | Two crossed spears                 |
-| Nuada, god of war and warriors                    | N         | War               | Silver hand on black background    |
-| Oghma, god of speech and writing                  | NG        | Knowledge         | Unfurled scroll                    |
-| Silvanus, god of nature and forests               | N         | Nature            | Summer oak tree                    |
+### Кельтські божества
+| Боги                                          | Вирівнювання      | Запропоновані домени | Символ                          |
+| --------------------------------------------- | ----------------- | -------------------- | ------------------------------- |
+| Дагда, бог погоди і культури                  | CG                | Природа              | Виринсуючий казан або щит       |
+| Аравн, бог життя і смерті                     | ПнС               | Життя, смерть        | Чорна зірка на сірому тлі       |
+| Белен, бог сонця, світла і тепла              | NG                | Світла               | Сонячний диск та каміння стоячи |
+| Бригантія, богиня річок і худоби              | NG                | Життя                | Пішохідний міст                 |
+| Діансехт, бог медицини та зцілення            | LG                | Життя                | Перехрещені дубові гілки туману |
+| Дунатис, бог гір і вершини                    | Н                 | Природа              | Червоносончаста гора            |
+| Гойбні, бог ковалів та зцілення               | NG                | Знання, життя        | Гігантський чоловічий меч       |
+| Луга, бог мистецтв, подорожей та торговлі     | Телефон           | Знання, життя        | Пара довгих рук                 |
+| Мананнан мак Лір, бог океану і морських істот | Номер відстеження | Природа, буря        | Хвиля білої води на зеленому    |
+| Математика, бог магії                         | ПнС               | Знання               | Персонал                        |
+| Морріган, богиня битви                        | CE                | Війна                | Два перехресті списи            |
+| Нуада, бог війни та воїнів                    | Н                 | Війна                | Срібна рука на чорному фоні     |
+| Огма, бог мови та письмо                      | NG                | Знання               | Незатьмарене прокручування      |
+| Силванус, бог природи і ліси                  | Н                 | Природа              | Літній дуб                      |
 
-### Greek Deities
-| Deity                                      | Alignment | Suggested Domains      | Symbol                                |
-| ------------------------------------------ | --------- | ---------------------- | ------------------------------------- |
-| Zeus, god of the sky, ruler of the gods    | N         | Tempest                | Fist full of lightning bolts          |
-| Aphrodite, goddess of love and beauty      | CG        | Light                  | Sea shell                             |
-| Apollo, god of light, music, and healing   | CG        | Knowledge, Life, Light | Lyre                                  |
-| Ares, god of war and strife                | CE        | War                    | Spear                                 |
-| Artemis, goddess of hunting and childbirth | NG        | Life, Nature           | Bow and arrow on lunar disk           |
-| Athena, goddess of wisdom and civilization | LG        | Knowledge, War         | Owl                                   |
-| Demeter, goddess of agriculture            | NG        | Life                   | Mare's head                           |
-| Dionysus, god of mirth and wine            | CN        | Life                   | Thyrsus (staff tipped with pine cone) |
-| Hades, god of the underworld               | LE        | Death                  | Black ram                             |
-| Hecate, goddess of magic and the moon      | CE        | Knowledge, Trickery    | Setting moon                          |
-| Hephaestus, god of smithing and craft      | NG        | Knowledge              | Hammer and anvil                      |
-| Hera, goddess of marriage and intrigue     | CN        | Trickery               | Fan of peacock feathers               |
-| Hercules, god of strength and adventure    | CG        | Tempest, War           | Lion's head                           |
-| Hermes, god of travel and commerce         | CG        | Trickery               | Caduceus (winged staff and serpents)  |
-| Hestia, goddess of home and family         | NG        | Life                   | Hearth                                |
-| Nike, goddess of victory                   | LN        | War                    | Winged woman                          |
-| Pan, god of nature                         | CN        | Nature                 | Syrinx (pan pipes)                    |
-| Poseidon, god of the sea and earthquakes   | CN        | Tempest                | Trident                               |
-| Tyche, goddess of good fortune             | N         | Trickery               | Red pentagram                         |
+### Грецькі божества
+| Боги                                          | Вирівнювання      | Запропоновані домени  | Символ                                  |
+| --------------------------------------------- | ----------------- | --------------------- | --------------------------------------- |
+| Зевс, бог неба, правитель богів               | Н                 | Буря                  | Кулак повний блискавок                  |
+| Афродіта, богиня кохання та краси             | CG                | Світла                | Морські отвори                          |
+| Аполло, бог світла, музики та зцілення        | CG                | Знання, життя. Світло | Ліра                                    |
+| Арери, бог війни і міжусобиці                 | CE                | Війна                 | Спис                                    |
+| Артемід, богиня полювання і народження дитини | NG                | Життя, природа        | Лук і стріла на місячному диску         |
+| Атена, богиня мудрості та цивілізації         | LG                | Знання, війна         | Совоподібні                             |
+| Деметер, богиня сільського господарства       | NG                | Життя                 | Голова Маре                             |
+| Діоніс, бог міри та вина                      | Телефон           | Життя                 | Тирс (персонал, покритий сосновою шину) |
+| Хадс, бог підземного світу                    | Ле                | Смерть                | Black ram                               |
+| Гекат, богиня магії та Місяця                 | CE                | Знання, хитрощі       | При відключенні місяця                  |
+| Гефест, бог посміху і ремесло                 | NG                | Знання                | Молот і ковадло                         |
+| Гера, богиня шлюбів і інтрига                 | Телефон           | Трюкері               | Перове пір'я                            |
+| Геркулес, бог сили і пригод                   | CG                | Темпест, війна        | Голова лева                             |
+| Ерм, бог подорожі та торгівлі                 | CG                | Трюкері               | Кадуцей (крилатий персонал і змії)      |
+| Гестія, богиня дому і сім'ї                   | NG                | Життя                 | Вогнище                                 |
+| Никому, богині перемоги                       | Номер відстеження | Війна                 | Жінка з крилами                         |
+| Пан, бог природи                              | Телефон           | Природа               | Syrinx (труба)                          |
+| Посейдон, боги моря і землетрусів             | Телефон           | Буря                  | Тризубець                               |
+| Тайх, богиня хорошої вдачі                    | Н                 | Трюкері               | Червона п'ятиграма                      |
 
-### Egyptian Deities
-| Deity                                          | Alignment | Suggested Domains        | Symbol                               |
-| ---------------------------------------------- | --------- | ------------------------ | ------------------------------------ |
-| Re-Horakhty, god of the sun, ruler of the gods | LG        | Life, Light              | Solar disk encircled by serpent      |
-| Anubis, god of judgment and death              | LN        | Death                    | Black jackal                         |
-| Apep, god of evil, fire, and serpents          | NE        | Trickery                 | Flaming snake                        |
-| Bast, goddess of cats and vengeance            | CG        | War                      | Cat                                  |
-| Bes, god of luck and music                     | CN        | Trickery                 | Image of the misshapen deity         |
-| Hathor, goddess of love, music, and motherhood | NG        | Life, Light              | Horned cow's head with lunar disk    |
-| Imhotep, god of crafts and medicine            | NG        | Knowledge                | Step pyramid                         |
-| Isis, goddess of fertility and magic           | NG        | Knowledge, Life          | Ankh and star                        |
-| Nephthys, goddess of death and grief           | CG        | Death                    | Horns around a lunar disk            |
-| Osiris, god of nature and the underworld       | LG        | Life, Nature             | Crook and flail                      |
-| Ptah, god of crafts, knowledge, and secrets    | LN        | Knowledge                | Bull                                 |
-| Set, god of darkness and desert storms         | CE        | Death, Tempest, Trickery | Coiled cobra                         |
-| Sobek, god of water and crocodiles             | LE        | Nature, Tempest          | Crocodile head with horns and plumes |
-| Thoth, god of knowledge and wisdom             | N         | Knowledge                | Ibis                                 |
+### Єгипетські божества
+| Боги                                        | Вирівнювання      | Запропоновані домени     | Символ                                  |
+| ------------------------------------------- | ----------------- | ------------------------ | --------------------------------------- |
+| Регорахті, бог сонця, правитель богів       | LG                | Життя, світло            | Сонячний диск оточений змією            |
+| Анубіс, бог судження і смерті               | Номер відстеження | Смерть                   | Шакал чорний                            |
+| Зверх, бог зла, вогонь і змій               | ПнС               | Трюкері                  | Полум'яна змія                          |
+| Земля, богиня котів та помсти               | CG                | Війна                    | Кішка                                   |
+| Бес, бог удачі та музики                    | Телефон           | Трюкері                  | Зображення неправильного божества       |
+| Аттор, богиня любові, музики та материнства | NG                | Життя, світло            | Рогата голова корови на диску           |
+| Імхотеп, бог ремеслів та медицини           | NG                | Знання                   | Крокова піраміда                        |
+| Ісіда, богиня родючості та магії            | NG                | Знання, життя            | Анкх і зірка                            |
+| Неффіти, богиня смерті і горе               | CG                | Смерть                   | Роги навколо місячного диску            |
+| Осіріс, бог природи і підсвіт               | LG                | Життя, природа           | Трамвай Крука                           |
+| Птаха, бога ремесла, знання й таємниці      | Номер відстеження | Знання                   | Булл                                    |
+| Здається, бог темряви та пустельної бурі    | CE                | Смерть, Темпет, Трейкері | Кобра городчаста                        |
+| Себек, бог води і крокодилів                | Ле                | Природа, буря            | Голова крокодила з рогами і склепіннями |
+| Ти, бог пізнання та мудрости                | Н                 | Знання                   | Ібіс                                    |
 
-### Norse Deities
-| Deity                                     | Alignment | Suggested Domains | Symbol                            |
-| ----------------------------------------- | --------- | ----------------- | --------------------------------- |
-| Odin, god of knowledge and war            | NG        | Knowledge, War    | Watching blue eye                 |
-| Aegir, god of the sea and storms          | NE        | Tempest           | Rough ocean waves                 |
-| Balder, god of beauty and poetry          | NG        | Life, Light       | Gem-encrusted silver chalice      |
-| Forseti, god of justice and law           | N         | Light             | Head of a bearded man             |
-| Frey, god of fertility and the sun        | NG        | Life, Light       | Ice‐blue greatsword               |
-| Freya, goddess of fertility and love      | NG        | Life              | Falcon                            |
-| Frigga, goddess of birth and fertility    | N         | Life, Light       | Cat                               |
-| Heimdall, god of watchfulness and loyalty | LG        | Light, War        | Curling musical horn              |
-| Hel, goddess of the underworld            | NE        | Death             | Woman's face, rotting on one side |
-| Hermod, god of luck                       | CN        | Trickery          | Winged scroll                     |
-| Loki, god of thieves and trickery         | CE        | Trickery          | Flame                             |
-| Njord, god of sea and wind                | NG        | Nature, Tempest   | Gold coin                         |
-| Odur, god of light and the sun            | CG        | Light             | Solar disk                        |
-| Sif, goddess of war                       | CG        | War               | Upraised sword                    |
-| Skadi, god of earth and mountains         | N         | Nature            | Mountain peak                     |
-| Surtur, god of fire giants and war        | LE        | War               | Flaming sword                     |
-| Thor, god of storms and thunder           | CG        | Tempest, War      | Hammer                            |
-| Thrym, god of frost giants and cold       | CE        | War               | White double-bladed axe           |
-| Tyr, god of courage and strategy          | LN        | Knowledge, War    | Sword                             |
-| Uller, god of hunting and winter          | CN        | Nature            | Longbow                           |
+### Скандинавські божества
+| Боги                                   | Вирівнювання      | Запропоновані домени | Символ                      |
+| -------------------------------------- | ----------------- | -------------------- | --------------------------- |
+| Одін, бог знання і війни               | NG                | Знання, війна        | Дивиться блакитні очі       |
+| Егір, бог моря і бурі                  | ПнС               | Буря                 | Грубті океанічні хвилі      |
+| Бальдер, бог краси та поезії           | NG                | Життя, світло        | Срібна чатальська чаша      |
+| Форсеті, бог правосуддя і права        | Н                 | Світла               | Голова бородата             |
+| Вільний, бог народжуваності та сонця   | NG                | Життя, світло        | Маномеч                     |
+| Фрея, богиня родючості і кохання       | NG                | Життя                | Сокіл                       |
+| Фяґа, богиня народження та родючості   | Н                 | Життя, світло        | Кішка                       |
+| Хаймдал, бог вічності та вірності      | LG                | Світла, війна        | Керлінг музичний ріг        |
+| Гел, богиня підземного світу           | ПнС               | Смерть               | Обличчя жінки з одного боку |
+| Гермод                                 | Телефон           | Трюкері              | Прокрутка крила             |
+| Локі, бог злодіїв і хитрощі            | CE                | Трюкері              | Полум'я                     |
+| Нйорд, бог моря і вітру                | NG                | Природа, буря        | Золота монета               |
+| Бог світла і сонця                     | CG                | Світла               | Сонячний диск               |
+| Сіф, богиня війни                      | CG                | Війна                | Вихований меч               |
+| Скаді, бог землі і гори                | Н                 | Природа              | Гірський пік                |
+| Суртур, бог вогневих гігантів і війни  | Ле                | Війна                | Полум'яний меч              |
+| Тур, бог бурі і грози                  | CG                | Темпест, війна       | Молот                       |
+| Тримає, бог морозних гігантах і холоду | CE                | Війна                | Біла дубляшкова сокира      |
+| Тайр, бог мужності та стратегії        | Номер відстеження | Знання, війна        | Меч                         |
+| Боже полювання і зими                  | Телефон           | Природа              | Longbow                     |
