@@ -1,13 +1,13 @@
-name: Heal level: 6 school: evocation classes: cleric druid
+назва: Лікування рівень: 6 школа: евакуація класів: священно druid
 
-# Heal
-_6th-level evocation_
+# Лікування
+_Евокація 6-го рівня_
 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S    
-**Duration:** Instantaneous
+**Час трансляції :** 1 дія    
+**Діапазон:** 60 футів    
+**компоненти:** V, S    
+**тривалість:** миттєві
 
-Choose a creature that you can see within range. A surge of positive energy washes through the creature, causing it to regain 70 hit points. This spell also ends blindness, deafness, and any diseases affecting the target. This spell has no effect on constructs or undead.
+Виберіть істоту, яку можна побачити на відстані. Спад позитивної енергії миє через істоту, внаслідок чого він відновить 70 балів. Цей заклинання також завершує сліпоту, глухоту і будь-які захворювання, що впливають на мету. Ця заклинання не має ніякого впливу на конструкції чи немертвих.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, the amount of healing increases by 10 for each slot level above 6th. 
+**На вищих рівнях.** Коли ви кидаєте це заклинання використовуючи гніздо 7-го рівня або вище, кількість лікування збільшується на 10 для кожного рівня слота вище шостої. 
