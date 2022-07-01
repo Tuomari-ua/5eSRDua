@@ -1,13 +1,13 @@
-name: Giant Lizard type: beast cr: .25
+назва: Гігантський Майстер тип: звір cr: .25
 
-# Giant Lizard
-_Large beast, unaligned_
+# Гігантський Ящірка
+_Великий звір, неприєднаний_
 
-**Armor Class** 12 (natural armor)    
-**Hit Points** 19 (3d10 + 3)    
-**Speed** 30 ft., climb 30 ft.
+**Клас броні** 12 (природна броня)    
+**Бали** 19 (3d10 + 3)    
+**Швидкість** фут. сходиться на 30 футів.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 15 (+2) | 12 (+1) | 13 (+1) | 2 (−4) | 10 (+0) | 5 (−3) |
 
@@ -15,8 +15,8 @@ _Large beast, unaligned_
 **Languages** --    
 **Challenge** 1/4 (50 XP)
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage.
+### Дії
+**Біт.** _Атака ближньої зброї:_ +4 до удару, досягає 5-ї цілі, одна мета. _Вразів:_ 6 (1d8 + 2) пошкодження вводу.
 
-### Description
-A giant lizard can be ridden or used as a draft animal. Lizardfolk also keep them as pets, and subterranean giant lizards are used as mounts and pack animals by drow, duergar, and others. 
+### Опис
+Гігантський ящірка можна осідлати або використовувати в якості тварини-проекта. Рикопиці також зберігають їх у вигляді домашніх тварин і підземних гігантських ящірків використовуються як підгірки і збирають тварин килимом, герцогом та іншими. 
