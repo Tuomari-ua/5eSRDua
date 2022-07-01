@@ -1,8 +1,8 @@
-name: Efficient Quiver type: item
+назва: Ефективний Quiver тип: елемент
 
-# Efficient Quiver
-_Wondrous item, uncommon_
+# Ефективне Quiver
+_Нетиповий для Wondrous_
 
-Each of the quiver's three compartments connects to an extradimensional space that allows the quiver to hold numerous items while never weighing more than 2 pounds. The shortest compartment can hold up to sixty arrows, bolts, or similar objects. The midsize compartment holds up to eighteen javelins or similar objects. The longest compartment holds up to six long objects, such as bows, quarterstaffs, or spears.
+Кожна з трьох відділень ківера з'єднується з екстраденціальним простором, який дозволяє спокійно утримувати численні предмети, ніколи не важуючи більше 2 фунтів. Найкоротший відділ може утримувати до шістдесяти стріл, болтів або подібні об'єкти. Склад середнього розміру вміщує до вісімнадцяти списів або аналогічні об'єкти. Найдовший відділ до шести довгих об'єктів, таких як луки, чверті співробітники або списи.
 
-You can draw any item the quiver contains as if doing so from a regular quiver or scabbard. 
+Ви можете намалювати будь-який предмет, який викликає, як якщо б це було зроблено з регулярного сагайдака або коси. 
