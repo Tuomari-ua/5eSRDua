@@ -1,14 +1,14 @@
-name: Slow level: 3 school: transmutation classes: sorcerer wizard
+назва: Повільний рівень: 3 школа: транмутація класів: майстер сортувальника
 
-# Slow
-_3rd-level transmutation_
+# Повільне
+_Трансмутація третього рівня_
 
-**Casting Time:** 1 action    
-**Range:** 120 feet    
-**Components:** V, S, M (a drop of molasses)    
-**Duration:** Concentration, up to 1 minute
+**Час трансляції часу:** 1 дія    
+**Діапазон:** 120 футів    
+**компоненти:** V, S, М (падіння виплавлення)    
+**тривалість:** пункти, до 1 хвилини
 
-You alter time around up to six creatures of your choice in a 40-foot cube within range. Each target must succeed on a Wisdom saving throw or be affected by this spell for the duration.    
-An affected target's speed is halved, it takes a −2 penalty to AC and Dexterity saving throws, and it can't use reactions. On its turn, it can use either an action or a bonus action, not both. Regardless of the creature's abilities or magic items, it can't make more than one melee or ranged attack during its turn.    
-If the creature attempts to cast a spell with a casting time of 1 action, roll a d20. On an 11 or higher, the spell doesn't take effect until the creature's next turn, and the creature must use its action on that turn to complete the spell. If it can't, the spell is wasted.    
-A creature affected by this spell makes another Wisdom saving throw at the end of its turn. On a successful save, the effect ends for it. 
+Ви змінюєте час навколо, до шести істот, на ваш вибір 40-футового кубика. Кожна мета повинна досягти успіху в процесі створення мудрості або вплинути на це заклинання протягом тривалого часу.    
+Швидкість торкнутої мети, вона значно скорочує штраф на знання AC і рятувальні кидання жертв, і не може використовувати реакції. Після свою чергу, вона може використовувати або дію, або додаткову дію, а не обох. Незалежно від здібностей істоти чи магічних предметів, вона не може зробити більше, ніж один ближній бій чи далекобійний напад під час своєї черги.    
+Якщо істота намагається привести заклинання з часом роботи 1 дії, зверніть на d20. На 11 або вище заклинання не набуває чинності до моменту появи наступної черги, і істота повинна використовувати його дію, щоб завершити заклинання. Якщо цього не можна, заклинання марне.    
+істота, яку впливає ця заклинання змушує при цьому зберігати ще один вид мудрості в кінці своєї черги. На успішному збереженні ефект закінчується для нього. 
