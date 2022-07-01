@@ -1,12 +1,12 @@
-name: Vicious Mockery level: 0 school: enchantment classes: bard
+назва: Шкіряна пам’ять рівень: 0 школа: зачарування класів: Бард
 
-# Vicious Mockery
-_Enchantment cantrip_
+# Шкідливе монастир
+_Зачарування_
 
 **Casting Time:** 1 action    
 **Range:** 60 feet    
 **Components:** V    
 **Duration:** Instantaneous
 
-You unleash a string of insults laced with subtle enchantments at a creature you can see within range. If the target can hear you (though it need not understand you), it must succeed on a Wisdom saving throw or take 1d4 psychic damage and have disadvantage on the next attack roll it makes before the end of its next turn.    
-This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
+Вивільніть ряду образів зі шматочками на істоті, яку ви можете побачити в межах діапазону. Якщо мета може чути вас (хоча вона не повинна розуміти вас), це повинно досягти успіху в економії мудрості або набрати 1d4 психічних пошкодження і мати недолік щодо наступного руху атаки, який він завдає до кінця наступного кроку.    
+Пошкодження цього заклинання збільшуються на 1d4, коли ви досягнете 5-го рівня (2d4), 11-го рівня (3d4) та 17-го рівня (4d4).
