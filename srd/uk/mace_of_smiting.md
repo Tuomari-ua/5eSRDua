@@ -1,8 +1,8 @@
-name: Mace of Smiting type: weapon
+назва: Mace виразного типу : зброя
 
-# Mace of Smiting
-_Weapon (mace), rare_
+# Булава розкурювання
+_Зброя (маса), рідкісна_
 
-You gain a +1 bonus to attack and damage rolls made with this magic weapon. The bonus increases to +3 when you use the mace to attack a construct.
+Ви отримуєте бонус +1 для атаки та ушкодження зроблені за допомогою цієї чарівної зброї. Бонус збільшується до +3, коли ви використовуєте маси для атаки конструкції.
 
-When you roll a 20 on an attack roll made with this weapon, the target takes an extra 2d6 bludgeoning damage, or 4d6 bludgeoning damage if it's a construct. If a construct has 25 hit points or fewer after taking this damage, it is destroyed. 
+Коли ви перевертаєте 20 на бочку, зробленому з цією зброєю, ціль наносить додаткові пошкодження в 2d6 або 4d6 блокування, якщо це конструкція. Якщо конструкт має 25 очків або менше після нанесення цієї шкоди, він буде знищений. 
