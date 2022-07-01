@@ -1,10 +1,10 @@
-name: Robe of Stars type: item
+назва: Буква зір типу: елемент
 
-# Robe of Stars
-_Wondrous item, very rare (requires attunement)_
+# Плем'я зірок
+_Wondrous позиція, дуже рідкісна (вимагає захоплення)_
 
-This black or dark blue robe is embroidered with small white or silver stars. You gain a +1 bonus to saving throws while you wear it.
+Ця чорно-темно-синя сукня вишита з маленькими білими або срібними зірками. Ви отримуєте бонус +1 до збереження квітів, коли носите його.
 
-Six stars, located on the robe's upper front portion, are particularly large. While wearing this robe, you can use an action to pull off one of the stars and use it to cast **_magic missile_** as a 5th-level spell. Daily at dusk, 1d6 removed stars reappear on the robe.
+Шість зірок, розташованих на верхній частині фронтальної частини Роба, особливо великі. При цьому в шатрі, ви можете використати дію, щоб розтягнути одну з зірок і використати її, щоб кинути **_магічну ракету_** як заклинання 5-го рівня. Щоденно у сутінках було створено 1d6 зірок зі знижкою в роботі.
 
-While you wear the robe, you can use an action to enter the Astral Plane along with everything you are wearing and carrying. You remain there until you use an action to return to the plane you were on. You reappear in the last space you occupied, or if that space is occupied, the nearest unoccupied space. 
+Поки ти носиш тканину, ти можеш використати дію, щоб увійти в Астраль разом з усім, що ти носиш та носити. Залишайтеся на місці, поки не застосуєте дію для повернення в літак, на якому ви знаходились. Ви знову виглядаєте в останньому просторі, або, якщо цей простір зайнятий, найближче незайняте місце. 
