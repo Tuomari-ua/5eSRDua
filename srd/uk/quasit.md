@@ -1,13 +1,13 @@
-name: Quasit type: fiend (demon) cr: 1
+назва: Quasit type: fiend (demon) cr: 1
 
-# Quasit
-_Tiny fiend (demon, shapechanger), chaotic evil_
+# Каса
+_Маленькі волокна (демон, формавезар), хаотичний злий_
 
-**Armor Class** 13    
-**Hit Points** 7 (3d4)    
-**Speed** 40 ft.
+**Клас броні** 13    
+**Очки** 7 (3d4)    
+**швидкість** фут.
 
-| STR    | DEX     | CON     | INT    | WIS     | CHA     |
+| СТР    | ДЕКС    | CON     | ІНТ    | WIS     | CHA     |
 | ------ | ------- | ------- | ------ | ------- | ------- |
 | 5 (−3) | 17 (+3) | 10 (+0) | 7 (−2) | 10 (+0) | 10 (+0) |
 
@@ -19,10 +19,10 @@ _Tiny fiend (demon, shapechanger), chaotic evil_
 **Languages** Abyssal, Common    
 **Challenge** 1 (200 XP)
 
-**Shapechanger.** The quasit can use its action to polymorph into a beast form that resembles a bat (speed 10 ft. fly 40 ft.), a centipede (40 ft., climb 40 ft.), or a toad (40 ft., swim 40 ft.), or back into its true form. Its statistics are the same in each form, except for the speed changes noted. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.    
-**Magic Resistance.** The quasit has advantage on saving throws against spells and other magical effects.
+**Шепечанджер.** квазита може використати свою дію з поліморфом у форму звіра, яка нагадує кажана (швидкість 10 кв. політ 40 футів), багатоніжка (40, площина), або 40 футів товира), або 40 раз у фут), або знову у свою справжню форму. Її статистика однакова у кожній формі, за виключенням змін швидкості. Будь-яке спорядження воно одягнуте або перенесене не перетворюється. Він повертається до своєї справжньої форми, коли вона помирає.    
+**Магічного Опору.** квазіт має перевагу на збереженні квітів проти заклинання та інших магічних ефектів.
 
-### Actions
-**Claws (Bite in Beast Form).** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d4 + 3) piercing damage, and the target must succeed on a DC 10 Constitution saving throw or take 5 (2d4) poison damage and become poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.    
-**Scare (1/Day).** One creature of the quasit's choice within 20 feet of it must succeed on a DC 10 Wisdom saving throw or be frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns, with disadvantage if the quasit is within line of sight, ending the effect on itself on a success.    
-**Invisibility.** The quasit magically turns invisible until it attacks or uses Scare, or until its concentration ends (as if concentrating on a spell). Any equipment the quasit wears or carries is invisible with it.
+### Дії
+**Кістки (кусо у звірянному вигляді).** _Атака ближньої зброї:_ +4 до удару, досягає 5-го рівня, по одній цілі. _Вставити:_ 5 (1d4 + 3) пробивання пошкоджень, і ціль має досягти успіху в запобіганні кидання Конституції DC 10 (2d4) пошкодження отруєння та отруєння на 1 хвилину. Ціль може повторювати накопичення в кінці кожної своєї черги, закінчуючи вплив на себе на успіх.    
+**Обсяг (1/Day).** Одна істота вибору квази в межах 20 футів, і вона повинна досягти успіху на DC 10 Мудро, щоб зберегти кидання або злякатися на 1 хвилину. Ціль може повторювати накопичення в кінці кожної з її черг, з невигідним недоліком, якщо квазит знаходиться в межах лінії, припинити вплив на себе на успіх.    
+**Невидимість.** квазіт магічно стає невидимим, поки не атакує або не використовує сцени, або поки її концентрація не закінчиться, (як якщо концентруватися на заклинанні). Будь-яка устаткування квазного одягу або переносу є невидимою з ним.
