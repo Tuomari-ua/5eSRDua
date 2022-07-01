@@ -1,12 +1,12 @@
-name: Finger of Death level: 7 school: necromancy classes: sorcerer warlock wizard
+назва: Провідник смерті : 7 школа: некроманність класі: сортувальник тепловіддача
 
-# Finger of Death
-_7th-level necromancy_
+# Палець смерті
+_7-го рівня некромантія_
 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S    
-**Duration:** Instantaneous
+**Час трансляції :** 1 дія    
+**Діапазон:** 60 футів    
+**компоненти:** V, S    
+**тривалість:** миттєві
 
-You send negative energy coursing through a creature that you can see within range, causing it searing pain. The target must make a Constitution saving throw. It takes 7d8 + 30 necrotic damage on a failed save, or half as much damage on a successful one.    
-A humanoid killed by this spell rises at the start of your next turn as a zombie that is permanently under your command, following your verbal orders to the best of its ability. 
+Ви посилаєте негативний заряд енергії через істоту, яку ви можете побачити в межах діапазону, викликаючи цей біль. Ціль повинна зробити економію конституції. Вона завдає 7d8 + 30 шкод від недобросовісної економії, або ж половину шкоди від успішного.    
+Було вбито гуманоїдом, коли почнеться ваша наступна черга - як зомбі під вашою командою, який постійно зростає, дотримуйтесь ваших словесних замовлень до найкращого результату. 
