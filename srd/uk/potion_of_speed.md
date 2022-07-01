@@ -1,6 +1,6 @@
-name: Potion of Speed type: potion
+назва: Тип Зілля швидкості : зілля
 
-# Potion of Speed
-_Potion, very rare_
+# Зілля швидкості
+_Зілля - дуже рідкісний_
 
-When you drink this potion, you gain the effect of the **_haste_** spell for 1 minute (no concentration required). The potion's yellow fluid is streaked with black and swirls on its own. 
+Коли ви п'єте це зілля, ви отримаєте ефект **_поспіша_** заклинання 1 хвилину (потрібна концентрація). Жовта рідина висунута чорними і кулачками. 
