@@ -1,12 +1,12 @@
-description: Rules for selling treasure from the 5th Edition (5e) SRD (System Reference Document).
+опис: Правила продажу скарбу з 5-ї версії SRD (Документація по Системній Документації).
 
-# Selling Treasure
-Opportunities abound to find treasure, equipment, weapons, armor, and more in the dungeons you explore. Normally, you can sell your treasures and trinkets when you return to a town or other settlement, provided that you can find buyers and merchants interested in your loot.
+# Продаж Скарбу
+Можливості мають багато можливостей для пошуку скарбу, обладнання, зброї, броні, і багато чого в підземеллях ви досліджуєте. Зазвичай ви можете продавати свої скарби та Trinket після повернення в місто або інший населений пункт, за умови, що ти можеш знайти покупців та продавців, які цікавляться своїм колоном.
 
-**Arms, Armor, and Other Equipment.** As a general rule, undamaged weapons, armor, and other equipment fetch half their cost when sold in a market. Weapons and armor used by monsters are rarely in good enough condition to sell.
+**Броні, Броня та Інші Обладнання.** Як загальне правило, розпоряджена зброя, броня та інше обладнання принесуть половину своїх витрат, якщо вони продаються на ринку. Зброя та броня, що використовується монстрами, рідко в достатній мірі для продажу.
 
-**Magic Items.** Selling magic items is problematic. Finding someone to buy a potion or a scroll isn't too hard, but other items are out of the realm of most but the wealthiest nobles. Likewise, aside from a few common magic items, you won't normally come across magic items or spells to purchase. The value of magic is far beyond simple gold and should always be treated as such.
+**Магічні Представки.** Продавати магічні елементи є проблематичними. Пошук когось, хто купує зілля, або прокрутка не надто складна, але інші предмети не мають царства, але найбагатші благородніші. Так само, окрім кількох поширених магічних елементів, вам зазвичай не доведеться купувати магічні предмети або заклинання. Значення магії набагато за межами простого золота і до нього слід завжди ставитись.
 
-**Gems, Jewelry, and Art Objects.** These items retain their full value in the marketplace, and you can either trade them in for coin or use them as currency for other transactions. For exceptionally valuable treasures, the GM might require you to find a buyer in a large town or larger community first.
+**Отримали, євреї та об'єкти мистецтва.** Ці речі мають повне значення на ринку, і ви можете або обміняти їх на монету або використати їх в якості валюти для інших транзакцій. Для виключно цінних скарбів GM може зажадати від вас знайти покупця в великому місті або спочатку більшій громаді.
 
-**Trade Goods.** On the borderlands, many people conduct transactions through barter. Like gems and art objects, trade goods--bars of iron, bags of salt, livestock, and so on--retain their full value in the market and can be used as currency.
+**Торгівля товарами.** На кордоні багато людей здійснюють операції за допомогою бартера. Як дорогоцінний предмет, торгові товари - бруски з залізо, мішки солі, худобу, і тому нехай вони зберігають повну вартість на ринку і можуть використовуватися як валюта.
