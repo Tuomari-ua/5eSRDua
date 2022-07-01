@@ -1,16 +1,16 @@
-name: Telekinesis level: 5 school: transmutation classes: sorcerer wizard
+назва: Telekinesis рівень: 5 школа: транмутація класів: частр
 
 # Telekinesis
-_5th-level transmutation_
+_Ретрансмутація 5-го рівня_
 
 **Casting Time:** 1 action    
 **Range:** 60 feet    
 **Components:** V, S    
 **Duration:** Concentration, up to 10 minutes
 
-You gain the ability to move or manipulate creatures or objects by thought. When you cast the spell, and as your action each round for the duration, you can exert your will on one creature or object that you can see within range, causing the appropriate effect below. You can affect the same target round after round, or choose a new one at any time. If you switch targets, the prior target is no longer affected by the spell.    
-**Creature.** You can try to move a Huge or smaller creature. Make an ability check with your spellcasting ability contested by the creature's Strength check. If you win the contest, you move the creature up to 30 feet in any direction, including upward but not beyond the range of this spell. Until the end of your next turn, the creature is restrained in your telekinetic grip. A creature lifted upward is suspended in mid-air.    
-On subsequent rounds, you can use your action to attempt to maintain your telekinetic grip on the creature by repeating the contest.    
-**Object.** You can try to move an object that weighs up to 1,000 pounds. If the object isn't being worn or carried, you automatically move it up to 30 feet in any direction, but not beyond the range of this spell.    
-If the object is worn or carried by a creature, you must make an ability check with your spellcasting ability contested by that creature's Strength check. If you succeed, you pull the object away from that creature and can move it up to 30 feet in any direction but not beyond the range of this spell.    
-You can exert fine control on objects with your telekinetic grip, such as manipulating a simple tool, opening a door or a container, stowing or retrieving an item from an open container, or pouring the contents from a vial. 
+Ви отримуєте можливість переміщення та маніпулювати істотами або об'єктами думкою. Коли ви кидаєте заклинання і як дію кожного раунду на тривалість, ви можете прикласти свою волю на одну істоту чи об'єкт, який ви бачите на діапазоні, викликаючи відповідний ефект нижче. Ви можете вплинути на той самий цільовий раунд після округлення, або обрати новий у будь-який час. If you switch targets, the prior target is no longer affected by the spell.    
+**Creature.** You can try to move a Huge or smaller creature. Перевіряти можливості правопису під контролем творчої істоти. Якщо ви виграєте конкурс, то переміщуєте істоту вгору до 30 футів у будь-якому напрямку, включаючи це праворуч, але не за діапазоном цього заклинання. До закінчення наступної черги істота буде стримуватися у вашому телекінетичному стані. Поміркована істота вгору підвішена в повітрі.    
+При подальшому раунді ви можете використати свою дію, щоб спробувати зберегти ваше телекінетичне переміщення у істоту, повторюючи конкурс.    
+**Об'єкт.** Ви можете спробувати перемістити об'єкт, який важить до 1000 фунтів. Якщо об'єкт не вдягається або доставляється, ви автоматично піднімаєте його до 30 футів у будь-якому напрямку, але не за діапазоном цього заклинання.    
+Якщо об'єкт вдягнений або захоплений істотою, потрібно перевіряти можливість орфографії оскаржуватися відповідно до властивостей істоти. Якщо ви досягли успіху, ви відтягуєте об'єкт від цієї істоти і може підняти його на відстань до 30 футів у будь-якому напрямку, але не за межами цього заклинання.    
+Ви можете прикласти тонкий контроль над об'єктами за допомогою вашої телекінетичної таблиці, наприклад, з маніпулюванням простим інструментом, відкриваючи двері або контейнер, корпуючи або отримуючи предмет з відкритого контейнера, або ливаючи вміст з лавки. 
