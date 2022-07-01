@@ -1,6 +1,6 @@
-name: Ring of Jumping type: ring
+назва: Кільце Jumping : ring
 
-# Ring of Jumping
-_Ring, uncommon (requires attunement)_
+# Кільце Jumping
+_Рідкісний, (вимагає залучення)_
 
-While wearing this ring, you can cast the jump spell from it as a bonus action at will, but can target only yourself when you do so. 
+При одязі цим перстеником ви можете кинути заклинання з нього як бонусні дії, але можна націлюватись лише на себе, коли ви це робите. 
