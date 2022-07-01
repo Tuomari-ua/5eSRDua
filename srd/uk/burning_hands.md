@@ -1,14 +1,14 @@
-name: Burning Hands level: 1 school: evocation classes: sorcerer wizard
+назва: Кількість гірських частот рівень: 1 школа: евакуація класів: сортатор майстер
 
-# Burning Hands
-_1st-level evocation_
+# Палаючі руки
+_11-ше евокація_
 
 **Casting Time:** 1 action   
 **Range:** Self (15-foot cone)   
 **Components:** V, S   
 **Duration:** Instantaneous
 
-As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a 15-foot cone must make a Dexterity saving throw. A creature takes 3d6 fire damage on a failed save, or half as much damage on a successful one.    
-The fire ignites any flammable objects in the area that aren't being worn or carried.
+Так як ви тримаєте руку пальці дотиком і відбиттями пальцями, тонкий аркуш полум'я вистрілює з ваших розтягнутих пальців. Кожна істота на 15-футовій конусі повинна зробити розподілення поспіль. Творчість наносить пошкодження в 3d6 заощаджень, або ж удвічі більше шкоди від успішного.    
+вогонь запалює будь-які легкозаймисті об'єкти в районі, які не носять або не надають ноги.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
+**На вищих рівнях.** Коли ви транслюєте це заклинання використовуючи слот 2-го рівня або вище, збільшення пошкодження на 1d6 для кожного рівня слоту вище 1st.
