@@ -1,12 +1,12 @@
-name: Guardian of Faith level: 4 school: conjuration classes: cleric
+назва: Хранитель Віри : 4 школу: conjuration класи: священноруб
 
-# Guardian of Faith
-_4th-level conjuration_
+# Вартовий віри
+_Тривалість четвертого рівня_
 
 **Casting Time:** 1 action    
 **Range:** 30 feet    
 **Components:** V    
 **Duration:** 8 hours
 
-A Large spectral guardian appears and hovers for the duration in an unoccupied space of your choice that you can see within range. The guardian occupies that space and is indistinct except for a gleaming sword and shield emblazoned with the symbol of your deity.    
-Any creature hostile to you that moves to a space within 10 feet of the guardian for the first time on a turn must succeed on a Dexterity saving throw. The creature takes 20 radiant damage on a failed save, or half as much damage on a successful one. The guardian vanishes when it has dealt a total of 60 damage.
+Великий спектральний опікун з'являється і наводить курсор на тривалість у незайнятому просторі вибору, який ви можете побачити у раді. Охоронець займає простір і він нечіткий, хіба що блискучий меч і щит зачарований символом твого божества.    
+Будь-яка істота вороже до вас, що рухається до сторожа в межах 10 футів за перший раз, коли поворот має стати успішним у черзі на згустку. Творчість наносить 20 випромінювальних пошкоджень від невдалого заощадження, або ж удвічі більше шкоди від успішного. Охоронця зникає, коли він завдав йому загалом 60 пошкоджень.
