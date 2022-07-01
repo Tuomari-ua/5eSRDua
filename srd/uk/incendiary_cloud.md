@@ -1,13 +1,13 @@
-name: Incendiary Cloud level: 8 school: conjuration classes: sorcerer wizard
+назва: Incendiary Cloud level: 8 school: conjuration classs: sorcerer wizard
 
-# Incendiary Cloud
-_8th-level conjuration_
+# Запалювальна Хмара
+_Рівняння 8-го рівня_
 
 **Casting Time:** 1 action    
 **Range:** 150 feet    
 **Components:** V, S    
 **Duration:** Concentration, up to 1 minute
 
-A swirling cloud of smoke shot through with white- hot embers appears in a 20-foot-radius sphere centered on a point within range. The cloud spreads around corners and is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.    
-When the cloud appears, each creature in it must make a Dexterity saving throw. A creature takes 10d8 fire damage on a failed save, or half as much damage on a successful one. A creature must also make this saving throw when it enters the spell's area for the first time on a turn or ends its turn there.    
-The cloud moves 10 feet directly away from you in a direction that you choose at the start of each of your turns. 
+Кругла хмара диму застрілила з білим - гарячими жителями з'являються в сфері на 20-футовій радіусі, зосередженій на точці в дальній діапазоні. Хмара поширюється навколо кутів і сильно затягується. Це триває тривалість або до того, як вітер з помірної або вищої швидкості (принаймні 10 миль на годину) розвертає її.    
+У разі появи хмари, кожна істота в ній повинна зробити згубну частину зберігання. Творчість наносить 10d8 шкоди від невдалого заощадження, або ж удвічі більше шкоди від успішного. Також істота повинна змусити накопичувати її, коли вона вперше вступає в область заклинання або завершує свою чергу.    
+Хмара безпосередньо відходить від вас у напрямку, який ви обираєте на початку кожної з ваших черг. 
