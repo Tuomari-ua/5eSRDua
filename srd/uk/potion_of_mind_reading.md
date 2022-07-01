@@ -1,6 +1,6 @@
-name: Potion of Mind Reading type: potion
+назва: Тип зілля мозку для читання тип: зілля
 
-# Potion of Mind Reading
-_Potion, rare_
+# Зілля мозку читання
+_Зілля_
 
-When you drink this potion, you gain the effect of the **_detect thoughts_** spell (save DC 13). The potion's dense, purple liquid has an ovoid cloud of pink floating in it. 
+Коли ви п'єте це зілля, ви отримаєте ефект **_виявити думки_** заклинання (заощадьте DC 13). Пурпурова рідка містить хмару овочка рожевого плаваючих в ньому. 
