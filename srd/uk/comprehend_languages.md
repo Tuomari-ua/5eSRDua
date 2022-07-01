@@ -1,12 +1,12 @@
-name: Comprehend Languages level: 1 school: divination classes: bard sorcerer warlock wizard
+назва: Мови затримок рівень: 1 школу: divination класі: маємо сортувальник warlock
 
-# Comprehend Languages
-_1st-level divination (ritual)_
+# Комплексні мови
+_Однорівневе розлучення (ритуал)_
 
-**Casting Time:** 1 action    
-**Range:** Self    
-**Components:** V, S, M (a pinch of soot and salt)    
-**Duration:** 1 hour
+**Кастинг часу:** 1 дія    
+**Діапазон:** Самостій    
+**компоненти:** V, S, М (шум сажі та сілі)    
+**тривалість:** години
 
-For the duration, you understand the literal meaning of any spoken language that you hear. You also understand any written language that you see, but you must be touching the surface on which the words are written. It takes about 1 minute to read one page of text.    
-This spell doesn't decode secret messages in a text or a glyph, such as an arcane sigil, that isn't part of a written language. 
+Протягом тривалого часу ви розумієте буквальне значення будь-якої розмовної мови, яку чуєте. Ви також розумієте будь-яку написану мову, що бачите, але ви мусите торкатися поверхні, на якій написані слова. Зачекайте одну хвилину, щоб прочитати одну сторінку тексту.    
+Ця заклинання не розшифровує секретні повідомлення у тексті або гліфі, наприклад цілюща сигіль, що не є частиною письмової мови. 
