@@ -1,12 +1,12 @@
-name: Water Walk level: 3 school: transmutation classes: cleric druid ranger sorcerer
+назва: Водна ходьба рівень: 3 школа: транмутація класі: священно druid сортувальник
 
-# Water Walk
-_3rd-level transmutation (ritual)_
+# Водяна прогулянка
+_Трансмутація третього рівня (ритуал)_
 
-**Casting Time:** 1 action   
-**Range:** 30 feet    
-**Components:** V, S, M (a piece of cork)    
-**Duration:** 1 hour
+**Час трансляції :** 1 дія   
+**Діапазон:** 30 футів    
+**компоненти:** V, S, М (кукурудза)    
+**Тривалість:** години
 
-This spell grants the ability to move across any liquid surface--such as water, acid, mud, snow, quicksand, or lava--as if it were harmless solid ground (creatures crossing molten lava can still take damage from the heat). Up to ten willing creatures you can see within range gain this ability for the duration.    
-If you target a creature submerged in a liquid, the spell carries the target to the surface of the liquid at a rate of 60 feet per round. 
+Це заклинання дає можливість рухатися по будь-якій рідкій поверхні - такі як вода, кислота, бруд, сніг, швидкі або лава - начебто нешкідлива земля (істоти перетинають розплавлену лаву, можуть отримувати пошкодження від спеки. До десяти бажаючих істот, які ви можете побачити в діапазоні прибутковості цієї здатності на тривалість.    
+Якщо ви націлите істоту, занурену в рідкий, заклинання переносить на поверхню рідини зі швидкістю 60 футів за фунт. 
