@@ -1,14 +1,14 @@
-name: Marvelous Pigments type: item
+назва: Часові Ігри тип: елемент
 
-# Marvelous Pigments
-_Wondrous item, very rare_
+# Чудові стовпці
+_Чудові речі - дуже рідкісні_
 
-Typically found in 1d4 pots inside a fine wooden box with a brush (weighing 1 pound in total), these pigments allow you to create three-dimensional objects by painting them in two dimensions. The paint flows from the brush to form the desired object as you concentrate on its image.
+Зазвичай знайдено в 1d4 горщиках всередині тонкої дерев’яної коробки з пензликом (загалом 1 фунт), в цих пігментах можна створювати тривимірні об'єкти, малюючи їх у двох вимірах. Фарба тече з пензлика, щоб сформувати бажаний об'єкт, зосереджуючись на його зображенні.
 
-Each pot of paint is sufficient to cover 1,000 square feet of a surface, which lets you create inanimate objects or terrain features--such as a door, a pit, flowers, trees, cells, rooms, or weapons-- that are up to 10,000 cubic feet. It takes 10 minutes to cover 100 square feet.
+Кожен горщик із фарбою достатньо, щоб покрити 1 000 квадратних футів поверхні, який дозволяє створювати неживі об'єкти або риси місцевості, наприклад, двері яма, квіти, дерева, клітини, кімнати або зброєю - це приблизно 10 000 кубічних футів. Минуло 10 хвилин, щоб висвітлити 100 квадратних футів.
 
-When you complete the painting, the object or terrain feature depicted becomes a real, nonmagical object. Thus, painting a door on a wall creates an actual door that can be opened to whatever is beyond. Painting a pit on a floor creates a real pit, and its depth counts against the total area of objects you create.
+Коли ви завершили картину, зображення об'єкта чи місцевості стає справжнім, немагічним об'єктом. Таким чином, картина двері на стіні створює фактичні двері, які можна відкрити для того, що знаходиться за межами. Фарбуюча ямка на підлозі створює справжню яму, і її глибина позначає повну площу створюваних об'єктів.
 
-Nothing created by the pigments can have a value greater than 25 gp. If you paint an object of greater value (such as a diamond or a pile of gold), the object looks authentic, but close inspection reveals it is made from paste, bone, or some other worthless material.
+Ніщо, що не створюється пігментами, не може мати значення більше 25 gp. Якщо ви фарбуєте об'єкт більшого значення (наприклад, алмаз або купа золота), об'єкт виглядає автентичним, та близько інспекції показує, що вони зроблені з пасти, кісток або іншого недобросовісного матеріалу.
 
-If you paint a form of energy such as fire or lightning, the energy appears but dissipates as soon as you complete the painting, doing no harm to anything. 
+Якщо фарбувати форму енергії, наприклад вогонь чи блискавки, енергія з’являється, але розсіюється, як тільки ви заповните картину, не завдаючи шкоди нічому. 
