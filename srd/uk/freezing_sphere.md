@@ -1,15 +1,15 @@
-name: Freezing Sphere level: 6 school: evocation classes: wizard
+назва: Замерзання Sphere рівень: 6 школа: евакуація класів: майстер
 
-# Freezing Sphere
-_6th-level evocation_
+# Заморожування Сфери
+_Евокація 6-го рівня_
 
-**Casting Time:** 1 action    
-**Range:** 300 feet    
-**Components:** V, S, M (a small crystal sphere)    
-**Duration:** Instantaneous
+**Час Кастинг часу:** 1 дія    
+**Діапазон:** 300 футів    
+**компоненти:** V, S, М (маленька кристальна сфера)    
+**Тривалість:** миттєві
 
-A frigid globe of cold energy streaks from your fingertips to a point of your choice within range, where it explodes in a 60-foot-radius sphere. Each creature within the area must make a Constitution saving throw. On a failed save, a creature takes 10d6 cold damage. On a successful save, it takes half as much damage.    
-If the globe strikes a body of water or a liquid that is principally water (not including water-based creatures), it freezes the liquid to a depth of 6 inches over an area 30 feet square. This ice lasts for 1 minute. Creatures that were swimming on the surface of frozen water are trapped in the ice. A trapped creature can use an action to make a Strength check against your spell save DC to break free.    
-You can refrain from firing the globe after completing the spell, if you wish. A small globe about the size of a sling stone, cool to the touch, appears in your hand. At any time, you or a creature you give the globe to can throw the globe (to a range of 40 feet) or hurl it with a sling (to the sling's normal range). It shatters on impact, with the same effect as the normal casting of the spell. You can also set the globe down without shattering it. After 1 minute, if the globe hasn't already shattered, it explodes.
+Охолоджена куля холоду енергії занурюється від кінчиків до точки вашого вибору в межах діапазону, де він вибухне у сфери радіусу 60 футів. Кожна істота в цій галузі, повинна зробити економію конституції. У разі невдалого збереження творіння може завдати 106 холодних пошкоджень. В успішному збереженні це забирає вдвічі більше шкоди.    
+Якщо земна куля вдарить воду або рідину, що має домашню воду (не включаючи істот, заснованих на воді), він мерзе рідиною в глибину 6 дюймів над площею 30 футів у квадрат. Це лід триває 1 хвилину. Істоти, що плавали на поверхні замороженої води, потрапляють в пастку льоду. Прив'язана істота може використовувати дію для перевірки сили проти вашого заклинання заощадити DC для безкоштовного використання.    
+можете утримуватися від стрільби земної кулі після завершення заклинання, якщо ви побажаєте. Трохи глобуса про розмір крейди і холодний для дотику, який з'являється у вашій руці. У будь-який час, ви або істота, що ви даєте земній кулі, щоб накидати земну кулю (на діапазон 40 нігтів) або ж закидаєте її лопатою (на нормальний діапазон душ землі). Він вражає вплив так само як і звичайне лиття заклинання. Ви можете заставити земну кулю, не розбиваючи її. Через 1 хвилину якщо земна куля не вже розстрілилася, вона вибухає.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, the damage increases by 1d6 for each slot level above 6th.
+**На вищих рівнях.** Коли ви кидаєте це заклинання використовуючи гніздо 7-го рівня або вище, шкоду збільшує на 1d6 для кожного слоту вище 6 рівня.
