@@ -1,28 +1,28 @@
-name: Spell Scroll type: scroll
+назва: Прокручування орфографії тип: прокручування
 
-# Spell Scroll
-_Scroll, varies_
+# Прокрутка правопису
+_Прокрутування, зміна в залежності_
 
-A **spell scroll** bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can use an action to read the scroll and cast its spell without having to provide any of the spell's components. Otherwise, the scroll is unintelligible.
+Перегортання **заклинання** несе слова одного заклинання і написані в містичному шифрі. Якщо заклинання лежить у списку орфографій вашого класу, ви можете використати дію для читання прокрутки та кидання її заклинання не надаючи жодної з даних орфографії. Інакше прокрутка не зрозуміла.
 
-If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC equals 10 + the spell's level. On a failed check, the spell disappears from the scroll with no other effect.
+Якщо заклинання знаходиться у списку заклинання вашого класу, але більш високого рівня, ніж зазвичай, ви повинні зробити перевірку орфографії за допомогою можливості орфографії для успішного поширення її. DC дорівнює 10 + рівень заклинання. При невдалій перевірці, заклинання зникне з прокрутки без іншого ефекту.
 
-Once the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust.
+Як тільки заклинання наступає, слова в прокрутці вниз і прокручуйте сам рушить до пилу.
 
-The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity, as shown in the Spell Scroll table.
+Рівень заклинання на прокрутці визначає заощадження правопису кидає DC і атакує бонус, так само як і горло прокрутки, як і у таблиці Прокручування заклинань.
 
-### Spell Scroll
-| Spell Level | Rarity    | Save DC | Attack Bonus |
-| ----------- | --------- | ------- | ------------ |
-| Cantrip     | Common    | 13      | +5           |
-| 1st         | Common    | 13      | +5           |
-| 2nd         | Uncommon  | 13      | +5           |
-| 3rd         | Uncommon  | 15      | +7           |
-| 4th         | Rare      | 15      | +7           |
-| 5th         | Rare      | 17      | +9           |
-| 6th         | Very rare | 17      | +9           |
-| 7th         | Very rare | 18      | +10          |
-| 8th         | Very rare | 18      | +10          |
-| 9th         | Legendary | 19      | +11          |
+### Прокрутка правопису
+| Рівень заклинання | Рідкість       | Зберегти DC | Бонус Атаки |
+| ----------------- | -------------- | ----------- | ----------- |
+| Канрівер          | Коммон         | 13          | +5          |
+| Перший            | Коммон         | 13          | +5          |
+| Друге             | Рідкісний      | 13          | +5          |
+| Третє             | Рідкісний      | 15          | +7          |
+| Четвертий         | Рідкісний      | 15          | +7          |
+| П'ятий            | Рідкісний      | 17          | +9          |
+| 6-е               | Дуже рідкісний | 17          | +9          |
+| 7-е               | Дуже рідкісний | 18          | +10         |
+| 8-е               | Дуже рідкісний | 18          | +10         |
+| 9-е               | Легендарний    | 19          | +11         |
 
-A wizard spell on a **spell scroll** can be copied just as spells in spellbooks can be copied. When a spell is copied from a **spell scroll**, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 10 + the spell's level. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the **spell scroll** is destroyed. 
+Майстер заклинання на **заклинання** можна скопіювати, як і орфографії у книжках можна копіювати. Коли заклинання скопійовано з **заклинання**, копір повинен бути успішним в розвідці (Аркана) перевірити з DC рівною 10 + рівнем заклинання. Якщо перевірку успішно, заклинання успішно скопійовано. Незалежно від успішної перевірки чи невдачі, **заклинання** закрито. 
