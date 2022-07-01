@@ -1,25 +1,25 @@
-name: Young Blue Dragon type: dragon cr: 9
+назва: Молодий Синій Дракон тип: дракона cr: 9
 
-# Young Blue Dragon
-_Large dragon, lawful evil_
+# Молодий Синій Дракон
+_Великий дракон, законне зло_
 
 **Armor Class** 18 (natural armor)    
 **Hit Points** 152 (16d10 + 64)    
 **Speed** 40 ft., burrow 20 ft., fly 80 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 21 (+5) | 10 (+0) | 19 (+4) | 14 (+2) | 13 (+1) | 17 (+3) |
 
-**Saving Throws** Dex +4, Con +8, Wis +5, Cha +7    
-**Skills** Perception +9, Stealth +4    
-**Damage Immunities** lightning    
-**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 19    
-**Languages** Common, Draconic    
-**Challenge** 9 (5,000 XP)
+**Збереження кидків** Dex +4, Con +8, Wis +5, Cha +7    
+**Вміння** Perception +9, Крадіжки +4    
+**Пошкодження** блискавок    
+**Забезпечення** оснащення 30 футів. темп бачення 120 футів. пасивне сприйняття 19    
+**мов** оточує, драконічно    
+**виклику** (5 000 XP)
 
-### Actions
-**Multiattack.** The dragon makes three attacks: one with its bite and two with its claws.   
-**Bite.** _Melee Weapon Attack:_ +9 to hit, reach 10 ft., one target. _Hit:_ 16 (2d10 + 5) piercing damage plus 5 (1d10) lightning damage.    
-**Claw.** _Melee Weapon Attack:_ +9 to hit, reach 5 ft., one target. _Hit:_ 12 (2d6 + 5) slashing damage.    
-**Lightning Breath (Recharge 5–6).** The dragon exhales lightning in an 60-­‐foot line that is 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
+### Дії
+**Мультиатака.** Дракон робить три атаки: один з одним, перекусивши та два з його кігтями.   
+**Біт.** _Атака ближньої зброї:_ +9, щоб ударити до 10, одна ціль. _Hit:_ 16 (2d10 + 5) piercing damage plus 5 (1d10) lightning damage.    
+**Claw.** _Melee Weapon Attack:_ +9 to hit, reach 5 ft., one target. _Вдач:_ 12 (2d6 + 5) удар пошкодження.    
+**Інтенсивність блискавки (повторне підключення 5–6).** Дракон робить блискавка в 60 футів лінією довжиною 5 футів в ширину. Кожна істота в цьому рядку повинна зробити економію Dexter DC 16 завдавши 55 (10d10) блискавки про відмову від збереження, або ж удвічі більше шкоди від успішного.
