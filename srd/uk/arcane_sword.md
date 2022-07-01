@@ -1,12 +1,12 @@
-name: Arcane Sword level: 7 school: evocation classes: bard wizard
+назва: Маєцький Меч рівень: 7 школа: евакуація класів: Бард майстер
 
-# Arcane Sword
-_7th-level evocation_
+# Таємний меч
+_Евокація 7-го рівня_
 
-**Casting Time:** 1 action   
-**Range:** 60 feet   
-**Components:** V, S, M (a miniature platinum sword with a grip and pommel of copper and zinc, worth 250 gp)   
-**Duration:** Concentration, up to 1 minute
+**Час трансляції:** 1 дія   
+**Діапазон:** 60 футів   
+**компонентів:** V, S, М (мініатюрний плацдар, з хваткою і мертвою міді і цинку, вартість 250 gp)   
+**тривалість:** положення, до 1 хвилини
 
-You create a sword-shaped plane of force that hovers within range. It lasts for the duration.    
-When the sword appears, you make a melee spell attack against a target of your choice within 5 feet of the sword. On a hit, the target takes 3d10 force damage. Until the spell ends, you can use a bonus action on each of your turns to move the sword up to 20 feet to a spot you can see and repeat this attack against the same target or a different one. 
+Ви створюєте силу, схожу на меча і наводьте курсор на літак. Це триває тривалість.    
+Коли меч з'являється, ви робите рукопашний напад проти мети вибору в межах 5 футів від меча. При ударі ціль наносить пошкодження у 3d10 сил. До заклинання закінчується, ви можете використати преміальну дію на кожному з ваших поворотів, щоб перемістити меча вгору на 20 футів у місце, і повторити цю атаку проти тієї ж мети або іншої частини. 
