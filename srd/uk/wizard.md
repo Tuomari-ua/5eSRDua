@@ -1,134 +1,134 @@
-description: Rules and information for the Wizard class from the 5th Edition (5e) SRD (System Reference Document).
+опис: Правила та інформація для класу майстра з 5-ї версії (5e) SRD (Документація з Системної Документації).
 
-# The Wizard
-| Level | Proficiency Bonus | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | Features                      |
-| ----- | ----------------- | -------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ----------------------------- |
-| 1st   | +2                | 3              | 2   | -   | -   | -   | -   | -   | -   | -   | -   | Spellcasting, Arcane Recovery |
-| 2nd   | +2                | 3              | 3   | -   | -   | -   | -   | -   | -   | -   | -   | Arcane Tradition              |
-| 3nd   | +2                | 3              | 4   | 2   | -   | -   | -   | -   | -   | -   | -   | -                             |
-| 4th   | +2                | 4              | 4   | 3   | -   | -   | -   | -   | -   | -   | -   | Ability Score Improvement     |
-| 5th   | +3                | 4              | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   | -                             |
-| 6th   | +3                | 4              | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   | Arcane Tradition feature      |
-| 7th   | +3                | 4              | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   | -                             |
-| 8th   | +3                | 4              | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   | Ability Score Improvement     |
-| 9th   | +4                | 4              | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   | -                             |
-| 10th  | +4                | 5              | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   | Arcane Tradition feature      |
-| 11th  | +4                | 5              | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   | -                             |
-| 12th  | +4                | 5              | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   | Ability Score Improvement     |
-| 13th  | +5                | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   | -                             |
-| 14th  | +5                | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   | Arcane Tradition feature      |
-| 15th  | +5                | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   | -                             |
-| 16th  | +5                | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   | Ability Score Improvement     |
-| 17th  | +6                | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   | -                             |
-| 18th  | +6                | 5              | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   | Spell Mastery                 |
-| 19th  | +6                | 5              | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | Ability Score Improvement     |
-| 20th  | +6                | 5              | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   | Signature Spell               |
+# Чарівник
+| Рівень    | Бонус здібностей | Канреати вивчені | Перший | Друге | Третє | Четвертий | П'ятий | 6-е | 7-е | 8-е | 9-е | Особливості                          |
+| --------- | ---------------- | ---------------- | ------ | ----- | ----- | --------- | ------ | --- | --- | --- | --- | ------------------------------------ |
+| Перший    | +2               | 3                | 2      | -     | -     | -         | -      | -   | -   | -   | -   | Засіб відновлення орфографії, ізбуту |
+| Друге     | +2               | 3                | 3      | -     | -     | -         | -      | -   | -   | -   | -   | Традиція магістралі                  |
+| 32-е      | +2               | 3                | 4      | 2     | -     | -         | -      | -   | -   | -   | -   | -                                    |
+| Четвертий | +2               | 4                | 4      | 3     | -     | -         | -      | -   | -   | -   | -   | Покращення рівня здібностей          |
+| П'ятий    | +3               | 4                | 4      | 3     | 2     | -         | -      | -   | -   | -   | -   | -                                    |
+| 6-е       | +3               | 4                | 4      | 3     | 3     | -         | -      | -   | -   | -   | -   | Традиція магістралей                 |
+| 7-е       | +3               | 4                | 4      | 3     | 3     | 1         | -      | -   | -   | -   | -   | -                                    |
+| 8-е       | +3               | 4                | 4      | 3     | 3     | 2         | -      | -   | -   | -   | -   | Покращення рівня здібностей          |
+| 9-е       | +4               | 4                | 4      | 3     | 3     | 3         | 1      | -   | -   | -   | -   | -                                    |
+| 10-е      | +4               | 5                | 4      | 3     | 3     | 3         | 2      | -   | -   | -   | -   | Традиція магістралей                 |
+| 11-е      | +4               | 5                | 4      | 3     | 3     | 3         | 2      | 1   | -   | -   | -   | -                                    |
+| 12-е      | +4               | 5                | 4      | 3     | 3     | 3         | 2      | 1   | -   | -   | -   | Покращення рівня здібностей          |
+| 13-е      | +5               | 5                | 4      | 3     | 3     | 3         | 2      | 1   | 1   | -   | -   | -                                    |
+| 14-е      | +5               | 5                | 4      | 3     | 3     | 3         | 2      | 1   | 1   | -   | -   | Традиція магістралей                 |
+| 15-е      | +5               | 5                | 4      | 3     | 3     | 3         | 2      | 1   | 1   | 1   | -   | -                                    |
+| 16-е      | +5               | 5                | 4      | 3     | 3     | 3         | 2      | 1   | 1   | 1   | -   | Покращення рівня здібностей          |
+| 17-е      | +6               | 5                | 4      | 3     | 3     | 3         | 2      | 1   | 1   | 1   | 1   | -                                    |
+| 18-е      | +6               | 5                | 4      | 3     | 3     | 3         | 3      | 1   | 1   | 1   | 1   | Володіння ліками                     |
+| 19-е      | +6               | 5                | 4      | 3     | 3     | 3         | 3      | 2   | 1   | 1   | 1   | Покращення рівня здібностей          |
+| 20-е      | +6               | 5                | 4      | 3     | 3     | 3         | 3      | 2   | 2   | 1   | 1   | Сигнатура заклинання                 |
 
-## Class Features
-As a wizard, you gain the following class features.
+## Характеристики класу
+Як чарівник ви отримуєте наступні функції класу.
 
-### Hit Points
-**Hit Dice:** 1d6 per wizard level  
-**Hit Points at 1st Level:** 6 + your Constitution modifier  
-**Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per wizard level after 1st
+### Хіт точок
+**Ставка вражає:** 1d6 на рівень майстра  
+**Бали на 1-му рівень:** 6 + модифікатор вашої Конституції  
+**влучань з вищих рівнів:** 1d6 (або 4) + модифікатор вашої Конституції на один рівень
 
-### Proficiencies
+### Політики
 **Armor:** None  
 **Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows   
 **Tools:** None   
 **Saving Throws:** Intelligence, Wisdom    
 **Skills:** Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion
 
-### Equipment
-You start with the following equipment, in addition to the equipment granted by your background:
-* (a) a quarterstaff or (b) a dagger
-* (a) a component pouch or (b) an arcane focus
-* (a) a scholar's pack or (b) an explorer's pack
+### Устаткування
+Ви починаєте з наступного обладнання, на додаток до обладнання, яке надає ваш фон:
+* (а) четвертий персонал або (b) кинджал
+* (a) висип компоненту або (b) арканольоту
+* (a) пакет вченого, або (b) дослідником
 * A spellbook
 
-### Spellcasting
+### Орфографію
 - - -
-As a student of arcane magic, you have a spellbook containing spells that show the first glimmerings of your true power.
+Як студент арканатної магії, є заклинання, що містить заклинання, що показує перші пробивання вашої істинної сили.
 
-#### Cantrips
-At 1st level, you know three cantrips of your choice from the wizard spell list. You learn additional wizard cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Wizard table.
+#### Кандії
+На першому рівні ви знаєте, що три поїздки на ваш вибір із чергового заклинання австрійців. Ви вивчаєте додаткові чарівницька подорожі на вищих рівнях, як показано в полотнах складових таблиць "Майстерні".
 
 #### Spellbook
-At 1st level, you have a spellbook containing six 1st- level wizard spells of your choice. Your spellbook is the repository of the wizard spells you know, except your cantrips, which are fixed in your mind.
+На першому рівні у тебе є орфографія, що містить шість на один рівень майстер-класних заклинань на ваш вибір. Ваша орфографічна книга - це сховище майстра заклинань, як вам відомо, за винятком комірок, які ви можете подумки виправити.
 
-#### Preparing and Casting Spells
-The Wizard table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.    
-You prepare the list of wizard spells that are available for you to cast. To do so, choose a number of wizard spells from your spellbook equal to your Intelligence modifier + your wizard level (minimum of one spell). The spells must be of a level for which you have spell slots.     
-For example, if you're a 3rd-level wizard, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell magic missile, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.     
-You can change your list of prepared spells when you finish a long rest. Preparing a new list of wizard spells requires time spent studying your spellbook and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per spell level for each spell on your list.
+#### Підготовка та показ заклинання
+Таблиця майстрів показує, скільки заклинання ви повинні кидати свої заклинання 1-го рівня і вище. Щоб викинути один з цих орфоанів, вам потрібно викласти слот рівня орфографії або вище. Ви знову заходите на прописні слоти після закінчення довгого відпочинку.    
+Приготувати список чарівних заклинань, доступних для передачі. Щоб зробити це, виберіть ряд майстер-заклинань з вашої книги Розвідки + модифікатор вашого майстра (мінімум одного орфографії). Орфографії мають бути рівними, в якому ви маєте орфографічні слоти.     
+Наприклад, якщо ви чарівник на третьому рівні, у вас є чотири слоти другого рівня і два клітинки правомірного рівня. З розвідкою 16 р. Ваш список підготовлених заклинань може включати 6 заклинань 1-го або 2-го рівня, в будь-якій комбінації, обраній з орфографії. Якщо ви підготуєте магічну ракету на 1-му рівні, ви можете поставити її за допомогою слоту на 2-му рівні. Кастинг заклинання не видаляє його зі списку підготовлених орфографій.     
+Ви можете змінити список підготовлених заклинань після закінчення довгого відпочинку. Підготовка нового списку майстра заклинання потребує часу, що вивчає орфографію та запам'ятовування орфографії та жестів, які ви повинні зробити для перенесення орфографії: щонайменше 1 хвилину на рівень заклинання для кожної заклинання у списку.
 
-#### Spellcasting Ability
-Intelligence is your spellcasting ability for your wizard spells, since you learn your spells through dedicated study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.
-> **Spell save DC** = 8 + your proficiency bonus + your Intelligence modifier
-> **Spell attack modifier** = your proficiency bonus + your Intelligence modifier
+#### Вміння орфографії
+Інтелект — це здатність заклинання до майстра заклинань, оскільки ви пізнаєте свої заклинання через спеціалізовані дослідження та запам'ятовування. Ви використовуєте свою розвідку, коли заклинання означає здатність орфографії. Крім того, ви використовуєте ваш модифікатор розвідки при установці "Уникати ДК" для чарівника заклинання накидуйте і коли робите поворот атаки з одним.
+> **заклинання зберегти DC** = 8 + бонус майстерності + ваш Розвідка модифікатор
+> **Модифікатор атаки орфографії** = ваш бонус здібності + ваш розвідка
 
-#### Ritual Casting
-You can cast a wizard spell as a ritual if that spell has the ritual tag and you have the spell in your spellbook. You don't need to have the spell prepared.
+#### Ритуал кастинг
+Якщо у заклинання орнаментів є чарівник як ритуал, якщо у цього заклинання є ритуал і є заклинання у книзі. Не обов'язково мати заклинання готове.
 
-#### Spellcasting Focus
-You can use an arcane focus as a spellcasting focus for your wizard spells.
+#### Фокус правопису
+В якості фокусування правопису за допомогою заклинання, можна використовувати як фокус чарівників заклинань.
 
-#### Learning Spells of 1st Level and Higher
+#### Вивчення заклинань першого рівня та вище
 
-Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook for free. Each of these spells must be of a level for which you have spell slots, as shown on the Wizard table. On your adventures, you might find other spells that you can add to your spellbook.
+Щоразу, коли ти досягаєш майстра рівень, ти можеш додати два чарівника заклинання безкоштовної орфографії. Кожна з цих заклинань повинна бути рівнем, за яким є написані орфографії, як показано на таблиці Чарівника. За допомогою пригод ви можете знайти інші заклинання, які ви можете додати до своєї орфографії.
 
-### Arcane Recovery
+### Арканове відновлення
 - - -
-You have learned to regain some of your magical energy by studying your spellbook. Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up), and none of the slots can be 6th level or higher.     
-For example, if you're a 4th-level wizard, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level spell slot or two 1st-level spell slots.
+Ви навчилися повернути собі чарівні енергії, вивчаючи свою орфографію орфографії. 1 раз, коли ви закінчите короткочасне відпочинку, ви можете обрати необхідні заклинання слоти для відновлення. Слоти заклинання можуть мати комбінований рівень, рівний або менше половини числа вашого чарівника (округлення вгору), і жодна з комірок не може бути 6-м рівнем або вище.     
+Наприклад, якщо ви чарівник четвертого рівня, ви можете відновити до двох рівнів комірок слотів. Ви можете відновити або гніздо на 2-рівневому слоті правопису на 2-рівневому рівні.
 
-### Arcane Tradition
+### Традиція магістралі
 - - -
-When you reach 2nd level, you choose an arcane tradition, shaping your practice of magic through one of eight schools: Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, Necromancy, or Transmutation, all detailed at the end of the class description.     
-Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
+Коли ви досягнете 2-го рівня, ви обираєте арканотичну традицію, створюючи свою практику магії через одну з восьми шкіл: Аб'юрація, Заохочення, розкручування, евокація, евокація, Ілюзіон, Некромансія чи Трансмутація, все детально описані в кінці класу.     
+Ваш вибір дає тобі можливості на 2-му рівні і на 6-му, 10-му та 14-му рівні.
 
-### Ability Score Improvement
+### Покращення рівня здібностей
 - - -
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+Коли ви досягнете 4-го рівня, і знову на 8-му, 12-му, 16-тому та 19-му рівні, ви можете збільшити один бал ваших опцій на 2 або збільшити кількість 2-х здібностей на ваш вибір на 1. Як нормально, ви не можете збільшити бал здатності вище 20 за допомогою цієї функції.
 
-### Spell Mastery
+### Володіння ліками
 - - -
-At 18th level, you have achieved such mastery over certain spells that you can cast them at will. Choose a 1st-level wizard spell and a 2nd-level wizard spell that are in your spellbook. You can cast those spells at their lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell slot as normal.    
-By spending 8 hours in study, you can exchange one or both of the spells you chose for different spells of the same levels.
+На 18-му рівні ви досягли такої майстерності над певними заклинаннями, що ви можете кидати їх за бажанням. Оберіть чарівник найвищого рівня в якості заклинання і чаклун на двовимірному рівні, що знаходиться в адресній книзі. Ви можете кидати ці заклинання на найнижчому рівні без витрат на заклинання коли ви були готові. Якщо ви хочете прес-заклинання на вищому рівні, ви повинні покласти в дію заклинання як нормальну.    
+, витрачаючи 8 годин у навчанні, ви можете обміняти одну або обидві заклинання, які ви обрали для різних заклинання одного рівня.
 
-### Signature Spells
+### Органи підпису
 - - -
-When you reach 20th level, you gain mastery over two powerful spells and can cast them with little effort. Choose two 3rd-level wizard spells in your spellbook as your signature spells. You always have these spells prepared, they don't count against the number of spells you have prepared, and you can cast each of them once at 3rd level without expending a spell slot. When you do so, you can't do so again until you finish a short or long rest.    
-If you want to cast either spell at a higher level, you must expend a spell slot as normal.
+Коли ви досягаєте 20-го рівня, ви вчитесь над двома потужними заклинаннями і можете докласти їх з невеликими зусиллями. Вибери два чарівника на третьому рівні заклинання у вашій книжці орфографії на ваш підпис. У вас завжди є ці заклинання, вони не розраховують на кількість заклинань, які ви приготувалися, і ви можете віддати кожен з них третій рівень не витрачаючи орфографії. Коли ви це робите, ви не зможете знову зробити, поки не закінчите коротко- або довгого відпочинку.    
+Якщо ви хочете кинути орфографію на вищому рівні, ви повинні покласти в звичайний слот правопису як нормальний.
 
-## Arcane Traditions
-The study of wizardry is ancient, stretching back to the earliest mortal discoveries of magic. It is firmly established in fantasy gaming worlds, with various traditions dedicated to its complex study.    
-The most common arcane traditions in the multiverse revolve around the schools of magic. Wizards through the ages have cataloged thousands of spells, grouping them into eight categories called schools. In some places, these traditions are literally schools; a wizard might study at the School of Illusion while another studies across town at the School of Enchantment. In other institutions, the schools are more like academic departments, with rival faculties competing for students and funding. Even wizards who train apprentices in the solitude of their own towers use the division of magic into schools as a learning device, since the spells of each school require mastery of different techniques.
+## Традиції магії
+Дослідження чарівників є давньою, що тягнеться до самих смертних відкриттів магії. Він міцно створений у світі фантазій, де різні традиції присвячені його складному дослідженню.    
+Традиції найпоширенішого цілого мультфільму в усіх школах магії. Чаклуни через вік катують тисячі заклинань, групуючи їх на вісім категорій, що називаються школами. У деяких місцях ці традиції - це буквально школи; чарівник може вивчати в школі Іллюзії, тоді як інші дослідження міста в школі зачаровані. В інших установах школи більше схожі на академічні кафедри, причому суперницькі факультети конкурують за студентів та фінансування. Навіть чарівники, які тренують учениці у самотині власних веж, використовують поділ магії в школи як навчального пристрої, з тих пір, як заклинання кожної школи потребують оволодіння різними техніками.
 
-### School of Evocation
+### Школа Евокації
 - - -
-You focus your study on magic that creates powerful elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning, and burning acid. Some evokers find employment in military forces, serving as artillery to blast enemy armies from afar. Others use their spectacular power to protect the weak, while some seek their own gain as bandits, adventurers, or aspiring tyrants.
+Ви зосереджуєте своє дослідження на магії, що створює потужні стихійні наслідки, такі як холодний холод, світильник та горюча кислота. Деякі евокери знаходять роботу в військових силах, слугуючи артилерією, щоб розпалити ворожі армії здалеку. Інші використовують свою вражаючу силу для захисту слабкої, а деякі шукають власного прибутку як бандитів, любителів пригод, або прагнуть тиранів.
 
-#### Evocation Savant
-Beginning when you select this school at 2nd level, the gold and time you must spend to copy an evocation spell into your spellbook is halved.
+#### Евокація савант
+Починається, коли ви вибираєте цю школу на 2-му рівні, золото і час, який ви повинні витрачати, щоб скопіювати заклинання у книжку написано вдвічі.
 
 #### Sculpt Spells
-Beginning at 2nd level, you can create pockets of relative safety within the effects of your evocation spells. When you cast an evocation spell that affects other creatures that you can see, you can choose a number of them equal to 1 + the spell's level. The chosen creatures automatically succeed on their saving throws against the spell, and they take no damage if they would normally take half damage on a successful save.
+Починаючи з 2-го рівня, ви можете створити кишені відносної безпеки в межах ефектів ваших заклинань. Коли ви частуєте заклинання евокації, що впливає на інших істот, які ви можете побачити, ви можете обрати їх кількість що дорівнює 1 + на рівні заклинання . Вибрані істоти автоматично зможуть досягти успіху на їх заощадженнях проти заклинання, і вони не завдають ніякої шкоди, якщо зазвичай, вони завдають половини шкоди успішному заощадженню.
 
-#### Potent Cantrip
-Starting at 6th level, your damaging cantrips affect even creatures that avoid the brunt of the effect. When a creature succeeds on a saving throw against your cantrip, the creature takes half the cantrip's damage (if any) but suffers no additional effect from the cantrip.
+#### Потенційний канікул
+Починаючи з 6-го рівня, ваші пошкоджені канікули впливають на навіть істот, які уникнуть успіху . Коли істота вдалася під час рятування, кидатися від вашої подорожі, істота забирає половину шкоди для рейки (якщо така є), але не має додаткового ефекту від гармати.
 
-#### Empowered Evocation
-Beginning at 10th level, you can add your Intelligence modifier to one damage roll of any wizard evocation spell you cast.
+#### Уміле свято
+Починаючи з 10-го рівня, ви можете додати свій інтелектуальний модифікатор до однієї ушкодження будь-якого набору викликів, які викликають ваше запрошення.
 
-#### Overchannel
-Starting at 14th level, you can increase the power of your simpler spells. When you cast a wizard spell of 1st through 5th level that deals damage, you can deal maximum damage with that spell.    
-The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a long rest, you take 2d12 necrotic damage for each level of the spell, immediately after you cast it. Each time you use this feature again before finishing a long rest, the necrotic damage per spell level increases by 1d12. This damage ignores resistance and immunity.
+#### Оверканал
+Починаючи з 14-го рівня, ви можете збільшити силу простіших заклинань. Коли Ви закидаєте чарівник заклинання 1-го до 5-го рівня, який завдає шкоди, ви можете завдати максимальної шкоди з цим заклинанням.    
+Перший раз ви це зробите, ви не будете страждати на несприятливий ефект. Якщо ви використовуєте цю функцію знову, перш ніж закінчити довгу відпочинку, ви отримуєте 2d12 шкоди від некротики за кожен рівень заклинання відразу після того, як кинете його. Кожного разу, коли ви будете використовувати цю властивість ще раз перед завершенням тривалої відпочинку, шкода від некротики до 1d12. Ця шкода ігнорує опір і імунітет.
 
-> ### Your Spellbook 
+> ### Ваша книга суперника 
 > 
-> The spells that you add to your spellbook as you gain levels reflect the arcane research you conduct on your own, as well as intellectual breakthroughs you have had about the nature of the multiverse. You might find other spells during your adventures. You could discover a spell recorded on a scroll in an evil wizard's chest, for example, or in a dusty tome in an ancient library.    
-> **Copying a Spell into the Book.** When you find a wizard spell of 1st level or higher, you can add it to your spellbook if it is of a spell level you can prepare and if you can spare the time to decipher and copy it. Copying that spell into your spellbook involves reproducing the basic form of the spell, then deciphering the unique system of notation used by the wizard who wrote it. You must practice the spell until you understand the sounds or gestures required, then transcribe it into your spellbook using your own notation.    
-> For each level of the spell, the process takes 2 hours and costs 50 gp. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it. Once you have spent this time and money, you can prepare the spell just like your other spells.    
-> **Replacing the Book.** You can copy a spell from your own spellbook into another book - for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell.    
-> If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, many wizards keep backup spellbooks in a safe place. **The Book's Appearance.** Your spellbook is a unique compilation of spells, with its own decorative flourishes and margin notes. It might be a plain, functional leather volume that you received as a gift from your master, a finely bound gilt-edged tome you found in an ancient library, or even a loose collection of notes scrounged together after you lost your previous spellbook in a mishap.
+> орфографії, які ви додаєте до книги книги отриманих рівнів, відображають результати досліджень таємниці, які ви проводите самі. також інтелектуальні прориви мали про природу мультиверсії. У пригоди ти можеш знайти інші заклинання. Можна було відкрити пекло, записане на прокручуванні у злому грудях чарівника, наприклад, або в брудному томі в стародавній бібліотеці.    
+> **скопіювати заклинання у книгу.** Коли Ви знаходите частове заклинання 1-го рівня або вище, можете додати це до орфографії, якщо це заклинання який ви можете приготувати і якщо ви можете відшкодувати час для розкладу і копіювати його. Копіювання цього заклинання до вашої книги передбачає відтворення основної форми заклинання потім розшифровуючи унікальну систему позначення, яку використовує чарівник. Ви повинні практикувати орфографію, поки не зрозумієте, що потрібні звуки або жести, потім перенести їх у книжку, використовуючи власні ноти.    
+> на кожен рівень заклинання займає 2 години і коштує 50 годин. Вартість являє собою матеріальні компоненти, які ви витратите під час експерименту з заклинання до його оскарження, так само як і штрафні дюйми вам потрібно записати його. Одного разу ти цього разу побираєш гроші, можеш приготувати заклинання так само, як і інші заклинання.    
+> **замінити книгу.** Можна скопіювати заклинання з власної книги в іншу книгу - наприклад, якщо ви хочете зробити резервну копію своєї орфографії. Це щось на кшталт копіювання нового заклинання у написання книги, але швидше і простіше, відколи ви зрозумієте власну нотацію і вже знаєте, як кинути заклинання . Вам потрібно витратити тільки 1 годину і 10 футів на кожен рівень скопійованого заклинання.    
+> Якщо ви втратите орфографію, те саме можна використати для передачі заклинань, які ви підготували до нової орфографії. Заповнення остачі вашої книги вимагає від вас знайти нові заклинання, щоб зробити це, як звичайно. З цієї причини багато майстрів зберігає правописні книги в надійному місці. **Appearance книги** Ваша книжка - це унікальна компіляція орфографій, з власними декоративними процвітаннями і маржинальними нотатками. Це міг би бути рівнинний, функціональний об'єм шкіри, який ви отримали в якості подарунка вашого господаря, давньо-бібліотека, підібраний ним коміт, який ви знайшли в стародавній бібліотеці, або навіть втратити купу записів із розбитими нотатками після того, як ви загубили свою попередню книгу в помилковій ситуації.
