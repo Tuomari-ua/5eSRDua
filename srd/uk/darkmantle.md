@@ -1,13 +1,13 @@
-name: Darkmantle type: monstrosity cr: .5
+назва: Darkmantle тип: чудовисько cr: .5
 
-# Darkmantle
-_Small monstrosity, unaligned_
+# Даркмантл
+_Невеликий чудовисько, не вирівняний_
 
 **Armor Class** 11    
 **Hit Points** 22 (5d6 + 5)    
 **Speed** 10 ft., fly 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 16 (+3) | 12 (+1) | 13 (+1) | 2 (-4) | 10 (+0) | 0 (-3) |
 
@@ -16,11 +16,11 @@ _Small monstrosity, unaligned_
 **Languages** --    
 **Challenge** 1/2 (100 XP)
 
-**Echolocation.** The darkmantle can't use its blindsight while deafened.    
-**False Appearance.** While the darkmantle remains motionless, it is indistinguishable from a cave formation such as a stalactite or stalagmite.
+**Захоплення.** Темна мантія не може використовувати його сліпого бачення під час оглушеного режиму.    
+**False Appearance.** хоча темний мантія залишається нерухомою, вона не відрізняється від печери, таких як тупик або тупик.
 
-### Actions
-**Crush.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one creature. _Hit:_ 6 (1d6 + 3) bludgeoning damage, and the darkmantle attaches to the target. If the target is Medium or smaller and the darkmantle has advantage on the attack roll, it attaches by engulfing the target's head, and the target is also blinded and unable to breathe while the darkmantle is attached in this way.    
-While attached to the target, the darkmantle can attack no other creature except the target but has advantage on its attack rolls. The darkmantle's speed also becomes 0, it can't benefit from any bonus to its speed, and it moves with the target.    
-A creature can detach the darkmantle by making a successful DC 13 Strength check as an action. On its turn, the darkmantle can detach itself from the target by using 5 feet of movement.    
-**Darkness Aura (1/Day).** A 15-­‐foot radius of magical darkness extends out from the darkmantle, moves with it, and spreads around corners. The darkness lasts as long as the darkmantle maintains concentration, up to 10 minutes (as if concentrating on a spell). Darkvision can't penetrate this darkness, and no natural light can illuminate it. If any of the darkness overlaps with an area of light created by a spell of 2nd level or lower, the spell creating the light is dispelled.
+### Дії
+**Розріз.** _Атака ближньої зброї:_ +5, щоб ударити по 5, досягає 5, одна істота. _Удача:_ 6 (1d6 + 3) наносити пошкодження, а темна мантія чіпляється до мети. Якщо ціль є середньою або меншою, а темна мантія має перевагу на атакуючому ролі, вона оспорюється думкою цілі, і ціль також засліплена і не може дихати, поки темрява приєднана таким чином.    
+під час досягнення цілі темна мантія не може атакувати ні однієї іншої істоти, за винятком мети, але має перевагу в своїх атаках. Швидкість темряви також стає нулем, вона не може отримати користь від будь-якого бонусу до його швидкості, і вона рухається з ціллю.    
+Створіння може від’єднати темну мантію, роблячи успішну перевірку сильності DC 13 як дію. На свою чергу, темна мантія може відірватися від цілі, використовуючи 5 футів руху.    
+**Температура Аура (1/Day).** Радіус магічної темряви на 15 <unk> <unk> <unk> виходить від темної мантії, рухається з нею і поширюється навколо кутів. Темрява триває до тих пір, поки темна мантія підтримує концентрацію, до 10 хвилин (якщо зосередитись на заклинанні). Затемнення не може проникнути в цю темряву, а жодне природне світло не може освітити його. Якщо будь-який з темряви перетинається з площею світла, створена заклинанням 2-го рівня або нижчого, заклинання що створює світло відхилено.
