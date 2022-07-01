@@ -1,13 +1,13 @@
-name: Phase Spider type: monstrosity cr: 3
+назва: Павук фази тип: чудовисько cr: 3
 
-# Phase Spider
-_Large monstrosity, unaligned_
+# Фазовий павук
+_Величезний чудовиськ, не вирівняти_
 
 **Armor Class** 13 (natural armor)    
 **Hit Points** 32 (5d10 + 5)    
 **Speed** 30 ft., climb 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 15 (+2) | 15 (+2) | 12 (+1) | 6 (−2) | 10 (+0) | 6 (−2) |
 
@@ -16,12 +16,12 @@ _Large monstrosity, unaligned_
 **Languages** --    
 **Challenge** 3 (700 XP)
 
-**Ethereal Jaunt.** As a bonus action, the spider can magically shift from the Material Plane to the Ethereal Plane, or vice versa.    
-**Spider Climb.** The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.    
-**Web Walker.** The spider ignores movement restrictions caused by webbing.
+**Ethereal Jaunt.** У якості дії бонусу, павук може магічним зміщенням від Матеріальної площини до Плата Ethereal або навпаки.    
+**Павук сходиться.** павук може лізти на складну поверхню, у тому числі догори дриґом і виконувати перевірку здібностей.    
+**Веб Walker.** Павук ігнорує обмеження руху через перейдення.
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 7 (1d10 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 18 (4d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
+### Дії
+**Біт.** _Атака ближньої зброї:_ +4, досягнувши 5, одну істоту. _Вразу:_ 7 (1d10 + 2) пробиваюча шкода, і ціль повинна зробити економію Конституції 11 посту, заподіяння 18 (4d8) пошкодження отрути при невдалому збереженні, або ж удвічі більше шкоди від успішного. Якщо шкода від отруєння зменшує ціль до 0 балів то ціль є стабільною, але отруєна 1 годину, навіть після відновлення вразливих точок і паралізовано під час отруєння таким чином.
 
-### Description
-A phase spider possesses the magical ability to phase in and out of the Ethereal Plane. It seems to appear out of nowhere and quickly vanishes after attacking. Its movement on the Ethereal Plane before coming back to the Material Plane makes it seem like it can teleport. 
+### Опис
+Фазовий павук володіє магічною здатністю до фази та виходу з літака Еймірала. Здається, що після нападу зник ніде і швидко зникає. Його рух на Вейремній площині, перш ніж повернутися до Матеріальної площини, робить вигляд, що він може переміщатися. 
