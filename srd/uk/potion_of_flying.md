@@ -1,6 +1,6 @@
-name: Potion of Flying type: potion
+назва: Тип зілля літака : зілля
 
-# Potion of Flying
-_Potion, very rare_
+# Зілля літака
+_Зілля - дуже рідкісний_
 
-When you drink this potion, you gain a flying speed equal to your walking speed for 1 hour and can hover. If you're in the air when the potion wears off, you fall unless you have some other means of staying aloft. This potion's clear liquid floats at the top of its container and has cloudy white impurities drifting in it. 
+Коли ви п'єте це зілля, ви отримуєте літаючу швидкість, що дорівнює вашій швидкості прогулянки протягом 1 години і зможете зависати. Якщо ви в повітрі, коли зілля зникає, ви не впадете, якщо є інші засоби для перебування в повітрі. Чіткі рідини цього зілля, плавають у верхній частині контейнера і пересуваються хмарні білі пустоти. 
