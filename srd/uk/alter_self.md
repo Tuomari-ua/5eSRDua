@@ -1,14 +1,14 @@
-name: Alter Self level: 2 school: transmutation classes: sorcerer wizard
+назва: Alter Self рівень: 2 школа: транмутація класи: частр майстер
 
-# Alter Self
-_2nd-level transmutation_
+# Альтер Сельф
+_Трансмутація 2N-рівня_
 
-**Casting Time:** 1 action    
-**Range:** Self    
-**Components:** V, S    
-**Duration:** Concentration, up to 1 hour
+**Кастинг часу:** 1 дія    
+**Діапазон:** Самостій    
+**компоненти:** V, S    
+дублювання**тривалість:** концентрування, до 1 години
 
-You assume a different form. When you cast the spell, choose one of the following options, the effects of which last for the duration of the spell. While the spell lasts, you can end one option as an action to gain the benefits of a different one.    
-**Aquatic Adaptation.** You adapt your body to an aquatic environment, sprouting gills and growing webbing between your fingers. You can breathe underwater and gain a swimming speed equal to your walking speed.    
-**Change Appearance.** You transform your appearance. You decide what you look like, including your height, weight, facial features, sound of your voice, hair length, coloration, and distinguishing characteristics, if any. You can make yourself appear as a member of another race, though none of your statistics change. You also can't appear as a creature of a different size than you, and your basic shape stays the same; if you're bipedal, you can't use this spell to become quadrupedal, for instance. At any time for the duration of the spell, you can use your action to change your appearance in this way again.    
-**Natural Weapons.** You grow claws, fangs, spines, horns, or a different natural weapon of your choice. Your unarmed strikes deal 1d6 bludgeoning, piercing, or slashing damage, as appropriate to the natural weapon you chose, and you are proficient with your unarmed strikes. Finally, the natural weapon is magic and you have a +1 bonus to the attack and damage rolls you make using it.
+Ви припускаєте іншу форму. Коли ви кидаєте орфографію, виберіть один із наступних варіантів, ефект від яких буде останньою протягом тривалості заклинання. Нарешті, заклинання може закінчитись одним варіантом, щоб отримати переваги іншого варіанту.    
+**Водна адаптація.** Ви налаштовуєте своє тіло у водне середовище, проводить брили і росте піднімання між пальцями. Ви можете дихати під водою і отримати швидкість плавання, що дорівнює вашій швидкості ходьби.    
+**Змініть Appearance.** Ви зміните свій зовнішній вигляд. Ви вирішуєте, як ви виглядали, включаючи ваш зріст, вагу, особливі риси, звук вашого голосу, довжину волосся, кольори і відмінні характеристики, якщо такі є. Ти можеш показати себе членом іншої раси, хоча жодна з ваших статистичних не змінилася. Ви також не можете з'явитися в якості істоти різного розміру, ніж ви, і ваша основна форма залишається однаковою; якщо ви біпедаллі, то не можете використати це заклинання для скорочення, наприклад. Будь-яка тривалість заклинання можна використовувати свої дії, щоб змінити зовнішній вигляд таким чином.    
+**Природна зброя.** Ви росте кігті, шипи, горби або іншу природну зброю вибору. Ваші беззбройні страйки завдають 1 d6 стукотіння, проколювання або збитків, відповідно до природної зброї, яку ви обрали. І ви досвідчені своїми беззбройними ударами. Природна зброя є магією і бонус +1 до атаки та ушкоджень вас охоплює процес використання.
