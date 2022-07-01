@@ -1,13 +1,13 @@
-name: Xorn type: elemental cr: 5
+назва: Xorn тип: елемент cr: 5
 
-# Xorn
-_Medium elemental, neutral_
+# Ксорн
+_Середній елемент, нейтральний_
 
-**Armor Class** 19 (natural armor)    
-**Hit Points** 73 (7d8 + 42)    
-**Speed** 20 ft., burrow 20 ft.
+**Клас броні** 19 (природна броня)    
+**Бали** 73 (7d8 + 42)    
+**швидкість** фут. здійняти 20 футів.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 17 (+3) | 10 (+0) | 22 (+6) | 11 (+0) | 10 (+0) | 11 (+0) |
 
@@ -17,11 +17,11 @@ _Medium elemental, neutral_
 **Languages** Terran    
 **Challenge** 5 (1,800 XP)
 
-**Earth Glide.** The xorn can burrow through nonmagical, unworked earth and stone. While doing so, the xorn doesn't disturb the material it moves through.    
-**Stone Camouflage.** The xorn has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.    
-**Treasure Sense.** The xorn can pinpoint, by scent, the location of precious metals and stones, such as coins and gems, within 60 feet of it.
+**Earth Glide.** Xorn може прорватися через немагічну, непрацюючу землю та камінь. Якщо це зробити, xorn не заважає матеріал, за яким він проходить текст.    
+**Камуфляж камінь.** Шор має перевагу в Dexterity (Stealth) перевірки, зроблені для приховування на скелястому ґрунті.    
+**Сенс Скарбів.** Шор може точно вписуватись, за запахом, розташування дорогоцінних металів і камені, наприклад монет і самоцвіти, у межах 60 футів від нього.
 
-### Actions
+### Дії
 **Multiattack.** The xorn makes three claw attacks and one bite attack.    
-**Claw.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) slashing damage.    
-**Bite.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 13 (3d6 + 3) piercing damage.
+**Claw.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Вражаємо:_ 6 (1d6 + 3) і 3). Пошкодження    
+**Біт.** _Атака ближньої зброї:_ +6 щоб вдарити, досягти 5-ти цілі, одна ціль. _Вразів:_ 13 (3d6 + 3) пошкодження від проб.
