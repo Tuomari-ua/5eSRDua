@@ -1,11 +1,11 @@
-name: Greater Invisibility level: 4 school: illusion classes: bard sorcerer wizard
+назва: Вище рівня видимості : 4 школи: ілюзія класів: сад сортувальник
 
-# Greater Invisibility
-_4th-level illusion_
+# Великий невидимий
+_Ілюзія четвертого рівня_
 
 **Casting Time:** 1 action    
 **Range:** Touch    
 **Components:** V, S    
 **Duration:** Concentration, up to 1 minute
 
-You or a creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target's person. 
+Ви або істота, яку ви торкаєтеся стає невидимою до кінця заклинання поки не закінчиться. Все, що знаходиться в цілі, або взаємодія є невидимою, поки вона знаходиться на цільовій людині. 
