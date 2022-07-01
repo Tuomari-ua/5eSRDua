@@ -1,15 +1,15 @@
-name: Wall of Ice level: 6 school: evocation classes: wizard
+назва: Стіна льоду рівень: 6 школа: евакуація класів: чарівник
 
-# Wall of Ice
-_6th-level evocation_
+# Стіна льоду
+_Евокація 6-го рівня_
 
-**Casting Time:** 1 action    
-**Range:** 120 feet    
-**Components:** V, S, M (a small piece of quartz)    
-**Duration:** Concentration, up to 10 minutes
+**Час трансляції часу:** 1 дія    
+**Діапазон:** 120 футів    
+**компоненти:** V, S, М (маленький шматочок квартир)    
+**Тривалість:** хвилини, до 10 хвилин
 
-You create a wall of ice on a solid surface within range. You can form it into a hemispherical dome or a sphere with a radius of up to 10 feet, or you can shape a flat surface made up of ten 10-foot-square panels. Each panel must be contiguous with another panel. In any form, the wall is 1 foot thick and lasts for the duration.    
-If the wall cuts through a creature's space when it appears, the creature within its area is pushed to one side of the wall and must make a Dexterity saving throw. On a failed save, the creature takes 10d6 cold damage, or half as much damage on a successful save.    
-The wall is an object that can be damaged and thus breached. It has AC 12 and 30 hit points per 10-foot section, and it is vulnerable to fire damage. Reducing a 10-foot section of wall to 0 hit points destroys it and leaves behind a sheet of frigid air in the space the wall occupied. A creature moving through the sheet of frigid air for the first time on a turn must make a Constitution saving throw. That creature takes 5d6 cold damage on a failed save, or half as much damage on a successful one.
+Ви створюєте стінку льоду на суцільній поверхні в межах простору. Ви можете сформувати його в півкулі або сферу з радіусом до 10 футів, або ви можете формувати пласку поверхню, зроблену з десяти футів квадратних панелей. Кожна панель має бути спільною з іншою панеллю. В будь-якій формі, стіна завширшки 1 фут і триває протягом часу.    
+Якщо стіна вирізається через простір істоти, область утворення вставляється в одну сторону стіни і має бути збережена удара. У разі невдалого збереження істота завдає 10d6 холодних пошкоджень, або ж удвічі більше шкоди від успішної економії.    
+Стіна - це об'єкт, який можна пошкодити і таким чином порушувати. Він має показник AC 12 і 30 ударів за 10-футовий розділ, і вразливий до ураження вогню. Зменшення секції 10-футової частини стіни до 0 очків знищує її і залишає їх за простирадлом чіткого повітря у просторі, де огорожа займається. Вперше під час повороту істота, яка рухається крізь аркуш нечіткого повітря, повинна зробити економію Конституції. Ця істота наносить 5d6 холодних пошкоджень від невдалого заощадження, або ж удвічі більше шкоди від успішного.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, the damage the wall deals when it appears increases by 2d6, and the damage from passing through the sheet of frigid air increases by 1d6, for each slot level above 6th. 
+**На вищих рівнях.** Коли ви кидаєте це заклинання використовуючи гніздо 7-го рівня або вище, стіною завдавання шкоди, коли вона набуває збільшення на 2d6, і пошкодження від проходу листя холодильного повітря збільшується на 1d6, оскільки кожен слот вище шостого рівня. 
