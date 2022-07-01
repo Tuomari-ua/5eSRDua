@@ -1,13 +1,13 @@
-name: Water Elemental type: elemental cr: 5
+назва: Водяний Елемент тип: елемент cr: 5
 
-# Water Elemental
-_Large elemental, neutral_
+# Водяний ґолем
+_Великий елементарний, нейтральний_
 
 **Armor Class** 14 (natural armor)    
 **Hit Points** 114 (12d10 + 48)    
 **Speed** 30 ft., swim 90 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 18 (+4) | 14 (+2) | 18 (+4) | 5 (−3) | 10 (+0) | 8 (−1) |
 
@@ -18,11 +18,11 @@ _Large elemental, neutral_
 **Languages** Aquan    
 **Challenge** 5 (1,800 XP)
 
-**Water Form.** The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.    
-**Freeze.** If the elemental takes cold damage, it partially freezes; its speed is reduced by 20 feet until the end of its next turn.
+**Водний Форм.** Зневажливі речі, можуть увійти в космос ворожої істоти, і зупинитися там. Він може переміщатися через пробіл як вузьку ширину на 1 дюйм без стискання    
+**Замороження.** Якщо стихійне лихо зашкодить, він частково замерзає; його швидкість зменшується на 20 футів до кінця наступного кроку.
 
-### Actions
-**Multiattack.** The elemental makes two slam attacks.    
-**Slam.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) bludgeoning damage.    
-**Whelm (Recharge 4–6).** Each creature in the elemental's space must make a DC 15 Strength saving throw. On a failure, a target takes 13 (2d8 + 4) bludgeoning damage. If it is Large or smaller, it is also grappled (escape DC 14). Until this grapple ends, the target is restrained and unable to breathe unless it can breathe water. If the saving throw is successful, the target is pushed out of the elemental's space.    
-The elemental can grapple one Large creature or up to two Medium or smaller creatures at one time. At the start of each of the elemental's turns, each target grappled by it takes 13 (2d8 + 4) bludgeoning damage. A creature within 5 feet of the elemental can pull a creature or object out of it by taking an action to make a DC 14 Strength and succeeding.
+### Дії
+**Багатоатака.** Елемент зробив дві лебедні атаки.    
+**Слем.** _Атака ближньої зброї:_ +7 щоб ударити, досягти 5-ти цілі, одну ціль. _Удара:_ 13 (2d8 + 4) пошкодження bludgeing.    
+**Whelm (Поповнення 4–6).** Кожна істота в просторі елементів повинна зробити Панель економії сильних DC 15 рядка. З невдачею ціль отримує 13 (2d8 + 4) шкоду блокування. Якщо він великий або менший, він також зачеплений (escape DC 14). Доки це не закінчаться, ціль не здатна дихати, якщо вона не може дихати водою. Якщо проблема збереження буде успішною, то ціль виходить з місця збереження елементу.    
+Елемент може одночасно зібрати одну велику істоту, а точніше дві середні чи менші істоти. На початку черги кожного елементу кожна ціль зачепила 13 (2d8 + 4) пошкодження пошкодження даних. Творчість в межах 5 футів елементу може тягнути істоту або об'єкт з неї, вживши заходів, щоб зробити DC 14 Рівень і успіху.
