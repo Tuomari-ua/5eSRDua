@@ -1,23 +1,23 @@
-name: Bandit type: humanoid (any race) cr: .125
+назва: Бандит тип: humanoid (any race) cr: .125
 
-# Bandit
-_Medium humanoid (any race), any non-lawful alignment_
+# Бандит
+_Середня гуманоїда (будь-яке незаконне)_
 
-**Armor Class** 12 (leather armor)    
-**Hit Points** 11 (2d8 + 2)    
-**Speed** 30 ft.
+**Клас броні** 12 (шкіряна броню)    
+**Очки досягали** 11 (2d8 + 2)    
+**швидкість** фут.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 11 (+0) | 12 (+1) | 12 (+1) | 10 (+0) | 10 (+0) | 10 (+0) |
 
-**Senses** passive Perception 10    
-**Languages** any one language (usually Common)    
-**Challenge** 1/8 (25 XP)
+**Подяки** пасивне сприйняття 10    
+**Мови** будь-якої однієї мови (зазвичай народив)    
+**виклик** 1/8 (25 XP)
 
-### Actions
-**Scimitar.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) slashing damage.    
-**Light Crossbow.** _Ranged Weapon Attack:_ +3 to hit, range 80 ft./320 ft., one target. _Hit:_ 5 (1d8 + 1) piercing damage.
+### Дії
+**Яскравіт.** _Атака ближньої зброї:_ +3 для удару, досягає 5 щитів, одна ціль. _Вдач:_ 4 (1d6 + 1) удар пошкодження.    
+**Легкий Арбалет.** _Атака дальньої зброї:_ +3 до удару, 80 футів./320., одна ціль. _Вразів:_ 5 (1d8 + 1) пошкодження від проколу.
 
-### Description
-Bandits rove in gangs and are sometimes led by thugs, veterans, or spellcasters. Not all bandits are evil. Oppression, drought, disease, or famine can often drive otherwise honest folk to a life of banditry. Pirates are bandits of the high seas. They might be freebooters interested only in treasure and murder, or they might be privateers sanctioned by the crown to attack and plunder an enemy nation's vessels. 
+### Опис
+Бандити ревним бандами та іноді під ними килимами, ветеранами або закликачами. Не всі бандити злі. Утисн, посуха, захворювання чи голод часто можуть їздити інакше людям до життя бандитів. Пірати - бандити відкритого моря. Вони можуть бути вільночуваки, зацікавлені тільки у скарбах і вбивстві, або ж вони можуть бути приватними, санкціоновані короною для атаки та грабежу ворожих націй. 
