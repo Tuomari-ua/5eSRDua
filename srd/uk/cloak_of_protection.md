@@ -1,6 +1,6 @@
-name: Cloak of Protection type: item
+назва: Cloak захисту типу: елемент
 
-# Cloak of Protection
-_Wondrous item, uncommon (requires attunement)_
+# Cloak захисту
+_Нетиповий предмет Wondrous (вимагає приєднання)_
 
-You gain a +1 bonus to AC and saving throws while you wear this cloak. 
+Ви отримуєте бонус +1 до AC і зберігаєте зеніти, коли носите цей плащ. 
