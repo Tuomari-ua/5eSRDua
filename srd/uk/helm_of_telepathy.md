@@ -1,8 +1,8 @@
-name: Helm of Telepathy type: item
+назва: Шолом телепатії типу: елемент
 
-# Helm of Telepathy
-_Wondrous item, uncommon (requires attunement)_
+# Шолом телепатії
+_Нетиповий предмет Wondrous (вимагає приєднання)_
 
-While wearing this helm, you can use an action to cast the **_detect thoughts_** spell (save DC 13) from it. As long as you maintain concentration on the spell, you can use a bonus action to send a telepathic message to a creature you are focused on. It can reply--using a bonus action to do so--while your focus on it continues.
+Під час одягу у цьому шоломі, ви можете використовувати дію, щоб кинути **_виявити думки_** заклинання (заощадити DC 13) від неї. До тих пір, поки ви підтримуєте концентрацію в правописі ви можете використати преміальну дію, щоб відправити телепатичне повідомлення істоті, на яку ви зосереджені. Вона може відписатися, використовуючи бонусну дію, щоб зробити це - доки ви зосереджуєтесь на ній продовжуєте.
 
-While focusing on a creature with **_detect thoughts_**, you can use an action to cast the **_suggestion_** spell (save DC 13) from the helm on that creature. Once used, the **_suggestion_** property can't be used again until the next dawn. 
+Під час фокусування на істоті **_виявити думки_**ви можете використати дію для трансляції **_пропозиції_** заклинання (збереження DC 13) від автора до цього. Після використання, властивість **_пропозиції_** не може бути використана знову до наступного світанку. 
