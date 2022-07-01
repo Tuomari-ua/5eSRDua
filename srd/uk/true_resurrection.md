@@ -1,13 +1,13 @@
-name: True Resurrection level: 9 school: necromancy classes: cleric druid
+назва: True Resurrection рівень: 9 школа: некроманність класи: священно druid
 
-# True Resurrection
-_9th-level necromancy_
+# Істинний Воскресіння
+_Некромантія 9-го рівня_
 
-**Casting Time:** 1 hour    
-**Range:** Touch    
-**Components:** V, S, M (a sprinkle of holy water and diamonds worth at least 25,000 gp, which the spell consumes)    
-**Duration:** Instantaneous
+**Час трансляції :** 1 година    
+**Діапазон:** Торкніться    
+**компонентів:** V, S, М (розлив святої води та алмазів на суму щонайменше 25 000 краю, які споживають заклинання    
+**тривалість:** миттєві
 
-You touch a creature that has been dead for no longer than 200 years and that died for any reason except old age. If the creature's soul is free and willing, the creature is restored to life with all its hit points.    
-This spell closes all wounds, neutralizes any poison, cures all diseases, and lifts any curses affecting the creature when it died. The spell replaces damaged or missing organs and limbs.    
-The spell can even provide a new body if the original no longer exists, in which case you must speak the creature's name. The creature then appears in an unoccupied space you choose within 10 feet of you. 
+Ви торкаєтеся істоти, яка загинула вже не більше 200 років, і яка померла з будь-якої причини, крім старості. Якщо душа істоти є вільна і воліє, істота відновлюється до життя з усіма прибитими точками.    
+Ця заклинання закриває всі рани, нейтралізує будь-яку отруту, лікує всі хвороби і піднімає будь-які прокляття, що зачіпають істоту, коли вона померла. заклинання замінює пошкоджені чи відсутні органи та кінцівки.    
+орфографію може навіть створити нове тіло, якщо оригінальне більше не існує, в цьому випадку ви повинні говорити ім'я істоти. Тоді створіння з'являється на незазайнятому місці, який ви обираєте в межах 10 футів від вас. 
