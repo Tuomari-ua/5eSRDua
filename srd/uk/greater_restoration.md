@@ -1,16 +1,16 @@
-name: Greater Restoration level: 5 school: abjuration classes: bard cleric druid
+назва: Великоднє відновлення рівень: 5 школа: abjuration класі: bard cleric druid
 
-# Greater Restoration
-_5th-level abjuration_
+# Велике відновлення
+_Тривалість з'єднання 5-го рівня_
 
 **Casting Time:** 1 action    
 **Range:** Touch    
 **Components:** V, S, M (diamond dust worth at least 100 gp, which the spell consumes)    
 **Duration:** Instantaneous
 
-You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target's exhaustion level by one, or end one of the following effects on the target:
+Ви імітуєте істоту, яку торкнулись з позитивною енергією, щоб скасувати виснажливий ефект. Ви можете знизити рівень вичерпання цілі на один або покінчити з наступним впливом на мету:
 
-* One effect that charmed or petrified the target
-* One curse, including the target's attunement to a cursed magic item
-* Any reduction to one of the target's ability scores
-* One effect reducing the target's hit point maximum 
+* Один з ефектів, що зачаровували чи загадали ціль
+* Одне прокляття, включаючи піднесення цілі до проклятого елемента магії
+* Будь-яке скорочення до одного з показників можливостей цілі
+* Максимальне зменшення кількості ударів цілі 
