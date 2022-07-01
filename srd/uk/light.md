@@ -1,12 +1,12 @@
-name: Light level: 0 school: evocation classes: bard cleric sorcerer wizard
+назва: Світлий рівень: 0 школа: евокація класів: Бард священний сортувальник
 
-# Light
-_Evocation cantrip_
+# Світла
+_Евокаційна конфіскація_
 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, M (a firefly or phosphorescent moss)    
-**Duration:** 1 hour
+**Час трансляції :** 1 дія    
+**Діапазон:** Торкніться    
+**компоненти:** V, M (світло-фосфоресцентний мос)    
+**тривалість:** години
 
-You touch one object that is no larger than 10 feet in any dimension. Until the spell ends, the object sheds bright light in a 20-foot radius and dim light for an additional 20 feet. The light can be colored as you like. Completely covering the object with something opaque blocks the light. The spell ends if you cast it again or dismiss it as an action.    
-If you target an object held or worn by a hostile creature, that creature must succeed on a Dexterity saving throw to avoid the spell.
+Ви торкаєтесь одного об'єкта, який не більший за 10 футів у будь-якому вимірі. До закінчення заклинання випромінює яскраве світло на радіусі 20 футів і тьмяне світло для додаткових 20 футів. Світло може бути кольорове, як вам подобається. Повністю покриваючи об’єкт чимось непрозорим блокує світло. Лист закінчується, якщо ви перекидаєте його знову або відкинете його як дію.    
+Якщо ви націлите на об'єкт, який тримає або носять ворожа істота, ця істота повинна досягти успіху в рятівництві, щоб уникнути заклинання.
