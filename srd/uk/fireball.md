@@ -1,14 +1,14 @@
-name: Fireball level: 3 school: evocation classes: sorcerer wizard
+назва: Вогняний м'яч рівень: 3 школу: евакуація класів: частр майстер
 
-# Fireball
-_3rd-level evocation_
+# Вогняна куля
+_Евокація на третьому рівні_
 
-**Casting Time:** 1 action    
-**Range:** 150 feet    
-**Components:** V, S, M (a tiny ball of bat guano and sulfur)    
-**Duration:** Instantaneous
+**Час трансляції часу:** 1 дія    
+**Діапазон:** 150 футів    
+**компоненти:** V, S, М (крихітний м'яч кажана і сіркових)    
+**тривалість:** миттєві
 
-A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame. Each creature in a 20-foot-radius sphere centered on that point must make a Dexterity saving throw. A target takes 8d6 fire damage on a failed save, or half as much damage on a successful one.    
-The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.
+Яскраві спалахи від вашого пальця до точки, яку ви обираєте у межах досягає блиску вогню, а потім квіти - низькою брудною. Кожна істота у 20-футовому радіусі зосередженій на цій точці, повинна зробити рятувальну межу. Ціль завдає шкоди 8d6 вогню через невдале заощадження, або ж удвічі більше шкоди від успішного.    
+вогонь поширюється навколо кутів. Він запалює легкозаймисті об'єкти в районі, які не носять або не носяться на ноги.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd. 
+**На вищих рівнях.** Коли ви кидаєте це заклинання використовуючи слот четвертого рівня або вище, збільшення пошкодження на 1d6 для кожного рівня слоту вище 3rd. 
