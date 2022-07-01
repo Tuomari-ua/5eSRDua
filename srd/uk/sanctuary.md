@@ -1,12 +1,12 @@
-name: Sanctuary level: 1 school: abjuration classes: cleric
+назва: Повноваження рівень: 1 школа: abjuration класів: священний
 
-# Sanctuary
-_1st-level abjuration_
+# Святилище
+_Однорівнева тривалість_
 
-**Casting Time:** 1 bonus action    
-**Range:** 30 feet    
-**Components:** V, S, M (a small silver mirror)    
-**Duration:** 1 minute
+**Кастинг часу:** 1 бонусна дія    
+**Діапазон:** 30 футів    
+**компоненти:** V, S, М (маленьке срібне дзеркало)    
+**тривалість:** хвилини
 
-You ward a creature within range against attack. Until the spell ends, any creature who targets the warded creature with an attack or a harmful spell must first make a Wisdom saving throw. On a failed save, the creature must choose a new target or lose the attack or spell. This spell doesn't protect the warded creature from area effects, such as the explosion of a fireball.    
-If the warded creature makes an attack or casts a spell that affects an enemy creature, this spell ends. 
+Ви нагороджуєте істоту за діапазоном проти нападу. Поки заклинання не закінчиться, будь-яка істота, яка націлена на виправдану істоту з атакою або шкідливим заклинання спочатку повинна зробити мудрість економії кисень. На невдалому збереженні істота повинна вибрати нову ціль або втратити атаку або заклинання. Ця заклинання не захищає попереджену істоту від впливу на територію, таких як вибух вогнепальної кулі.    
+Якщо істота атакує або викидає заклинання що впливає на ворожу істоту, ця заклинання закінчується. 
