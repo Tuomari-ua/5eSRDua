@@ -1,8 +1,8 @@
-name: Eversmoking Bottle type: item
+назва: Пляшка кругової Амфіки тип: елемент
 
-# Eversmoking Bottle
-_Wondrous item, uncommon_
+# Святкова пляшка
+_Нетиповий для Wondrous_
 
-Smoke leaks from the lead-stoppered mouth of this brass bottle, which weighs 1 pound. When you use an action to remove the stopper, a cloud of thick smoke pours out in a 60-foot radius from the bottle. The cloud's area is heavily obscured. Each minute the bottle remains open and within the cloud, the radius increases by 10 feet until it reaches its maximum radius of 120 feet.
+Дим протікає з отвір з лісової зупинки цього мідної пляшки, що важує 1 фунт. При використанні дії для видалення зупинки, густа хмара диму в радіусі 60-футів від пляшки на 60 футів. Площа хмари сильно затьмарена. Кожну хвилину пляшка залишається відкритою і в межах хмари, радіус збільшується на 10 футів, поки не досягне максимального радіусу в 120 футів.
 
-The cloud persists as long as the bottle is open. Closing the bottle requires you to speak its command word as an action. Once the bottle is closed, the cloud disperses after 10 minutes. A moderate wind (11 to 20 miles per hour) can also disperse the smoke after 1 minute, and a strong wind (21 or more miles per hour) can do so after 1 round. 
+Хмара стає, доки пляшка відкрита. Закриття пляшки вимагає, щоб ви висловили свою команду як дію. Коли пляшка зачинена, хмари розмикаються через 10 хвилин. Помірний вітер (від 11 до 20 миль на годину) також може розсіяти дим за 1 хвилину, і сильний вітер (може зробити 21 або більше миль на годину) після 1 раунду. 
