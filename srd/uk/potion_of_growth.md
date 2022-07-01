@@ -1,6 +1,6 @@
-name: Potion of Growth type: potion
+назва: Тип Зілля росту : зілля
 
-# Potion of Growth
-_Potion, uncommon_
+# Зілля зростання
+_Тривале зілля_
 
-When you drink this potion, you gain the "enlarge" effect of the **_enlarge/reduce_** spell for 1d4 hours (no concentration required). The red in the potion's liquid continuously expands from a tiny bead to color the clear liquid around it and then contracts. Shaking the bottle fails to interrupt this process. 
+При написанні цього зілля, ви отримуєте ефект "enlarge" **_розширення/зменшення_** написання 1 d4 годин (без потреби у концентрації). Червоні у рідкому полотні постійно зростають від крихітної дронки до кольору чітка рідина навколо неї і стискається. Струшування пляшки не може перервати цей процес. 
