@@ -1,18 +1,18 @@
-description: Rules and information for the Human race from the 5th Edition (5e) SRD (System Reference Document).
+опис: Правила та інформація для перегонів людини з 5-ї версії (5e) SRD (Документація з Системної Документації).
 
-# Human
-## Human Traits
+# Людина
+## Особливості людини
 - - -
-It’s hard to make generalizations about humans, but your human character has these traits.
+Важко узагальнити про людей, але у вашого людського характеру є ці риси.
 
-**Ability Score Increase.** Your ability scores each increase by 1.
+**Оцінка здібностей зростає.** Ваші здібності збільшуються на 1.
 
-**Age.** Humans reach adulthood in their late teens and live less than a century.
+**Вік.** Люди досягають зрілості в пізніх підлітках і живуть менше ніж століття.
 
-**Alignment.** Humans tend toward no particular alignment. The best and the worst are found among them.
+**Вирівнювання.** Люди схильні до повного вирівнювання. Найліпші й найгірші знайдені серед них.
 
-**Size.** Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.
+**Розмір.** Люди сильно відрізняються за висотою і будують, від ледь до 5 футів до висоти. Незалежно від вашої позиції в цьому діапазоні, ваш розмір є посереднім.
 
-**Speed.** Your base walking speed is 30 feet.
+**Швидкість.** Ваша базова швидкість ходьби становить 30 футів.
 
-**Languages.** You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.
+**Мови.** Можете говорити, читати і писати звичайну і будь-яку зайву мову вибору. Люди зазвичай вивчають мови інших людей, з якими вони мають справу, включаючи незрозумілі діалекти. Їм подобається окропити промову словами, запозиченими з інших мов: ортичними прокляттями Елвіша, музичні вислови, дварватські військові фрази тощо.
