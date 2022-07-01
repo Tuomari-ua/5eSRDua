@@ -1,11 +1,11 @@
-name: Water Breathing level: 3 school: transmutation classes: druid ranger sorcerer wizard
+назва: Підведення води рівень: 3 школа: транмутація класи: druid далекобійник чарівник
 
-# Water Breathing
-_3rd-level transmutation (ritual)_
+# Підводне дихання
+_Трансмутація третього рівня (ритуал)_
 
 **Casting Time:** 1 action    
 **Range:** 30 feet    
 **Components:** V, S, M (a short reed or piece of straw)    
 **Duration:** 24 hours
 
-This spell grants up to ten willing creatures you can see within range the ability to breathe underwater until the spell ends. Affected creatures also retain their normal mode of respiration. 
+Це заклинання надає до десяти охочих істот, які ви можете бачити у межах діапазону можливості дихати під водою, поки заклинання не закінчиться. Вражені істоти також зберігають нормальний спосіб дихання. 
