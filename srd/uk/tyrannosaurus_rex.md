@@ -1,13 +1,13 @@
 name: Tyrannosaurus Rex type: beast cr: 8
 
 # Tyrannosaurus Rex
-_Huge beast, unaligned_
+_Величезний звір, неприєднаний_
 
 **Armor Class** 13 (natural armor)    
 **Hit Points** 136 (13d12 + 52)    
 **Speed** 50 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 25 (+7) | 10 (+0) | 19 (+4) | 2 (−4) | 12 (+1) | 9 (−1) |
 
@@ -16,7 +16,7 @@ _Huge beast, unaligned_
 **Languages** --    
 **Challenge** 8 (3,900 XP)
 
-### Actions
-**Multiattack.** The tyrannosaurus makes two attacks: one with its bite and one with its tail. It can't make both attacks against the same target.    
-**Bite.** _Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Hit:_ 33 (4d12 + 7) piercing damage. If the target is a Medium or smaller creature, it is grappled (escape DC 17). Until this grapple ends, the target is restrained, and the tyrannosaurus can't bite another target.    
-**Tail.** _Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Hit:_ 20 (3d8 + 7) bludgeoning damage.
+### Дії
+**Мультиатака.** Тиранозавр робить дві атаки: один з одним, його кусаючий та один за хвостом. Воно не може зробити обидва атаки проти однієї цілі.    
+**Кута.** _Атака ближньої зброї:_ +10 до удару, досягає 10-ти, однієї цілі. _Вдач:_ 33 (4d12 + 7) наносити шкоду. Якщо ціль є Середньою або меншою істотою, вона зачеплена (втеча DN 17). Поки ця жалібність не буде обмежена, а тиранзавр не зможе кусати іншу ціль.    
+**зворотній бік.** _Атака важкої зброї:_ +10 щоб вдарити, досягти 10-ти, мети - одна ціль. _Удара:_ 20 (3d8 + 7) пошкодження дублювання.
