@@ -1,23 +1,23 @@
-name: Symbol level: 7 school: abjuration classes: bard cleric wizard
+назва: Символ рівень: 7 школу: abjuration класів: наглядач вважає
 
-# Symbol
-_7th-level abjuration_
+# Символ
+_Размір перерви 7-го рівня_
 
-**Casting Time:** 1 minute    
-**Range:** Touch    
-**Components:** V, S, M (mercury, phosphorus, and powdered diamond and opal with a total value of at least 1,000 gp, which the spell consumes)    
-**Duration:** Until dispelled or triggered
+**Час трансляції :** 1 хвилину    
+**Діапазон:** Торкніться    
+**компоненти:** V, S, М (ртуть, фосфор, і порошеним діамантом і опалом, із загальною вартістю не менше 1 000 ґп, який витрачає заклинання    
+**тривалість:** Поки не буде виключено або запущено
 
-When you cast this spell, you inscribe a harmful glyph either on a surface (such as a section of floor, a wall, or a table) or within an object that can be closed to conceal the glyph (such as a book, a scroll, or a treasure chest). If you choose a surface, the glyph can cover an area of the surface no larger than 10 feet in diameter. If you choose an object, that object must remain in its place; if the object is moved more than 10 feet from where you cast this spell, the glyph is broken, and the spell ends without being triggered.    
-The glyph is nearly invisible, requiring an Intelligence (Investigation) check against your spell save DC to find it.    
-You decide what triggers the glyph when you cast the spell. For glyphs inscribed on a surface, the most typical triggers include touching or stepping on the glyph, removing another object covering it, approaching within a certain distance of it, or manipulating the object that holds it. For glyphs inscribed within an object, the most common triggers are opening the object, approaching within a certain distance of it, or seeing or reading the glyph.    
-You can further refine the trigger so the spell is activated only under certain circumstances or according to a creature's physical characteristics (such as height or weight), or physical kind (for example, the ward could be set to affect hags or shapechangers). You can also specify creatures that don't trigger the glyph, such as those who say a certain password.    
-When you inscribe the glyph, choose one of the options below for its effect. Once triggered, the glyph glows, filling a 60-foot-radius sphere with dim light for 10 minutes, after which time the spell ends. Each creature in the sphere when the glyph activates is targeted by its effect, as is a creature that enters the sphere for the first time on a turn or ends its turn there.    
-**Death.** Each target must make a Constitution saving throw, taking 10d10 necrotic damage on a failed save, or half as much damage on a successful save.    
-**Discord.** Each target must make a Constitution saving throw. On a failed save, a target bickers and argues with other creatures for 1 minute. During this time, it is incapable of meaningful communication and has disadvantage on attack rolls and ability checks.    
-**Fear.** Each target must make a Wisdom saving throw and becomes frightened for 1 minute on a failed save. While frightened, the target drops whatever it is holding and must move at least 30 feet away from the glyph on each of its turns, if able.    
-**Hopelessness.** Each target must make a Charisma saving throw. On a failed save, the target is overwhelmed with despair for 1 minute. During this time, it can't attack or target any creature with harmful abilities, spells, or other magical effects.    
-**Insanity.** Each target must make an Intelligence saving throw. On a failed save, the target is driven insane for 1 minute. An insane creature can't take actions, can't understand what other creatures say, can't read, and speaks only in gibberish. The GM controls its movement, which is erratic.    
+Коли ви кладете це заклинання, ви натякаєте на шкідливий гліф або на поверхню (наприклад, частину підлоги, стіну, або таблиця) або всередині об'єкта, який можна закрити для приховання гліфа (наприклад, книги, сувій, або скрині скарбів). Якщо ви виберете поверхню, гліф зможе покрити площу поверхні не більшою за 10 футів у діаметрі. Якщо ви виберете об'єкт, цей об'єкт повинен залишатися в його місці; якщо об'єкт рухався більше, ніж за 10 футів від вашого списку, гліф зламаний, і заклинання закінчується без ураження.    
+Гліф є майже невидимим, вимагаючи перевірки розвідки (слідкування) на вашу перевірку проти заклинання збереження округ Колумбії.    
+Ви вирішуєте, які тригери гліфа під час написання гліфа. Для гліфів, що розміщуються на поверхні, найбільш типовими тригерами є дотик або крок на гліфі, видалення іншого об'єкта, що закриває його, наближається на певну відстань його, або маніпулює об'єктом, який тримає його. Для гліфів на основі об'єкта, найбільш поширені тригери відкривають об'єкт, близькість на певну відстань від неї, або перегляд або читання гліфа.    
+Ви можете наблизити пристрій до розширення, щоб заклинання було активовано тільки в певних умовах або відповідно до фізичних характеристик істоти (наприклад, висоту чи ваги), або фізичний відтік (наприклад, варт може бути впливають на туги або на гангерів). Ви також можете вказати істот, які не викликають цього гліфа, таких як ті, хто сказав певний пароль.    
+У вас наявний напис гліфа, виберіть одну з наведених нижче параметрів для зміни ефекту. Після нанесення спрацьовування гліфа, заповнення сфери радіусу 60-футовим світлом на 10 хвилин, після чого написання закінчується. Кожна істота в сфері, коли гліф активується, його вплив націлює як і істота, що входить в сферу вперше на повороті, або завершує її чергу.    
+**смерть.** Кожна ціль повинна зробити економію конституції отримання некротичних ушкоджень при невдалому збереженні, або ж удвічі більше шкоди від успішного заощадження.    
+**Discord.** Кожна ціль повинна зробити економію конституції. На невдалому збереженні цільові пекарні і сперечаються з іншими істотами протягом 1 хвилини. During this time, it is incapable of meaningful communication and has disadvantage on attack rolls and ability checks.    
+**Fear.** Each target must make a Wisdom saving throw and becomes frightened for 1 minute on a failed save. З переляку, цілі крапають те, що тримають, і має віддалити принаймні 30 футів від гліфа на кожній з цих літер, якщо можливо.    
+**Надійність.** Кожна ціль повинна зробити Харизму збереженим полем. На невдалому збереженні мета завалена відчаєм протягом 1 хвилини. Протягом цього часу він не може атакувати або націлити жодної істоти з шкідливими здібностями, заклинаннями чи іншими магічними ефектами.    
+**Божевілля.** Кожна ціль повинна зберегти розумну інформацію. На невдалому збереженні ціль скерована на 1 хвилину. Божевільна істота не може вжити заходів, не розуміє, що кажуть інші істоти, що не можна читати, і говорити тільки нерозбірливим. The GM controls its movement, which is erratic.    
 **Pain.** Each target must make a Constitution saving throw and becomes incapacitated with excruciating pain for 1 minute on a failed save.    
 **Sleep.** Each target must make a Wisdom saving throw and falls unconscious for 10 minutes on a failed save. A creature awakens if it takes damage or if someone uses an action to shake or slap it awake.    
 **Stunning.** Each target must make a Wisdom saving throw and becomes stunned for 1 minute on a failed save.
