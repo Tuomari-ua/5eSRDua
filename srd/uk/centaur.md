@@ -1,13 +1,13 @@
-name: Centaur type: monstrosity cr: 2
+назва: Тип Кентавра : чудовиська cr: 2
 
-# Centaur
-_Large monstrosity, neutral good_
+# Кентаври
+_Велика чудовиськості, нейтральне добре_
 
 **Armor Class** 12    
 **Hit Points** 45 (6d10 + 12)    
 **Speed** 50 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA     |
 | ------- | ------- | ------- | ------ | ------- | ------- |
 | 18 (+4) | 14 (+2) | 14 (+2) | 9 (-1) | 13 (+1) | 11 (+0) |
 
@@ -16,10 +16,10 @@ _Large monstrosity, neutral good_
 **Languages** Elvish, Sylvan    
 **Challenge** 2 (450 XP)
 
-**Charge.** If the centaur moves at least 30 feet straight toward a target and then hits it with a pike attack on the same turn, the target takes an extra 10 (3d6) piercing damage.
+**Заряд.** Якщо кентавр рухатиметься щонайменше 30 футів прямо до цілі і тоді вдаряє в нього напад на стрижій, на тому ж повороті, ціль наносить додаткові 10 (3d6) пошкодження.
 
-### Actions
-**Multiattack.** The centaur makes two attacks: one with its pike and one with its hooves or two with its longbow.    
-**Pike.** _Melee Weapon Attack:_ +6 to hit, reach 10 ft., one target. _Hit:_ 9 (1d10 + 4) piercing damage.    
-**Hooves.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) bludgeoning damage.    
-**Longbow.** _Ranged Weapon Attack:_ +4 to hit, range 150/600 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage.
+### Дії
+**Мультиатака.** Кентавр робить дві атаки: один за допомогою стрижни і один з його копитами чи двома з довгим луком.    
+**Пік.** _Атака ближнього бою зброї:_ +6, щоб ударити в ціль, досягнути 10; одна ціль. _Hit:_ 9 (1d10 + 4) piercing damage.    
+**Hooves.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Удара:_ 11 (2d6 + 4) пошкодження bludgeing.    
+**Довгий лук.** _Атака дальньої зброї:_ +4 щоб вдарити, діапазон 150/600 метрів, одна мета. _Вразів:_ 6 (1d8 + 2) пошкодження вводу.
