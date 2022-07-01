@@ -1,6 +1,6 @@
-name: Lantern of Revealing type: item
+назва: Ліхтар Revealing тип: елемент
 
-# Lantern of Revealing
-_Wondrous item, uncommon_
+# Ліхтар кликання
+_Нетиповий для Wondrous_
 
-While lit, this hooded lantern burns for 6 hours on 1 pint of oil, shedding bright light in a 30-foot radius and dim light for an additional 30 feet. Invisible creatures and objects are visible as long as they are in the lantern's bright light. You can use an action to lower the hood, reducing the light to dim light in a 5-foot radius. 
+Під час освітлення, цей ліхтар палає 6 годин на 1 пінту нафти, яскраве світло в радіусі 30 футів і тьмяне світло на додаткові 30 футів. Невидимі істоти та об'єкти видно до тих пір, поки вони на яскравому світлі ліхтаря. Для зниження каптура можна використати дію, зменшення світла на затемнення радіусу в 5 футів. 
