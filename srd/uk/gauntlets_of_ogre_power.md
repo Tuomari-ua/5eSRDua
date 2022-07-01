@@ -1,6 +1,6 @@
-name: Gauntlets of Ogre Power type: item
+назва: рукавиці Озерної сили типу: елемент
 
-# Gauntlets of Ogre Power
-_Wondrous item, uncommon (requires attunement)_
+# Рукавички Огри
+_Нетиповий предмет Wondrous (вимагає приєднання)_
 
-Your Strength score is 19 while you wear these gauntlets. They have no effect on you if your Strength is already 19 or higher. 
+Ваш рівень гучності - 19, коли Ви носите ці рукавички. Вони не впливають на вас, якщо ваша сила вже 19-а більше. 
