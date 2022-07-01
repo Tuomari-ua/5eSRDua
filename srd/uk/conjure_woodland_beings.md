@@ -1,22 +1,22 @@
-name: Conjure Woodland Beings level: 4 school: conjuration classes: druid ranger
+назва: Conjure Woodland Beings : 4 school: conjuration classes: druid ranger
 
-# Conjure Woodland Beings
-_4th-level conjuration_
+# Кон'юре Вудленд Бінгс
+_Тривалість четвертого рівня_
 
 **Casting Time:** 1 action    
 **Range:** 60 feet    
 **Components:** V, S, M (one holly berry per creature summoned)    
 **Duration:** Concentration, up to 1 hour
 
-You summon fey creatures that appear in unoccupied spaces that you can see within range. Choose one of the following options for what appears:
+Ви викличете незайнятих приміщень, які можна побачити в метрах відстані. Виберіть один з варіантів, які з'являються:
 
-* One fey creature of challenge rating 2 or lower
-* Two fey creatures of challenge rating 1 or lower
-* Four fey creatures of challenge rating 1/2 or lower
-* Eight fey creatures of challenge rating 1/4 or lower
+* Одна свята істота виклику рейтингу 2 або нижче
+* Два гноми кидають виклик рейтингу 1 або нижче
+* Чотири блідих істоти кидають виклик рейтингу 1/2 або нижче
+* Вісім легкозаймистих створінь для оцінки 1/4 або нижче
 
-A summoned creature disappears when it drops to 0 hit points or when the spell ends.    
-The summoned creatures are friendly to you and your companions. Roll initiative for the summoned creatures as a group, which have their own turns. They obey any verbal commands that you issue to them (no action required by you). If you don't issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions.    
-The GM has the creatures' statistics.
+Коли хвороба опускається нуля, викликана заклинання - зникає до нуля, або коли закінчується заклинання - насправді.    
+Прикликані істоти дружні до вас і ваших приятелів. Скромувати ініціативу у покликаних істот в якості групи, які мають власний поворот. Вони слухаються будь-яких словесних команд, котрі ви видаєте перед ними (ніяких дій, які вам потрібні). Якщо ви не створюватимете на них жодних команд, вони захищаються від ворожих істот, але в іншому випадку не вживати жодних дій.    
+GM містить статистику істот.
 
-**At Higher Levels.** When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 6th-level slot and three times as many with an 8th-level slot. 
+**На вищих рівнях.** Коли ви кидаєте це заклинання за допомогою певних слотів вищого рівня, ви обираєте одну з наведених вище варіантів, і більше істот з'являються у два рази більше з слотом 6-го рівня і в три рази більше з слотом на 8-го рівня. 
