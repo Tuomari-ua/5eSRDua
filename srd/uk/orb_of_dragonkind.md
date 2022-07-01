@@ -1,31 +1,31 @@
-name: Orb of Dragonkind type: artifact
+назва: Orb дракона тип: артефакт
 
-# Orb of Dragonkind
-_Wondrous item, artifact (requires attunement)_
+# Орб Драгонкінда
+_Wondrous елемент, артефакт (потребує залучення)_
 
-Ages past, elves and humans waged a terrible war against evil dragons. When the world seemed doomed, powerful wizards came together and worked their greatest magic, forging five **Orbs of Dragonkind** (or **Dragon Orbs**) to help them defeat the dragons. One orb was taken to each of the five wizard towers, and there they were used to speed the war toward a victorious end. The wizards used the orbs to lure dragons to them, then destroyed the dragons with powerful magic.
+Став минулий вік, ельфи та люди вели жахливу війну проти злих драконів. Коли світ здавався приреченим, могутні чарівники зібралися і працювали своєю найбільшою магією, форживши п'ять **Орб Дракона** (або **Драконячі Склади**), щоб допомогти їм перемогти драконів. Кожна з п'яти чарівників вежі була взята на орбіту. Там вони звикли прискорити війну до переможного кінця. Чарівники використовували орби, щоб приманити драконів до них, а потім знищили драконів потужною магією.
 
-As the wizard towers fell in later ages, the orbs were destroyed or faded into legend, and only three are thought to survive. Their magic has been warped and twisted over the centuries, so although their primary purpose of calling dragons still functions, they also allow some measure of control over dragons.
+Як вважаються, що історичні вежі в кінці віків знищені чи вицвіли на легенді, і, як вважається, виживають лише три. Їх магія насторожено і викрутилася протягом століть, тому, хоча їхня основна мета називати драконів функціями, вони також дозволяють деяку міру контролю над драконами.
 
-Each orb contains the essence of an evil dragon, a presence that resents any attempt to coax magic from it. Those lacking in force of personality might find themselves enslaved to an orb.
+Кожна орба містить сутність злого дракона, присутність, яка нагадує будь-яку спробу приборкати звідси чари. Ті, хто не має сили особистості, можуть опинитися в рабській місцевості.
 
-An orb is an etched crystal globe about 10 inches in diameter. When used, it grows to about 20 inches in diameter, and mist swirls inside it.
+Траса - це кристалічна глобуса, що завбільшки 10 дюймів у діаметрі. Він росте близько 20 дюймів у діаметрі, і всередині нього викручується туман.
 
-While attuned to an orb, you can use an action to peer into the orb's depths and speak its command word. You must then make a DC 15 Charisma check. On a successful check, you control the orb for as long as you remain attuned to it. On a failed check, you become charmed by the orb for as long as you remain attuned to it.
+Спіймаючись на узбіччя, можна вловити дію, щоб чистити глибину орбіти і вказати своє слово. Ви повинні зробити перевірку Харісми DC 15. Під час успішної перевірки ви контролюєте випробування поки його залишаєте за собою задоволенням. На жаль, вас зачарував орбіта поки ви залишаєтесь на цьому автомобілі.
 
-While you are charmed by the orb, you can't voluntarily end your attunement to it, and the orb casts **_suggestion_** on you at will (save DC 18), urging you to work toward the evil ends it desires. The dragon essence within the orb might want many things: the annihilation of a particular people, freedom from the orb, to spread suffering in the world, to advance the worship of Tiamat, or something else the GM decides.
+Поки вас зачарував абат, ви не можете добровільно закінчити своє знищення, і броні приведення **_пропозиція_** на вас (збереження DC 18), закликаючи вас працювати над злом, його жадає. Сутність дракона в рамках може хотіти багато речей: знищення конкретного народу, свобода від орбіти, поширювати страждання у світі, для просування поклоніння Тіамату, або рішення GM.
 
-### Random Properties.
-An **Orb of Dragonkind** has the following random properties:
-* 2 minor beneficial properties
-* 1 minor detrimental property
-* 1 major detrimental property
+### Випадкові властивості.
+An **Orb of Dragonkind** has following випадкових властивостей:
+* 2 другорядні правові властивості
+* 1 другорядна шкода
+* Перша загроза
 
-### Spells.
-The orb has 7 charges and regains 1d4 + 3 expended charges daily at dawn. If you control the orb, you can use an action and expend 1 or more charges to cast one of the following spells (save DC 18) from it: **_cure wounds_** (5th-level version, 3 charges), **_daylight_** (1 charge), **_death ward_** (2 charges), or **_scrying_** (3 charges).
+### Вистави.
+Він має 7 зарядів і відновлює 1d4 + 3 витрати кожного дня на світанку. Якщо ви контролюєте orb, ви можете використати дію і витратити 1 або кілька зарядів, щоб відкласти одну з наступних орфографів (заощадити DC 18) від нього: **_рани лікування_** (5-рівнева версія, 3 зарядки), **_денне світло_** (1 заряд), **_смерті_** (2 витрати), або **_розсуваються_** (3 витрати).
 
-You can also use an action to cast the **_detect magic_** spell from the orb without using any charges.
+Ви також можете використати дію, щоб кинути **_виявити магію_** заклинання з Орба без будь-якої зарядки.
 
-**Call Dragons.** While you control the orb, you can use an action to cause the artifact to issue a telepathic call that extends in all directions for 40 miles. Evil dragons in range feel compelled to come to the orb as soon as possible by the most direct route. Dragon deities such as Tiamat are unaffected by this call. Dragons drawn to the orb might be hostile toward you for compelling them against their will. Once you have used this property, it can't be used again for 1 hour.
+**Набрати Драконів.** під час керування orb, можете використати дію, щоб артефакт видав телепатичний виклик, який продовжується у всіх напрямках на 40 миль. Злі дракони в далекому спектрі навчили заходити на орбіту якомога швидше шляхом найпрямішого шляху. божестви Дракона, такі як Тіамат, не впливають на цей дзвінок. Дракони, які тягнуться до орбіти, можуть бути ворожими до вас за переконання їх проти їхньої волі. Після того, як ви використали цю властивість, вона не може бути використана знову протягом 1 години.
 
-**Destroying an Orb.** An **Orb of Dragonkind** appears fragile but is impervious to most damage, including the attacks and breath weapons of dragons. A **_disintegrate_** spell or one good hit from a +3 magic weapon is sufficient to destroy an orb, however.
+**Знищення Орби.** Знаходиться від дракона **Orb** здається крихким, але не зважаючи на найбільше пошкоджень, включаючи атаки і дихаючу зброю драконів. A **_disintegrate_** spell or one good hit from a +3 magic weapon is sufficient to destroy an orb, however.
