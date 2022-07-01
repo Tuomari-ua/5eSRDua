@@ -1,19 +1,19 @@
-name: Giant Wasp type: beast cr: .5
+назва: Гігантний Ваз тип: звір cr: .5
 
-# Giant Wasp
-_Medium beast, unaligned_
+# Гігантська Оса
+_Середній звір, неприєднаний_
 
 **Armor Class** 12    
 **Hit Points** 13 (3d8)    
 **Speed** 10 ft., fly 50 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 10 (+0) | 14 (+2) | 10 (+0) | 1 (−5) | 10 (+0) | 3 (−4) |
 
-**Senses** passive Perception 10    
-**Languages** --    
-**Challenge** 1/2 (100 XP)
+**Витрати** пасивне сприйняття 10    
+**Мови** --    
+**виклик** 1/2 (100 XP)
 
-### Actions
-**Sting.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 5 (1d6 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way. 
+### Дії
+**Стабіль.** _Атака ближньої зброї:_ +4 по влучання, сягне до 5-ти футів, одна істота. _Вразу:_ 5 (1d6 + 2) пробиваюча шкода, і ціль повинна зробити економію Конституції 11 DC 11, заподіяння 10 (3d6) пошкодження від пошкодження, або ж удвічі більше шкоди від успішного. Якщо шкода від отруєння зменшує ціль до 0 балів то ціль є стабільною, але отруєна 1 годину, навіть після відновлення вразливих точок і паралізовано під час отруєння таким чином. 
