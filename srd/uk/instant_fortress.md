@@ -1,12 +1,12 @@
-name: Instant Fortress type: item
+назва: Миттєва Фортеця тип: елемент
 
-# Instant Fortress
-_Wondrous item, rare_
+# Миттєва Фортеця
+_Один предмет, рідкісний_
 
-You can use an action to place this 1-inch metal cube on the ground and speak its command word. The cube rapidly grows into a fortress that remains until you use an action to speak the command word that dismisses it, which works only if the fortress is empty.
+Ви можете використати дію, щоб розмістити цей 1-дюймовий куб на землі і говорити його командним словом. Куб швидко росте в фортецю, що залишається, поки ви не вживаєте заходів, щоб говорити командне слово, який його відкидає, що працює, тільки якщо фортеця пуста.
 
-The fortress is a square tower, 20 feet on a side and 30 feet high, with arrow slits on all sides and a battlement atop it. Its interior is divided into two floors, with a ladder running along one wall to connect them. The ladder ends at a trapdoor leading to the roof. When activated, the tower has a small door on the side facing you. The door opens only at your command, which you can speak as a bonus action. It is immune to the **_knock_** spell and similar magic, such as that of a **chime of opening**.
+Фортеця - це квадратна вежа, 20 футів зі сторони та 30 футів заввишки, з порізаною стрілою з усіх боків і битвою на ньому. Її інтер'єр розділена на дві підлоги, з драбиною, яка проходить вздовж однієї стіни, щоб з'єднати їх. Сходи закінчується в люк, що веде до даху. Коли вони активовані, вежа має маленькі двері збоку, що стоять перед вами. Двері відчиняються тільки в вашій команді, яку ви можете говорити як бонусна дія. Достатньо імунізувати до **__ зі стуком_</strong> заклинання і подібну магію, наприклад, до **чіма відкриття**.</p>
 
-Each creature in the area where the fortress appears must make a DC 15 Dexterity saving throw, taking 10d10 bludgeoning damage on a failed save, or half as much damage on a successful one. In either case, the creature is pushed to an unoccupied space outside but next to the fortress. Objects in the area that aren't being worn or carried take this damage and are pushed automatically.
+Кожна істота в районі, де виявляється фортеця повинна зробити Dexterity DC 15 рятує дрова, приймаючи 10d10 пошкодження від невдалого заощадження, або ж удвічі більше шкоди від успішного. В будь-якому випадку, істота відштовхується у незакуплений простір назовні, але поряд із фортецею. Об'єкти в районі, які не носяться або несуть цю шкоду і виштовхуються автоматично.
 
-The tower is made of adamantine, and its magic prevents it from being tipped over. The roof, the door, and the walls each have 100 hit points, immunity to damage from nonmagical weapons excluding siege weapons, and resistance to all other damage. Only a **_wish_** spell can repair the fortress (this use of the spell counts as replicating a spell of 8th level or lower). Each casting of **_wish_** causes the roof, the door, or one wall to regain 50 hit points. 
+Вежа зроблена з адаманту, і її магія не дає їй підкрастися. Дах, дверей і стіни, у кожного зі мають 100 точок удару, імунітет до пошкодження від немагічної зброї за винятком облогових зброй та опору всім іншим пошкодженням. Тільки **__заклинання** може відновити фортецю (використовується це використання орфографії в якості реплікації заклинання 8-го рівня або нижнього). Кожна кастинг **__ хотіли_</strong> викликати дах, двері або одну стіну, щоб повернути 50 балів. </p> 
