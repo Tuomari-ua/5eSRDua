@@ -1,16 +1,16 @@
-name: Astral Projection level: 9 school: necromancy classes: cleric warlock wizard
+назва: Астральний проект рівень: 9 школа: некроманність класі: клер варп
 
-# Astral Projection
-_9th-level necromancy_
+# Астральний проект
+_Некромантія 9-го рівня_
 
-**Casting Time:** 1 hour   
-**Range:** 10 feet   
-**Components:** V, S, M (for each creature you affect with this spell, you must provide one jacinth worth at least 1,000 gp and one ornately carved bar of silver worth at least 100 gp, all of which the spell consumes)   
-**Duration:** Special
+**Час трансляції:** 1 година   
+**Діапазон:** 10 футів   
+**компоненти:** V, S, М (для кожної істоти, що ви вплинете на це написання, ви повинні забезпечити один бейджин вартістю щонайменше 1 000 G і 1 прикраса вирізьблений сріблом вартістю щонайменше 100 гілок, всі вимагаються заклинання   
+**тривалість:** Спеціальні
 
-You and up to eight willing creatures within range project your astral bodies into the Astral Plane (the spell fails and the casting is wasted if you are already on that plane). The material body you leave behind is unconscious and in a state of suspended animation; it doesn't need food or air and doesn't age.   
-Your astral body resembles your mortal form in almost every way, replicating your game statistics and possessions. The principal difference is the addition of a silvery cord that extends from between your shoulder blades and trails behind you, fading to invisibility after 1 foot. This cord is your tether to your material body. As long as the tether remains intact, you can find your way home. If the cord is cut--something that can happen only when an effect specifically states that it does--your soul and body are separated, killing you instantly.   
-Your astral form can freely travel through the Astral Plane and can pass through portals there leading to any other plane. If you enter a new plane or return to the plane you were on when casting this spell, your body and possessions are transported along the silver cord, allowing you to re-enter your body as you enter the new plane. Your astral form is a separate incarnation. Any damage or other effects that apply to it have no effect on your physical body, nor do they persist when you return to it.   
-The spell ends for you and your companions when you use your action to dismiss it. When the spell ends, the affected creature returns to its physical body, and it awakens.   
-The spell might also end early for you or one of your companions. A successful **_dispel magic_** spell used against an astral or physical body ends the spell for that creature. If a creature's original body or its astral form drops to 0 hit points, the spell ends for that creature. If the spell ends and the silver cord is intact, the cord pulls the creature's astral form back to its body, ending its state of suspended animation.   
-If you are returned to your body prematurely, your companions remain in their astral forms and must find their own way back to their bodies, usually by dropping to 0 hit points. 
+До восьми охочих істот впродовж проходження певного місця проєктують у астральній площині (заклинання провалилась) та згинання згинається якщо ви вже на цьому літаку). Матеріал, який ви залишаєте, є несвідомим і в стані призупиненої анімації; він не потребує їжі чи повітря та не має віку.   
+Ваш астрономічний орган майже відтворює вашу смертну форму майже відтворюючи статистику і володіння. Основна відмінність - додавання силого, що простягається між плечима леза і слідами позаду вас, зникає до невидимості після 1 футу. Цей шнур є вашими зубами матеріального тіла. До тих пір, поки зуб залишається недоторканим, ви можете знайти свій шлях додому. Якщо шнур ріже - щось, що може трапитися лише тоді, коли це робить вплив, - ваша душа та тіло розділені, вбиваючи вас миттєво.   
+Ваша астральна форма може вільно пересуватися через Астральну площину і проходити через портали, що ведуть до будь-якого іншого літака. Коли сідаєш в новий літак або повернешся в літак, в якому відбувалося лиття цього заклинання, ваше тіло та власність переносять по срібному соку, дозволяючи вам знову увійти в організм під час нового літака. Твоя астрональна форма - це окреме втілення. Будь-яка шкода чи інші ефекти, що застосовуються до цього, не мають ніякого впливу на фізичне тіло, ані вони не зберігаються, коли ви повернетесь до неї.   
+орфографію закінчується для вас і своїх супутників, коли ви використовуєте свої дії, щоб відхилити його. Коли заклинання закінчується, дана істота повертається до свого фізичного тіла, і вона пробуджується.   
+орфографію може закінчуватися раніше для вас або одного з ваших компаньйонів. Успішний **_розвіюча магія_** заклинання використовується проти астронального або фізичного тіла завершує заклинання цієї істоти. Якщо початкове тіло істоти або його астрональна форма опускається до 0 точок чола, то написання до цієї істоти. Якщо заклинання закінчується, а срібний шнур недоторканий, канату тягне за собою астрональну форму істоти до свого тіла, завершуючи свій стан призупиненої анімації.   
+Якщо ви повернулися до вашого тіла передчасно, супутники залишаються в своїх астронних формах і повинні знаходити свій власний шлях до їхніх тіл, зазвичай, знизивши до 0 балів. 
