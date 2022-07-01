@@ -1,14 +1,14 @@
-name: Arcanist's Magic Aura level: 2 school: illusion classes: wizard
+назва: Чарівна Авра Арканосту рівень: 2 школа: ілюзія класів: чарівник
 
-# Arcanist's Magic Aura
-_2nd-level illusion_
+# Магія Арканіста Аура
+_Ілюзія 2нд-рівня_
 
-**Casting Time:** 1 action    
-**Range:** Touch   
-**Components:** V, S, M (a small square of silk)   
-**Duration:** 24 hours
+**Час трансляції :** 1 дія    
+**Діапазон:** Торкніться   
+**компоненти:** V, S, М (невеликий квадрат шовку)   
+**Тривалість:** 24 години
 
-You place an illusion on a creature or an object you touch so that divination spells reveal false information about it. The target can be a willing creature or an object that isn't being carried or worn by another creature.    
-When you cast the spell, choose one or both of the following effects. The effect lasts for the duration. If you cast this spell on the same creature or object every day for 30 days, placing the same effect on it each time, the illusion lasts until it is dispelled.    
-**False Aura.** You change the way the target appears to spells and magical effects, such as **_detect magic_**, that detect magical auras. You can make a nonmagical object appear magical, a magical object appear nonmagical, or change the object's magical aura so that it appears to belong to a specific school of magic that you choose. When you use this effect on an object, you can make the false magic apparent to any creature that handles the item.    
-**Mask.** You change the way the target appears to spells and magical effects that detect creature types, such as a paladin's Divine Sense or the trigger of a **_symbol_** spell. You choose a creature type and other spells and magical effects treat the target as if it were a creature of that type or of that alignment. 
+Якщо ви розміщуєте ілюзію на істоті або об'єкт, до якого ви торкаєтесь, щоб ворожнечі заклинання показали неправдиву інформацію про нього. Ціль може бути бажаним створінням або об'єктом, який не носять чи не носять інша істота.    
+Коли ви кинули орфографію, виберіть один або обидва наступні ефекти. Ефект триває тривалість. Якщо ви кидаєте це заклинання на ту саму істоту або об'єкт кожен день протягом 30 днів, щоразу, поширюючи такий самий ефект, ілюзія триває поки вона не зникне.    
+**False Aura.** Ви змінюєте те, як ціль, як здається, викликає заклинання і магічні ефекти, такі, як **_виявляють магію_**, які виявляють магічні гари. Ви можете зробити немагічний об'єкт виглядом магічним, магічним об'єктом є немагічний, або змінити магічну ауру об'єкта, щоб вона, як видається, належала до конкретної школи магії, яку ви обрали. When you use this effect on an object, you can make the false magic apparent to any creature that handles the item.    
+**Mask.** You change the way the target appears to spells and magical effects that detect creature types, such as a paladin's Divine Sense or the trigger of a **_symbol_** spell. Можна вибрати тип істоти та інші заклинання і магічний вплив до цілі так, ніби це є істота такого типу або вирівнювання цього. 
