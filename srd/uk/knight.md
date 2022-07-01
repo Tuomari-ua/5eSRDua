@@ -1,13 +1,13 @@
-name: Knight type: humanoid (any race) cr: 3
+назва: Лицар тип: humanoid (any race) cr: 3
 
-# Knight
-_Medium humanoid (any race), any alignment_
+# Лицар
+_Середня гуманоїда (будь-яке не), будь-яке вирівнювання_
 
 **Armor Class** 18 (plate)    
 **Hit Points** 52 (8d8 + 16)    
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 16 (+3) | 11 (+0) | 14 (+2) | 11 (+0) | 11 (+0) | 15 (+2) |
 
@@ -16,16 +16,16 @@ _Medium humanoid (any race), any alignment_
 **Languages** any one language (usually Common)    
 **Challenge** 3 (700 XP)
 
-**Brave.** The knight has advantage on saving throws against being frightened.
+**Смішний.** Лицар має перевагу в збереженні зляканих квітів.
 
-### Actions
-**Multiattack.** The knight makes two melee attacks.    
-**Greatsword.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) slashing damage.    
-**Heavy Crossbow.** _Ranged Weapon Attack:_ +2 to hit, range 100/400 ft., one target. _Hit:_ 5 (1d10) piercing damage.    
-**Leadership (Recharges after a Short or Long Rest).** For 1 minute, the knight can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the knight. A creature can benefit from only one Leadership die at a time. This effect ends if the knight is incapacitated.
+### Дії
+**Багатоатака.** Лицар робить дві атаки на ближній бік.    
+**Великий.** _Атака ближньої зброї:_ +5, щоб вдарити в нього, досягти 5-ї цілі, одну ціль. _Удачі:_ 10 (2d6 + 3) наносить шкоду    
+**Важкий Арбалет.** _Атака дальньої зброї:_ +2 до влучання, 100/400 досягнення однієї мети. _Вдач:_ 5 (1d10) пошкодження на    
+**Лідерство (перебої після короткого або довгого ресторану).** протягом 1 хвилини, лицар може наводити особливу команду або попередження коли не вороже створіння, що воно може бачити на відстані 30 футів від нього і робить атакуюче жбурляння. Ця істота може додати d4 до свого кола, за умови, що вона може чути і зрозуміти лицаря. Творчість може отримати користь лише від одного лідерства помре. Цей ефект закінчиться, якщо лицар не здатний.
 
-### Reactions
-**Parry.** The knight adds 2 to its AC against one melee attack that would hit it. To do so, the knight must see the attacker and be wielding a melee weapon.
+### Реакції
+**Париж.** Лицар додає 2 до свого АС проти одного нападу ближнього бою, який постраждав би в ньому. Для цього лицар повинен бачити атакуючого і мати зброю ближнього бою.
 
-### Description
-Knights are warriors who pledge service to rulers, religious orders, and noble causes. A knight's alignment determines the extent to which a pledge is honored. Whether undertaking a quest or patrolling a realm, a knight often travels with an entourage that includes squires and hirelings who are commoners. 
+### Опис
+Лицарі - це воїни, які обіцяють послугу правителям, релігійним наказам та шляхетними причинами. Вирівнювання лицаря визначає ступеня, в якій обіцянка шанована. Незалежно від того, чи проводять пошуки чи патрулюють сферу, лицар часто подорожує із схожем, що включає в себе бійки та віднайми, хто є спільними. 
