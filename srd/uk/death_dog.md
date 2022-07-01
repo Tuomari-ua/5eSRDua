@@ -1,13 +1,13 @@
-name: Death Dog type: monstrosity cr: 1
+назва: Собака смерті тип: чудовисько cr: 1
 
-# Death Dog
-_Medium monstrosity, neutral evil_
+# Смертельний пес
+_Середнє чудовисько, нейтральне зло_
 
 **Armor Class** 12    
 **Hit Points** 39 (6d8 + 12)    
 **Speed** 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 15 (+2) | 14 (+2) | 14 (+2) | 3 (−4) | 13 (+1) | 6 (−2) |
 
@@ -16,11 +16,11 @@ _Medium monstrosity, neutral evil_
 **Languages** --    
 **Challenge** 1 (200 XP)
 
-**Two-Headed.** The dog has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, or knocked unconscious.
+**Два заголовки.** Собака скористався мудрістю (Поняття) перевірок і збереження зрячих гірок від сліпоти, зачарованого, глухого, зляканого, приголомшеного, або зневажливо стискати.
 
-### Actions
+### Дії
 **Multiattack.** The dog makes two bite attacks.    
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw against disease or become poisoned until the disease is cured. Every 24 hours that elapse, the creature must repeat the saving throw, reducing its hit point maximum by 5 (1d10) on a failure. This reduction lasts until the disease is cured. The creature dies if the disease reduces its hit point maximum to 0.
+**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Вразів:_ 5 (1d6 + 2) пробивання пошкоджень. Якщо ціль є істотою, це має досягти успіху в збереженні Конституції DC 12 від хвороби або стати отруєним, поки хвороба не вилікуватиметься. Кожні 24 години, що випливає, істота повинна повторити заощадження, зменшуючи його кінцеву точку максимум на 5 (1d10) на провал. Це скорочення триває до тих пір, поки хвороба не вилікується. Творчість помирає, якщо хвороба зменшить кінцеву точку до 0.
 
-### Description
-A death dog is an ugly two-headed hound that roams plains, and deserts. Hate burns in a death dog's heart, and a taste for humanoid flesh drives it to attack travelers and explorers. Death dog saliva carries a foul disease that causes a victim's flesh to slowly rot off the bone. 
+### Опис
+Смертельний собака - потворний двохголовий гончак, який плекає і пустелі. Ворог горить в серці смертної собаки, а смак до м'яса гуманоїдна плоть зводить його, щоб напасти на мандрівників та дослідників. Собака смерті слина приховує забруднену хворобу, яка змушує покірливо гниє від кістки. 
