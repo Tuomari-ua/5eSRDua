@@ -1,25 +1,25 @@
-description: Information on the Wisdom ability from the 5th Edition (5e) System Reference Document (SRD)
+опис: Інформація, що містяться в Мудрості через 5-ту Системну документацію (5e) ((SRD)
 
-# Wisdom
-Wisdom reflects how attuned you are to the world around you and represents perceptiveness and intuition.
+# Віздом
+Мудрість рідко відображає ставлення до світу навколо вас і являє собою сприйняття і інтуїцію.
 
-## Wisdom Checks
-A Wisdom check might reflect an effort to read body language, understand someone’s feelings, notice things about the environment, or care for an injured person. The Animal Handling, Insight, Medicine, Perception, and Survival skills reflect aptitude in certain kinds of Wisdom checks.
+## Перевірка мудрості
+Перевірка мудрості може відображати зусилля, спрямовані на читання мови тіла, розуміє чиїсь почуття, помічає речі про навколишнє середовище або піклування травмованої людини. Уміння оброблення тварин, видання, медицина, сприйняття та виживання відображають оптику у певних видах мудрості.
 
-**Animal Handling.** When there is any question whether you can calm down a domesticated animal, keep a mount from getting spooked, or intuit an animal’s intentions, the GM might call for a Wisdom (Animal Handling) check. You also make a Wisdom (Animal Handling) check to control your mount when you attempt a risky maneuver.
+**Обробка тварин.** Якщо є питання, чи можете ви заспокоїти домашню тварину, зберегти підкріплення від виблискування, або інтуїція намірів тварини, GM можуть закликати до перевірки мудрості (обробки тварин) . Ви також робите перевірку мудрості (Обробка тварин) щоб контролювати ваші гори при спробі ризикованого маневру.
 
-**Insight.** Your Wisdom (Insight) check decides whether you can determine the true intentions of a creature, such as when searching out a lie or predicting someone’s next move. Doing so involves gleaning clues from body language, speech habits, and changes in mannerisms.
+**Наглядь.** Ваша мудрість (Відсутність) перевіряє чи ви можете визначити справжні наміри істоти, такі, як при пошуку брехні або прогнозуванні іншого кроку. Це включає у себе блискучі підказки з мови тіла, мовних звичок і змін в маннеразмі.
 
-**Medicine.** A Wisdom (Medicine) check lets you try to stabilize a dying companion or diagnose an illness.
+**Медицина.** Перевірка мудрості (медицини) дозволяє вам стабілізувати вмираючу компанію або діагностувати хворобу.
 
-**Perception.** Your Wisdom (Perception) check lets you spot, hear, or otherwise detect the presence of something. It measures your general awareness of your surroundings and the keenness of your senses. For example, you might try to hear a conversation through a closed door, eavesdrop under an open window, or hear monsters moving stealthily in the forest. Or you might try to spot things that are obscured or easy to miss, whether they are orcs lying in ambush on a road, thugs hiding in the shadows of an alley, or candlelight under a closed secret door.
+**Сцена.** Ваша мудрість (виключення) дозволяє помітити, чути, або виявити наявність чогось. Він вимірює ваше загальне усвідомлення вашого оточення та завзятість ваших відчуттів. Наприклад, ви можете спробувати почути розмову через зачинені двері, підгузання під відкритим вікном, або слухати монстрів, що крадькома рухаються в лісі. Або ви можете спробувати помітити речі, які незрозумілі чи промахають, чи то орки лежать в засідці на дорозі, головоломки ховаються в тіні алеї, або на свічках під зачиненими секретними дверима.
 
-**Survival.** The GM might ask you to make a Wisdom (Survival) check to follow tracks, hunt wild game, guide your group through frozen wastelands, identify signs that owlbears live nearby, predict the weather, or avoid quicksand and other natural hazards.
+**Виживати.** GM може попросити вас зробити перевірку Мудрості (виживання) слідувати слідам, дикою грою, керуйте своєю групою через замерзлі стіни, визначити ознаки того, що ведмеді живуть поблизу, передбачити погоду або уникнути швидкого піску та інших природних небезпек.
 
-**Other Wisdom Checks.** The GM might call for a Wisdom check when you try to accomplish tasks like the following:
+**Інші перевірки мудрості.** GM може викликати перевірку, коли ви спробуєте виконати завдання на кшталт наступного:
 
-* Get a gut feeling about what course of action to follow
-* Discern whether a seemingly dead or living creature is undead
+* Отримайте відчуття щодо курсу дій для слідування
+* Зрозуміло, чи здавалося б, мертві чи жива істота є немертвою
 
-## Spellcasting Ability
-Clerics, druids, and rangers use Wisdom as their spellcasting ability, which helps determine the saving throw DCs of spells they cast.
+## Вміння орфографії
+священнослужителі, груди та рейнджери використовують Wisdom у якості можливості орфографії, що допомагає визначити, як заощаджує процес орфографії у заклинаннях вони дістаються.
