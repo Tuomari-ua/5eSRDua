@@ -1,12 +1,12 @@
-description: Rules for cover in combat from the 5th Edition (5e) SRD (System Reference Document).
+опис: Правила для покриття покриття боєм з 5-ї версії (5e) SRD (Документація по Системній Документації).
 
-# Cover
-Walls, trees, creatures, and other obstacles can provide cover during combat, making a target more difficult to harm. A target can benefit from cover only when an attack or other effect originates on the opposite side of the cover.
+# Обкладинка
+Стіни, дерева, істоти та інші перешкоди можуть забезпечувати кришку під час бою, ускладнюючи нанесення шкоди цілі. Ціль може отримати вигоду від покриття тільки тоді, коли напад або інший ефект надходить з протилежної сторони обкладинки.
 
-There are three degrees of cover. If a target is behind multiple sources of cover, only the most protective degree of cover applies; the degrees aren't added together. For example, if a target is behind a creature that gives half cover and a tree trunk that gives three-quarters cover, the target has three-quarters cover.
+Тут є три градуси покриття. Якщо мета знаходиться за кількома джерелами обкладинки, то разом не додаються лише найбільш захисний степінь. Наприклад, якщо ціль знаходиться за істотою, що дає напівскоси дерева і що дає три чверті покриття, ціль має три чверті.
 
-A target with **half cover** has a +2 bonus to AC and Dexterity saving throws. A target has half cover if an obstacle blocks at least half of its body. The obstacle might be a low wall, a large piece of furniture, a narrow tree trunk, or a creature, whether that creature is an enemy or a friend.
+Ціль з **половиною обкладинки** має бонус +2 до економії струму і струму. Ціль має наполовину покриття перешкоди, якщо принаймні половина тіла. Перешкода може бути низькою стіною, велика шматок меблів, вузьку дерев'яну палицю, або істота, чи ця істота ворог, або друг.
 
-A target with **three-quarters** cover has a +5 bonus to AC and Dexterity saving throws. A target has three-quarters cover if about three-quarters of it is covered by an obstacle. The obstacle might be a portcullis, an arrow slit, or a thick tree trunk.
+Ціль з **трьома чвертями** має бонус +5 до AC і рятувальні кидки на танець. Ціль має три чверті, якщо її вкривають приблизно три чверті перешкоди. Перешкодою може бути опускниця, стріла або товстий стовбур дерева.
 
-A target with **total cover** can't be targeted directly by an attack or a spell, although some spells can reach such a target by including it in an area of effect. A target has total cover if it is completely concealed by an obstacle.
+Ціль з **загальною обкладинкою** не може бути орієнтована безпосередньо на атаку або заклинання, Хоча деякі заклинання можуть досягти такої мети, включаючи її область дії. Ціль має загальний покрив, якщо вона повністю приховується перешкодою.
