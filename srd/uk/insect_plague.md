@@ -1,14 +1,14 @@
-name: Insect Plague level: 5 school: conjuration classes: cleric druid sorcerer
+назва: Insect Plague рівень: 5 школа: conjuration classes: cleric druid sorcerer
 
-# Insect Plague
-_5th-level conjuration_
+# Хвороба комах
+_5-ти рівнева тривалість_
 
-**Casting Time:** 1 action    
-**Range:** 300 feet    
-**Components:** V, S, M (a few grains of sugar, some kernels of grain, and a smear of fat)    
-**Duration:** Concentration, up to 10 minutes
+**Час Кастинг часу:** 1 дія    
+**Діапазон:** 300 футів    
+**компоненти:** V, S, М (кілька зернів цукру, деяких ядер зерна, і smear товстий)    
+**Тривалість:** Зосередження, до 10 хвилин
 
-Swarming, biting locusts fill a 20-foot-radius sphere centered on a point you choose within range. The sphere spreads around corners. The sphere remains for the duration, and its area is lightly obscured. The sphere's area is difficult terrain.    
-When the area appears, each creature in it must make a Constitution saving throw. A creature takes 4d10 piercing damage on a failed save, or half as much damage on a successful one. A creature must also make this saving throw when it enters the spell's area for the first time on a turn or ends its turn there.
+Різанина кусає сарану, заповнюючи її 20-фут-радіус, орієнтовану на точку, яку ви обираєте у межах діапазону. Світлофори поширюються по кутах. Лишилася сфера тривалості, і її область затемнюється. Область сфери є складною місцевістю.    
+Коли ця область з'являється, кожна істота в ній повинна зробити рятувальну частину Конституції. Створіння завдає 4d10 шкоди від невдалого заощадження, або ж удвічі більше шкоди від успішного. Також істота повинна змусити накопичувати її, коли вона вперше вступає в область заклинання або завершує свою чергу.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d10 for each slot level above 5th. 
+**На вищих рівнях.** Коли ви кидаєте це заклинання використовуючи слот 6-го рівня або вище, шкода збільшує на 1d10 для кожного слоту вище 5-го рівня. 
