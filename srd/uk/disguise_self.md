@@ -1,13 +1,13 @@
-name: Disguise Self level: 1 school: illusion classes: bard sorcerer wizard
+назва: Заразіть себе рівень: 1 школу: ілюзія класів: сад сортувальник
 
-# Disguise Self
-_1st-level illusion_
+# Замаскувати себе
+_Ілюзія першого рівня_
 
-**Casting Time:** 1 action    
-**Range:** Self    
-**Components:** V, S    
-**Duration:** 1 hour
+**Кастинг часу:** 1 дія    
+**Діапазон:** Самостій    
+**компоненти:** V, S    
+**тривалість:** години
 
-You make yourself--including your clothing, armor, weapons, and other belongings on your person--look different until the spell ends or until you use your action to dismiss it. You can seem 1 foot shorter or taller and can appear thin, fat, or in between. You can't change your body type, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you.    
-The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel your head and hair. If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair.    
-To discern that you are disguised, a creature can use its action to inspect your appearance and must succeed on an Intelligence (Investigation) check against your spell save DC. 
+Ви робите себе - в тому числі ваш одяг, обладунок, зброю, але інші принади своїй людині — подивіться інакше, доки заклинання не закінчиться чи поки ви не використаєте свою дію, щоб її відкинути. Ви можете виглядати на 1 фут коротше або вище, і може виглядати тонким, товстим або між ними. Ви не можете змінити тип тіла, тому ви повинні прийняти форму, яка має однакову основну складову кінцівок. В іншому випадку, ступінь ілюзії вирішиться до Вас.    
+Зміни, спричинені цим заклинання не підтримаються на фізичному огляді. Наприклад, якщо ви використовуєте це заклинання щоб додати капелюх до свого нагрудника, предмети потрапляють через капелюх, і будь-хто торкнеться цього чогось, не відчув би нічого або відчував би твою голову та волосся. Якщо ви використовуєте це заклинання щоб виглядати тоншими ніж ви, рука того, хто простягався доторкнутися до вас, коли це було, здавалося б, ще в повітрі.    
+Щоб зрозуміти, що ви замасковані, істота може використовувати свої дії для дослідження вашого вигляду і має бути продовжена перевірка розвідки (розслідування) на противагу вашому заклинання збереженню DC. 
