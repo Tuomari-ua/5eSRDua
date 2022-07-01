@@ -1,12 +1,12 @@
-name: Freedom of Movement level: 4 school: abjuration classes: bard cleric druid ranger
+назва: Свобода руху рівень: 4 школи: abjuration класі: Бард духовник druid ranger
 
-# Freedom of Movement
-_4th-level abjuration_
+# Свобода руху
+_Тривалість четвертого рівня_
 
 **Casting Time:** 1 action    
 **Range:** Touch    
 **Components:** V, S, M (a leather strap, bound around the arm or a similar appendage)    
 **Duration:** 1 hour
 
-You touch a willing creature. For the duration, the target's movement is unaffected by difficult terrain, and spells and other magical effects can neither reduce the target's speed nor cause the target to be paralyzed or restrained.    
-The target can also spend 5 feet of movement to automatically escape from nonmagical restraints, such as manacles or a creature that has it grappled. Finally, being underwater imposes no penalties on the target's movement or attacks.
+Ви торкаєтесь істоти. На тривалий час рух цілі не впливає на важке рельєф, і заклинання і інші магічні ефекти не можуть ні зменшити швидкість цілі, ні забезпечити ціль паралізованою чи стриманою.    
+Ціль також може витратити 5 футів пересування, щоб автоматично уникнути немагічних обмежень, Такі як манакли чи істота, що має переливання. Нарешті, будучи підводою, не накладає жодних покарань на рух або напади мети.
