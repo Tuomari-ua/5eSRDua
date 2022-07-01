@@ -1,8 +1,8 @@
-name: Giant Slayer type: weapon
+назва: Гігантський мур тип: зброя
 
-# Giant Slayer
-_Weapon (any axe or sword), rare_
+# Велетенський шар
+_Зброя (будь яка сокира або меч), рідкісна_
 
-You gain a +1 bonus to attack and damage rolls made with this magic weapon.
+Ви отримуєте бонус +1 для атаки та ушкодження зроблені за допомогою цієї чарівної зброї.
 
-When you hit a giant with it, the giant takes an extra 2d6 damage of the weapon's type and must succeed on a DC 15 Strength saving throw or fall prone. For the purpose of this weapon, "giant" refers to any creature with the giant type, including ettins and trolls. 
+Коли ви вдарили його гігантською, гігант завдає більше 2d6 шкоди для зброї і має досягти успіху в розмірі DC 15 сильних заощаджень кидання або впасти. В цілях цієї зброї "гігант" посилається на будь-яку істоту з гігантським типом, включаючи теги і тролі. 
