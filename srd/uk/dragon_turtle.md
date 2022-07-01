@@ -1,13 +1,13 @@
-name: Dragon Turtle type: dragon cr: 17
+назва: Черепаха тип: дракона cr: 17
 
-# Dragon Turtle
-_Gargantuan dragon, neutral_
+# Черепаха Дракона
+_Гаргантуанський дракон, нейтральний_
 
-**Armor Class** 20 (natural armor)    
-**Hit Points** 341 (22d20 + 110)    
-**Speed** 20 ft., swim 40 ft.
+**Клас броні** 20 (природна броня)    
+**Очків** 341 (22d20 + 110)    
+**Швидкість** фут. плавати на 40 футів на годину.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 25 (+7) | 10 (+0) | 20 (+5) | 10 (+0) | 12 (+1) | 12 (+1) |
 
@@ -17,11 +17,11 @@ _Gargantuan dragon, neutral_
 **Languages** Aquan, Draconic    
 **Challenge** 17 (18,000 XP)
 
-**Amphibious.** The dragon turtle can breathe air and water.
+**Амфібіял.** Черепаха дракона може дихати повітрям і водою.
 
-### Actions
-**Multiattack.** The dragon turtle makes three attacks: one with its bite and two with its claws. It can make one tail attack in place of its two claw attacks.    
-**Bite.** _Melee Weapon Attack:_ +13 to hit, reach 15 ft., one target. _Hit:_ 26 (3d12 + 7) piercing damage.    
-**Claw.** _Melee Weapon Attack:_ +13 to hit, reach 10 ft., one target. _Hit:_ 16 (2d8 + 7) slashing damage.    
-**Tail.** _Melee Weapon Attack:_ +13 to hit, reach 15 ft., one target. _Hit:_ 26 (3d12 + 7) bludgeoning damage. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be pushed up to 10 feet away from the dragon turtle and knocked prone.    
-**Steam Breath (Recharge 5–6).** The dragon turtle exhales scalding steam in a 60-foot cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 52 (15d6) fire damage on a failed save, or half as much damage on a successful one. Being underwater doesn't grant resistance against this damage.
+### Дії
+**Мультиатака.** Драконська черепаха робить три атаки: один з них кусаючим і два з його кігтями. Це може зробити одну атаку хвоста замість своїх двох атак кісток.    
+**Кута.** _Атака ближньої зброї:_ +13 до того, щоб вдарити її, досягає 15-ти точки, одна ціль. _Hit:_ 26 (3d12 + 7) piercing damage.    
+**Claw.** _Melee Weapon Attack:_ +13 to hit, reach 10 ft., one target. _Удачі:_ 16 (2d8 + 7) наносить шкоду.    
+**Якіс.** _Атака ближньої зброї:_ +13 щоб вдаряти, досягти 15-ї цілі, одна ціль. _Удара:_ 26 (3d12 + 7) пошкодження дублювання. Якщо ціль є істотою, він має досягти успіху в заощадженні потужності від DC 20 або бути відсунутий на 10 футів від черепахи дракона і вибитий з горщика.    
+**дихання Steam (появу 5–6).** Драконська черепаха вражає масштабування пари в 60 футів шини. Кожна істота в цій галузі повинна зробити економію Конституції DC 18 заподіяння 52 (15d6) шкоду вогню через невдале заощадження, або ж половину шкоди від успішного. Бути під водою не дасть опору в цій шкоді.
