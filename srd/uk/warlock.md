@@ -1,286 +1,286 @@
-description: Rules and information for the Warlock class from the 5th Edition (5e) SRD (System Reference Document).
+опис: Правила та інформація для класу Warlock з 5-ї версії (5e) SRD (Документація з Системної Документації).
 
-# The Warlock
-| Level | Proficiency Bonus | Cantrips Known | Spells Known | Spell Slots | Slot Level | Invocations Known | Features                        |
-| ----- | ----------------- | -------------- | ------------ | ----------- | ---------- | ----------------- | ------------------------------- |
-| 1st   | +2                | 2              | 2            | 1           | 1st        | -                 | Otherworldly Patron, Pact Magic |
-| 2nd   | +2                | 2              | 3            | 2           | 1st        | 2                 | Eldritch Invocations            |
-| 3nd   | +2                | 2              | 4            | 2           | 2nd        | 2                 | Pact Boon                       |
-| 4th   | +2                | 3              | 5            | 2           | 2nd        | 2                 | Ability Score Improvement       |
-| 5th   | +3                | 3              | 6            | 2           | 3rd        | 3                 | -                               |
-| 6th   | +3                | 3              | 7            | 2           | 3rd        | 3                 | Otherworldly Patron feature     |
-| 7th   | +3                | 3              | 8            | 2           | 4th        | 4                 | -                               |
-| 8th   | +3                | 3              | 9            | 2           | 4th        | 4                 | Ability Score Improvement       |
-| 9th   | +4                | 3              | 10           | 2           | 5th        | 5                 | -                               |
-| 10th  | +4                | 4              | 10           | 2           | 5th        | 5                 | Otherworldly Patron feature     |
-| 11th  | +4                | 4              | 11           | 3           | 5th        | 5                 | Mystic Arcanum (6th level)      |
-| 12th  | +4                | 4              | 11           | 3           | 5th        | 6                 | Ability Score Improvement       |
-| 13th  | +5                | 4              | 12           | 3           | 5th        | 6                 | Mystic Arcanum (7th level)      |
-| 14th  | +5                | 4              | 12           | 3           | 5th        | 6                 | Otherworldly Patron feature     |
-| 15th  | +5                | 4              | 13           | 3           | 5th        | 7                 | Mystic Arcanum (8th level)      |
-| 16th  | +5                | 4              | 13           | 3           | 5th        | 7                 | Ability Score Improvement       |
-| 17th  | +6                | 4              | 14           | 4           | 5th        | 7                 | Mystic Arcanum (9th level)      |
-| 18th  | +6                | 4              | 14           | 4           | 5th        | 8                 | -                               |
-| 19th  | +6                | 4              | 15           | 4           | 5th        | 8                 | Ability Score Improvement       |
-| 20th  | +6                | 4              | 15           | 4           | 5th        | 8                 | Eldritch Master                 |
+# Чаклун
+| Рівень    | Бонус здібностей | Канреати вивчені | Чемерні шимпанзе | Spell Slots | Рівень слоту | Виклики вивчені | Особливості                    |
+| --------- | ---------------- | ---------------- | ---------------- | ----------- | ------------ | --------------- | ------------------------------ |
+| Перший    | +2               | 2                | 2                | 1           | Перший       | -               | Інакше Патрон, Магія Пакту     |
+| Друге     | +2               | 2                | 3                | 2           | Перший       | 2               | Виклики з Елдричем             |
+| 32-е      | +2               | 2                | 4                | 2           | Друге        | 2               | Пакт-Бун                       |
+| Четвертий | +2               | 3                | 5                | 2           | Друге        | 2               | Покращення рівня здібностей    |
+| П'ятий    | +3               | 3                | 6                | 2           | Третє        | 3               | -                              |
+| 6-е       | +3               | 3                | 7                | 2           | Третє        | 3               | Функція патрона                |
+| 7-е       | +3               | 3                | 8                | 2           | Четвертий    | 4               | -                              |
+| 8-е       | +3               | 3                | 9                | 2           | Четвертий    | 4               | Покращення рівня здібностей    |
+| 9-е       | +4               | 3                | 10               | 2           | П'ятий       | 5               | -                              |
+| 10-е      | +4               | 4                | 10               | 2           | П'ятий       | 5               | Функція патрона                |
+| 11-е      | +4               | 4                | 11               | 3           | П'ятий       | 5               | Містичний арканум (6-й рівень) |
+| 12-е      | +4               | 4                | 11               | 3           | П'ятий       | 6               | Покращення рівня здібностей    |
+| 13-е      | +5               | 4                | 12               | 3           | П'ятий       | 6               | Містичний арканум (7-й рівень) |
+| 14-е      | +5               | 4                | 12               | 3           | П'ятий       | 6               | Функція патрона                |
+| 15-е      | +5               | 4                | 13               | 3           | П'ятий       | 7               | Містичний арканум (8-го рівня) |
+| 16-е      | +5               | 4                | 13               | 3           | П'ятий       | 7               | Покращення рівня здібностей    |
+| 17-е      | +6               | 4                | 14               | 4           | П'ятий       | 7               | Містичний арканум (9-й рівень) |
+| 18-е      | +6               | 4                | 14               | 4           | П'ятий       | 8               | -                              |
+| 19-е      | +6               | 4                | 15               | 4           | П'ятий       | 8               | Покращення рівня здібностей    |
+| 20-е      | +6               | 4                | 15               | 4           | П'ятий       | 8               | Елдрич                         |
 
-## Class Features
-As a warlock, you gain the following class features.
+## Характеристики класу
+Як вартовий запуск, ви отримуєте наступні функції класу.
 
-### Hit Points
-**Hit Dice:** 1d8 per warlock level  
-**Hit Points at 1st Level:** 8 + your Constitution modifier  
-**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per warlock level after 1st
+### Хіт точок
+**Приціл удару:** 1d8 за рівень тегу  
+**Бали на 1-му рівень:** 8 + модифікатор вашої Конституції  
+**Досягніть балів з вищого рівня:** 1d8 (або 5) + ваш модифікатор конституції на рівень блокування, після 1 року
 
-### Proficiencies
+### Політики
 **Armor:** Light armor     
 **Weapons:** Simple weapons    
 **Tools:** None   
 **Saving Throws:** Wisdom, Charisma     
 **Skills:** Choose two from Arcana, Deception, History, Intimidation, Investigation, Nature, and Religion
 
-### Equipment
-You start with the following equipment, in addition to the equipment granted by your background:
-* (a) a light crossbow and 20 bolts or (b) any simple weapon
-* (a) a component pouch or (b) an arcane focus
-* (a) a scholar's pack or (b) a dungeoneer's pack
-* Leather armor, any simple weapon, and two daggers
+### Устаткування
+Ви починаєте з наступного обладнання, на додаток до обладнання, яке надає ваш фон:
+* (a) легкий арбалет та 20 болтів або (b) будь-яких простих озброєнь
+* (a) висип компоненту або (b) арканольоту
+* (a) пакет вченого, або (b) данець однодумця
+* Шкіряний обладунок, будь-яка проста зброя і два кинджали
 
-### Otherworldly Patron
+### Інакше Метрон
 - - -
-At 1st level, you have struck a bargain with an otherworldly being of your choice: the Archfey, the Fiend, or the Great Old One, each of which is detailed at the end of the class description. Your choice grants you features at 1st level and again at 6th, 10th, and 14th level.
+По-перше, ти уклав угоду, щоб досягти іншого світу, коли є ваш вибір: архітектура, The Fiend або The Great Old One, кожен з яких є детальним в кінці опису класу. Ваш вибір надає вам можливість обирати на 1-му рівні і знову на 6-му, 10-му та 14-му рівні.
 
-### Pact Magic
+### Пакт Магія
 - - -
-Your arcane research and the magic bestowed on you by your patron have given you facility with spells.
+Ваш майстерний дослідження, який подарував вам ваше покровителя, дали вам мир із заклинаннями.
 
-#### Cantrips
-You know two cantrips of your choice from the warlock spell list. You learn additional warlock cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Warlock table.
+#### Кандії
+Ви знаєте два їдальні з-під писемності. Ви вивчаєте додаткові поїздки для блокування під час вибору на більш високих рівнях, як показано в «Cantrips Know» в колонці таблиці Warlock .
 
 #### Spell Slots
-The Warlock table shows how many spell slots you have. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.    
-For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell **_thunderwave_**, you must spend one of those slots, and you cast it as a 3rd-level spell.
+Таблиця Warlock показує скільки заклинання ви маєте. Стіл також показує, який рівень цих слотів; усі ваші заклинання рівні. Для приведення одного з орфографів на 1-й рівні або вище, вам потрібно покласти в дію заклинання одного слота. Ви повертаєте усі втрачені комірки, коли закінчите короткий або довгий відпочинок.    
+Наприклад, коли ви 5-й рівень, ви маєте два слоти рівня заклинання на третьому рівні. Щоб транслювати чудесне заклинання **_Thunderwave_**, ви повинні витратити одну з цих комірок і покласти її в якості заклинання на третій рівні.
 
-#### Spells Known of 1st Level and Higher
-At 1st level, you know two 1st-level spells of your choice from the warlock spell list.    
-The Spells Known column of the Warlock table shows when you learn more warlock spells of your choice of 1st level and higher. A spell you choose must be of a level no higher than what's shown in the table's Slot Level column for your level. When you reach 6th level, for example, you learn a new warlock spell, which can be 1st, 2nd, or 3rd level.     
-Additionally, when you gain a level in this class, you can choose one of the warlock spells you know and replace it with another spell from the warlock spell list, which also must be of a level for which you have spell slots.
+#### Зачаровані заклинання 1-го рівня та вищі
+На першому рівні ви знаєте два перших заклинання 1-го рівня за допомогою списку орфографії бойових локів.    
+Графорії відомі стовпці таблиці Warlock з'являються, коли ви дізнаєтесь більше орфографів з вибору 1-го рівня і вище. Вибравши орфографію, ви повинні мати рівні не вище показаного у колонці рівня слотів таблиці для вашого рівня. Наприклад, коли ви досягаєте 6-го рівня, ви вивчаєте нове заклинання вартових - 1 або 3-й рівень.     
+Додатково, коли ви отримуєте рівень у цьому класі, ви можете вибрати одну з заклинання warlock і замінити її іншою заклинання з боку набору тел. який також повинен бути рівним, для якого ви маєте орфографічні слоти.
 
-#### Spellcasting Ability
-Charisma is your spellcasting ability for your warlock spells, so you use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a warlock spell you cast and when making an attack roll with one.
-> **Spell save DC** = 8 + your proficiency bonus + your Charisma modifier
-> **Spell attack modifier** = your proficiency bonus + your Charisma modifier
+#### Вміння орфографії
+Харизма - це здатність заклинання щодо орфографії під час заклинання харизми, тому ви обираєте написання, яке завжди відноситься до здатності написання. Крім того, ви використовуєте свій модифікатор Charisma коли встановлюєте метод збереження DC для вартового замку, яку ви транслюєте, і коли робите поворот атаки з одним.
+> **Spell save DC** = 8 + бонус майстерності + ваш модифікатор Charisma
+> **Модифікатор атаки орфографії** = ваш бонус здібності + ваш модифікатор Харісми
 
-#### Spellcasting Focus
-You can use an arcane focus as a spellcasting focus for your warlock spells.
+#### Фокус правопису
+В якості фокусу орлиної банки можна використовувати у якості фокусу орфографії, що відображає бойові блоки.
 
-### Eldritch Invocations
+### Виклики з Елдричем
 - - -
-In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability.    
-At 2nd level, you gain two eldritch invocations of your choice. Your invocation options are detailed at the end of the class description. When you gain certain warlock levels, you gain additional invocations of your choice, as shown in the Invocations Known column of the Warlock table.     
-Additionally, when you gain a level in this class, you can choose one of the invocations you know and replace it with another invocation that you could learn at that level.
+У вашому дослідженні дослідження дослідження дослідження проти, у вас є знайдені інвертильні виклики, фрагменти заборонених знань, які вражають вас магічними здібностями.    
+на 2-му рівні ви отримуєте два лотерейних вияви вибору. Параметри розміщення деталей є детальними у кінці опису класу. Коли ви отримуєте певні рівні блокування, ви отримуєте додаткові покликання вибору, як це показано в колонці "Warlock блок".     
+Додатково, коли ви отримуєте рівень у цьому класі, ви можете обрати одне з наявних покликань, про що ви знаєте, і замінити його на інше покликання, яке ви можете вивчити на цьому рівні.
 
-### Pact Boon
+### Пакт-Бун
 - - -
-At 3rd level, your otherworldly patron bestows a gift upon you for your loyal service. You gain one of the following features of your choice.
+На третьому рівні ваш інший покровитель надає вам подарунок для вашої лояльності. Ви отримуєте одну з наступних функцій вибору.
 
-#### Pact of the Chain
-You learn the **_find familiar_** spell and can cast it as a ritual. The spell doesn't count against your number of spells known.    
-When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: imp, pseudodragon, quasit, or sprite.    
-Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to make one attack of its own with its reaction.
+#### Ланцюговий пакт
+Ви дізнаєтесь **_знайти знайоме_** орфографію і зможете транслювати його як ритуал. заклинання не враховує вашу кількість заклинань.    
+Коли ви кинете орфографію, ви можете обрати одну з звичайних форм для своєї знайомої або однієї з наступних спецформ: циган, псевдодракон, квазити або спрайт.    
+Крім того, коли ви приймаєте заходи Атаки, ви можете форжити одну з власних атак, щоб дозволити вашим знайомим зробити одну власну атаку за допомогою її реакції.
 
-#### Pact of the Blade
-You can use your action to create a pact weapon in your empty hand. You can choose the form that this melee weapon takes each time you create it. You are proficient with it while you wield it. This weapon counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.     
-Your pact weapon disappears if it is more than 5 feet away from you for 1 minute or more. It also disappears if you use this feature again, if you dismiss the weapon (no action required), or if you die.     
-You can transform one magic weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can't affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.
+#### Пакт леза
+Ви можете використовувати свої дії для створення зброї контракту в порожній руці. Ви можете вибрати форму, яку ця зброя ближнього бою веде кожного разу, коли ви її створюєте. Ви досвідчені, поки володієте ним. Ця зброя вважається магічним для подолання опору та імунітету до немагічних атак та пошкоджень.     
+Зникне зброя вашого пакту, якщо вона знаходиться більш ніж за 5 футів від вас на 1 хвилину або більше. Він також зникає, якщо ви використовуєте цю функцію знову, якщо ви вимкнете зброю (не вимагаєте дії), або якщо ви помрете.     
+Ви можете перетворити одну чарівну зброю у ваш пакт, виконуючи спеціальний ритуал у той час як ви тримаєте зброю. Ви виконуєте ритуал протягом 1 години, яка може бути зроблена під час короткого відпочинку. Потім ви можете звільнити зброю, стріляти її в екстрадиційний простір, і вона з'являється, коли ви створюєте свою пактну зброю після неї. Ви не можете вплинути на артефакт або на зухвалу зброю таким чином. Зброя перестає бути зброєю пакту, якщо ви помрете, якщо ви виконаєте 1-годинний ритуал на іншій зброї, або якщо ви використаєте 1-годинний ритуал, щоб розірвати зв'язок з ним. Зброя з'являється під вашими ногами, якщо вона знаходиться в екстрадиментальному просторі коли зв'язок зламається.
 
-#### Pact of the Tome
-Your patron gives you a grimoire called a Book of Shadows. When you gain this feature, choose three cantrips from any class's spell list (the three needn't be from the same list). While the book is on your person, you can cast those cantrips at will. They don't count against your number of cantrips known. If they don't appear on the warlock spell list, they are nonetheless warlock spells for you.    
-If you lose your Book of Shadows, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous book. The book turns to ash when you die.
+#### Пакт тома
+Ваш покровитель надає тобі горе під назвою Книга Тіді. Коли ви отримуєте цю функцію, виберіть три таксі з будь-якого класу (три не потрібно бути з одного списку). Хоча книжка на вашій людині ви можете віддати потрібну вам поїздку за бажанням. Вони не враховують вашу кількість каналізацій відомою. Якщо вони не з’являються у списку орфографів, то вони тим самим борсники для вас.    
+Якщо ви втратите вашу книгу тіні, ви можете зробити 1-годинну церемонію щоб отримати заміну від вашого покровителя. Така церемонія може відбуватися в короткому або тривалому відпочинку, а також знищує попередню книгу. Книга перетворюється на попіл, коли ви помираєте.
 
-### Ability Score Improvement
+### Покращення рівня здібностей
 - - -
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+Коли ви досягнете 4-го рівня, і знову на 8-му, 12-му, 16-тому та 19-му рівні, ви можете збільшити один бал ваших опцій на 2 або збільшити кількість 2-х здібностей на ваш вибір на 1. Як нормально, ви не можете збільшити бал здатності вище 20 за допомогою цієї функції.
 
 ### Mystic Arcanum
 - - -
-At 11th level, your patron bestows upon you a magical secret called an arcanum. Choose one 6th- level spell from the warlock spell list as this arcanum.    
-You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can do so again.    
-At higher levels, you gain more warlock spells of your choice that can be cast in this way: one 7th- level spell at 13th level, one 8th-level spell at 15th level, and one 9th-level spell at 17th level. You regain all uses of your Mystic Arcanum when you finish a long rest.
+11-й рівень вашого покровителя приносить вам магічний секрет під назвою арканум. Оберіть один 6-го рівня заклинання зі списку орфографів під час цієї арканоми.    
+Ви можете покласти свою арканальну заклинання один раз, не надсилаючи заклинання слот. Ви повинні закінчити довгу відпочку, перш ніж ви зможете зробити це знову.    
+на вищих рівнях, ви отримаєте більше орфографів за вибором, які можна кинути таким чином: один 7-й рівень заклинання на 13-му рівні, одне заклинання на 15-му рівні, а ще один 9-й рівень - книжки 17-го рівня. Ви знову використовуєте свій містичний арканум після довгого відпочинку.
 
-### Eldritch Master
+### Елдрич
 - - -
-At 20th level, you can draw on your inner reserve of mystical power while entreating your patron to regain expended spell slots. You can spend 1 minute entreating your patron for aid to regain all your expended spell slots from your Pact Magic feature. Once you regain spell slots with this feature, you must finish a long rest before you can do so again.
+На 20-му рівні ви можете спиратися на ваш внутрішній запас містичної влади при благанні вашого покровителя, щоб відновити написання комірків. Ви можете витратити 1 хвилину, щоб попросити вашого покровителя отримати допомогу на відновлення всіх ваших Витрачених слотів з карти пакту. Як тільки ви знову напишете ці слоти, ви повинні закінчити довге відпочинку, перш ніж зробити це знову.
 
-## Eldritch Invocations
-If an eldritch invocation has prerequisites, you must meet them to learn it. You can learn the invocation at the same time that you meet its prerequisites. A level prerequisite refers to your level in this class.
+## Виклики з Елдричем
+Якщо покликання похилого віку з передумовами, ви повинні зустрітися з ними, щоб дізнатися про це. Ви можете вчитися покликанню в той же час, що ви зустрічаєте його передумові. Рівень передумови посилається на ваш рівень в цьому класі.
 
-#### Agonizing Blast
-**Prerequisite:** **_eldritch blast_** cantrip
+#### Агонізуюча вибух
+**Потрібне Світло:** **_eldritch blast_** cantrip покупка
 
-When you cast eldritch blast, add your Charisma modifier to the damage it deals on a hit.
+Коли ви транслюєте Ельдриховий вибух, додайте свій модифікатор Харісми до пошкоджень, він завдає удару.
 
-#### Armor of Shadows
-You can cast **_mage armor_** on yourself at will, without expending a spell slot or material components.
+#### Броня тіней
+Ви можете транслювати **_зброю_по собі** на себе, не витрачаючи орфографічних компонентів та матеріалів.
 
-#### Ascendant Step
-**Prerequisite:** 9th level
+#### Зростаючий крок
+**Необхідність друку:** 9-й рівень
 
-You can cast levitate on yourself at will, without expending a spell slot or material components.
+Ви можете роздати ріст на себе в волі без витрат на спис або компоненти матеріалу.
 
-#### Beast Speech
-You can cast **_speak with animals_** at will, without expending a spell slot.
+#### Мова звіра
+Ви можете привести **_говорити з тваринами_** на волі, не дописуючи орфографії.
 
-#### Beguiling Influence
-You gain proficiency in the Deception and Persuasion skills.
+#### Почати вплив
+Ви отримуєте майстерність в обмані та навичках переконання.
 
-#### Bewitching Whispers
-**Prerequisite:** 7th level
+#### візуалізація Шепітів
+**Необхідна передумова:** 7-й рівень
 
-You can cast **_compulsion_** once using a warlock spell slot. You can't do so again until you finish a long rest.
+Ви можете повернути **_на примус_** коли використовується слот для warlock (вираз). Ви не можете зробити це знову, поки не закінчите довгого відпочинку.
 
-#### Book of Ancient Secrets
-**Prerequisite: Pact of the Tome feature** You can now inscribe magical rituals in your Book of Shadows. Choose two 1st-level spells that have the ritual tag from any class's spell list (the two needn't be from the same list). The spells appear in the book and don't count against the number of spells you know. With your Book of Shadows in hand, you can cast the chosen spells as rituals. You can't cast the spells except as rituals, unless you've learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the ritual tag.    
-On your adventures, you can add other ritual spells to your Book of Shadows. When you find such a spell, you can add it to the book if the spell's level is equal to or less than half your warlock level (rounded up) and if you can spare the time to transcribe the spell. For each level of the spell, the transcription process takes 2 hours and costs 50 gp for the rare inks needed to inscribe it.
+#### Книга Давніх Таємниць
+**Потрібні Помірки: Пакт функції купола** Можете написати магічні ритуали у вашій Книзі Тіні. Оберіть два заклинання на одному рівні, що мають ритуал у списку заклинання будь-якого класу (два не мають бути в одному списку). Заклади з'являються у книзі та не рахуються у кількість заклинань, які ви знаєте. З вашою книгою тіней в руці, ви можете кинути обрані заклинання як ритуали. Ви не можете транслювати заклинання окрім ритуалів, якщо ви не вивчили їх іншими способами. Ви також можете дозволити ортологію гармати на ритуалі, якщо у нього є ритуальний тег.    
+На пригод ви можете додати інші ритуальні заклинання до вашої Книги Тіні. Коли ви знайдете таке заклинання, ви можете додати це до книги, якщо рівень орфографії дорівнює або менше половини рівня теплого (округлений вгорі), і якщо ви можете займати час, щоб описати заклинання . Для кожного рівня орфографії транскрипції триває 2 години і коштує 50 кадрів за рідкісні пошуки, які потребували його виписати.
 
-#### Chains of Carceri
-**Prerequisite:** 15th level, Pact of the Chain feature
+#### Ланцюги Карцері
+**Вивести:** 15-й рівень, пакт про функцію ланцюжка
 
-You can cast **_hold monster_** at will—targeting a celestial, fiend, or elemental - without expending a spell slot or material components. You must finish a long rest before you can use this invocation on the same creature again.
+Ви можете повернути **_тримати монстр_** на волю — на ціль небесної, вогнепальної чи стихійної істоти, не витрачаючи ні заклинання або матеріальні компоненти. Ви повинні закінчити довгу відпочинку, перш ніж зможете знову скористатися цим покликанням на ту саму істоту.
 
-#### Devil's Sight
-You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.
+#### Приціл диявола
+Зазвичай можна побачити як у темряві, як магічному, так і немагічним, так і на відстані 120 футів.
 
-#### Dreadful Word
-**Prerequisite:** 7th level
+#### Страшне слово
+**Необхідна передумова:** 7-й рівень
 
-You can cast **_confusion_** once using a warlock spell slot. You can't do so again until you finish a long rest.
+Ви можете повернути **_плутанину_** коли використовуються слот для warlock виклику. Ви не можете зробити це знову, поки не закінчите довгого відпочинку.
 
-#### Eldritch Sight
-You can cast **_detect magic_** at will, without expending a spell slot.
+#### Елдрич-Зіт
+Ви можете привести **_виявити магію_** на волі, не витрачаючи орфографії слота.
 
-#### Eldritch Spear
-**Prerequisite:** **_eldritch blast_** cantrip
+#### Елдрич
+**Потрібне Світло:** **_eldritch blast_** cantrip покупка
 
-When you cast **_eldritch blast_**, its range is 300 feet.
+Коли ви кидаєте **_ельдрих вибух_**, його діапазон становить 300 футів.
 
-#### Eyes of the Rune Keeper
-You can read all writing.
+#### Очі руни збирача
+Можете прочитати всі написати.
 
-#### Fiendish Vigor
-You can cast **_false life_** on yourself at will as a 1st-level spell, without expending a spell slot or material components.
+#### Фіендіська Вігор
+Ви можете повернути **_помилкове життя_** на себе на один рівень орфографії не витрачаючи часу на заклинання або матеріальні компоненти.
 
-#### Gaze of Two Minds
-You can use your action to touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.
+#### Газа двох хвилин
+Ви можете використати свої дії, щоб торкнутися гостре гуманоїду і побачити його по його почуттах до кінця вашої наступної черги. Поки істота знаходиться на тому ж літаку, що і ви, ви можете використовувати свою дію над подальшим поверненням щоб зберегти цей зв'язок, продовжуючи тривалість до кінця наступного повороту. Поки чути постать інших істот ви отримуєте вигоду від відчуттів, що володіють ця істота, і вас оглушать і глушають своїм оточенням.
 
-#### Lifedrinker
-**Prerequisite:** 12th level, Pact of the Blade feature
+#### Ліфведрінкер
+**Вичерпати:** 12-й рівень, пакт про функцію леза
 
-When you hit a creature with your pact weapon, the creature takes extra necrotic damage equal to your Charisma modifier (minimum 1).
+Коли у вас є істота з зброєю пакту, істота отримує додаткове пошкодження від некротики, що дорівнює вашому модифікації Хариси (мінімум 1).
 
-#### Mask of Many Faces
+#### Маска багатьох чеснот
 
-You can cast **_disguise self_** at will, without expending a spell slot.
+Ви можете кинути **_замаскувати себе_** за бажанням, не прискоривши орфографію орфографії.
 
-#### Master of Myriad Forms
-**Prerequisite:** 15th level
+#### Майстер форм Миріаду
+**Необхідність друку:** 15-го рівня
 
-You can cast **_alter self_** at will, without expending a spell slot.
+Ви можете транслювати **_себе_** за бажанням та без витрат орфографії.
 
-#### Minions of Chaos
-**Prerequisite:** 9th level
+#### Посіпаки хаосу
+**Необхідність друку:** 9-й рівень
 
-You can cast **_conjure elemental_** once using a warlock spell slot. You can't do so again until you finish a long rest.
+Ви можете повернути **_елемент, який є звивистим_** коли використовується орфографію warlock слота. Ви не можете зробити це знову, поки не закінчите довгого відпочинку.
 
-#### Mire the Mind
-**Prerequisite:** 5th level
+#### Розум
+**Необхідність друку:** 5-й рівень
 
-You can cast **_slow_** once using a warlock spell slot. You can't do so again until you finish a long rest.
+Ви можете повернути **_повільний_** коли використовуються слот для блокування вартора. Ви не можете зробити це знову, поки не закінчите довгого відпочинку.
 
-#### Misty Visions
-You can cast **_silent image_** at will, without expending a spell slot or material components.
+#### Туманні бачення
+Ви можете транслювати **_без звукового зображення_** за бажанням без витрат сканера або компонентів матеріалу.
 
-#### One with Shadows
-**Prerequisite:** 5th level
+#### Одна з тіней
+**Необхідність друку:** 5-й рівень
 
-When you are in an area of dim light or darkness, you can use your action to become invisible until you move or take an action or a reaction.
+Якщо ви перебуваєте в області затемненого світла або темряви, ви можете використати свої дії, щоб невидимі до тих пір, поки не рухаєтесь, або не вжити заходів, або реакції.
 
-#### Otherworldly Leap
-**Prerequisite:** 9th level
+#### Інше стрибок
+**Необхідність друку:** 9-й рівень
 
-You can cast jump on yourself at will, without expending a spell slot or material components.
+Ви можете транслювати стрибок на себе, на волі, без витрат на спред чи клітинки матеріальних компонентів.
 
-#### Repelling Blast
-**Prerequisite:** **_eldritch blast_** cantrip When you hit a creature with eldritch blast, you can push the creature up to 10 feet away from you in a straight line.
+#### Перезавантаження вибуху
+**Потрібне Світло:** **_eldritch вибух_** може здійснити поїздку коли ви вдарите в істоту за допомогою eldritch blast, ви можете відштовхнути істоту до десяти футів від вас прямою лінією.
 
-#### Sculptor of Flesh
-**Prerequisite:** 7th level
+#### Скульптор плоті
+**Необхідна передумова:** 7-й рівень
 
-You can cast **_polymorph_** once using a warlock spell slot. You can't do so again until you finish a long rest.
+Ви можете прибити **_поліморф_** коли використовується слот warlock (warlock так). Ви не можете зробити це знову, поки не закінчите довгого відпочинку.
 
-#### Sign of Ill Omen
-**Prerequisite:** 5th level
+#### Знак Ілла Омен
+**Необхідність друку:** 5-й рівень
 
-You can cast **_bestow_** curse once using a warlock spell slot. You can't do so again until you finish a long rest.
+Ви можете прикріпити **__ поспіль_</strong> прокляття після використання орфографії орфографії. Ви не можете зробити це знову, поки не закінчите довгого відпочинку. </p>
 
-#### Thief of Five Fates
-You can cast **_bane_** once using a warlock spell slot. You can't do so again until you finish a long rest.
+#### Злодій п'яти долі
+Ви можете повернути **__** раз використовуючи орфографію вартових слотів. Ви не можете зробити це знову, поки не закінчите довгого відпочинку.
 
-#### Thirsting Blade
-**Prerequisite:** 5th level, Pact of the Blade feature
+#### Тривимірне лезо
+**Скласти:** 5-й рівень, пакт про функцію леза
 
-You can attack with your pact weapon twice, instead of once, whenever you take the Attack action on your turn.
+Ви можете атакувати зброєю пакту двічі, а не один раз, коли ви будете приймати дії Атаки на вашому кроці.
 
-#### Visions of Distant Realms
-**Prerequisite:** 15th level
+#### Видимість далеких реалмів
+**Необхідність друку:** 15-го рівня
 
-You can cast arcane eye at will, without expending a spell slot.
+Можна кидати криштанове око на волю і не доводячи застій слота.
 
-#### Voice of the Chain Master
-**Prerequisite:** Pact of the Chain feature You can communicate telepathically with your familiar and perceive through your familiar's senses as long as you are on the same plane of existence. Additionally, while perceiving through your familiar's senses, you can also speak through your familiar in your own voice, even if your familiar is normally incapable of speech.
+#### Голос господаря Ланцюгової
+**Скласти:** пакт про функцію Ланцюга, ви можете переміщатися по своєму знайомому і сприймати сенсорні відчуття вашої родини, доки ви живете до того ж простору. Крім того, під час сприйняття ваших знайомих почуттів, ви також можете виступати за власним власним голосом, навіть якщо ваші знайомі зазвичай не піддаються мовленню.
 
-#### Whispers of the Grave
+#### Шепіт Морів
 **Prerequisite:** 9th level You can cast **_speak with dead_** at will, without expending a spell slot.
 
-#### Witch Sight
-**Prerequisite:** 15th level You can see the true form of any shapechanger or creature concealed by illusion or transmutation magic while the creature is within 30 feet of you and within line of sight.
+#### Відьмине приціл
+**Вимірюю:** 15-й рівень, Ви можете побачити справжню форму будь-якого виду або істоти, загородженої ілюзією або магією трансмутації, в той час як істота знаходиться в межах меж вас і на лінії зору.
 
-## Otherworldly Patrons
-The beings that serve as patrons for warlocks are mighty inhabitants of other planes of existence—not gods, but almost godlike in their power. Various patrons give their warlocks access to different powers and invocations, and expect significant favors in return.   
-Some patrons collect warlocks, doling out mystic knowledge relatively freely or boasting of their ability to bind mortals to their will. Other patrons bestow their power only grudgingly, and might make a pact with only one warlock. Warlocks who serve the same patron might view each other as allies, siblings, or rivals.
+## Інакше Патрони
+Буди, які слугують покровителями воєнних замків, є могутні мешканці інших літаків існування — не богів, а майже богиню в їх силах. Різні патрони дають їм доступ до різних сил і справ, і натомість очікують на значні переваги.   
+Деякі патрони збирають вартові годинники, відкидаючи містичні знання відносно вільно або хвалившись їх здатністю покривати смертних осіб до своєї волі. Інші патрони задовольняють їхню силу лише з грубими намірами, і можуть укласти договір лише з одним набором. Ворли, які слугують тому ж покровителям, можуть розглядати один одного як союзників, братів чи суперників.
 
-### The Fiend
+### Воюк
 - - -
-You have made a pact with a fiend from the lower planes of existence, a being whose aims are evil, even if you strive against those aims. Such beings desire the corruption or destruction of all things, ultimately including you. Fiends powerful enough to forge a pact include demon lords such as Demogorgon, Orcus, Fraz'Urb-luu, and Baphomet; archdevils such as Asmodeus, Dispater, Mephistopheles, and Belial; pit fiends and balors that are especially mighty; and ultroloths and other lords of the yugoloths.
+Ви побудували пакт із нижніми літаками існування, бутив, чиї цілі злі, навіть якщо змагатися з тими цілями. Такі істоти бажають корупції чи руйнування всього, в кінцевому підсумку включаючи вас. Досить потужний для кування пакту включає лордів демонів, таких як Демогоргон, Орк, Фраз-луу та Бафомет; такі архідевелі, як Асмодем, Діспатер, Мефістопхель та Беліал, бійні та волі, що особливо могутні; та алтролоти та інші володарі юголотів.
 
-#### Expanded Spell List
-The Fiend lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+#### Розширений список правопису
+Fiend дозволяє обрати з розширеного списку заклинання після вивчення заклинання боєприпасів. Наступні заклинання додаються до списку блокувань для вас.
 
-| Spell Level | Spells                              |
-| ----------- | ----------------------------------- |
-| 1st         | _burning hands, command_            |
-| 2nd         | _blindness/deafness, scorching ray_ |
-| 3rd         | _fireball, stinking cloud_          |
-| 4th         | _fire shield, wall of fire_         |
-| 5th         | _flame strike, hallow_              |
+| Рівень заклинання | Spells                              |
+| ----------------- | ----------------------------------- |
+| Перший            | _палаючі руки, команда_             |
+| Друге             | _сліпота/глухота, скакуючи промінь_ |
+| Третє             | _цегляний, палаюча хмара_           |
+| Четвертий         | _багаттяний щит, стіни вогню_       |
+| П'ятий            | _вогнеметний удар, напівнизький_    |
 
-#### Dark One's Blessing
-Starting at 1st level, when you reduce a hostile creature to 0 hit points, you gain temporary hit points equal to your Charisma modifier + your warlock level (minimum of 1).
+#### Благословення Темної 1
+Починаючи з першого рівня, коли ви зменшуєте вороже істоту до 0 очків, що призводять до нуля, ви отримуєте тимчасові точки попадань, що дорівнює вашій модифікації Charisma, + вашому рівню вартового блокування (мінімум 1).
 
-#### Dark One's Own Luck
-Starting at 6th level, you can call on your patron to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to add a d10 to your roll. You can do so after seeing the initial roll but before any of the roll's effects occur.     
-Once you use this feature, you can't use it again until you finish a short or long rest.
+#### Власна удача темної особи
+Починаючи з 6-го рівня, ви можете покликати замовника, щоб змінити долю у своїх послугах. Коли ви встановлюєте перевірку здібностей або рятівну стрілку, ви можете використовувати цю функцію щоб додати d10 до вашого жбурляння. Це можна зробити після перегляду початкової кола, але перед появою будь-якого ефекту відкату.     
+Якщо ви використаєте цю функцію, ви не зможете її знову використати, поки не закінчите коротке або тривале відпочинку.
 
-#### Fiendish Resilience
-Starting at 10th level, you can choose one damage type when you finish a short or long rest. You gain resistance to that damage type until you choose a different one with this feature. Damage from magical weapons or silver weapons ignores this resistance.
+#### Вендська стійкість
+Починаючи з 10-го рівня, ви можете обрати один тип пошкодження, коли закінчите короткий або довгий відпочинок. Ви отримуєте стійкість до того типу пошкодження, доки не вибиратимете іншу функцію. Пошкодження магічної зброї або срібної зброї ігнорує цей опір.
 
-#### Hurl Through Hell
-Starting at 14th level, when you hit a creature with an attack, you can use this feature to instantly transport the target through the lower planes. The creature disappears and hurtles through a nightmare landscape.     
-At the end of your next turn, the target returns to the space it previously occupied, or the nearest unoccupied space. If the target is not a fiend, it takes 10d10 psychic damage as it reels from its horrific experience.     
-Once you use this feature, you can't use it again until you finish a long rest.
-> #### Your Pact Boon
+#### Біль через пекло
+Починаючи на 14-му рівні, коли ви вдаритесь до істоти з атакою, ви можете використати цю функцію для миттєвого перевезення цілі в нижній частині літаків. Ця істота зникає і перешкоджає через кошмарний ландшафт.     
+Наприкінці вашого наступного повороту ціль повертається до місця, яке раніше займалося, або найближче зайняте місце. Якщо ціль не є кулаком, вона завдає 1010 психічних збитків, оскільки змінить свій жахливий досвід.     
+Якщо ви використаєте цю функцію, ви не зможете її знову використати, поки не закінчите довге.
+> #### Ваш пакт 'Бун'
 > 
-> Each Pact Boon option produces a special creature or an object that reflects your patron's nature.    
-> **Pact of the Chain.** Your familiar is more cunning than a typical familiar. Its default form can be a reflection of your patron, with sprites and pseudodragons tied to the Archfey and imps and quasits tied to the Fiend. Because the Great Old One's nature is inscrutable, any familiar form is suitable for it.    
-> **Pact of the Blade.** If your patron is the Archfey, your weapon might be a slender blade wrapped in leafy vines. If you serve the Fiend, your weapon could be an axe made of black metal and adorned with decorative flames. If your patron is the Great Old One, your weapon might be an ancient-looking spear, with a gemstone embedded in its head, carved to look like a terrible unblinking eye.    
-> **Pact of the Tome.** Your Book of Shadows might be a fine, gilt-edged tome with spells of enchantment and illusion, gifted to you by the lordly Archfey. It could be a weighty tome bound in demon hide studded with iron, holding spells of conjuration and a wealth of forbidden lore about the sinister regions of the cosmos, a gift of the Fiend. Or it could be the tattered diary of a lunatic driven mad by contact with the Great Old One, holding scraps of spells that only your own burgeoning insanity allows you to understand and cast.   
+> Кожна опція «Бун» викликає в собі особливу істоту або об'єкт, який відображає природу вашого патрона.    
+> **пакт ланцюга.** Ваш знайомий є більш хитрим, ніж типовий сімей. Її стандартна форма може бути відображенням вашого патрона, від спрайти і псевдодраконів в'язані до Архефії й скелета до Рятуючого. Тому що природа Старого світу нестерпна, всі знайомі форми підходить для неї.    
+> **пакт Блера.** Якщо ваш покровитель є Архієкторією, ваша зброя може бути тонкою лезою, що загортається в листя. Якщо ти будеш служити Вогнемету, твоя зброя може бути сокирою з чорного металу і прикрашена декоративним полум'ям. Якщо ваш покровитель - Великий старий перший пістолет, ваша зброя може бути старовинною спиною, в голові надрізаний самоцвіт, вирізьблений як страшне так підкліплене око.    
+> **пакт Тома.** Ваша книга Тіні може бути хорошою, золотиста тім'яна з заклинанням і ілюзії, обдарованою вам за світлим архіфі. Це може бути важким купол в димон-шкіри, дослідженому з залізом, тримаючи заклинання непорозумінь і багатство забороненого руди про зловісні регіони космосу, подарунок від горішньої пустки. Або може бути розбитий щоденник місячного заглибленого контакта з Великим Старим Одином, тримаючи уривки заклинань, які дозволяють розуміти та кастовувати тільки власні мерзенні божевілля.   
