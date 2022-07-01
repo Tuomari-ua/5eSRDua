@@ -1,13 +1,13 @@
-name: Eagle type: beast cr: 0
+назва: Ігл тип: тварина cr: 0
 
-# Eagle
-_Small beast, unaligned_
+# Орел
+_Малий звір, неприєднаний_
 
-**Armor Class** 12    
-**Hit Points** 3 (1d6)    
-**Speed** 10 ft., fly 60 ft.
+**Клас броні** 12    
+**Очків** 3 (1d6)    
+**швидкість** дозу </strong>, польоту 60.
 
-| STR    | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР    | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------ | ------- | ------- | ------ | ------- | ------ |
 | 6 (−2) | 15 (+2) | 10 (+0) | 2 (−4) | 14 (+2) | 7 (−2) |
 
@@ -16,7 +16,7 @@ _Small beast, unaligned_
 **Languages** --    
 **Challenge** 0 (10 XP)
 
-**Keen Sight.** The eagle has advantage on Wisdom (Perception) checks that rely on sight.
+**Кін Sight.** Орел має перевагу в Wisdom (виключення) перевірки, які покладаються на погляд.
 
-### Actions
-**Talons.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) slashing damage. 
+### Дії
+**Талони** _Атака ближньої зброї:_ +4 по влучання, досягли 5-ї цілі, одна мета. _Удач:_ 4 (1d4 + 2) наносити шкоду. 
