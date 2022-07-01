@@ -1,14 +1,14 @@
-name: Hold Person level: 2 school: enchantment classes: bard cleric druid sorcerer warlock wizard
+назва: Підтримка людини рівень: 2 школи: зачарування класів: Бард вид. druid sorcerer warlock
 
-# Hold Person
-_2nd-level enchantment_
+# Утримання людини
+_Зачарування 2n-ного рівня_
 
 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S, M (a small, straight piece of iron)    
-**Duration:** Concentration, up to 1 minute
+**Час трансляції :** 1 дія    
+**Діапазон:** 60 футів    
+**компоненти:** V, S, М (невеликий, прямий кусок заліза)    
+**тривалість:** точки, до 1 хвилини
 
-Choose a humanoid that you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target.
+Виберіть гуманоїд, що знаходиться за діапазоном. Ціль повинна досягти успіху в процесі економії мудрості або бути паралізованою протягом тривалого часу. Наприкінці кожного своєї черги ціль може зробити ще одну мудрість збереженням стріли. За успіхом заклинання закінчується ціллю.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional humanoid for each slot level above 2nd. The humanoids must be within 30 feet of each other when you target them. 
+**На вищих рівнях.** Коли ви кидаєте це заклинання використовуючи гніздо 3-го рівня або вище, ви можете вказати на один додатковий гуманоїд для кожного рівня слота вище 2nd. Рукописи мають знаходитись в межах 30 футів одне одного, якщо накласти на них. 
