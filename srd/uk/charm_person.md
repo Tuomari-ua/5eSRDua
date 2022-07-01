@@ -1,13 +1,13 @@
 name: Charm Person level: 1 school: enchantment classes: bard druid sorcerer warlock wizard
 
-# Charm Person
-_1st-level enchantment_
+# Чарм Персон
+_Зачарування на перший рівень_
 
-**Casting Time:** 1 action    
-**Range:** 30 feet    
-**Components:** V, S    
-**Duration:** 1 hour
+**Час трансляції :** 1 дія    
+**Діапазон:** 30 футів    
+**компоненти:** V, S    
+**тривалість:** години
 
-You attempt to charm a humanoid you can see within range. It must make a Wisdom saving throw, and does so with advantage if you or your companions are fighting it. If it fails the saving throw, it is charmed by you until the spell ends or until you or your companions do anything harmful to it. The charmed creature regards you as a friendly acquaintance. When the spell ends, the creature knows it was charmed by you.
+Спробуйте зачарувати гуманоїду, яку ви бачите на відстані. Вона повинна врятувати Мудро, і робить це з перевагою, якщо ви або ваші супутники борються з цим. Якщо вона не вдалася - економія - вас зачарував, поки заклинання не закінчаться і поки ви чи твої супутники не зробите нічого шкідливим для неї. Зачарована істота вважає вас дружнім до тебе. Коли заклинання закінчується, істота знає, що вона була захоплена вами.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them. 
+**На вищих рівнях.** Коли ви транслюєте це заклинання використовуючи слот 2-го рівня або вище, ви можете назначити ще одну істоту для кожного рівня слоту вище 1st. Приклади повинні бути в межах 30 футів одна одної, коли ви націлите на неї. 
