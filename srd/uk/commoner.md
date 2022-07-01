@@ -1,22 +1,22 @@
-name: Commoner type: humanoid (any race) cr: 0
+назва: Commoner тип: humanoid (any race) cr: 0
 
-# Commoner
-_Medium humanoid (any race), any alignment_
+# Маси
+_Середня гуманоїда (будь-яке не), будь-яке вирівнювання_
 
 **Armor Class** 10    
 **Hit Points** 4 (1d8)    
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) |
 
-**Senses** passive Perception 10    
-**Languages** any one language (usually Common)    
-**Challenge** 0 (10 XP)
+**Подяки** пасивний Виняток 10    
+**Мови** будь-якої мови (зазвичай оточення)    
+**виклик** (10 XP)
 
-### Actions
-**Club.** _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 2 (1d4) bludgeoning damage.
+### Дії
+**Клик.** _Атака ближньої зброї:_ +2 до удару, досягає 5 щитів, одна ціль. _Удару:_ 2 (1d4) пошкодження дублювання.
 
-### Description
-Commoners include peasants, serfs, slaves, servants, pilgrims, merchants, artisans, and hermits. 
+### Опис
+До товаришів належать селяни, селяни, раби, службовці, пілігрими, купці, майстри і герміти. 
