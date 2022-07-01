@@ -1,13 +1,13 @@
-name: Alarm level: 1 school: abjuration classes: ranger wizard
+назва: Будильник рівень: 1 школу: abjuration класів: майстер далекого
 
 # Alarm
-_1st‐level abjuration (ritual)_
+_1st<unk> рівень abjuration (ритуал)_
 
-**Casting Time:** 1 minute    
-**Range:** 30 feet    
-**Components:** V, S, M (a tiny bell and a piece of fine silver wire)    
-**Duration:** 8 hours
+**Час Кастингу:** 1 хвилину    
+**Діапазон:** 30 футів    
+**компоненти:** V, S, М (маленький дзвінок та шматок тонкого срібного дроту)    
+**тривалість:** години
 
-You set an alarm against unwanted intrusion. Choose a door, a window, or an area within range that is no larger than a 20-foot cube. Until the spell ends, an alarm alerts you whenever a Tiny or larger creature touches or enters the warded area. When you cast the spell, you can designate creatures that won't set off the alarm. You also choose whether the alarm is mental or audible.    
-A mental alarm alerts you with a ping in your mind if you are within 1 mile of the warded area. This ping awakens you if you are sleeping.    
-An audible alarm produces the sound of a hand bell for 10 seconds within 60 feet. 
+Ви встановили тривогу проти небажаного вторгнення. Виберіть двері, вікно або область в межах діапазону, яка не більше, ніж 20 футів. Доки заклинання не завершується, тривога попереджає вас коли ви коли коли накриває цину або великих істот торкається або входить у вартову зону. Коли ви кидаєте орфографію, ви можете призначити істот, які не зможуть вимкнути сигнал. Ви також вибирете, психічний чи злий будильник.    
+Подальші тривоги з пінгом у вашій свідомості якщо ви перебуваєте в межах 1 милі попередженої зони. Цей процес розбудить тебе, якщо ти спиш.    
+Чутний будильник викликає звук дзвінка на 10 секунд протягом 60 футів. 
