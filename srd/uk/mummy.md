@@ -1,13 +1,13 @@
-name: Mummy type: undead cr: 3
+назва: Mummy тип: немертвий cr: 3
 
-# Mummy
-_Medium undead, lawful evil_
+# Мумія
+_Середні мертві, законне зло_
 
 **Armor Class** 11 (natural armor)    
 **Hit Points** 58 (9d8 + 18)    
 **Speed** 20 ft.
 
-| STR     | DEX    | CON     | INT    | WIS     | CHA     |
+| СТР     | ДЕКС   | CON     | ІНТ    | WIS     | CHA     |
 | ------- | ------ | ------- | ------ | ------- | ------- |
 | 16 (+3) | 8 (−1) | 15 (+2) | 6 (−2) | 10 (+0) | 12 (+1) |
 
@@ -20,7 +20,7 @@ _Medium undead, lawful evil_
 **Languages** the languages it knew in life    
 **Challenge** 3 (700 XP)
 
-### Actions
-**Multiattack.** The mummy can use its Dreadful Glare and makes one attack with its rotting fist.    
-**Rotting Fist.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) bludgeoning damage plus 10 (3d6) necrotic damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the remove curse spell or other magic.    
-**Dreadful Glare.** The mummy targets one creature it can see within 60 feet of it. If the target can see the mummy, it must succeed on a DC 11 Wisdom saving throw against this magic or become frightened until the end of the mummy's next turn. If the target fails the saving throw by 5 or more, it is also paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies (but not mummy lords) for the next 24 hours.
+### Дії
+**Багатоатака.** Мумія може використовувати його страшний Блиск і зробити одну атаку з його гнилим кулаком.    
+**Обертаючися Fist.** _Атака ближньої зброї:_ +5 до удару, досягає 5 висоти і в одній цілі. _Вразу:_ 10 (2d6 + 3) пошкодження душення плюс 10 (3d6) некротичне пошкодження. Якщо ціль є створенням, вона має досягти успіху в економії Конституції DC 12, або бути проклята за допомогою муммемої. Проклята ціль не може повернути влучні точки, а її максимальна точка знижується на 10 (3d6) на кожні 24 години, що минули. Якщо прокляття зменшує точку наближення цілі до 0, то ціль гине, а її тіло перетвориться на пил. Прокляття триває до видалення заклинання чи іншої магії.    
+**Глядливої якості.** Меммій призначений для однієї істоти, вона може бачити в межах 60 футів від неї. Якщо ціль може побачити муму, він повинен досягти успіху в DC 11 Мудрості проти цієї магії або стати наляканим до кінця наступного повороту мумії до кінця. Якщо ціль не зможе заощадити на 5 або більше, вона також паралізована протягом тієї ж тривалості. Ціль, яка досягла успіху в киданні заощаджень, є імунітетом до жахливої голови всіх мум (але не іммомій лордів) протягом наступних 24 годин.
