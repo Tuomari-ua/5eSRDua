@@ -1,13 +1,13 @@
-name: Counterspell level: 3 school: abjuration classes: sorcerer warlock wizard
+назва: Counterspell level: 3 school: abjuration classs: sorer warlock майстер
 
-# Counterspell
-_3rd-level abjuration_
+# Контерспел
+_Відступ на третьому рівні_
 
-**Casting Time:** 1 reaction, which you take when you see a creature within 60 feet of you casting a spell    
-**Range:** 60 feet    
-**Components:** S    
-**Duration:** Instantaneous
+**Час відтворення :** 1 реакція який ви берете, коли побачите істоту в 60 футів від вас букви    
+**Діапазон:** 60 футів    
+**компоненти:** S    
+**Тривалість:** миттєві
 
-You attempt to interrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, its spell fails and has no effect. If it is casting a spell of 4th level or higher, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a success, the creature's spell fails and has no effect.
+Ви намагаєтеся перервати істоту в процесі лиття заклинання. Якщо якась істота транслює заклинання третього або нижчого рівня, то її заклинання не вступає і нічого не діє. Якщо автор проходить перевірку правопису на 4 рівні або вище, він зможе перевірити орфографію. DC дорівнює 10 + рівень заклинання. Творцівське заклинання зазнає невдачі і не матиме ефекту.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the interrupted spell has no effect if its level is less than or equal to the level of the spell slot you used.
+**На вищих рівнях.** Коли ви кидаєте це заклинання використовуючи слот четвертого рівня або вище, перервану заклинання не може вплинути, якщо рівень його менший або рівний рівню орфографії.
