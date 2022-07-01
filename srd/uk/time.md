@@ -1,10 +1,10 @@
-description: Rules for tracking time from the 5th Edition (5e) SRD (System Reference Document).
+опис: Правила відслідковування часу від 5-ї версії (5e) SRD (Документація по Системній Документації).
 
-# Time
-In situations where keeping track of the passage of time is important, the GM determines the time a task requires. The GM might use a different time scale depending on the context of the situation at hand. In a dungeon environment, the adventurers' movement happens on a scale of **minutes**. It takes them about a minute to creep down a long hallway, another minute to check for traps on the door at the end of the hall, and a good ten minutes to search the chamber beyond for anything interesting or valuable.
+# Час
+У ситуаціях, де змінювати шлях плину часу є важливим, GM визначає час, який вимагає завдання. GM може використовувати різні часові шкали, в залежності від контексту ситуації. У допоміжному середовищі пригодників відбувається шкала **хвилин**. Для того, щоб зірвати довгий коридор, їх займає майже хвилину, ще хвилину для перевірки пасток на двері в кінці залу і гарно десять хвилин на пошуках камери, шукаючи в її кімнаті нічого цікавого або цінного.
 
-In a city or wilderness, a scale of **hours** is often more appropriate. Adventurers eager to reach the lonely tower at the heart of the forest hurry across those fifteen miles in just under four hours' time.
+У місті або пустині шкала **годин** часто є більш доречним. Найкращі пригоди мали бажання дістатись до самотній вежі на самому серці лісу поспішають через ті п'ятнадцять миль за менше ніж чотири години.
 
-For long journeys, a scale of **days** works best. Following the road from Baldur's Gate to Waterdeep, the adventurers spend four uneventful days before a goblin ambush interrupts their journey.
+Для довгих поїздок, масштаб **днів** працює найкраще. Після того, як двері Балтура до Вотердіда провели чотири незахоплюючі дні до гоблінської засідки переривають свою подорож.
 
-In combat and other fast-paced situations, the game relies on **rounds**, a 6-second span of time.
+У бойових та інших швидкісних ситуаціях гра покладається на **раунди**, 6-секундний час.
