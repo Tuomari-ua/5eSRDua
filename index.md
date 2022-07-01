@@ -4,7 +4,7 @@
 
 | Пригоди                                       | Спорядження                                             |
 |------------------------------------------------------------|----------------------------------------------------------------------|
-| [Між пригодам](./srd/adventuring/between_adventures.md)    | [Зброя](./srd/adventuring/equipment/weapons.md)        |
+| [Між пригодами](./srd/adventuring/between_adventures.md)    | [Зброя](./srd/adventuring/equipment/weapons.md)        |
 | [Мандрування](./srd/adventuring/movement.md)               | [Броня](./srd/adventuring/equipment/armor.md)                             |
 | [Плани існування](./srd/adventuring/planes_of_existence.md)| [Набори спорядження](./srd/adventuring/equipment/equipment_packs.md)      |
 | [Відпочинок](./srd/adventuring/resting.md)                 | [Спорядження пригодника](./srd/adventuring/equipment/adventuring_gear.md) |
