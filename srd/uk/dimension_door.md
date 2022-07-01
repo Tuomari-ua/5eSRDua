@@ -1,13 +1,13 @@
-name: Dimension Door level: 4 school: conjuration classes: bard sorcerer warlock wizard
+назва: Розмір двері рівень: 4 школи: точність класі: жорсткий сортувальник warlock
 
-# Dimension Door
-_4th-level conjuration_
+# Одиниці розміру
+_Тривалість четвертого рівня_
 
 **Casting Time:** 1 action    
 **Range:** 500 feet    
 **Components:** V    
 **Duration:** Instantaneous Y
 
-You teleport yourself from your current location to any other spot within range. You arrive at exactly the spot desired. It can be a place you can see, one you can visualize, or one you can describe by stating distance and direction, such as "200 feet straight downward" or "upward to the northwest at a 45- degree angle, 300 feet."    
-You can bring along objects as long as their weight doesn't exceed what you can carry. You can also bring one willing creature of your size or smaller who is carrying gear up to its carrying capacity. The creature must be within 5 feet of you when you cast this spell.    
-If you would arrive in a place already occupied by an object or a creature, you and any creature traveling with you each take 4d6 force damage, and the spell fails to teleport you. 
+Ви телепортуєтеся з поточного місця розташування в будь-яку іншу область. Ви дійдете до бажаного місця. Це може бути місце, яке ви можете бачити, коли ви можете візуалізувати, або одне з них, ви можете описати шляхом вирівнення відстані та напрямку, такі, як "200 футів прямо вниз" або "вгору до північного заходу під кутом 45 градусів, 300 футів.    
+Ви можете додати об"єкти до тих пір, поки їх вага не перевищувати те, що можете перенести. Ви також можете принести одну жадібну істоту вашого розміру або меншого, який перевозить її до ємності середовища. Ця істота має бути в межах 5 футів від вас, коли ви кидаєте це заклинання.    
+Якщо ви прибудете місце, яке вже зайняте об’єктом або істотою, ви і будь-яка істота, яка подорожує з вами отримує 4d6 примусових пошкоджень, і заклинання не здійснює телепортації. 
