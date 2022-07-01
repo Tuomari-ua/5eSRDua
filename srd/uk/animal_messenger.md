@@ -1,14 +1,14 @@
-name: Animal Messenger level: 2 school: enchantment classes: bard druid ranger
+назва: Месенджер Animal : 2 школа: зачарування класи: Бард druid ranger
 
-# Animal Messenger
-_2nd-level enchantment (ritual)_
+# Месенджер тварин
+_Зачарування на 2-му рівні (ритуал)_
 
-**Casting Time:** 1 action    
-**Range:** 30 feet    
-**Components:** V, S, M (a morsel of food)    
-**Duration:** 24 hours
+**Час трансляції :** 1 дія    
+**Діапазон:** 30 футів    
+**компоненти:** V, S, М (балка їжі)    
+**тривалість:** 24 години
 
-By means of this spell, you use an animal to deliver a message. Choose a Tiny beast you can see within range, such as a squirrel, a blue jay, or a bat. You specify a location, which you must have visited, and a recipient who matches a general description, such as "a man or woman dressed in the uniform of the town guard" or "a red-haired dwarf wearing a pointed hat." You also speak a message of up to twenty-five words. The target beast travels for the duration of the spell toward the specified location, covering about 50 miles per 24 hours for a flying messenger, or 25 miles for other animals.    
-When the messenger arrives, it delivers your message to the creature that you described, replicating the sound of your voice. The messenger speaks only to a creature matching the description you gave. If the messenger doesn't reach its destination before the spell ends, the message is lost, and the beast makes its way back to where you cast this spell.
+Ми використовуємо тварину для доставки повідомлення. Оберіть крихітний звір, який ви можете побачити у радіусі, наприклад білку, синю соню, або кажан. Ви вказали місцезнаходження, яке потрібно відвідати, і одержувача, який відповідає загальному опису, такі, "Людина або жінка, одягнені в рівномірність міської сторож" або "голий карлик носив загостреного капелюха." Ви також говорите повідомлення до двадцяти п'яти слів. Цільовий звір рухається на тривалість заклинання у вказане розташування, покриваючи близько 50 миль на 24 години для літаючого посильного, або 25 миль для інших тварин.    
+Коли прийде посиль, він доставляє повідомлення істоті, яку ви описали, реплікуючи звук вашого голосу. месенджер розмовляє лише з істотою, що відповідає призначенню вами опису. Якщо месенджер не досягне свого місця призначення, перш ніж закінчиться орфографія, смикування втрачене, а звір повертається туди, де ви відкидаєте це заклинання.
 
-**At Higher Levels.** If you cast this spell using a spell slot of 3nd level or higher, the duration of the spell increases by 48 hours for each slot level above 2nd. 
+**На вищих рівнях.** Якщо ви транслюєте це заклинання використовуючи гніздо 32-го рівня або вище, тривалість заклинання збільшується на 48 годин для кожного слота вище 2nd. 
