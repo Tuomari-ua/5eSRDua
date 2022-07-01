@@ -1,12 +1,12 @@
-description: How to use a proficiency bonus from the 5th Edition (5e) SRD (System Reference Document).
+опис: як використовувати бонус майстерності з 5-ї версії (5e) SRD (Документація Систем).
 
-# Proficiency Bonus
-Characters have a proficiency bonus determined by level. Monsters also have this bonus, which is incorporated in their stat blocks. The bonus is used in the rules on ability checks, saving throws, and attack rolls.
+# Бонус здібностей
+Символи мають бонус здібності, визначений на рівні. У монстрів також є цей бонус, який включено до своїх основних блоків. Бонус використовується в правилах про чеки здібностей, зберіг кидок і атакуючих роликів.
 
-Your proficiency bonus can't be added to a single die roll or other number more than once. For example, if two different rules say you can add your proficiency bonus to a Wisdom saving throw, you nevertheless add the bonus only once when you make the save.
+Ваш бонус здібностей не можна додати до єдиної вмираючої колі або іншого номера більше одного разу. Наприклад, якщо два різних правила говорять, що ви можете додати бонус здібностей до економії мудрості все-таки додайте бонус тільки один раз, коли ви робите заощадження.
 
-Occasionally, your proficiency bonus might be multiplied or divided (doubled or halved, for example) before you apply it. For example, the rogue's Expertise feature doubles the proficiency bonus for certain ability checks. If a circumstance suggests that your proficiency bonus applies more than once to the same roll, you still add it only once and multiply or divide it only once.
+Час від часу ваш бонус здібностей може бути збільшено або поділений (наприклад), перш ніж ви застосуєте його. Наприклад, Експертиза шахрайської служби подвоює бонус здібностей до певних перевірок здібностей. Якщо обставини свідчать про те, що ваш бонус здібностей застосовується більш ніж один раз до того ж жбурляння, ви все ще додаєте це лише один раз і множите або ділите його лише один раз.
 
-By the same token, if a feature or effect allows you to multiply your proficiency bonus when making an ability check that wouldn't normally benefit from your proficiency bonus, you still don't add the bonus to the check. For that check your proficiency bonus is 0, given the fact that multiplying 0 by any number is still 0. For instance, if you lack proficiency in the History skill, you gain no benefit from a feature that lets you double your proficiency bonus when you make Intelligence (History) checks.
+За тим же словом, якщо функція або ефект дозволять збільшити ваш бонус здібностей при перевірці здібності, що зазвичай не буде корисним від бонусу вашої здібності, і до сих пір не додаємо бонус до перевірки. Для цього перевірте ваші бонуси досягають 0, враховуючи той факт, що множення 0 на будь-яке число все ще 0. Наприклад, якщо вам не вистачає майстерності в історії, ви не отримуєте користі від функції, що дозволяє подвоїти бонус до досконалості, коли робите розвідку (історію).
 
-In general, you don't multiply your proficiency bonus for attack rolls or saving throws. If a feature or effect allows you to do so, these same rules apply.
+Загалом, ви не множите бонус здібностей на атаку або рятує кидів. Якщо функція або ефект дозволять вам це зробити, застосовуються такі ж правила.
