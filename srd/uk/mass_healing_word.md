@@ -1,13 +1,13 @@
-name: Mass Healing Word level: 3 school: evocation classes: cleric
+назва: Масове Лікування Слова рівень: 3 школа: евакуація класів: священнослужителі
 
-# Mass Healing Word
-_3rd-level evocation_
+# Масове зцілення слів
+_Евокація на третьому рівні_
 
 **Casting Time:** 1 bonus action    
 **Range:** 60 feet    
 **Components:** V    
 **Duration:** Instantaneous
 
-As you call out words of restoration, up to six creatures of your choice that you can see within range regain hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+Коли ви викликаєте слова з відновлення, до шести істот вибору, які ви можете побачити у проміжних точках, що дорівнюють 1d4 + вашому модифікаторії здатності. Ця заклинання не впливає на незгадані чи конструкції.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the healing increases by 1d4 for each slot level above 3rd. 
+**На вищих рівнях.** Коли ви кидаєте це заклинання використовуючи слот четвертого рівня або вище, зцілення збільшується на 1d4 для кожного рівня слота вище 3rd. 
