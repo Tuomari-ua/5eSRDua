@@ -1,13 +1,13 @@
-name: Darkness level: 2 school: evocation classes: sorcerer warlock wizard
+назва: Темп рівень: 2 школа: ухилення класів: сортувальник вартовий
 
-# Darkness
-_2nd-level evocation_
+# Темрява
+_Евокація 2-го рівня_
 
 **Casting Time:** 1 action    
 **Range:** 60 feet    
 **Components:** V, M (bat fur and a drop of pitch or piece of coal)    
 **Duration:** Concentration, up to 10 minutes
 
-Magical darkness spreads from a point you choose within range to fill a 15-foot-radius sphere for the duration. The darkness spreads around corners. A creature with darkvision can't see through this darkness, and nonmagical light can't illuminate it.    
-If the point you choose is on an object you are holding or one that isn't being worn or carried, the darkness emanates from the object and moves with it. Completely covering the source of the darkness with an opaque object, such as a bowl or a helm, blocks the darkness.    
-If any of this spell's area overlaps with an area of light created by a spell of 2nd level or lower, the spell that created the light is dispelled. 
+Магічна темність поширюється в точці, яку ви обираєте у діапазоні для заповнення сфери 15-футового радіуса. Темрява поширюється по кутах. Творчість з темнотою не може бачити через цю темряву, немагічне світло не може освітити її.    
+Якщо обрана вами точка знаходиться на об'єкті, який ви тримаєте, або об'єкт, який не носить або переносить, темрява випливає з об’єкта і рухається разом з ним. Повністю покриваючи джерело темряви непрозорим предметом, наприклад миску чи керма, блокує темряву.    
+Якщо будь-яка з області заклинання перетинається з площею світла, створеною заклинанням 2-го рівня або нижче, заклинання що створило світло, відхилено. 
