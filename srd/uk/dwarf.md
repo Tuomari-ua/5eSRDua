@@ -1,36 +1,36 @@
-description: Rules and information for the Dwarf race from the 5th Edition (5e) SRD (System Reference Document).
+опис: Правила та інформація для гонки Dwarf від 5-ї версії (5e) SRD (Документація з Системної Документації).
 
-# Dwarf
-## Dwarf Traits
+# Гноми
+## Карликові риси
 - - -
-Your dwarf character has an assortment of inborn abilities, part and parcel of dwarven nature.
+У вашого карликового героя росте з умільностями, частинкою карликової природи.
 
-**Ability Score Increase.** Your Constitution score increases by 2.
+**Оцінка здібностей зростає.** Оцінка вашої Конституції збільшується на 2.
 
-**Age.** Dwarves mature at the same rate as humans, but they’re considered young until they reach the age of 50. On average, they live about 350 years.
+**Вік.** Дари дозріли з тією ж швидкістю, що і люди, але вони вважалися молодими, поки не досягнули 50 років. В середньому вони живуть близько 350 років.
 
-**Alignment.** Most dwarves are lawful, believing firmly in the benefits of a well-­‐‑ordered society. They tend toward good as well, with a strong sense of fair play and a belief that everyone deserves to share in the benefits of a just order.
+**Визнавство.** Більшість гномів беззаконні, віруючи твердо у перевагах доброго закладеного суспільства. Вони також схильні до добра. з сильним почуттям чесної гри та переконанням, що всі заслуговують на те, щоб поділитися перевагами справедливого порядку.
 
-**Size.** Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium.
+**Розмір.** Ввійни стоять між 4 та 5 футами на висоту і в середньому близько 150 фунтів. Ваш розмір є медичним.
 
-**Speed.** Your base walking speed is 25 feet. Your speed is not reduced by wearing heavy armor.
+**Швидкість.** Ваша основна швидкість ходьби становить 25 футів. Ваша швидкість не зменшується, носячи у важкому броні.
 
-**Darkvision.** Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+**Темний зір** пристосований до життя під землею, у вас є вище бачення в темних і тьмяних умовах. Ви можете бачити в тьмяному світлі 60 футів від вас, як якщо б було яскраве світло, а в пітьмі наче було тьмяне світло. Ви не можете розрізняти колір у темряві, лише відтінки сірого кольору.
 
-**Dwarven Resilience.** You have advantage on saving throws against poison, and you have resistance against poison damage.
+**Стійкість до Dwarven** . Ви маєте перевагу в збереженні кидків проти отрути, і маєте опір проти отрути.
 
-**Dwarven Combat Training.** You have proficiency with the battleaxe, handaxe, light hammer, and warhammer.
+**Робибе бойове прислів'я.** У вас є досвідченість із сокирою бою, гандротикою, легким молотком і теплом.
 
-**Tool Proficiency.** You gain proficiency with the artisan’s tools of your choice: smith’s tools, brewer’s supplies, or mason’s tools.
+**Дослідність знаряддя.** Ви отримуєте майстерність з інструментами вашого вибору ремісника: інструментів посмішки, поставки або інструменти каменярів каменяра.
 
-**Stonecunning.** Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
+**Приголомшити.** Кожного разу, коли ви робите перевірку інтелекту (історії), пов'язаної з походженням кам'янистої, вас розглядають навички історії і додають подвоїти ваші здібності до перевірки, замість вашого звичайного бонусу.
 
-**Languages.** You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.
+**Мови** Можете говорити, читати і писати звичайне і святкове положення. Дварвіш повний складних приголосних і гутдинних звуків, і ці характеристики перекидаються на будь-яку іншу мову, до якої б говорив карлик.
 
-## Hill Dwarf
+## Гірські гори
 
-As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience.
+Як гном із пагорбом, ми маємо гострі відчуття, глибоке розуміння та неабияку стійкість.
 
-**Ability Score Increase.** Your Wisdom score increases by 1.
+**Оцінка здібностей зростає.** Ваш рахунок мудрості збільшується на 1.
 
-**Dwarven Toughness.** Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.
+**Dwarven Точко.** Максимальна висота точки дотику збільшується на 1, і він збільшується на 1 кожен раз коли ви отримуєте рівень.
