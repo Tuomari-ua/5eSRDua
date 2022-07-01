@@ -1,13 +1,13 @@
-name: Giant Eagle type: beast cr: 1
+назва: Гігантний орел тип: звір cr: 1
 
-# Giant Eagle
-_Large beast, neutral good_
+# Гігантський орел
+_Великий звір, нейтральний благ_
 
-**Armor Class** 13    
-**Hit Points** 26 (4d10 + 4)    
-**Speed** 10 ft., fly 80 ft.
+**Клас броні** 13    
+**Очки** 26 (4d10 + 4)    
+format@@**швидкість** Фут (переносити 80 футів.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA     |
 | ------- | ------- | ------- | ------ | ------- | ------- |
 | 16 (+3) | 17 (+3) | 13 (+1) | 8 (−1) | 14 (+2) | 10 (+0) |
 
@@ -16,11 +16,11 @@ _Large beast, neutral good_
 **Languages** Giant Eagle, understands Common and Auran but can't speak them    
 **Challenge** 1 (200 XP)
 
-**Keen Sight.** The eagle has advantage on Wisdom (Perception) checks that rely on sight.
+**Кін Sight.** Орел має перевагу в Wisdom (виключення) перевірки, які покладаються на погляд.
 
-### Actions
-**Multiattack.** The eagle makes two attacks: one with its beak and one with its talons.    
-**Beak.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) piercing damage. Talons. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) slashing damage.
+### Дії
+**Багатоатака.** Орел робить дві атаки: один з них дзьобом і один з його талантами.    
+**Дзьоб.** _Атака Міле Зброя:_ +5 щоб вдарити, досягнути 5-ї цілі, одну ціль. _Вразів:_ 6 (1d6 + 3) наносити пошкодження. Кігті або талони. _Атака ближньої зброї:_ +5 щоб вдарити, досягти 5-ї цілі, одну ціль. _Удачі:_ 10 (2d6 + 3) пошкодження пошкоджень.
 
-### Description
-A giant eagle is a noble creature that speaks its own language and understands speech in the Common tongue. A mated pair of giant eagles typically has up to four eggs or young in their nest (treat the young as normal eagles). 
+### Опис
+Гігантський орел - шляхетна істота, що говорить своєю мовою і розуміє мову. Зламана пара гігантських орлів зазвичай має до чотирьох яєць або молоде в своїх гніздах (ставляться до молоді як до нормальних орлів). 
