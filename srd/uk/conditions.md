@@ -1,97 +1,97 @@
-description: Descriptions of different conditions affecting players and creatures from the 5th Edition (5e) SRD (System Reference Document).
+опис: описання різних умов, що впливають на гравців і істот із 5-ї версії (5), SRD (Документація Систем).
 
-# Conditions
-Conditions alter a creature's capabilities in a variety of ways and can arise as a result of a spell, a class feature, a monster's attack, or other effect. Most conditions, such as blinded, are impairments, but a few, such as invisible, can be advantageous.
+# Умови
+Умови змінити можливості істоти різними способами і можуть виникнути в результаті заклинання, класова особливість - напад монстра або інший ефект. Більшість умов, таких як сліпі, - це порушення, але кілька, такі як невидимими, можуть бути вигідними.
 
-A condition lasts either until it is countered (the prone condition is countered by standing up, for example) or for a duration specified by the effect that imposed the condition.
+Умова триває або до тих пір, поки вона не буде розірвана (схильна умова протидіє високім, для прикладу) або на тривалість, зазначений ефектом, що наклав умову.
 
-If multiple effects impose the same condition on a creature, each instance of the condition has its own duration, but the condition's effects don't get worse. A creature either has a condition or doesn't.
+Якщо декілька ефектів накласти таку ж умову на істоту, кожний екземпляр стану має певний тривалість, але вплив умови не погіршується. Функція має або умову, або ні.
 
-The following definitions specify what happens to a creature while it is subjected to a condition.
+Наступні визначення визначають, що відбувається з істотою, поки вона піддається умові.
 
-### Blinded
-* A blinded creature can't see and automatically fails any ability check that requires sight.
-* Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.
+### Засліплено
+* Осліплена істота не може побачити і автоматично не зникає жодної перевірки здібностей, яка потребує зору.
+* Атака проти цієї істоти має перевагу, і атаки істоти мають недолік.
 
-### Charmed
-* A charmed creature can't attack the charmer or target the charmer with harmful abilities or magical effects.
-* The charmer has advantage on any ability check to interact socially with the creature.
+### Чародійці
+* Зачарована істота не може напасти на статуру або націлити її шкідливими здібностями або магічними ефектами.
+* статут має перевагу над будь-якою здатністю взаємодіяти з істотою.
 
-### Deafened
-* A deafened creature can't hear and automatically fails any ability check that requires hearing.
+### Вимкнено звук
+* Оглушені істоти не можуть чути і автоматично не дають жодної перевірки здібностей, що вимагає слухання.
 
-### Exhaustion
-Some special abilities and environmental hazards, such as starvation and the long-term effects of freezing or scorching temperatures, can lead to a special condition called exhaustion. Exhaustion is measured in six levels. An effect can give a creature one or more levels of exhaustion, as specified in the effect's description.
+### Випускний
+Деякі особливі можливості та екологічні небезпеки, такі як голодування та довгострокові наслідки заморожування чи зневаги температури, може привести до особливої умови під назвою виснаження. Вираз вимірюється в шести рівнях. Ефект може надати істоті один або більше рівнів виснаження, як це зазначено в описі ефекту.
 
-| Level | Effect                                         |
-| ----- | ---------------------------------------------- |
-| 1     | Disadvantage on ability checks                 |
-| 2     | Speed halved                                   |
-| 3     | Disadvantage on attack rolls and saving throws |
-| 4     | Hit point maximum halved                       |
-| 5     | Speed reduced to 0                             |
-| 6     | Death                                          |
-
-
-If an already exhausted creature suffers another effect that causes exhaustion, its current level of exhaustion increases by the amount specified in the effect's description.
-
-A creature suffers the effect of its current level of exhaustion as well as all lower levels. For example, a creature suffering level 2 exhaustion has its speed halved and has disadvantage on ability checks.
-
-An effect that removes exhaustion reduces its level as specified in the effect's description, with all exhaustion effects ending if a creature's exhaustion level is reduced below 1.
-
-Finishing a long rest reduces a creature's exhaustion level by 1, provided that the creature has also ingested some food and drink.
-
-### Frightened
-* A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.
-* The creature can't willingly move closer to the source of its fear.
-
-### Grappled
-* A grappled creature's speed becomes 0, and it can't benefit from any bonus to its speed.
-* The condition ends if the grappler is incapacitated (see the condition).
-* The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the **_thunder-wave_** spell.
-
-### Incapacitated
-* An incapacitated creature can't take actions or reactions.
-
-### Invisible
-* An invisible creature is impossible to see without the aid of magic or a special sense. For the purpose of hiding, the creature is heavily obscured. The creature's location can be detected by any noise it makes or any tracks it leaves.
-* Attack rolls against the creature have disadvantage, and the creature's attack rolls have advantage.
-
-### Paralyzed
-* A paralyzed creature is incapacitated (see the condition) and can't move or speak.
-* The creature automatically fails Strength and Dexterity saving throws. Attack rolls against the creature have advantage.
-* Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
-
-### Petrified
-* A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.
-* The creature is incapacitated (see the condition), can't move or speak, and is unaware of its surroundings.
-* Attack rolls against the creature have advantage.
-* The creature automatically fails Strength and Dexterity saving throws.
-* The creature has resistance to all damage.
-* The creature is immune to poison and disease, although a poison or disease already in its system is suspended, not neutralized.
+| Рівень | Ефект                                                    |
+| ------ | -------------------------------------------------------- |
+| 1      | Недолік щодо перевірки здатності                         |
+| 2      | Швидкість зменшилася вдвічі,                             |
+| 3      | Не допускати переваги для перекидання і збереження кидок |
+| 4      | Потужна точка максимум вдвічі менша                      |
+| 5      | Швидкість зменшена до 0                                  |
+| 6      | Смерть                                                   |
 
 
-### Poisoned
-* A poisoned creature has disadvantage on attack rolls and ability checks.
+Якщо вже вичерпана істота страждає іншим впливом, який спричиняє виснаження, його поточний рівень виснаження збільшується на суму, вказану в описі ефекту.
 
-### Prone
-* A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.
-* The creature has disadvantage on attack rolls.
-* An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.
+Творчість страждає від впливу поточного рівня виснаження, а також усіх нижчих рівнів. Наприклад, випереджання істот рівня 2 має вдвічі швидкість і має недолік на перевірку спроможності.
 
-### Restrained
-* A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed.
-* Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.
-* The creature has disadvantage on Dexterity saving throws.
+Ефект від видалення, виснаження знижує його рівень, як зазначено в описі ефекту, з усіма ефектами виснаження і закінчення якщо рівень виснаження істоти зрівняється нижче 1.
 
-### Stunned
-* A stunned creature is incapacitated (see the condition), can't move, and can speak only falteringly.
-* The creature automatically fails Strength and Dexterity saving throws.
-* Attack rolls against the creature have advantage.
+Завершення довгого відпочинку знижує рівень виснаження істоти на 1, за умови, що істота також закріпила певну кількість їжі та пиття.
 
-### Unconscious
-* An unconscious creature is incapacitated (see the condition), can't move or speak, and is unaware of its surroundings
-* The creature drops whatever it's holding and falls prone.
-* The creature automatically fails Strength and Dexterity saving throws.
-* Attack rolls against the creature have advantage.
-* Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
+### Запряжений
+* Перелякана істота не дала переваги перевіркам здатності та угодам на атаку, тоді як джерело її страху перебуває на межі зору.
+* Творчість не може охоче рухатись ближче до джерела його страху.
+
+### Перефарбування
+* Швидкість почесаної істоти стає нулем, і вона не може отримати від будь-якого бонусу до його швидкості.
+* Угода закінчується, якщо виноградник недієздатний (див. умову).
+* Умова також закінчується, якщо ефект скасує пересадку кредитами від досягнення виноградника або грейдної справи, наприклад коли істота відхиляється **_грандіозною хвилею_** заклинання .
+
+### Неконскінченний
+* Втрачене істота не може виконати дії або реакції.
+
+### Невидимий
+* Невидима істота неможливо побачити без допомоги магії чи особливого сенсу. З метою приховування істота сильно затьмарена. Розташування істоти може бути виявлене будь-яким шумом, який він створює або віддає будь-які сліди.
+* Атака проти істоти має недолік, і атака істоти має перевагу.
+
+### О<unk> <unk>
+* Паралізована істота є недієздатною (див. умову) і не може рухатися чи говорити.
+* Творчість автоматично зазнає невдачі, кидання сили та зла. Сила атаки проти істот має перевагу.
+* Будь-яка атака, яка потрапляє на істоту, є критичною ударом, якщо нападник знаходиться на висоті 5 футів істоти.
+
+### Петріфіт
+* Наполеглива істота перетворюється разом з немагічним об'єктом, який вона носить або переносить, у надійну неанімовану речовину (зазвичай камінь). Його вага збільшується в 10 разів, і перестає старіти.
+* Ця істота є недієздатною (див. умову), не може переміщатися або говорити, і не знає про своє оточення.
+* Сила атаки проти істот має перевагу.
+* Творчість автоматично зазнає невдачі, кидання сили та зла.
+* Творчість має опір усій шкоді.
+* Ця істота несприйнятлива до отрути та хвороби, хоча в її системі вже призупинена, а не нейтралізована.
+
+
+### Отруєний
+* Отруєна істота не має сенсу ставати на атаку кидок і чеки здібності.
+
+### Лягти
+* Поворот однієї жолобної істоти — лише плазувати, якщо вона не встає і не закінчується тим самим станом.
+* Ця істота має недоліки в атаках на ролики.
+* Атака на рол істоти має перевагу, якщо нападник знаходиться на 5 футів істоти. В іншому випадку рух атаки має недолік.
+
+### Обмежений
+* Стримана швидкість істоти стає нулем, і вона не може отримати бонус від швидкості.
+* Атака проти цієї істоти має перевагу, і атаки істоти мають недолік.
+* Творчість має несприятливий вплив на економію сексуальності.
+
+### Приголомшено
+* Приголомшена істота недієздатна (див. умову), не можна рухатися, і говорить тільки помилково.
+* Творчість автоматично зазнає невдачі, кидання сили та зла.
+* Сила атаки проти істот має перевагу.
+
+### У безпам’ятстві
+* Несвідома істота недієздатна (див. умову), не можна переміщатися або говорити, і не усвідомлює її оточення.
+* Ця істота крапляє все, що тримає і впаде.
+* Творчість автоматично зазнає невдачі, кидання сили та зла.
+* Сила атаки проти істот має перевагу.
+* Будь-яка атака, яка потрапляє на істоту, є критичною ударом, якщо нападник знаходиться на висоті 5 футів істоти.
