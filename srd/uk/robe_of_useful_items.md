@@ -1,33 +1,33 @@
-name: Robe of Useful Items type: item
+назва: Шафа з корисних елементів тип: елемент
 
-# Robe of Useful Items
-_Wondrous item, uncommon_
+# Корисні речі
+_Нетиповий для Wondrous_
 
-This robe has cloth patches of various shapes and colors covering it. While wearing the robe, you can use an action to detach one of the patches, causing it to become the object or creature it represents. Once the last patch is removed, the robe becomes an ordinary garment.
+В цій сукні є тканини з різними формами і кольорами, що покривають її. При одязі в тканині, ви можете використовувати дію, щоб відключити одне з патчів, завдяки чому воно стає предметом або істотою, що його представляє. Після того, як останній патч буде знято, сукня стає звичайним одягом.
 
-The robe has two of each of the following patches:
+Одяг має два з наступних патчів:
 
 * Dagger
-* Bullseye lantern (filled and lit)
-* Steel mirror
-* 10-foot pole
-* Hempen rope (50 feet, coiled)
-* Sack
+* Ліхтар ліхтар (заповнений і охай)
+* Сталеве дзеркало
+* 10-футовий полюс
+* Гемпен (50 футів, спів)
+* Мішок
 
-In addition, the robe has 4d4 other patches. The GM chooses the patches or determines them randomly.
+Крім того, в одязі 4 патчі знаходиться 4d4 інших. GM обирає патчі або навмання визначає їх.
 
-| d100  | Patch                                                                                                                                                                                             |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 01-08 | Bag of 100 gp                                                                                                                                                                                     |
-| 09-15 | Silver coffer (1 foot long, 6 inches wide and deep) worth 500 gp                                                                                                                                  |
-| 16-22 | Iron door (up to 10 feet wide and 10 feet high, barred on one side of your choice), which you can place in an opening you can reach; it conforms to fit the opening, attaching and hinging itself |
-| 23-30 | 10 gems worth 100 gp each                                                                                                                                                                         |
-| 31-44 | Wooden ladder (24 feet long)                                                                                                                                                                      |
-| 45-51 | A riding horse with saddle bags                                                                                                                                                                   |
-| 52-59 | Pit (a cube 10 feet on a side), which you can place on the ground within 10 feet of you                                                                                                           |
-| 60-68 | 4 potions of healing                                                                                                                                                                              |
-| 69-75 | Rowboat (12 feet long)                                                                                                                                                                            |
-| 76-83 | Spell scroll containing one spell of 1st to 3rd level                                                                                                                                             |
-| 84-90 | 2 mastiffs                                                                                                                                                                                        |
-| 91-96 | Window (2 feet by 4 feet, up to 2 feet deep), which you can place on a vertical surface you can reach                                                                                             |
-| 97-00 | Portable ram                                                                                                                                                                                      |
+| д100  | Патч                                                                                                                                                                                           |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 01-08 | Мішок від 100 ґп                                                                                                                                                                               |
+| 09-15 | Срібна труна (1 фут, довжина, 6 дюймів завширшки та глибока) вартістю 500 G                                                                                                                    |
+| 16-22 | Залізні двері (до 10 футів завширшки та 10 футів заввишки, заборонені на один бік вибору), які ви можете помістити у відкритті, ви можете досягти; він відповідає відкритому та прив'язує себе |
+| 23-30 | 10 самоцвітів вартістю 100 Gp кожні                                                                                                                                                            |
+| 31-44 | Дерев’яна драбина (довжина 24 фути)                                                                                                                                                            |
+| 45-51 | Їздовий кінь з сідловими сумками                                                                                                                                                               |
+| 52-59 | Піт (куб на боці), який можна розмістити на землі в межах 10 футів від вас                                                                                                                     |
+| 60-68 | 4 зілля зцілення                                                                                                                                                                               |
+| 69-75 | Рятувальний човен (довжиною 12 футів)                                                                                                                                                          |
+| 76-83 | Прокрутка орфографії, що містить одне заклинання 1-го на третій рівень                                                                                                                         |
+| 84-90 | 2 володіння                                                                                                                                                                                    |
+| 91-96 | Вікно (на 2 фути на 4 фути заввишки до 2 футів), що можна розмістити на вертикальній поверхні ви можете дістатися                                                                              |
+| 97-00 | Portable ram                                                                                                                                                                                   |
