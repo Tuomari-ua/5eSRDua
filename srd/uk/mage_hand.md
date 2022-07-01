@@ -1,13 +1,13 @@
-name: Mage Hand level: 0 school: conjuration classes: bard sorcerer warlock wizard
+назва: Рівень старої руки : 0 школа: conjuration класі: маємо чіткий сортувальник warlock
 
-# Mage Hand
-_Conjuration cantrip_
+# Магія рук
+_Конджонтрофей_
 
-**Casting Time:** 1 action    
-**Range:** 30 feet    
-**Components:** V, S    
-**Duration:** 1 minute
+**Час трансляції :** 1 дія    
+**Діапазон:** 30 футів    
+**компоненти:** V, S    
+**тривалість:** хвилини
 
-A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again.    
-You can use your action to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it.    
-The hand can't attack, activate magic items, or carry more than 10 pounds. 
+Спектральна, плаваюча рука виявляється в точці, яку ви обираєте в межах діапазону. Рука триває протягом тривалості або поки ви не відкинете її як дію. Рука зникає, якщо воно є більш, ніж за 30 футів від вас або якщо ви відкинете це заклинання знову.    
+Ви можете використовувати свою дію для керування рукою. Ви можете використовувати руку для маніпулювання об'єктом, відкрийте відкриті двері або контейнер, обводіть або завантажте предмет із відкритого контейнера чи налийте вміст із флаєру. Можна порухати руку вгору до 30 футів кожен раз, коли ви її використовуєте.    
+Рука не може атакувати, активуйте магічні предмети або переносьте більше 10 фунтів. 
