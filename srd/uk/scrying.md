@@ -1,27 +1,27 @@
 name: Scrying level: 5 school: divination classes: bard cleric druid warlock wizard
 
-# Scrying
-_5th-level divination_
+# Закріплення
+_П’ятий рівень розмежування_
 
-**Casting Time:** 10 minutes    
-**Range:** Self    
-**Components:** V, S, M (a focus worth at least 1,000 gp, such as a crystal ball, a silver mirror, or a font filled with holy water)    
-**Duration:** Concentration, up to 10 minutes
+**Кастинг часу:** 10 хвилин    
+**Діапазон:** Самостій    
+**компоненти:** V, S, М (фокус коштує щонайменше 1, 00 краю, наприклад, кришталевий м'яч, срібло дзеркало, або шрифт, заповнений святою водою)    
+**Тривалість:** концентації, до 10 хвилин
 
-You can see and hear a particular creature you choose that is on the same plane of existence as you. The target must make a Wisdom saving throw, which is modified by how well you know the target and the sort of physical connection you have to it. If a target knows you're casting this spell, it can fail the saving throw voluntarily if it wants to be observed.
+Ви можете побачити і почути певну істоту, яку ви оберете, яка є в тій же літаку існування. Ціль повинна зробити економію мудрості який змінюється тим, наскільки добре ви знаєте ціль і свого роду фізичний зв'язок, який ви повинні зробити. Якщо ціль знає, що ви лите це заклинання, то це може провалитися добровільно заощадження, якщо він хоче спостерігати.
 
-| Knowledge                                 | Save Modifier |
-| ----------------------------------------- | ------------- |
-| Secondhand (you have heard of the target) | +5            |
-| Firsthand (you have met the target)       | 0             |
-| Familiar (you know the target well)       | -5            |
+| Знання                                | Зберегти модифікатор |
+| ------------------------------------- | -------------------- |
+| Вторинна рука (ви чули про ціль)      | +5                   |
+| Перша (ви зустріли ціль)              | 0                    |
+| Знайомі (ви добре знаєте цей додаток) | -5                   |
 
-| Connection                                        | Save Modifier |
-| ------------------------------------------------- | ------------- |
-| Likeness or picture                               | -2            |
-| Possession or garment                             | -4            |
-| Body part, lock of hair, bit of nail, or the like | -10           |
+| З'єднання                                       | Зберегти модифікатор |
+| ----------------------------------------------- | -------------------- |
+| Вподобання чи зображення                        | -2                   |
+| Володіння або одяг                              | -4                   |
+| Частка тіла, замка волосся, деталі нігті або як | -10                  |
 
-On a successful save, the target isn't affected, and you can't use this spell against it again for 24 hours.    
-On a failed save, the spell creates an invisible sensor within 10 feet of the target. You can see and hear through the sensor as if you were there. The sensor moves with the target, remaining within 10 feet of it for the duration. A creature that can see invisible objects sees the sensor as a luminous orb about the size of your fist.    
-Instead of targeting a creature, you can choose a location you have seen before as the target of this spell. When you do, the sensor appears at that location and doesn't move. 
+У успішному збереженні ціль не впливає, і ви не можете знову використовувати це заклинання протягом 24 годин.    
+На невдалому збереженні заклинання створює невидимий датчик в межах 10 футів від цілі. Ви можете бачити і чути через датчик як ніби ви були там. Сенсор рухається з ціллю, залишається на її відстані в 10 футів завдовшки. Творця, яка може бачити невидимі предмети, бачить сенсор як світлу орбіту розміром з ваш кулак.    
+Замість націлення істоти ви можете вибрати місце, яке ви бачили раніше під час цілі цього заклинання. Коли ви це робите, сенсор з'являється в цьому місці і не рухається. 
