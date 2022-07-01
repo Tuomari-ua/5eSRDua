@@ -1,6 +1,6 @@
-name: Periapt of Health type: item
+назва: Periapt здоров’я типу: елемент
 
-# Periapt of Health
-_Wondrous item, uncommon_
+# Періапт здоров'я
+_Нетиповий для Wondrous_
 
-You are immune to contracting any disease while you wear this pendant. If you are already infected with a disease, the effects of the disease are suppressed you while you wear the pendant. 
+У вас імунітет до лікування будь-якої хвороби, в той час як ви носите цей стовпець. Якщо ви вже заражені хворобою, наслідки захворювання придушують вас, коли ви носите на себе пендент. 
