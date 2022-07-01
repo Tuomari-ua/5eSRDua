@@ -1,12 +1,12 @@
-name: Grease level: 1 school: conjuration classes: wizard
+назва: Вітайте рівень: 1 школу: conjuration класи: майстер
 
-# Grease
-_1st-level conjuration_
+# Мастило
+_Однорівнева тривалість_
 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S, M (a bit of pork rind or butter)    
-**Duration:** 1 minute
+**Час трансляції :** 1 дія    
+**Діапазон:** 60 футів    
+**компоненти:** V, S, М (трохи веранди або метелика)    
+**тривалість:** хвилини
 
-Slick grease covers the ground in a 10-foot square centered on a point within range and turns it into difficult terrain for the duration.    
-When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or fall prone. A creature that enters the area or ends its turn there must also succeed on a Dexterity saving throw or fall prone. 
+На 10-футовому квадратному рівні косий колірий покриває землю і перетворює на важку ділянку на певну тривалість.    
+При появі жадібності, кожна істота, що стоїть в його області, повинна досягти успіху в злобі збереження побуту або падіння вини. Придума, яка входить в область або закінчується своєю чергою, повинна також досягти успіху у поліпшенні побуту або впасти. 
