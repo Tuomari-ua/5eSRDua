@@ -1,13 +1,13 @@
-name: Hippogriff type: monstrosity cr: 1
+назва: Hippogriff тип: чудовисько cr: 1
 
 # Hippogriff
-_Large monstrosity, unaligned_
+_Величезний чудовиськ, не вирівняти_
 
 **Armor Class** 11    
 **Hit Points** 19 (3d10 + 3)    
 **Speed** 40 ft., fly 60 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 17 (+3) | 13 (+1) | 13 (+1) | 2 (−4) | 12 (+1) | 8 (−1) |
 
@@ -16,9 +16,9 @@ _Large monstrosity, unaligned_
 **Languages** --    
 **Challenge** 1 (200 XP)
 
-**Keen Sight.** The hippogriff has advantage on Wisdom (Perception) checks that rely on sight.
+**Кін Sight.** Бегемот має перевагу в мудрості (Виключення) перевірки, які покладаються на зір.
 
-### Actions
-**Multiattack.** The hippogriff makes two attacks: one with its beak and one with its claws.    
-**Beak.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 8 (1d10 + 3) piercing damage.    
-**Claws.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) slashing damage.
+### Дії
+**Багатоатака.** Бегемот робить дві атаки: один з них дзьобом, а один з його кігті.    
+**Дзьоб.** _Атака Міле Зброя:_ +5 щоб вдарити, досягнути 5-ї цілі, одну ціль. _Вразу:_ 8 (1d10 + 3) + пробної пошкодження.    
+**Кігті.** _Атака ближньої зброї:_ +5, щоб вдарити в нього, досягти 5-ї цілі, одну ціль. _Удачі:_ 10 (2d6 + 3) пошкодження пошкоджень.
