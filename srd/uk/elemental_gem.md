@@ -1,13 +1,13 @@
-name: Elemental Gem type: item
+назва: Елемент тип: елемент
 
-# Elemental Gem
-_Wondrous item, uncommon_
+# Елементальний самоцвіт
+_Нетиповий для Wondrous_
 
-This gem contains a mote of elemental energy. When you use an action to break the gem, an elemental is summoned as if you had cast the **_conjure elemental_** spell, and the gem's magic is lost. The type of gem determines the elemental summoned by the spell.
+Ця гем містить мот стихійної енергії. Коли ви використовуєте дію для ламу каменю, елементу викликають виклик, ніби ви кинули **_виклик елементу_** орфографію, і чари коштовного каміння втрачено. Тип каменя визначає елемент, який заклинає заклинання у заклинання .
 
-| Gem            | Summoned elemental |
-| -------------- | ------------------ |
-| Blue sapphire  | Air elemental      |
-| Yellow diamond | Earth elemental    |
-| Red corundum   | Fire elemental     |
-| Emerald        | Water elemental    |
+| Самоцвіт       | Призивні елементи          |
+| -------------- | -------------------------- |
+| Blue sapphire  | Газове стихійне середовище |
+| Жовтий діамант | Елемент Землі              |
+| Red corundum   | Вогневий стиль             |
+| Смарагд        | Водяний елемент            |
