@@ -1,13 +1,13 @@
-name: Ice Mephit type: elemental cr: .5
+назва: Ice Mephit тип: елемент cr: .5
 
-# Ice Mephit
-_Small elemental, neutral evil_
+# Крижана Мефіт
+_Невелике елементарне, нейтральне зло_
 
-**Armor Class** 11    
-**Hit Points** 21 (6d6)    
-**Speed** 30 ft., fly 30 ft.
+**Клас броні** 11    
+**Очків** 21 (6d6)    
+**швидкість** 30 фт, ліг 30 футів.
 
-| STR    | DEX     | CON     | INT    | WIS     | CHA     |
+| СТР    | ДЕКС    | CON     | ІНТ    | WIS     | CHA     |
 | ------ | ------- | ------- | ------ | ------- | ------- |
 | 7 (−2) | 13 (+1) | 10 (+0) | 9 (−1) | 11 (+0) | 12 (+1) |
 
@@ -19,10 +19,10 @@ _Small elemental, neutral evil_
 **Languages** Aquan, Auran    
 **Challenge** 1/2 (100 XP)
 
-**Death Burst.** When the mephit dies, it explodes in a burst of jagged ice. Each creature within 5 feet of it must make a DC 10 Dexterity saving throw, taking 4 (1d8) slashing damage on a failed save, or half as much damage on a successful one.    
-**False Appearance.** While the mephit remains motionless, it is indistinguishable from an ordinary shard of ice.    
-**Innate Spellcasting (1/Day).** The mephit can innately cast **_fog cloud_**, requiring no material components. Its innate spellcasting ability is Charisma.
+**Вибух смерті.** Коли мефіт загине, він вибухає в сплеску бандитого льоду. Кожна істота в межах 5 футів її має зробити заощадливість DC 10 отримання 4 (1d8) пошкодження при невдалому збереженні, або ж вдвічі більше шкоди від успішного.    
+**False Appearance.** Незважаючи на те, що mephit залишається нерухомим, він не відрізняється від звичайного фрагменту льоду.    
+**Innate Spellcasting (1/Day).** mephit може включати **_туманну хмару_**, не вимагаючи ніяких матеріальних компонентів. Його вроджена здатність заклинання - харизма.
 
-### Actions
-**Claws.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one creature. _Hit:_ 3 (1d4 + 1) slashing damage plus 2 (1d4) cold damage.    
-**Frost Breath (Recharge 6).** The mephit exhales a 15- foot cone of cold air. Each creature in that area must succeed on a DC 10 Dexterity saving throw, taking 5 (2d4) cold damage on a failed save, or half as much damage on a successful one.
+### Дії
+**Кістки** _Атака ближньої зброї:_ +3, сягнути до 5, одна істота. _Удач:_ 3 (1d4 + 1) пошкодження плюс 2 (1d4) холодної шкоди.    
+**Заморожений дихання (Поповнення 6).** Мишею забирає 15 - футів монуса холодного повітря. Кожна істота в цій області має бути успішною в низці DC 10 заподіяння 5 (2d4) холодна шкода від спадного заощадження, або ж удвічі більше шкоди від успішного.
