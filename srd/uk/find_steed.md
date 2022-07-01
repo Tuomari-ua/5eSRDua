@@ -1,15 +1,15 @@
-name: Find Steed level: 2 school: conjuration classes: paladin
+назва: Керування вимірюванням рівень: 2 школу: conjuration класів: paladin
 
-# Find Steed
-_2nd-level conjuration_
+# Віднайди
+_Однорівнева тривалість_
 
-**Casting Time:** 10 minutes    
-**Range:** 30 feet    
-**Components:** V, S    
-**Duration:** Instantaneous
+**Час трансляції :** 10 хвилин    
+**Діапазон:** 30 футів    
+**компоненти:** V, S    
+**тривалість:** миттєві
 
-You summon a spirit that assumes the form of an unusually intelligent, strong, and loyal steed, creating a long-lasting bond with it. Appearing in an unoccupied space within range, the steed takes on a form that you choose: a warhorse, a pony, a camel, an elk, or a mastiff. (Your GM might allow other animals to be summoned as steeds.) The steed has the statistics of the chosen form, though it is a celestial, fey, or fiend (your choice) instead of its normal type. Additionally, if your steed has an Intelligence of 5 or less, its Intelligence becomes 6, and it gains the ability to understand one language of your choice that you speak.    
-Your steed serves you as a mount, both in combat and out, and you have an instinctive bond with it that allows you to fight as a seamless unit. While mounted on your steed, you can make any spell you cast that targets only you also target your steed.    
-When the steed drops to 0 hit points, it disappears, leaving behind no physical form. You can also dismiss your steed at any time as an action, causing it to disappear. In either case, casting this spell again summons the same steed, restored to its hit point maximum.    
-While your steed is within 1 mile of you, you can communicate with it telepathically.    
-You can't have more than one steed bonded by this spell at a time. As an action, you can release the steed from its bond at any time, causing it to disappear. 
+Ви називаєте дух, який має на увазі форму незвично розумного, сильного та вірного, що створює з собою довготривалий зв'язок. Показується в незаселеному просторі на відстані, керівник притягує до себе таку форму, як войовничий кінь, поні, верблюд, або мастиф. (Ваша GM може дозволяти іншим тваринам викликатися як сталь.) Крадіжка має статистику вибраної форми, хоча це небесна, гора чи багаття (ваш вибір) замість нормального типу. Крім того, якщо ваш пристрій має певну розвідку від 5 до менше, його розвідка стане 6, і це набирає здатності зрозуміти одну мову на ваш вибір, який ви говорите.    
+Ваш номер телефону служить вам як монтаж, і в бою і в майбутньому, і у вас є інстинктивний зв'язок, що дозволяє боротись як плавний підрозділ. Поки встановлений на стелі, ви можете зробити будь-яку заклинання ви кладете лише на нього націлені вами.    
+Крадіжка до 0 хітів зникає, він зникає, залишаючи поза собою не фізичну форму. Ви також можете звільнити стеж в будь-який час як дії, що призведе до його зникнення. В іншому випадку, лиття цього заклинання знову ж таки випромінює той самий степ, відновився до раннього максимуму.    
+доки ваше тіло знаходиться в межах 1 милі з вас, ви можете спілкуватися з ним по телепатичній формі.    
+Ви не можете мати більше ніж один зі сторін при заклинання одночасно. В будь-який час ви можете вивільнити кодований його зв'язок, внаслідок чого він зникне. 
