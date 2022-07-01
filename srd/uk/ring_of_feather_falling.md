@@ -1,6 +1,6 @@
-name: Ring of Feather Falling type: ring
+назва: Кільце Перської Падіння типу: зворот
 
-# Ring of Feather Falling
-_Ring, rare (requires attunement)_
+# Кільце Пірного Падіння
+_Рідкісний, рідкісний (вимагає відвідування)_
 
-When you fall while wearing this ring, you descend 60 feet per round and take no damage from falling. 
+Коли ви впадете у цю обручку, ви опускаєтесь на 60 футів за раунд та не завдаєте шкоди падінню. 
