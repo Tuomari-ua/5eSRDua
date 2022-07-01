@@ -1,6 +1,6 @@
-name: Potion of Water Breathing type: potion
+назва: Зілля дихання води тип: зілля
 
-# Potion of Water Breathing
-_Potion, uncommon_
+# Зілля дихання води
+_Тривале зілля_
 
-You can breathe underwater for 1 hour after drinking this potion. Its cloudy green fluid smells of the sea and has a jellyfish-like bubble floating in it.
+Ви можете дихати підводою на 1 годину після проведення цього зілля. Його хмарно зелена рідина пахне море і є медуза, як медуза, плаває в ньому.
