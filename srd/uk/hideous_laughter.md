@@ -1,12 +1,12 @@
-name: Hideous Laughter level: 1 school: enchantment classes: bard wizard
+назва: Сміх рівень: 1 школа: зачарування класів: майстер лінійки
 
-# Hideous Laughter
-_1st-level enchantment_
+# Гірка сміх
+_Зачарування на перший рівень_
 
 **Casting Time:** 1 action    
 **Range:** 30 feet    
 **Components:** V, S, M (tiny tarts and a feather that is waved in the air)    
 **Duration:** Concentration, up to 1 minute
 
-A creature of your choice that you can see within range perceives everything as hilariously funny and falls into fits of laughter if this spell affects it. The target must succeed on a Wisdom saving throw or fall prone, becoming incapacitated and unable to stand up for the duration. A creature with an Intelligence score of 4 or less isn't affected.    
-At the end of each of its turns, and each time it takes damage, the target can make another Wisdom saving throw. The target has advantage on the saving throw if it's triggered by damage. On a success, the spell ends. 
+Творчість вашого вибору, яку ви можете бачити за діапазоном, сприймає все, як несамовиті і попадають у силу сміху, якщо це заклинання впливає на нього. Ціль повинна досягти успіху в економії мудрості кидання чи осені, стаючи нездатною і не в змозі встати на тривалість. Творчість з інтелектом у 4 чи менш впливає.    
+у кінці кожної з своїх вигод і у кожному разі виявляє шкоду, ціль може зробити ще одну стрілку Мудро. Ціль має перевагу в скиданні заощадження, якщо вона викликана пошкодженням. Після успіху заклинання закінчується. 
