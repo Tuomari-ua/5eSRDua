@@ -1,13 +1,13 @@
-name: Awakened Shrub type: plant cr: 0
+назва: Пробуджений Shrub тип: посадити cr: 0
 
-# Awakened Shrub
-_Small plant, unaligned_
+# Пробуджений руб
+_Маленький завод, неприєднаний_
 
-**Armor Class** 9    
-**Hit Points** 10 (3d6)    
-**Speed** 20 ft.
+**Клас броні**    
+**Очки** 10 (3d6)    
+**швидкість** фут.
 
-| STR    | DEX    | CON     | INT     | WIS    | CHA    |
+| СТР    | ДЕКС   | CON     | ІНТ     | WIS    | CHA    |
 | ------ | ------ | ------- | ------- | ------ | ------ |
 | 3 (−4) | 8 (−1) | 11 (+0) | 10 (+0) | 0 (+0) | 6 (−2) |
 
@@ -17,9 +17,9 @@ _Small plant, unaligned_
 **Languages** one language known by its creator    
 **Challenge** 0 (10 XP)
 
-**False Appearance.** While the shrub remains motionless, it is indistinguishable from a normal shrub.
+**Помилковий вигляд.** хоча креб залишається нерухомим, його не можна відрізнити від звичайного чагарника.
 
-### Actions
-**Rake.** _Melee Weapon Attack:_ +1 to hit, reach 5 ft., one target. _Hit:_ 1 (1d4 − 1) slashing damage.
+### Дії
+**Кик** _Атака ближньої зброї:_ +1 до удару, досягає 5-ї цілі, одна ціль. _Удач:_ 1 (1d4 - 1) зменшення шкоди.
 
-An awakened shrub is an ordinary shrub given sentience and mobility by the awaken spell or similar magic. 
+Пробуджений креб - це звичайний настрій у якості чутливості та мобільності пронизливим заклинання чи подібною магією. 
