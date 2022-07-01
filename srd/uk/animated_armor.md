@@ -1,13 +1,13 @@
-name: Animated Armor type: construct cr: 1
+назва: Анімована броня тип: конструкція cr: 1
 
-# Animated Armor
-_Medium construct, unaligned_
+# Анімована броня
+_Середнє будівництво, невирівняно_
 
-**Armor Class** 18 (natural armor)    
-**Hit Points** 33 (6d8 + 6)    
-**Speed** 25 ft.
+**Клас броні** 18 (природна броня)    
+**Бали** 33 (6d8 + 6)    
+**Швидкість** фут.
 
-| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS    | CHA    |
 | ------- | ------- | ------- | ------ | ------ | ------ |
 | 14 (+2) | 11 (+0) | 13 (+1) | 1 (-5) | 3 (-4) | 1 (-5) |
 
@@ -17,9 +17,9 @@ _Medium construct, unaligned_
 **Languages** --    
 **Challenge** 1 (200 XP)
 
-**Antimagic Susceptibility.** The armor is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the armor must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.    
-**False Appearance.** While the armor remains motionless, it is indistinguishable from a normal suit of armor.
+**Підсилення до антимагіки.** Броня пошкоджено в районі антимагічного поля. Якщо націлене магією розпорошення, броня повинна досягти успіху в економії Конституції проти заклинання автора перед збереженням округ Колумбія або несвідомим на 1 хвилину.    
+**Помилковий вигляд.** Незважаючи на те, що броня залишається нерухомою, її не можна відрізнити від нормального костюма зброї.
 
-### Actions
-**Multiattack.** The armor makes two melee attacks.    
-**Slam.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) bludgeoning damage.
+### Дії
+**Мультиатака.** Броня готує дві атаки в ближньому боці    
+**Слема.** _Атака ближньої зброї:_ +4 щоб вдарити, досягти 5-ти цілі, одна ціль. _Удара:_ 5 (1d6 + 2) пошкодження дублювання.
