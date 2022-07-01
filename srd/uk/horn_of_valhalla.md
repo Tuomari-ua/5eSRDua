@@ -1,17 +1,17 @@
-name: Horn of Valhalla type: item
+назва: Ріг Valhalla тип: елемент
 
-# Horn of Valhalla
-_Wondrous item, rare (silver or brass), very rare (bronze), or legendary (iron)_
+# Ріг Вальгалла
+_Чудо предмету, рідкісний (срібний чи мідь), дуже рідкісний (бронзовий) або легендарний (залізо)_
 
-You can use an action to blow this horn. In response, warrior spirits from the Valhalla appear within 60 feet of you. They use the statistics of a berserker. They return to Valhalla after 1 hour or when they drop to 0 hit points. Once you use the horn, it can't be used again until 7 days have passed.
+Ви можете використати дію, щоб підірвати цей ріг. У відповідь наступають воїни з Вальгалли появляються у 60 футів від вас. Вони використовують статистику берсерка. Вони повертаються до Вальгалли після 1 години або коли вони потрапляють до 0 влучань. Як тільки ви скористаєтесь рогом, він не може бути використаний, доки не пройде 7 днів.
 
-Four types of **horn of Valhalla** are known to exist, each made of a different metal. The horn's type determines how many berserkers answer its summons, as well as the requirement for its use. The GM chooses the horn's type or determines it randomly.
+Відомо чотири типи **ліній** , кожен з яких складається з іншого металу. Тип рога визначає, скільки берсерерів відповідає на його виклик, а також вимогу до його використання. GM вибирає тип рога або визначає його випадково.
 
-| d100  | Horn Type | Berserkers Summoned | Requirement                          |
-| ----- | --------- | ------------------- | ------------------------------------ |
-| 01-40 | Silver    | 2d4 + 2             | None                                 |
-| 41-75 | Brass     | 3d4 + 3             | Proficiency with all simple weapons  |
-| 76-90 | Bronze    | 4d4 + 4             | Proficiency with all medium armor    |
-| 91-00 | Iron      | 5d4 + 5             | Proficiency with all martial weapons |
+| д100  | Тип Рогу | Берсеркерс прикликав | Вимога                               |
+| ----- | -------- | -------------------- | ------------------------------------ |
+| 01-40 | Срібло   | 2д4 + 2              | Без ефекту                           |
+| 41-75 | Латунь   | 3д4 + 3              | Змайстерність з усією простою зброєю |
+| 76-90 | Бронза   | 4d4 + 4              | Досвідченість з усім середнім бронею |
+| 91-00 | Залізо   | 5д4 + 5              | Дослідництво з усією бойовою зброєю  |
 
-If you blow the horn without meeting its requirement, the summoned berserkers attack you. If you meet the requirement, they are friendly to you and your companions and follow your commands. 
+Якщо ви підірваєте ріг не задовольняючи його вимоги, запрошені берсерки нападають на вас. Якщо ви відповідаєте вимогам, вони дружні до вас і ваших супутників і дотримуйтесь ваших команд. 
