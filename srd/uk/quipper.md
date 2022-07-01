@@ -1,25 +1,25 @@
-name: Quipper type: beast cr: 0
+назва: Тайппер тип: зверхність cr: 0
 
 # Quipper
-_Tiny beast, unaligned_
+_Крихітний звір, неприєднаний_
 
 **Armor Class** 13    
 **Hit Points** 1 (1d4 − 1)    
 **Speed** 0 ft., swim 40 ft.
 
-| STR    | DEX     | CON    | INT    | WIS    | CHA    |
+| СТР    | ДЕКС    | CON    | ІНТ    | WIS    | CHA    |
 | ------ | ------- | ------ | ------ | ------ | ------ |
 | 2 (−4) | 16 (+3) | 9 (−1) | 1 (−5) | 7 (−2) | 2 (−4) |
 
-**Senses** darkvision 60 ft., passive Perception 8    
-**Languages** --    
-**Challenge** 0 (10 XP)
+**Способи** затемнення 60, пасивне сприйняття 8    
+**Мови** --    
+**виклик** (10 XP)
 
-**Blood Frenzy.** The quipper has advantage on melee attack rolls against any creature that doesn't have all its hit points.    
-**Water Breathing.** The quipper can breathe only underwater.
+**Французька кров з крові.** Тайппер має перевагу в атаці ближнього бою проти будь-якої істоти, яка не має всіх вражених точок.    
+**Подихання води.** Простір може вдихнути тільки під водою.
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 1 piercing damage.
+### Дії
+**Біт.** _Атака ближньої зброї:_ +5 до удару, досягає 5-ї цілі, одна мета. _Вразів:_ 1 проколювання пошкодження.
 
-### Description
-A quipper is a carnivorous fish with sharp teeth. Quippers can adapt to any aquatic environment, including cold subterranean lakes. They frequently gather in swarms; the statistics for a swarm of quippers appear later in this appendix. 
+### Опис
+Кіппер — це хижацька риба з гостроми зубами. Кіпери можуть адаптуватися до будь-якого водного середовища, включаючи холодні підземні озера. Вони часто збираються у гріш; статистика для рій квочників з’являється пізніше в цьому апендіксі. 
