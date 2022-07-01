@@ -1,27 +1,27 @@
-name: Young Brass Dragon type: dragon cr: 6
+назва: Дракон з молодої мілки тип: дракона cr: 6
 
-# Young Brass Dragon
-_Large dragon, chaotic good_
+# Молодий мідяний Дракон
+_Великий дракон, хаотичний колір_
 
 **Armor Class** 17 (natural armor)    
 **Hit Points** 110 (13d10 + 39)    
 **Speed** 40 ft., burrow 20 ft., fly 80 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
 
-**Saving Throws** Dex +3, Con +6, Wis +3, Cha +5    
-**Skills** Perception +6, Persuasion +5, Stealth +3    
-**Damage Immunities** fire    
-**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16    
-**Languages** Common, Draconic    
-**Challenge** 6 (2,300 XP)
+**Збереження кишить** Dex +3, Con +6, Wis +3, Cha +5    
+**Навички** Перехоплення +6, Вміння +5, Крадіжка +3    
+**Пошкодження** вогонь </strong> вогню    
+**Забезпечення** оснащення 30 футів. темп бачення 120 футів. пасивне сприйняття 16    
+мов **Мов,** Common, Draconic    
+**Виклик** (2,300 XP)
 
-### Actions
-**Multiattack.** The dragon makes three attacks: one with its bite and two with its claws.    
-**Bite.** _Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target. _Hit:_ 15 (2d10 + 4) piercing damage.    
-**Claw.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) slashing damage.    
-**Breath Weapons (Recharge 5–6).** The dragon uses one of the following breath weapons.    
-**Fire Breath.** The dragon exhales fire in a 40-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 42 (12d6) fire damage on a failed save, or half as much damage on a successful one.    
-**Sleep Breath.** The dragon exhales sleep gas in a 30-foot cone. Each creature in that area must succeed on a DC 14 Constitution saving throw or fall unconscious for 5 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
+### Дії
+**Мультиатака.** Дракон робить три атаки: один з одним, перекусивши та два з його кігтями.    
+**Біт.** _Атака ближнього бою зброї:_ +7 щоб ударити в ціль, досягнувши 10 щитів, одна ціль. _Вразів:_ 15 (2d10 + 4) проколову шкоду.    
+**Кігть.** _Атака ближньої зброї:_ +7 щоб ударити, досягти 5-ти цілі, одну ціль. _Удара:_ 11 (2d6 + 4) удар пошкодження.    
+**Одихання зброї (повторне заряджання 5–6).** Дракон використовує одну з наступних видів зброї дихання.    
+**Вогняне дихання.** Дракон видихає вогонь в 40-футовій лінії, що має 5 футів у ширину. Кожна істота з цієї лінії має зробити економію Dexterity 14 струму, отримання 42 (12d6) шкоди для вогню через невдале заощадження, або ж удвічі більше шкоди від успішного.    
+**Сонне дихання.** Дракон видихає сни в 30-футовому конусі. Кожна істота в цій галузі повинна досягти успіху на киданні Конституції DC 14 хвилин, або несвідомий. Цей ефект закінчується істотою, якщо істота набирає пошкоджень або хтось використає дії, щоб її розбудити.
