@@ -1,13 +1,13 @@
-name: Jackal type: beast cr: 0
+назва: Джекал тип: звір cr: 0
 
 # Jackal
-_Small beast, unaligned_
+_Малий звір, неприєднаний_
 
-**Armor Class** 12    
-**Hit Points** 3 (1d6)    
-**Speed** 40 ft.
+**Клас броні** 12    
+**Очки** 3 (1d6)    
+**швидкість** фут.
 
-| STR    | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР    | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------ | ------- | ------- | ------ | ------- | ------ |
 | 8 (−1) | 15 (+2) | 11 (+0) | 3 (−4) | 12 (+1) | 6 (−2) |
 
@@ -16,8 +16,8 @@ _Small beast, unaligned_
 **Languages** --    
 **Challenge** 0 (10 XP)
 
-**Keen Hearing and Smell.** The jackal has advantage on Wisdom (Perception) checks that rely on hearing or smell.    
-**Pack Tactics.** The jackal has advantage on an attack roll against a creature if at least one of the jackal's allies is within 5 feet of the creature and the ally isn't incapacitated.
+**Хліб серця і смердіє.** Хакаль має перевагу в мудрості (Перцепції), які покладаються на слух або запах.    
+**Тактики з пакету.** Шакал має перевагу в атаці, яка грає проти істоти, якщо принаймні один з союзників куртки знаходиться на протязі 5 футів істоти, і союзник не недієздатний.
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +1 to hit, reach 5 ft., one target. _Hit:_ 1 (1d4 – 1) piercing damage. 
+### Дії
+**Біт.** _Атака ближньої зброї:_ +1 до удару, досягає 5-ї цілі, одна мета. _Удара:_ 1 (1d4 – 1) пошкодження від проб. 
