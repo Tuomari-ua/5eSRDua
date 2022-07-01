@@ -1,20 +1,20 @@
-description: Information on the Constitution ability from the 5th Edition (5e) System Reference Document (SRD)
+опис: інформація про можливість Конституції з 5-ї Системної документації (5e) (SRD)
 
-# Constitution
-Constitution measures health, stamina, and vital force.
+# Конституція
+Конституція вимірює здоров'я, витривалість та життєву силу.
 
-## Constitution Checks
-Constitution checks are uncommon, and no skills apply to Constitution checks, because the endurance this ability represents is largely passive rather than involving a specific effort on the part of a character or monster. A Constitution check can model your attempt to push beyond normal limits, however.
+## Перевірка конституції
+Не є звичними перевірками Конституції, і до перевірок Конституції немає навичок, оскільки витривалість зображення цієї здатності є значною мірою пасивною, а не залучати конкретних зусиль з боку персонажа або монстра. Однак, перевірка Конституції може моделювати вашу спробу вийти за рамки звичайних обмежень.
 
-The GM might call for a Constitution check when you try to accomplish tasks like the following:
+GM може закликати перевірити Конституцію, коли ви намагаєтесь виконати завдання наступним чином:
 
-* Hold your breath
-* March or labor for hours without rest
-* Go without sleep
-* Survive without food or water
-* Quaff an entire stein of ale in one go
+* Тримайте подих
+* Березневий або робочий день без відпочинку
+* Без сну
+* Вижити без їжі та води
+* Гострі - увесь загін від однієї сторони
 
-## Hit Points
-Your Constitution modifier contributes to your hit points. Typically, you add your Constitution modifier to each Hit Die you roll for your hit points.
+## Хіт точок
+Модифікатор вашої Конституції вносить ваші дані про влучання. Зазвичай ви додаєте свій модифікатор Конституції до кожного удару, який ви натискаєте, щоб отримати очки.
 
-If your Constitution modifier changes, your hit point maximum changes as well, as though you had the new modifier from 1st level. For example, if you raise your Constitution score when you reach 4th level and your Constitution modifier increases from +1 to +2, you adjust your hit point maximum as though the modifier had always been +2. So you add 3 hit points for your first three levels, and then roll your hit points for 4th level using your new modifier. Or if you're 7th level and some effect lowers your Constitution score so as to reduce your Constitution modifier by 1, your hit point maximum is reduced by 7.
+Якщо ваш модифікатор конституції змінюється, ваша максимальна точка і зміни, хоча ви мали новий модифікатор з 1-го рівня. Наприклад, якщо ви підвищите оцінку Конституції, коли будете досягнуті 4 рівні, а ваш модифікатор Конституції збільшується з +1 до +2, ви налаштовуєте максимальну точку дотику, коли модифікатор завжди був +2. Так що ви додаєте 3 очків для вашого першого рівня і потім відправляєте ваші очки для 4 рівня, використовуючи ваш новий модифікатор. Або якщо ви 7-й рівень і деякий ефект знижують результат вашої Конституції, щоб зменшити модифікатор вашої Конституції на 1, ваша точка дотику зменшується на 7.
