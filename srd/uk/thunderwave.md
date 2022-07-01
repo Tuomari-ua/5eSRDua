@@ -1,14 +1,14 @@
-name: Thunderwave level: 1 school: evocation classes: bard druid sorcerer wizard
+назва: Клас Thunderwave рівень: 1 школа: евокація класів: жорсткий druid сортувальник
 
-# Thunderwave
-_1st-level evocation_
+# Громоверство
+_11-ше евокація_
 
-**Casting Time:** 1 action    
-**Range:** Self (15-foot cube)    
-**Components:** V, S    
-**Duration:** Instantaneous
+**Кастинг часу:** 1 дія    
+**Діапазон:** Самотній (15-футовий куб)    
+**Компоненти:** В, S    
+**тривалість:** миттєві
 
-A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube originating from you must make a Constitution saving throw. On a failed save, a creature takes 2d8 thunder damage and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn't pushed.    
-In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell's effect, and the spell emits a thunderous boom audible out to 300 feet.
+Хвиля громової сили йде від вас. Кожна істота з 15-футового кубика, що виникла від вас, повинна зробити економію конституції кидком. У невдалому збереженні істота завдає шкоди 2d8 грім і відкладає від вас 10 футів. У успішному збереженні істота отримує половину шкоди та не штовхає.    
+, крім того, незахищені об'єкти, які повністю знаходяться в зоні його ефекту, автоматично відштовхуються від вас на 10 футів, і заклинання випускає громний бум здивується на 300 футів.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st. 
+**На вищих рівнях.** Коли ви транслюєте це заклинання використовуючи слот 2-го рівня або вище, збільшення пошкодження на 1d8 для кожного рівня слоту вище 1st. 
