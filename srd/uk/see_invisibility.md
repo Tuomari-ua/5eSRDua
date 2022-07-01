@@ -1,11 +1,11 @@
-name: See Invisibility level: 2 school: divination classes: bard sorcerer wizard
+назва: Переглядайте Майстер невидимості рівень: 2 школу: divination класі: сад сортувальник
 
-# See Invisibility
-_2nd-level divination_
+# Переглянути невидимість
+_Розщеплення на 2-му рівні_
 
-**Casting Time:** 1 action    
-**Range:** Self    
-**Components:** V, S, M (a pinch of talc and a small sprinkling of powdered silver)    
-**Duration:** 1 hour
+**Кастинг часу:** 1 дія    
+**Діапазон:** Самостій    
+**компоненти:** V, S, М (дублювання історії та невелике розтягнення срібля)    
+**тривалість:** години
 
-For the duration, you see invisible creatures and objects as if they were visible, and you can see into the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent. 
+На протязі довгого часу ви бачите невидимих істот і об'єктів, як ніби вони були видимі, і ви можете побачити в площині Ethereal. З'їжджаючі істоти і об'єкти виглядають примарно та напівпрозорими. 
