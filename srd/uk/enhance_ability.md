@@ -1,19 +1,19 @@
-name: Enhance Ability level: 2 school: transmutation classes: bard cleric druid sorcerer
+назва: Підсилення здібностей рівень: 2 школа: транмутація класи: Бард вказівник druid sorcerer
 
-# Enhance Ability
-_2nd-level transmutation_
+# Підвищення здібностей
+_Трансмутація 2N-рівня_
 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S, M (fur or a feather from a beast)    
-**Duration:** Concentration, up to 1 hour.
+**Час трансляції :** 1 дія    
+**Діапазон:** Торкніться    
+**компоненти:** V, S, М (хутро або пір'я з звіра)    
+**тривалість:** відсотки, до 1 години.
 
-You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects; the target gains that effect until the spell ends.    
-**Bear's Endurance.** The target has advantage on Constitution checks. It also gains 2d6 temporary hit points, which are lost when the spell ends.    
+Ти торкаєшся істоти і даєш їй магічне покращення. Виберіть один з наступних ефектів; ціль отримує ефект, поки не завершується заклинання .    
+**Ведмежа надія.** Ціль має перевагу в перевірках Конституції. It also gains 2d6 temporary hit points, which are lost when the spell ends.    
 **Bull's Strength.** The target has advantage on Strength checks, and his or her carrying capacity doubles.    
-**Cat's Grace.** The target has advantage on Dexterity checks. It also doesn't take damage from falling 20 feet or less if it isn't incapacitated.    
-**Eagle's Splendor.** The target has advantage on Charisma checks.    
-**Fox's Cunning.** The target has advantage on Intelligence checks.    
-**Owl's Wisdom.** The target has advantage on Wisdom checks.
+**Cat's Grace.** The target has advantage on Dexterity checks. Вона також не завдає шкоди від падіння на 20 футів, або менше, якщо не пов'язані.    
+**Оцінка орла.** Ціль має перевагу в перевірках Харизми.    
+**Кунька Fox.** Ціль має перевагу на перевірках розвідки.    
+знаменитість**Сова .** Ціль має перевагу в перевірках Wisdom
 
-**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd. 
+**На вищих рівнях.** Коли ви кидаєте це заклинання використовуючи гніздо 3-го рівня або вище, ви можете вказати ще одну істоту для кожного слоту вище 2nd. 
