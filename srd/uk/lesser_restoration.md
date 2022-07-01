@@ -1,11 +1,11 @@
-name: Lesser Restoration level: 2 school: abjuration classes: bard cleric druid paladin ranger
+назва: Відновлення усиїх рівень: 2 школа: abjuration класі: bard cleric druid paladin ranger
 
-# Lesser Restoration
-_2nd-level abjuration_
+# Реставрація Малі
+_Тривалість 2НД-го рівня_
 
 **Casting Time:** 1 action    
 **Range:** Touch    
 **Components:** V, S    
 **Duration:** Instantaneous
 
-You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned. 
+Ви торкаєтеся істоти, і може закінчуватися або однією хворобою, або однією умовою. Умова може бути засліплена, оглушена, паралізована, або отруєна. 
