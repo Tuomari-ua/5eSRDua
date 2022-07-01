@@ -1,13 +1,13 @@
-name: Wereboar type: humanoid (human, shapechanger) cr: 4
+назва: Вертчобоар тип: humanoid (людина, кимк) cr: 4
 
-# Wereboar
-_Medium humanoid (human, shapechanger), neutral evil_
+# Веребоар
+_Середній гуманоїд (людина, шестилу), нейтральне зло_
 
-**Armor Class** 10 in humanoid form, 11 (natural armor) in boar or hybrid form    
-**Hit Points** 78 (12d8 + 24)    
-**Speed** 30 ft. (40 ft. in boar form)
+**Клас броні** 10 в форма гуманоїду, 11 (природна броню) в бурзі чи гібридній формі    
+**Очки** 78 (12d8 + 24)    
+**швидкість** фут. (40 футів у формі кабана)
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA    |
 | ------- | ------- | ------- | ------- | ------- | ------ |
 | 17 (+3) | 10 (+0) | 15 (+2) | 10 (+0) | 11 (+0) | 8 (−1) |
 
@@ -17,11 +17,11 @@ _Medium humanoid (human, shapechanger), neutral evil_
 **Languages** Common (can't speak in boar form)    
 **Challenge** 4 (1,100 XP)
 
-**Shapechanger.** The wereboar can use its action to polymorph into a boar-humanoid hybrid or into a boar, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.    
-**Charge (Boar or Hybrid Form Only).** If the wereboar moves at least 15 feet straight toward a target and then hits it with its tusks on the same turn, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.    
-**Relentless (Recharges after a Short or Long Rest).** If the wereboar takes 14 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
+**Посипає.** The wereboar може використовувати свою дію для поліморфа в бар-гуманоїдальний гібрид або в каструлі, або ж знову у його вірну форму, що є Гуманоїдом. Її статистика, відмінна від АВ, є однаковими у кожній формі. Будь-яке спорядження воно одягнуте або перенесене не перетворюється. Він відкриває справжню форму, якщо вона помирає.    
+**Заряд (тільки біда або гібридна форма).** Якщо вовкач рухатиметься щонайменше на 15 футів прямо до цілі і потім вдаряє його перев'язки на тому ж поверсі, ціль наносить додаткові 7 (2d6) пошкоджень. Якщо ціль є створенням, вона має бути успішною в заощадженні DC 13 або бути постукованою часткою.    
+**Безжалісні (перехідні після короткого або довгого відновлення).** Якщо кабінка отримала 14 шкоди або менше, це зменшило б до 0 точок влучання, він зменшується до 1 точки досягнення.
 
-### Actions
-**Multiattack (Humanoid or Hybrid Form Only).** The wereboar makes two attacks, only one of which can be with its tusks.    
-**Maul (Humanoid or Hybrid Form Only).** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) bludgeoning damage.    
-**Tusks (Boar or Hybrid Form Only).** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) slashing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with wereboar lycanthropy.
+### Дії
+**Мультиатака (лише гуманоїд або гібридний Форм).** Відмінний боар робить дві атаки, тільки один з яких може бути зі своїми екскурсами.    
+**Maul (Гуманоїд або гібридна форма).** _Атака ближньої зброї:_ +5, щоб вдарити в нього, досягти 5-ї цілі, одну ціль. _Вдачі:_ 10 (2d6 + 3) пошкодження дублюючих блоків.    
+**Туски (Кандиновий або Хайбридний Форму).** _Атака ближньої зброї:_ +5, щоб вдарити в нього, досягти 5-ї цілі, одну ціль. _Удачі:_ 10 (2d6 + 3) пошкодження пошкоджень. Якщо ціль є гуманоїдом, вона повинна досягти успіху в збереженні Конституції DC 12 або бути висунута як бутовий лікантроп.
