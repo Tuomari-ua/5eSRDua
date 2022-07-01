@@ -1,22 +1,22 @@
-description: Rules for mounted combat from the 5th Edition (5e) SRD (System Reference Document).
+опис: Правила для змонтованої боротьби з 5-ю версією (5e) SRD (Документація з Системного Документація).
 
-# Mounted Combat
-A knight charging into battle on a warhorse, a wizard casting spells from the back of a griffon, or a cleric soaring through the sky on a pegasus all enjoy the benefits of speed and mobility that a mount can provide.
+# Верховий бій
+Заряджається лицар в бій на бойовому коні, чарівник, що кидає заклинання з спини гори, або духовний, що ширяє по небу на пекусі, всі насолоджуються перевагами швидкості та мобільності, які може забезпечувати горі.
 
-A willing creature that is at least one size larger than you and that has an appropriate anatomy can serve as a mount, using the following rules.
+Гостра істота, яка є хоча б одним розміром більше за вас, і має відповідну анатомію, може слугувати встановленням, використовуючи наступні правила.
 
-## Mounting and Dismounting
-Once during your move, you can mount a creature that is within 5 feet of you or dismount. Doing so costs an amount of movement equal to half your speed. For example, if your speed is 30 feet, you must spend 15 feet of movement to mount a horse. Therefore, you can't mount it if you don't have 15 feet of movement left or if your speed is 0.
+## Монтування і монтування
+Одного разу під час вашого руху ви можете підняти створіння, яке знаходиться в межах 5 футів від вас, або розмонтувати. Робіть це так, щоб витрати дорівнюють наполовину вашої швидкості. Наприклад, якщо ваша швидкість становить 30 футів, ви повинні витратити 15 футів руху, щоб змонтувати коня. Тому, ви не можете підняти його, якщо ви не маєте 15 футів руху вліво або якщо ваша швидкість дорівнює 0.
 
-If an effect moves your mount against its will while you're on it, you must succeed on a DC 10 Dexterity saving throw or fall off the mount, landing prone in a space within 5 feet of it. If you're knocked prone while mounted, you must make the same saving throw.
+Якщо ефект почне рухатись по монту проти його волі, поки ви на цьому, ви повинні перейти до стану 10 Dexterity економити або впасти з монта, посадка у простір в межах 5 футів. Якщо під час вмонтування ви постукали, то повинні зробити те ж саме заощадження.
 
-If your mount is knocked prone, you can use your reaction to dismount it as it falls and land on your feet. Otherwise, you are dismounted and fall prone in a space within 5 feet it.
+Якщо ваша гора постукована, можна використати свою реакцію, щоб роз'єднати її, як вона падає і приземляється на ноги. В іншому випадку, ви зламані і осінню росте в межах 5 футів.
 
-## Controlling a Mount
-While you're mounted, you have two options. You can either control the mount or allow it to act independently. Intelligent creatures, such as dragons, act independently.
+## Контроль монтування
+Поки вас монтують, у вас є два варіанти. Ви можете або контролювати горі або дозволити діяти незалежно. Розумні створіння, такі як дракони, діють незалежно від цього.
 
-You can control a mount only if it has been trained to accept a rider. Domesticated horses, donkeys, and similar creatures are assumed to have such training. The initiative of a controlled mount changes to match yours when you mount it. It moves as you direct it, and it has only three action options: Dash, Disengage, and Dodge. A controlled mount can move and act even on the turn that you mount it.
+Ви можете контролювати кріплення тільки за навчанням прийняти пасажира. Внутрішні коні, осли та подібні істоти вважаються такими навчанням. Ініціатива внеску контрольованого гори порівнятися зі своїми при його горі. Він рухається рухаючись прямо зараз, і має лише три варіанти дії: розділу тиша, Занесення і Студія. Контрольована гора може переміщатися і діяти навіть на розверх, який ви монтуєте.
 
-An independent mount retains its place in the initiative order. Bearing a rider puts no restrictions on the actions the mount can take, and it moves and acts as it wishes. It might flee from combat, rush to attack and devour a badly injured foe, or otherwise act against your wishes.
+Незалежне кріплення зберігає своє місце в порядку ініціативи. Напрямок вершника не дає обмежень на дії, які може виконати монтаж, і він рухається і діє по своїх бажаннях. Це може втекти з бою, поспішати атакувати і розробити погано пораненого ворога, або ж діяти проти ваших побажань.
 
-In either case, if the mount provokes an opportunity attack while you're on it, the attacker can target you or the mount.
+В будь-якому випадку, якщо гори провокує атаку можливості поки ви на неї, атакуючий може націлити вас чи монтувати.
