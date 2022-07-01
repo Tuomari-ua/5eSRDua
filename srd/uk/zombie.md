@@ -1,13 +1,13 @@
-name: Zombie type: undead cr: .25
+назва: Zombie тип: немертвий cr: .25
 
-# Zombie
-_Medium undead, neutral evil_
+# Зомбі
+_Середнє несмертельне зле_
 
-**Armor Class** 8    
-**Hit Points** 22 (3d8 + 9)    
-**Speed** 20 ft.
+**Клас броні** </strong>    
+**Очки** 22 (3d8 + 9)    
+**швидкість** фут.
 
-| STR     | DEX    | CON     | INT    | WIS    | CHA    |
+| СТР     | ДЕКС   | CON     | ІНТ    | WIS    | CHA    |
 | ------- | ------ | ------- | ------ | ------ | ------ |
 | 13 (+1) | 6 (−2) | 16 (+3) | 3 (−4) | 6 (−2) | 5 (−3) |
 
@@ -18,7 +18,7 @@ _Medium undead, neutral evil_
 **Languages** understands the languages it knew in life but can't speak    
 **Challenge** 1/4 (50 XP)
 
-**Undead Fortitude.** If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
+**Невмирущий Фортуна.** Якщо пошкодження зменшує зомбі до 0 ударів це має зробити рятування Конституції наданням диплому з 5 + завданої шкоди, якщо шкода не є випроміненою або критичною ударами. На успіху зомбі випадає до 1 очка.
 
-### Actions
-**Slam.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) bludgeoning damage.
+### Дії
+**Slam.** _Атака ближньої зброї:_ +3 до удару, досягає 5-ти, одна ціль. _Удара:_ 4 (1d6 + 1) пошкодження дублювання.
