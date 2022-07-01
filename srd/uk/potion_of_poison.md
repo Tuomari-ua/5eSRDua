@@ -1,8 +1,8 @@
-name: Potion of Poison type: potion
+назва: Зілля отрути тип: зілля
 
-# Potion of Poison
-_Potion, uncommon_
+# Зілля отрути
+_Тривале зілля_
 
-This concoction looks, smells, and tastes like a **potion of healing** or other beneficial potion. However, it is actually poison masked by illusion magic. An **_identify_** spell reveals its true nature.
+Ця призовність виглядає, запах і смаки як **зілля зцілення** або інше корисне зілля. Проте це є отруйною замаскованою ілюзійним магією. **_ідентифікувати_** заклинання виявляє його справжню природу.
 
-If you drink it, you take 3d6 poison damage, and you must succeed on a DC 13 Constitution saving throw or be poisoned. At the start of each of your turns while you are poisoned in this way, you take 3d6 poison damage. At the end of each of your turns, you can repeat the saving throw. On a successful save, the poison damage you take on your subsequent turns decreases by 1d6. The poison ends when the damage decreases to 0. 
+Якщо ви його вип'єте, ви отримуєте пошкодження у 3d6 отрути, і вам потрібно перейти до успіху на запису Конституції DC 13 Вона кидає або бути отруєною. На початку кожного з ваших черг, коли ви отруєні таким чином, ви отримуєте 3-6 отруйних пошкоджень. В кінці кожного з ваших черг можна повторити рятувальну стрілу. На успішному збереженні пошкодження отрути, яке ви берете на ваші подальші повороти зменшується на 1d6. Отрута закінчується, коли шкода зменшиться на 0. 
