@@ -1,13 +1,13 @@
 name: Plane Shift level: 7 school: conjuration classes: cleric sorcerer warlock wizard druid
 
-# Plane Shift
-_7th-level conjuration_
+# Зсув площини
+_7-ми рівнева тривалість_
 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S, M (a forked, metal rod worth at least 250 gp, attuned to a particular plane of existence)    
-**Duration:** Instantaneous
+**Час трансляції :** 1 дія    
+**Діапазон:** Торкніться    
+**компоненти:** V, S, М (кукита, металевий стрижень вартий щонайменше 250 Gp, Зручено на спеціальний літак існуючий)    
+**тривалість:** миттєві
 
-You and up to eight willing creatures who link hands in a circle are transported to a different plane of existence. You can specify a target destination in general terms, such as the City of Brass on the Elemental Plane of Fire or the palace of Dispater on the second level of the Nine Hells, and you appear in or near that destination. If you are trying to reach the City of Brass, for example, you might arrive in its Street of Steel, before its Gate of Ashes, or looking at the city from across the Sea of Fire, at the GM's discretion.    
-Alternatively, if you know the sigil sequence of a teleportation circle on another plane of existence, this spell can take you to that circle. If the teleportation circle is too small to hold all the creatures you transported, they appear in the closest unoccupied spaces next to the circle.    
-You can use this spell to banish an unwilling creature to another plane. Choose a creature within your reach and make a melee spell attack against it. On a hit, the creature must make a Charisma saving throw. If the creature fails this save, it is transported to a random location on the plane of existence you specify. A creature so transported must find its own way back to your current plane of existence. 
+До восьми охоплених істот, що поєднують руки в колі, транспортуються з іншим площином існування. Ви можете вказати цільове місце призначення в загальному терміні, таких як місто Брас на мисній площині вогню або палац диспетчера на другому рівні Нін пелс, і ви з’явитеся в або поблизу того місця призначення. Якщо ви намагаєтеся дістатися до міста Брас, наприклад, ви можете приїхати на його сталеву вулицю, перед брамою аша дивитись на місто із моря моря вогню, на розсуд GM.    
+Крім того, якщо ви знаєте послідовність сигілів кола телепортації в іншій площині існування, ця заклинання може привести вас до цього кола. Якщо телепортаційне коло занадто мале, щоб тримати всіх транспортованих істот, вони є в найближчих незайнятих просторах біля кола.    
+Ви можете використовувати це заклинання для вигнання істоти на інший літак. Оберіть істоту в межах вашого досяжності та атакуйте проти нього заклинання ближнього бою. У ударі істота повинна створити рятування харизми. Якщо істота провалюється з цим збереженням, вона передається у випадкове місце на літаку, яке ви вкажете. Творчість, яку перетранспортує, має знайти власний шлях назад до поточної площини існування. 
