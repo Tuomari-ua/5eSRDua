@@ -1,22 +1,22 @@
-name: Giant Crab type: beast cr: .125
+назва: Гігантний Краб тип: звір cr: .125
 
-# Giant Crab
-_Medium beast, unaligned_
+# Велетенський краб
+_Середній звір, неприєднаний_
 
-**Armor Class** 15 (natural armor)    
-**Hit Points** 13 (3d8)    
-**Speed** 30 ft., swim 30 ft.
+**Клас броні** 15 (природна броня)    
+**Очки** 13 (3d8)    
+**Швидкість** ft., пливи 30 футів.
 
-| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS    | CHA    |
 | ------- | ------- | ------- | ------ | ------ | ------ |
 | 13 (+1) | 15 (+2) | 11 (+0) | 1 (−5) | 9 (−1) | 3 (−4) |
 
-**Skills** Stealth +4    
-**Senses** blindsight 30 ft., passive Perception 9    
-**Languages** --    
-**Challenge** 1/8 (25 XP)
+**Навичка** Крадіжка +4    
+**Senses** зрозуміло 30 футів. пасивний Виключення 9    
+**Мови** --    
+**виклик** 1/8 (25 XP)
 
-**Amphibious.** The crab can breathe air and water.
+**Амфібів.** Краб може дихати повітрям і водою.
 
-### Actions
-**Claw.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) bludgeoning damage, and the target is grappled (escape DC 11). The crab has two claws, each of which can grapple only one target.
+### Дії
+**клеп.** _Атака ближньої зброї:_ +3 влучити, сягне 5-ти, одна ціль. _Удари:_ 4 (1d6 + 1) пошкодження дублювання, а ціль перетягується (уникнути DC 11). Краб має два кігті, кожен з яких може зчепити лише одну ціль.
