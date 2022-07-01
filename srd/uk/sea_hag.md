@@ -1,26 +1,26 @@
-name: Sea Hag type: fey cr: 2
+назва: Морський Хаг тип: fey cr: 2
 
 # Sea Hag
-_Medium fey, chaotic evil_
+_Середньооплачування і хаотичне зло_
 
-**Armor Class** 14 (natural armor)    
-**Hit Points** 52 (7d8 + 21)    
-**Speed** 30 ft., swim 40 ft.
+**Клас броні** 14 (природна броня)    
+**Бали** 52 (7d8 + 21)    
+**Швидкість** фут. плавати на 40 футів на годину.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 16 (+3) | 13 (+1) | 16 (+3) | 12 (+1) | 12 (+1) | 13 (+1) |
 
-**Senses** darkvision 60 ft., passive Perception 11    
-**Languages** Aquan, Common, Giant    
-**Challenge** 2 (450 XP)
+**Способи** затемнення 60, пасивне сприйняття 11    
+**Мови** Акван, Компмонт, Гігант    
+**Виклик** (450 XP)
 
-**Amphibious.** The hag can breathe air and water.    
-**Horrific Appearance.** Any humanoid that starts its turn within 30 feet of the hag and can see the hag's true form must make a DC 11 Wisdom saving throw. On a failed save, the creature is frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the hag is within line of sight, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the hag's Horrific Appearance for the next 24 hours.    
-Unless the target is surprised or the revelation of the hag's true form is sudden, the target can avert its eyes and avoid making the initial saving throw. Until the start of its next turn, a creature that averts its eyes has disadvantage on attack rolls against the hag.
+**Амфібій.** Гаг може дихати повітрям і водою.    
+**Із Із подихом.** Будь-який гуманоїд, що починається з поверху в 30 футів від відліку, і може побачити істинну форму трави повинні зробити DC 11 Мусульманом заощадження. На невдалому збереженні істота злякається на 1 хвилину. Створіння може повторити зберіг, що йде в кінці кожного зі своїх черг, з невигідним недоліком, якщо яга перебуває у межах вираження, припинивши вплив на себе на успіх. Якщо кинути кинути збереження істоти буде успішним або ефект закінчиться, ця істота незахищена від Жахливого вигляду на наступні 24 години.    
+Якщо ціль не здивована або раптом виявляється одкровення справжньої форми газу, ціль може запобігти її очам і не зробити початкового збереження. До початку наступного повороту істота, яка запобігає її очам, не бачить від нападу на туг.
 
-### Actions
-**Claws.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) slashing damage.    
-**Death Glare.** The hag targets one frightened creature she can see within 30 feet of her. If the target can see the hag, it must succeed on a DC 11 Wisdom saving throw against this magic or drop to 0 hit points.    
-**Illusory Appearance.** The hag covers herself and anything she is wearing or carrying with a magical illusion that makes her look like an ugly creature of her general size and humanoid shape. The effect ends if the hag takes a bonus action to end it or if she dies.    
-The changes wrought by this effect fail to hold up to physical inspection. For example, the hag could appear to have no claws, but someone touching her hand might feel the claws. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 16 Intelligence (Investigation) check to discern that the hag is disguised.
+### Дії
+**Кістки** _Атака ближньої зброї:_ +5 до удару, досягають 5 щитів, одна ціль. _Удач:_ 10 (2d6 + 3) і 3) пошкоджують пошкодження.    
+**Обличчя смерті.** Мета на основі однієї зляканої істоти, яку вона може побачити в межах 30 футів від неї. If the target can see the hag, it must succeed on a DC 11 Wisdom saving throw against this magic or drop to 0 hit points.    
+**Illusory Appearance.** The hag covers herself and anything she is wearing or carrying with a magical illusion that makes her look like an ugly creature of her general size and humanoid shape. Вона закінчується, якщо на агу буде врешті необхідні бонусні дії для її завершення, або якщо вона помре.    
+Зміни, спричинені цим ефектом, не стримували фізичного перевірки. Наприклад, у ягу не було кігтів, але хтось, хто торкається її руки, може відчути кігті. Інакше істота повинна вживати заходів для візуального дослідження ілюзії і успіху на розвідці DC 16 (розслідування) перевірки того, що гаг замасковується.
