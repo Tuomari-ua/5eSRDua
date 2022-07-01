@@ -1,13 +1,13 @@
-name: Raven type: beast cr: 0
+назва: Крук тип: Звір cr: 0
 
-# Raven
-_Tiny beast, unaligned_
+# Равен
+_Крихітний звір, неприєднаний_
 
 **Armor Class** 12    
 **Hit Points** 1 (1d4 − 1)    
 **Speed** 10 ft., fly 50 ft.
 
-| STR    | DEX     | CON    | INT    | WIS     | CHA    |
+| СТР    | ДЕКС    | CON    | ІНТ    | WIS     | CHA    |
 | ------ | ------- | ------ | ------ | ------- | ------ |
 | 2 (−4) | 14 (+2) | 8 (−1) | 2 (−4) | 12 (+1) | 6 (−2) |
 
@@ -16,7 +16,7 @@ _Tiny beast, unaligned_
 **Languages** --    
 **Challenge** 0 (10 XP)
 
-**Mimicry.** The raven can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.
+**Мімікрія.** Крук може міняти прості звуки і чути, наприклад, хтось шепотів, плачу немовля або шматки тварин. Творність, яка чує звуки, може сказати, що вони імітації з успішною перевіркою DC 10 Мудрою (далекоглядність).
 
-### Actions
-**Beak.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 1 piercing damage.
+### Дії
+**Дзьоб.** _Атака ближньої зброї:_ +4 по влучанню, досягає 5 щитів, одна ціль. _Вразів:_ 1 проколювання пошкодження.
