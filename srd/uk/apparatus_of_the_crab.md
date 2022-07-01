@@ -1,31 +1,31 @@
-name: Apparatus of the Crab type: item
+назва: Присутність Краба типу: елемент
 
-# Apparatus of the Crab
-_Wondrous item, legendary_
+# Апарат Краба
+_Несумний предмет, легендарний_
 
-This item first appears to be a Large sealed iron barrel weighing 500 pounds. The barrel has a hidden catch, which can be found with a successful DC 20 Intelligence (Investigation) check. Releasing the catch unlocks a hatch at one end of the barrel, allowing two Medium or smaller creatures to crawl inside. Ten levers are set in a row at the far end, each in a neutral position, able to move either up or down. When certain levers are used, the apparatus transforms to resemble a giant lobster. The apparatus of the Crab is a Large object with the following statistics:
+Спочатку цей предмет має великий залізний корпус із запечатаним сміттям 500 фунтів. Барель має приховану коту, яку можна знайти з успішною перевіркою розвідки DC 20 (Інвестиції). Випущений йолоп розблокує щітку в одному кінці діжки, що дозволяє двом середнім або меншим створінням пересуватися всередину. Десять важелів встановлені поспіль в далекому кінці, кожен у нейтральній позиції, здатний сходити або вверх або вниз. Коли використовують певні важелі, апарат перетворюється на гігантського омара. Прилад Краба є великим об'єктом з наступною статистикою:
 
-**Armor Class:** 20    
-**Hit Points:** 200    
-**Speed:** 30 ft., swim 30 ft. (or 0 ft. for both if the legs and tail aren't extended)    
-**Damage Immunities:** poison, psychic
+**Клас броні:** 20    
+**Очки:** 200    
+**Швидкість:** фут. плавати на висоті 30.(або 0 футів. як на ноги, так і на хвостах не розширені)    
+**Імунітету пошкоджень:** отруйна, психічна
 
-To be used as a vehicle, the apparatus requires one pilot. While the apparatus's hatch is closed, the compartment is airtight and watertight. The compartment holds enough air for 10 hours of breathing, divided by the number of breathing creatures inside.
+Для використання в якості автомобіля, для апарату потрібен один пілот. Поки щітка апарату закрита, відділення є повітряним і водоймою. Компартнер утримує достатньо повітря на 10 годин дихання, розділеного на кількість дихальних істот.
 
-The apparatus floats on water. It can also go underwater to a depth of 900 feet. Below that, the vehicle takes 2d6 bludgeoning damage per minute from pressure.
+Апарат плаває на воді. Вона також може підводитися на глибину 900 футів. Нижче транспорт займає в 2 d6 стукотіння за хвилину від тиску.
 
-A creature in the compartment can use an action to move as many as two of the apparatus's levers up or down. After each use, a lever goes back to its neutral position. Each lever, from left to right, functions as shown in the Apparatus of the Crab Levers table.
+Творчість у відділенні може використовувати дію для переміщення двох вершин апарату вгору або вниз. Після кожного використання важіль повертається до своєї нейтральної позиції. Кожен важіль, зліва направо, функцій, як показано в апараті Краб-Леверс таблиці.
 
-### Apparatus of the Crab Levers
-| Lever | Up                                                                                                                               | Down                                                                                                                                        |
-| ----- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1     | Legs and tail extend, allowing the apparatus to walk and swim.                                                                   | Legs and tail retract, reducing the apparatus's speed to 0 and making it unable to benefit from bonuses to speed.                           |
-| 2     | Forward window shutter opens.                                                                                                    | Forward window shutter closes.                                                                                                              |
-| 3     | Side window shutters open (two per side).                                                                                        | Side window shutters close (two per side).                                                                                                  |
-| 4     | Two claws extend from the front sides of the apparatus.                                                                          | The claws retract.                                                                                                                          |
-| 5     | Each extended claw makes the following melee weapon attack: +8 to hit, reach 5 ft., one target. Hit: 7 (2d6) bludgeoning damage. | Each extended claw makes the following melee weapon attack: +8 to hit, reach 5 ft., one target. Hit: The target is grappled (escape DC 15). |
-| 6     | The apparatus walks or swims forward.                                                                                            | The apparatus walks or swims backward.                                                                                                      |
-| 7     | The apparatus turns 90 degrees left.                                                                                             | The apparatus turns 90 degrees right.                                                                                                       |
-| 8     | Eyelike fixtures emit bright light in a 30-foot radius and dim light for an additional 30 feet.                                  | The light turns off.                                                                                                                        |
-| 9     | The apparatus sinks as much as 20 feet in liquid.                                                                                | The apparatus rises up to 20 feet in liquid.                                                                                                |
-| 10    | The rear hatch unseals and opens.                                                                                                | The rear hatch closes and seals.                                                                                                            |
+### Апарат Крабського Левера
+| Важіль | Вгору                                                                                                                                    | Донизу                                                                                                                                      |
+| ------ | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | Легені і хвоста розширюються, дозволяючи апарату ходити і плавати.                                                                       | Леги і хвостові реакції, знижуючи швидкість апарату до 0 і не даючи їм мати користі від бонусів до швидкості.                               |
+| 2      | Форвард відчиняється віконниця.                                                                                                          | Попереду закриті віконниці.                                                                                                                 |
+| 3      | Бічні віконниці відкриваються (дві на сторону).                                                                                          | Закривають бічні віконниці (дві на бічну сторону).                                                                                          |
+| 4      | Два пазухи поширюються від передніх боків апарату.                                                                                       | Кігті відреагували.                                                                                                                         |
+| 5      | Кожен розширений кіготь робить наступну атаку зі зброї: +8 на влучання, досягає 5 ціль, одна ціль. Ура: 7 (2d6) пошкодження викривлення. | Кожен розширений кіготь робить наступну атаку зі зброї: +8 на влучання, досягає 5 ціль, одна ціль. Обок: ціль зачепилася (втеча від DC 15). |
+| 6      | Апарат ходить або плаває вперед.                                                                                                         | Апарат ходить або пливає назад.                                                                                                             |
+| 7      | Апарат повертає на 90 градусів вліво.                                                                                                    | Апарат повертає 90 градусів вправо.                                                                                                         |
+| 8      | Фіксури вітають світле в радіусі 30 футів і затемнюють світло на відстані додаткових 30 футів.                                           | Світло згасає.                                                                                                                              |
+| 9      | Апарат впадає як у рідину на 20 футів.                                                                                                   | Апарат піднімається до 20 футів у рідині.                                                                                                   |
+| 10     | Задній люск відкривається.                                                                                                               | Задній спів закривається та печатки.                                                                                                        |
