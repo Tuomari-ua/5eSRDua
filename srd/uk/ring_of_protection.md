@@ -1,6 +1,6 @@
-name: Ring of Protection type: ring
+назва: Кільце захисту тип: кільце
 
-# Ring of Protection
-_Ring, rare (requires attunement)_
+# Кільце захисту
+_Рідкісний, рідкісний (вимагає відвідування)_
 
-You gain a +1 bonus to AC and saving throws while wearing this ring. 
+Ви отримуєте бонус +1 до AC і зберігаєте рядки під час цієї обручки. 
