@@ -1,13 +1,13 @@
-name: Green Dragon Wyrmling type: dragon cr: 2
+назва: Виверк Зеленого Дракона тип: дракона cr: 2
 
-# Green Dragon Wyrmling
-_Medium dragon, lawful evil_
+# Зелений Вирмлінг
+_Середній драг, законне зло_
 
-**Armor Class** 17 (natural armor)    
-**Hit Points** 38 (7d8 + 7)    
-**Speed** 30 ft., fly 60 ft., swim 30 ft.
+**Клас обладунку** 17 (природна броня)    
+**Бали** 38 (7d8 + 7)    
+**Швидкість** фут. політ 60 футів, плит 30 футів.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 15 (+2) | 12 (+1) | 13 (+1) | 14 (+2) | 11 (+0) | 13 (+1) |
 
@@ -19,8 +19,8 @@ _Medium dragon, lawful evil_
 **Languages** Draconic    
 **Challenge** 2 (450 XP)
 
-**Amphibious.** The dragon can breathe air and water.
+**Слабкий.** Дракон може дихати повітрям і водою.
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (1d10 + 2) piercing damage plus 3 (1d6) poison damage.    
-**Poison Breath (Recharge 5–6).** The dragon exhales poisonous gas in a 15‐foot cone. Each creature in that area must make a DC 11 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one.
+### Дії
+**Біт.** _Атака ближньої зброї:_ +4 до удару, досягає 5-ї цілі, одна мета. _Вразу:_ 7 (1d10 + 2) пошкодження від пробивання плюс 3 (1d6) пошкодження отрути.    
+**Отрутне дихання (Поповнення 5–6).** Дракон видихає отруйний газ у 15 футових конусів. Кожна істота в цій області повинна зробити економію конституції DC 11 приймаючи 21 (6d6) шкоду від отрути після збою збереження, або вдвічі більше шкоди від успішного.
