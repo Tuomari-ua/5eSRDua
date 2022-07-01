@@ -1,11 +1,11 @@
 name: Protection from Energy level: 3 school: abjuration classes: cleric druid ranger sorcerer wizard
 
-# Protection from Energy
-_3rd-level abjuration_
+# Захист від енергії
+_Відступ на третьому рівні_
 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S    
-**Duration:** Concentration, up to 1 hour
+**Час трансляції :** 1 дія    
+**Діапазон:** Торкніться    
+**компоненти:** V, S    
+дублювання**тривалість:** концентрування, до 1 години
 
-For the duration, the willing creature you touch has resistance to one damage type of your choice: acid, cold, fire, lightning, or thunder. 
+Протягом тривалого часу бажані істоти, які ви торкнетесь, мають опір одному типу пошкодження: кислоту, холодну, вогнища чи грозу. 
