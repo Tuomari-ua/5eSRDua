@@ -1,10 +1,10 @@
-name: Ring of Spell Storing type: ring
+назва: Кільце орфографічного зберігання тип: ring
 
-# Ring of Spell Storing
-_Ring, rare (requires attunement)_
+# Кільце заклинання
+_Рідкісний, рідкісний (вимагає відвідування)_
 
-This ring stores spells cast into it, holding them until the attuned wearer uses them. The ring can store up to 5 levels worth of spells at a time. When found, it contains 1d6 − 1 levels of stored spells chosen by the GM.
+Ці кільцеві магазини кладуть в нього заклинання, тримаючи їх, поки його не використає знайомий носій її. Коло може зберігати до 5 рівнів за раз. Коли знайдено, він містить 1d6 - 1 рівня збережених заклинань, обраних GM.
 
-Any creature can cast a spell of 1st through 5th level into the ring by touching the ring as the spell is cast. The spell has no effect, other than to be stored in the ring. If the ring can't hold the spell, the spell is expended without effect. The level of the slot used to cast the spell determines how much space it uses.
+Будь-яка істота може транслювати заклинання 1-го рівня до 5-го рівня у кільце, торкаючись кільця, як написано. Закляття пов'язано не має відношення до обручки. Якщо кільце не вдається втримати заклинання - строк висилається без ефекту. Рівень слота, який буде використано, щоб кинути заклинання визначає, скільки місця він використовує.
 
-While wearing this ring, you can cast any spell stored in it. The spell uses the slot level, spell save DC, spell attack bonus, and spellcasting ability of the original caster, but is otherwise treated as if you cast the spell. The spell cast from the ring is no longer stored in it, freeing up space. 
+Під час цього обручки ви можете кинути будь-яку заклинання що зберігається в ньому. заклинання використовує рівень слоту, заощадити DC, заклинання атак допомогою заклинання і здатність орфографії його оригінального замку, але інакше трактуються так, ніби ви кидаєте орфографію. Листомове покривало більше не зберігається в ньому, звільняючи простір. 
