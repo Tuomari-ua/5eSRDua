@@ -1,8 +1,8 @@
-name: Broom of Flying type: item
+назва: Відділ польоту : елемент
 
-# Broom of Flying
-_Wondrous item, uncommon_
+# Зручна кімната польоту
+_Нетиповий для Wondrous_
 
-This wooden broom, which weighs 3 pounds, functions like a mundane broom until you stand astride it and speak its command word. It then hovers beneath you and can be ridden in the air. It has a flying speed of 50 feet. It can carry up to 400 pounds, but its flying speed becomes 30 feet while carrying over 200 pounds. The broom stops hovering when you land.
+Ця дерев’яна мітла, яка важить 3 фунти, функціонує як маневрена мітла, поки не перейдете на неї і не відповість словом. Потім її обводять під вами і можуть осідлати повітря. Швидкість польоту становить 50 футів. Він може зрости до 400 фунтів, але його швидкість стає на висоті 30 футів, переносячи більше 200 фунтів. Місія зупиняється коли ви їдете на землі.
 
-You can send the broom to travel alone to a destination within 1 mile of you if you speak the command word, name the location, and are familiar with that place. The broom comes back to you when you speak another command word, provided that the broom is still within 1 mile of you.
+Ви можете відправити мітлу в подорож на місце призначення в межах однієї милі з вас, якщо говорити вченням командного слова, назву місця, і знайомі з цим місцем. мітла повертається до вас, коли говориться інше слово з командним словом, якщо мітла все ще знаходиться в межах 1 милі від вас.
