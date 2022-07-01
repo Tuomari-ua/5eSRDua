@@ -1,69 +1,69 @@
-description: Rules and descriptions for character madness from the 5th Edition (5e) SRD (System Reference Document).
+опис: правила та описи божевілля персонажу з 5-ї версії (5e) SRD (Документація з Системної Документації).
 
-# Madness
-In a typical campaign, characters aren't driven mad by the horrors they face and the carnage they inflict day after day, but sometimes the stress of being an adventurer can be too much to bear. If your campaign has a strong horror theme, you might want to use madness as a way to reinforce that theme, emphasizing the extraordinarily horrific nature of the threats the adventurers face.
+# Божевілля
+У типовій кампанії герої не піддаються жахам, з якими вони стикаються і з різаниною, яку вони будять день у день, але іноді стрес бути авантюрером може бути занадто багато, щоб нести його. Якщо ваша кампанія має сильну тему жаху, ви, можливо, захочете використати безумство як спосіб зміцнити цю тему, підкреслюючи надзвичайно жахливий характер загроз, з якими стикаються пригоди.
 
-## Going Mad
-Various magical effects can inflict madness on an otherwise stable mind. Certain spells, such as **_contact other plane_** and **_symbol_**, can cause insanity, and you can use the madness rules here instead of the spell effects of those spells. Diseases, poisons, and planar effects such as psychic wind or the howling winds of Pandemonium can all inflict madness. Some artifacts can also break the psyche of a character who uses or becomes attuned to them.
+## Божевільний
+Різні магічні ефекти можуть спричинити божевілля в іншому випадку стабільному розумі. Деякі заклинання, такі як **_зв'язатися з іншим площиною_** і **_символом_**, може викликати божевілля, і ви можете використовувати тут правила божевілля замість ефектів заклинання цих заклинань. Хвороби, отрути та планові ефекти, такі як психічний вітер або виття вітрів Пандемонію можуть завдати божевілля. Деякі артефакти можуть також зламати психіку персонажа, що використовує або доповнює їх.
 
-Resisting a madness-inducing effect usually requires a Wisdom or Charisma saving throw.
+Протистояння ефекту, спричиненому божевіллям, зазвичай вимагає економії мудрості чи Харизми.
 
-## Madness Effects
-Madness can be short-term, long-term, or indefinite. Most relatively mundane effects impose short-term madness, which lasts for just a few minutes. More horrific effects or cumulative effects can result in long-term or indefinite madness.
+## Божевільні ефекти
+Божевілля може бути короткотерміновим, довгостроковим або невизначеним. Більшість відносно мирних ефектів накладають на короткочасне божевілля, що триває всього на кілька хвилин. Більші жахливі ефекти або кумулятивні ефекти можуть призвести до довгострокового чи невизначеного божевілля.
 
-A character afflicted with **short-term madness** is subjected to an effect from the Short-Term Madness table for 1d10 minutes.
+Символ, пов'язаний з **короткотерміновим божевіллям** зазнає впливу з таблиці «Шорт-Терм» протягом 110 хвилин.
 
-A character afflicted with **long-term madness** is subjected to an effect from the Long-Term Madness table for 1d10 × 10 hours.
+Символ, пов'язаний з **довготривалим безумством** зазнає ефекту з таблиці «Довгостроково» на 1d10 × 10 годин.
 
-A character afflicted with **indefinite madness** gains a new character flaw from the Indefinite Madness table that lasts until cured.
+Символ, пов'язаний з **невизначеним божевіллям** отримає новий закон з невизначеної божевілля, який триває до вилікування.
 
-### Short-Term Madness
+### Короткострокове божество
 
-| d100   | Effect (lasts 1d10 minutes)                                                                                                  |
-| ------ | ---------------------------------------------------------------------------------------------------------------------------- |
-| 01-20  | The character retreats into his or her mind and becomes paralyzed. The effect ends if the character takes any damage.        |
-| 21-30  | The character becomes incapacitated and spends the duration screaming, laughing, or weeping.                                 |
-| 21-40  | The character becomes frightened and must use his or her action and movement each round to flee from the source of the fear. |
-| 41-50  | The character begins babbling and is incapable of normal speech or spellcasting.                                             |
-| 51-60  | The character must use his or her action each round to attack the nearest creature.                                          |
-| 51-70  | The character experiences vivid hallucinations and has disadvantage on ability checks.                                       |
-| 71-75  | The character does whatever anyone tells him or her to do that isn't obviously self-destructive.                             |
-| 75-80  | The character experiences an overpowering urge to eat something strange such as dirt, slime, or offal.                       |
-| 81-90  | The character is stunned.                                                                                                    |
-| 91-100 | The character falls unconscious.                                                                                             |
+| д100   | Ефект (триває 1d10 хвилин)                                                                                         |
+| ------ | ------------------------------------------------------------------------------------------------------------------ |
+| 01-20  | Цей персонаж відступає у свій розум і стає паралізованим. Завершується, якщо персонаж завдає будь-які пошкодження. |
+| 21-30  | Символ стає неможливим і витрачає тривалість крику, сміху або ридає.                                               |
+| 21-40  | Характер стає переляканим і повинен використовувати його дії і рухати кожен раунд, щоб втекти з джерела страху.    |
+| 41-50  | Характер починається з малюків і не може мати нормального мовлення або написання орфографії.                       |
+| 51-60  | Герой повинен використовувати його або її дії кожен раунд для атаки найближчої істоти.                             |
+| 51-70  | Досвід персонажу яскраві галюцинації і мало недолік щодо перевірок здатності.                                      |
+| 71-75  | Характер робить все, що завгодно, будь-хто каже йому, чи вона робить це не очевидно саморуйнівним.                 |
+| 75-80  | Переживання персонажа переборщий, закликає з'їсти щось дивне, таку як бруд, стрункий або образливе.                |
+| 81-90  | Персонаж приголомшений.                                                                                            |
+| 91-100 | Характер починає непритомний.                                                                                      |
 
-### Long-Term Madness
+### Велика божевілля
 
-| d100   | Effect (lasts 1d10 x 10 hours)                                                                                                                                                                                                       |
-| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 01-10  | The character feels compelled to repeat a specific activity over and over, such as washing hands, touching things, praying, or counting coins.                                                                                       |
-| 11-20  | The character experiences vivid hallucinations and has disadvantage on ability checks.                                                                                                                                               |
-| 21-30  | The character suffers extreme paranoia. The character has disadvantage on Wisdom and Charisma checks.                                                                                                                                |
-| 31-40  | The character regards something (usually the source of madness) with intense revulsion, as if affected by the antipathy effect of the **_antipathy/sympathy_** spell.                                                                |
-| 41-45  | The character experiences a powerful delusion. Choose a potion. The character imagines that he or she is under its effects.                                                                                                          |
-| 46-55  | The character becomes attached to a "lucky charm," such as a person or an object, and has disadvantage on attack rolls, ability checks, and saving throws while more than 30 feet from it.                                           |
-| 56-65  | The character is blinded (25%) or deafened (75%).                                                                                                                                                                                    |
-| 66-75  | The character experiences uncontrollable tremors or tics, which impose disadvantage on attack rolls, ability checks, and saving throws that involve Strength or Dexterity.                                                           |
-| 76-85  | The character suffers from partial amnesia. The character knows who he or she is and retains racial traits and class features, but doesn't recognize other people or remember anything that happened before the madness took effect. |
-| 86-90  | Whenever the character takes damage, he or she must succeed on a DC 15 Wisdom saving throw or be affected as though he or she failed a saving throw against the confusion spell. The confusion effect lasts for 1 minute.            |
-| 91-95  | The character loses the ability to speak.                                                                                                                                                                                            |
-| 96-100 | The character falls unconscious. No amount of jostling or damage can wake the character.                                                                                                                                             |
+| д100   | Ефект (триватиме 1d10 х 10 години)                                                                                                                                                                                                        |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 01-10  | Характер відчуває себе змушеним повторити конкретну діяльність, таку як пральні руки, торкаючись речей, молитов чи підрахунку монет.                                                                                                      |
+| 11-20  | Досвід персонажу яскраві галюцинації і мало недолік щодо перевірок здатності.                                                                                                                                                             |
+| 21-30  | Цей персонаж страждає від крайньої параної. Цей персонаж має недоліки у перевірках Мудрості та Харизми.                                                                                                                                   |
+| 31-40  | Характер вважає щось (як правило, джерело безумства) з сильною відразою, як це впливає на ефект антипатії **_антипатія/симпатія_** заклинання .                                                                                           |
+| 41-45  | Цей персонаж переживає потужну оману. Вибери зілля. Характер уявляє, що він чи вона знаходиться під його ефектом.                                                                                                                         |
+| 46-55  | Цей персонаж прикріплюється до "щасливого часу", такої як людина чи об'єкт, і має невигідний напад на автоматичні рухи, чеки здібностей та заощадження кидків, поки більш ніж 30 футів від нього.                                         |
+| 56-65  | Осліплений ієрогліф (25%) або глухий (75%).                                                                                                                                                                                               |
+| 66-75  | Досвід персонажу неконтрольовані тремтіння або кроки, які накладають недолік щодо атак роликів, перевірок здатності та збереження кийок, що передбачають стійкість або слабкість.                                                         |
+| 76-85  | Цей персонаж страждає від часткової амнезії. Характер знає, хто він або вона знаходить расові риси і риси класу, але не розпізнайте інших людей або не пам'ятайте нічого, що сталося до того, як це набуло божевілля.                     |
+| 86-90  | Кожен раз, коли персонаж завдає пошкоджень, він або вона повинні досягти успіху в DC 15 000 000 мудрості врятувати або вплинути так, ніби він або вона не вдалася врятувати плутанину заклинання. Ефект плутанини триває на одну хвилину. |
+| 91-95  | Цей персонаж втрачає здатність розмовляти.                                                                                                                                                                                                |
+| 96-100 | Характер починає непритомний. Жодна кількість суглобів і пошкоджень не може розбудити персонажа.                                                                                                                                          |
 
-### Indefinite Madness
-| d100   | Flaw (lasts until cured)                                                                                                                 |
-| ------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| 01-15  | "Being drunk keeps me sane."                                                                                                             |
-| 16-25  | "I keep whatever I find."                                                                                                                |
-| 26-30  | "I try to become more like someone else I know--adopting his or her style of dress, mannerisms, and name."                               |
-| 31-35  | "I must bend the truth, exaggerate, or outright lie to be interesting to other people."                                                  |
-| 36-45  | "Achieving my goal is the only thing of interest to me, and I'll ignore everything else to pursue it."                                   |
-| 46-50  | "I find it hard to care about anything that goes on around me."                                                                          |
-| 51-55  | "I don't like the way people judge me all the time."                                                                                     |
-| 56-70  | "I am the smartest, wisest, strongest, fastest, and most beautiful person I know."                                                       |
-| 71-80  | "I am convinced that powerful enemies are hunting me, and their agents are everywhere I go. I am sure they're watching me all the time." |
-| 81-85  | "There's only one person I can trust. And only I can see this special friend."                                                           |
-| 86-95  | "I can't take anything seriously. The more serious the situation, the funnier I find it."                                                |
-| 96-100 | "I've discovered that I really like killing people."                                                                                     |
+### Невизначена безумство
+| д100   | Закон (триває до вилікування)                                                                                                      |
+| ------ | ---------------------------------------------------------------------------------------------------------------------------------- |
+| 01-15  | "Бути п'яним дозволяє мені в безпеці."                                                                                             |
+| 16-25  | "Я зберігаю все, що я знайшов."                                                                                                    |
+| 26-30  | "Я намагаюся стати більше, ніж хтось інший я знаю - прийняття його або її стиль одягу, манерства і імені."                         |
+| 31-35  | "Я повинен покрити правду, перебільшувати чи відверту брехню, щоб бути цікавими для інших людей."                                  |
+| 36-45  | "Досягти своєї мети це єдине цікаве для мене, і я проігнорую все інше, щоб здійснити це."                                          |
+| 46-50  | "Я вважаю його важким піклуватися про все, що відбувається навколо мене."                                                          |
+| 51-55  | "Мені не подобається, як люди завжди судять мене."                                                                                 |
+| 56-70  | "Я найрозумніший, мудріший, найсильніший, найшвидший та найпрекрасніша людина, яку я знаю."                                        |
+| 71-80  | "Я переконаний, що потужні вороги полюють на мене, а їхні агенти - всюди, де я йду. Я впевнений, що вони дивляться мене весь час." |
+| 81-85  | "Там тільки одна людина я можу довіряти. І тільки я можу бачити цього особливого друга."                                           |
+| 86-95  | "Я не можу сприймати нічого серйозно. Чим серйозніша ситуація, тим смішніше я її бачу."                                            |
+| 96-100 | "Я зрозумів, що дуже люблю вбивати людей."                                                                                         |
 
-## Curing Madness
-A **_calm emotions_** spell can suppress the effects of madness, while a **_lesser restoration_** spell can rid a character of a short-term or long-term madness. Depending on the source of the madness, **_remove curse_** or **_dispel evil_** might also prove effective. A **_greater restoration_** spell or more powerful magic is required to rid a character of indefinite madness.
+## Шукання безумства
+**_спокійні емоції_** заклинання можуть пригнічувати ефекти безумства, поки твердження **_менше відновлення_** заклинання може позбавити характер короткотермінового або довготривалого божевілля. Залежно від джерела божевілля, **_видалити прокляття_** або **_розвіяти зло_** також може виявитись ефективним. Від **_до відновлення_** заклинання чи потужніша магія потрібні людині невизначеного божевілля.
