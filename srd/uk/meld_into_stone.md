@@ -1,13 +1,13 @@
-name: Meld into Stone level: 3 school: transmutation classes: cleric druid
+назва: Здійснюйте за камінь рівень: 3 школа: транмутація класи: священно druid
 
-# Meld into Stone
-_3rd-level transmutation (ritual)_
+# Вельми в камінь
+_Трансмутація третього рівня (ритуал)_
 
 **Casting Time:** 1 action    
 **Range:** Touch    
 **Components:** V, S    
 **Duration:** 8 hours
 
-You step into a stone object or surface large enough to fully contain your body, melding yourself and all the equipment you carry with the stone for the duration. Using your movement, you step into the stone at a point you can touch. Nothing of your presence remains visible or otherwise detectable by nonmagical senses.    
-While merged with the stone, you can't see what occurs outside it, and any Wisdom (Perception) checks you make to hear sounds outside it are made with disadvantage. You remain aware of the passage of time and can cast spells on yourself while merged in the stone. You can use your movement to leave the stone where you entered it, which ends the spell. You otherwise can't move.    
-Minor physical damage to the stone doesn't harm you, but its partial destruction or a change in its shape (to the extent that you no longer fit within it) expels you and deals 6d6 bludgeoning damage to you. The stone's complete destruction (or transmutation into a different substance) expels you and deals 50 bludgeoning damage to you. If expelled, you fall prone in an unoccupied space closest to where you first entered. 
+Ви входите до кам'яного об'єкта або поверхню достатньо великі, щоб повністю стримувати своє тіло, танення себе і все спорядження, яке ви носите з каменем на тривалість. Використовуючи ваш рух, ви входите в камінь в точку, яку можете торкатися. Ніщо з вашої присутності не залишається видимим або виявлення за допомогою немагічних відчуттів.    
+У побитий з каменом, ви не можете бачити, що відбувається за межами нього, і будь-яка мудрість (Поняття) перевіряє, що ви чуєте звуки назовні його зроблені з знедоленням. Ви тільки усвідомлюєте уривок часу і можете кидати орфографію собі на себе, зливши з каменю. Можна використати свій рух, щоб залишити камінь, в якому ви ввели її, що закінчується заклинання . Інакше не можна переїхати.    
+Незначне фізичне пошкодження каменю не зашкодить вам, але його часткове знищення або зміна в його формі (наскільки ви більше не вписуєтеся в ньому) вигнує вас і завдає шкоди 6d6 дублювання вам. Наше повне знищення каменя (або трансмутація в іншу речовину) витягує вас і завдає 50 пошкодження дужування. Якщо вибрано, ви вирізняєтеся в незайнятий простір найближчий до того, де ви вперше увійшли. 
