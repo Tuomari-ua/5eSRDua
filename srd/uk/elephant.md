@@ -1,22 +1,22 @@
-name: Elephant type: beast cr: 4
+назва: Слон тип: звір cr: 4
 
-# Elephant
-_Huge beast, unaligned_
+# Слон
+_Величезний звір, неприєднаний_
 
-**Armor Class** 12 (natural armor)    
-**Hit Points** 76 (8d12 + 24)    
-**Speed** 40 ft.
+**Клас броні** 12 (природна броня)    
+**Очки влучання** 76 (8d12 + 24)    
+**Швидкість** фут.
 
-| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС   | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------ | ------- | ------ | ------- | ------ |
 | 22 (+6) | 9 (−1) | 17 (+3) | 3 (−4) | 11 (+0) | 6 (−2) |
 
-**Senses** passive Perception 10    
-**Languages** --    
-**Challenge** 4 (1,100 XP)
+**Подяки** пасивне сприйняття 10    
+**Мови** --    
+**виклик** ** (1,100 XP) </p>
 
-**Trampling Charge.** If the elephant moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the elephant can make one stomp attack against it as a bonus action.
+**поштовий заряд.** Якщо слон рухатиметься щонайменше на 20 футів прямо у напрямку істоти, а потім потрапить до нього з нападом на той же бік, ця мета повинна досягти успіху в DC 12 Сил заощадження потужності або бути постукованою часткою. Якщо ціль молюється, слон може зробити одну бомбардуванню проти неї в якості бонусної дії.
 
-### Actions
-**Gore.** _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 19 (3d8 + 6) piercing damage.    
-**Stomp.** _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one prone creature. _Hit:_ 22 (3d10 + 6) bludgeoning damage.
+### Дії
+**Гор.** _Атака ближньої зброї:_ +8 до влучання, досягає 5-ї цілі, одна ціль. _Hit:_ 19 (3d8 + 6) piercing damage.    
+**Stomp.** _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one prone creature. _Удачі:_ 22 (3d10 + 6) пошкодження дублювання.
