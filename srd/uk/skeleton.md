@@ -1,23 +1,23 @@
-name: Skeleton type: undead cr: .25
+назва: Скелет тип: немертвий cr: .25
 
-# Skeleton
-_Medium undead, lawful evil_
+# Скелет
+_Середні мертві, законне зло_
 
-**Armor Class** 13 (armor scraps)    
-**Hit Points** 13 (2d8 + 4)    
-**Speed** 30 ft.
+**Класс броні** 13 (броні бали)    
+**Очки влучання** 13 (2d8 + 4)    
+**швидкість** фут.
 
-| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS    | CHA    |
 | ------- | ------- | ------- | ------ | ------ | ------ |
 | 10 (+0) | 14 (+2) | 15 (+2) | 6 (−2) | 8 (−1) | 5 (−3) |
 
-**Damage Vulnerabilities.** bludgeoning    
-**Damage Immunities** poison    
-**Condition Immunities** exhaustion, poisoned    
-**Senses** darkvision 60 ft., passive Perception 9    
-**Languages** understands all languages it knew in life but can't speak    
-**Challenge** 1/4 (50 XP)
+**Пошкодження слабкості.** дулювання    
+**Шкода від пошкоджень** отрути    
+**Імунітет до** , вичерпання отруєний    
+**Установки** затемнення 60 футів. пасивне сприйняття 9    
+**мов** розуміє всі мови цього і не може озвучити    
+**Виклик** 1/4 (50 XP)
 
-### Actions
-**Shortsword.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.    
-**Shortbow.** _Ranged Weapon Attack:_ +4 to hit, range 80/320 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.
+### Дії
+**Короткий меч.** _Атака ближньої зброї:_ +4 по влучання, досягає 5 літер, одна мета. _Вдач:_ 5 (1d6 + 2) пробивання пошкодження.    
+**Коротколук.** _Атака дальньої зброї:_ +4, щоб вдарити в радіус 80/320., одна мета. _Вразів:_ 5 (1d6 + 2) пробивання пошкоджень.
