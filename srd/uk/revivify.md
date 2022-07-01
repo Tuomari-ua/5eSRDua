@@ -1,11 +1,11 @@
-name: Revivify level: 3 school: necromancy classes: cleric paladin
+ім'я: Відродження рівень: 3 школи: некромантність класів: клоп Paladin
 
-# Revivify
-_3rd-level necromancy_
+# Ревіфік
+_3-рівна некромантія_
 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S, M (diamonds worth 300 gp, which the spell consumes)    
-**Duration:** Instantaneous
+**Час трансляції :** 1 дія    
+**Діапазон:** Торкніться    
+**компоненти:** V, S, М (діаманти варті 300 gp, який споживає заклинання    
+**тривалість:** миттєві
 
-You touch a creature that has died within the last minute. That creature returns to life with 1 hit point. This spell can't return to life a creature that has died of old age, nor can it restore any missing body parts. 
+Ти торкаєшся істоти, яка померла протягом останньої хвилини. Ця істота повертається до життя з 1 побитою точкою. Ця заклинання не може повернутися до життя істоти, що померла від старості, і вона не може відновити жодної відсутньої частини тіла. 
