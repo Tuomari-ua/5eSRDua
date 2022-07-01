@@ -1,38 +1,38 @@
-name: Unicorn type: celestial cr: 5
+назва: Unicorn тип: небесний cr: 5
 
-# Unicorn
-_Large celestial, lawful good_
+# Єдиноріг
+_Великий, небесний, законний товар_
 
-**Armor Class** 12    
-**Hit Points** 67 (9d10 + 18)    
-**Speed** 50 ft.
+**Рівень броні** 12    
+**Очки** 67 (9d10 + 18)    
+**швидкість** фут.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 14 (+2) | 15 (+2) | 11 (+0) | 17 (+3) | 16 (+3) |
 
-**Damage Immunities** poison    
-**Condition Immunities** charmed, paralyzed, poisoned    
-**Senses** darkvision 60 ft., passive Perception 13    
-**Languages** Celestial, Elvish, Sylvan, telepathy 60 ft.    
-**Challenge** 5 (1,800 XP)
+**Вшкодження** отрути    
+**Набражені** паралізований, отруєний    
+**Звуки** затемнення 60 футів. пасивне сприйняття 13    
+**мови** Пелестії, Елвіш, Сильван, телепатія 60фут.    
+Клас**Завдання** (1,800 XP)
 
-**Charge.** If the unicorn moves at least 20 feet straight toward a target and then hits it with a horn attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.    
+**Заряд.** Якщо єдиноріг рухається щонайменше на 20 футів прямо до мети, а потім ударяє його з нападом ріга на той же бік, ціль отримує додаткові 9 (2d8) пошкодження від проколу. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.    
 **Innate Spellcasting.** The unicorn's innate spellcasting ability is Charisma (spell save DC 14). The unicorn can innately cast the following spells, requiring no components:    
 At will: **_detect evil and good, druidcraft, pass without trace_**    
 1/day each: **_calm emotions, dispel evil and good, entangle_**    
 **Magic Resistance.** The unicorn has advantage on saving throws against spells and other magical effects.    
 **Magic Weapons.** The unicorn's weapon attacks are magical.
 
-### Actions
-**Multiattack.** The unicorn makes two attacks: one with its hooves and one with its horn.    
-**Hooves.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) bludgeoning damage.    
-**Horn.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 8 (1d8 + 4) piercing damage.    
-**Healing Touch (3/Day).** The unicorn touches another creature with its horn. The target magically regains 11 (2d8 + 2) hit points. In addition, the touch removes all diseases and neutralizes all poisons afflicting the target.    
-**Teleport (1/Day).** The unicorn magically teleports itself and up to three willing creatures it can see within 5 feet of it, along with any equipment they are wearing or carrying, to a location the unicorn is familiar with, up to 1 mile away.
+### Дії
+**Мультиатака.** Єдиноріг робить дві атаки: один зі своїми копитами та одним з його рогів.    
+**Хауви.** _Атака ближньої зброї:_ +7, щоб влучити у неї, досягає 5 футів, одна ціль. _Вразу:_ 11 (2d6 + 4) пошкодження дублювання.    
+**Ріг.** _Атака ближньої зброї:_ +7 щоб ударити, досягти 5-ти цілі, одну ціль. _Вдач:_ 8 (1d8 + 4) кослячої пошкодження.    
+**Дотик лікування (3/День).** Єдинорога торкається іншої істоти зі своїм рогом. Мішень магічним чином повертає 11 (2d8 + 2) - влучив очки. Крім того, дотик видаляє всі хвороби і нейтралізує всі отрути, які страждають на ціль.    
+**Телепорт (1/Day).** Унікорн магічно телепортує себе і до трьох бажаючих істот, які він може побачити в межах 5 футів від нього, разом з будь-яким обладнанням, з яким вони носять або переносять до місця одного єдинорога, добре що знаходиться на відстані 1 милю.
 
-### Legendary Actions
-The unicorn can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The unicorn regains spent legendary actions at the start of its turn.    
-**Hooves.** The unicorn makes one attack with its hooves.    
-**Shimmering Shield (Costs 2 Actions).** The unicorn creates a shimmering, magical field around itself or another creature it can see within 60 feet of it. The target gains a +2 bonus to AC until the end of the unicorn's next turn.    
-**Heal Self (Costs 3 Actions).** The unicorn magically regains 11 (2d8 + 2) hit points.
+### Легендарні дії
+Єдиноріг може взяти 3 легендарні дії, обираючи варіанти нижче. Тільки один легендарний параметр може бути використаний в той час і тільки на кінці черги іншої істоти. У єдинорога полководці проводили легендарні дії на початку свого кроку.    
+**Яструс.** Єдиноріг робить одну атаку зі своїми копитами.    
+**Зцілення щита (витрати 2 дії).** Єдиноріг створює яскраве, магічне поле навколо себе чи іншої істоти, що знаходиться в межах 60 футів від нього. Ціль отримує бонус +2 до кінця наступного повороту єдинорога.    
+**Зцілити себе (коштувати 3 дії).** магічно знову 11 (2d8 + 2) влучили очки.
