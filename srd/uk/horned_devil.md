@@ -1,13 +1,13 @@
-name: Horned Devil type: fiend (devil) cr: 11
+назва: Роговий Диявол тип: fiend (devil) cr: 11
 
-# Horned Devil
-_Large fiend (devil), lawful evil_
+# Рогатий диявол
+_Великий диявол, законне зло_
 
-**Armor Class** 18 (natural armor)    
-**Hit Points** 148 (17d10 + 55)    
-**Speed** 20 ft., fly 60 ft.
+**Клас обладунку** 18 (природна броня)    
+**Очки** 148 (17d10 + 55)    
+**швидкість** фут. політ 60 футів.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 22 (+6) | 17 (+3) | 21 (+5) | 12 (+1) | 16 (+3) | 17 (+3) |
 
@@ -22,8 +22,8 @@ _Large fiend (devil), lawful evil_
 **Devil's Sight.** Magical darkness doesn't impede the devil's darkvision.    
 **Magic Resistance.** The devil has advantage on saving throws against spells and other magical effects.
 
-### Actions
-**Multiattack.** The devil makes three melee attacks: two with its fork and one with its tail. It can use Hurl Flame in place of any melee attack.    
-**Fork.** _Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Hit:_ 15 (2d8 + 6) piercing damage.    
-**Tail.** _Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Hit:_ 10 (1d8 + 6) piercing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 17 Constitution saving throw or lose 10 (3d6) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 10 (3d6). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.    
-**Hurl Flame.** Ranged Spell Attack: +7 to hit, range 150 ft., one target. _Hit:_ 14 (4d6) fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.
+### Дії
+**Мультиатака.** Диявол робить три битви в ближньому боку: два з його форком і один з його хвостом. Можна використовувати Херл Полум'я замість будь-якої атаки ближнього бою,    
+**Форк.** _Атака ближньої зброї:_ +10 до удару, досягає 10-ти, однієї цілі. _Hit:_ 15 (2d8 + 6) piercing damage.    
+**Tail.** _Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Вразів:_ 10 (1d8 + 6) пошкодження проб. Якщо мета є істотою, що не є мертвою або конструкцією, він має досягти успіху в збереженні Конституції DC 17 року або втратити 10 (3d6) вдарили пункти на початку кожного повороту через пекельний рану. Кожен раз, коли диявол влучає у поранену ціль з цією атакою, шкода, завдана раною, збільшується на 10 (3d6). Будь-яка істота може вжити заходів для того, щоб прискорити рану з успішною мудрістю DC 12 (з медициною). Навколо також закриється, якщо ціль отримує магічне зцілення.    
+**Ерл Флам.** Ефект поширеної дії орфографії: +7 до влучання, цілої і приціленої низки 150 тис. _Удару:_ 14 (4d6) пошкодження вогню. Якщо мета - легкозаймистий об'єкт, його не носять або постачають, він також загоряється.
