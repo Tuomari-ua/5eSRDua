@@ -1,13 +1,13 @@
-name: Vampiric Touch level: 3 school: necromancy classes: warlock wizard
+назва: Vampiric Touch : 3 школа: некроманність класи: warlock майстер
 
-# Vampiric Touch
-_3rd-level necromancy_
+# Вампіричний дотик
+_3-рівна некромантія_
 
 **Casting Time:** 1 action    
 **Range:** Self    
 **Components:** V, S    
 **Duration:** Concentration, up to 1 minute
 
-The touch of your shadow-wreathed hand can siphon life force from others to heal your wounds. Make a melee spell attack against a creature within your reach. On a hit, the target takes 3d6 necrotic damage, and you regain hit points equal to half the amount of necrotic damage dealt. Until the spell ends, you can make the attack again on each of your turns as an action.
+Тиск вашої тіневої руки може сипати життєву силу від інших, щоб вилікувати ваші рани. Зробіть напад на зустріч зустріч проти істоти в межах вашого досягнення. На ударі ціль наносить пошкодження на 3d6 некстротичних ушкоджень, і ви знову отримаєте очки, що дорівнює половині долі від некротичної шкоди. Доки заклинання не закінчиться, ви можете зробити атаку знову на кожне з ваших поворотів як дію.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
+**На вищих рівнях.** Коли ви кидаєте це заклинання використовуючи слот четвертого рівня або вище, збільшення пошкодження на 1d6 для кожного рівня слоту вище 3rd.
