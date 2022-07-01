@@ -1,6 +1,6 @@
-name: Bracers of Defense type: item
+назва: Терміни оборони типу: елемент
 
-# Bracers of Defense
-_Wondrous item, rare (requires attunement)_
+# Терміни Захисту
+_Чудотвор, рідкісний (вимагає захоплення)_
 
-While wearing these bracers, you gain a +2 bonus to AC if you are wearing no armor and using no shield. 
+При одязі цих брасерів, ви отримуєте +2 бонус до АС, якщо ви не носите ні броні та без щиту. 
