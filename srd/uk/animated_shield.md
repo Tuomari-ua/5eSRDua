@@ -1,6 +1,6 @@
-name: Animated Shield type: armor
+назва: Анімований Щит тип: броня
 
-# Animated Shield
-_Armor (shield), very rare (requires attunement)_
+# Анімований Щит
+_Броня (щит), дуже рідкісна (потребує супроводу)_
 
-While holding this shield, you can speak its command word as a bonus action to cause it to animate. The shield leaps into the air and hovers in your space to protect you as if you were wielding it, leaving your hands free. The shield remains animated for 1 minute, until you use a bonus action to end this effect, or until you are incapacitated or die, at which point the shield falls to the ground or into your hand if you have one free.
+Утримуючи цей щит, ви можете говорити його командне слово як бонус для анімації. Щит скріпляє в повітря та коливається в просторі, щоб захистити вас, як якщо ви з ним перев'язуєте, не залишаючи рук вільними. Щит залишається анімованим протягом 1 хвилини, поки ви не використаєте бонусну дію для припинення цього ефекту, або допоки ви не потрапите в руки і не помрете, в який момент щит впадає на землю, або у вашу руку якщо у вас є він вільний.
