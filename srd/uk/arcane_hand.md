@@ -1,19 +1,19 @@
-name: Arcane Hand level: 5 school: evocation classes: wizard
+назва: Рука Arcane рівень: 5 школа: евакуація класів: чарівник
 
 # Arcane Hand
-_5th-level evocation_
+_Евокація 5-го рівня_
 
-**Casting Time:** 1 action   
-**Range:** 120 feet   
-**Components:** V, S, M (an eggshell and a snakeskin glove)   
-**Duration:** Concentration, up to 1 minute
+**Час трансляції часу:** 1 дія   
+**Діапазон:** 120 футів   
+**компоненти:** V, S, М (яйцеклітина і блиск, гарню)   
+**тривалість:** Механізація, відстань до 1 хвилини
 
-You create a Large hand of shimmering, translucent force in an unoccupied space that you can see within range. The hand lasts for the spell's duration, and it moves at your command, mimicking the movements of your own hand.    
-The hand is an object that has AC 20 and hit points equal to your hit point maximum. If it drops to 0 hit points, the spell ends. It has a Strength of 26 (+8) and a Dexterity of 10 (+0). The hand doesn't fill its space.    
-When you cast the spell and as a bonus action on your subsequent turns, you can move the hand up to 60 feet and then cause one of the following effects with it.    
-**Clenched Fist.** The hand strikes one creature or object within 5 feet of it. Make a melee spell attack for the hand using your game statistics. On a hit, the target takes 4d8 force damage.    
-**Forceful Hand.** The hand attempts to push a creature within 5 feet of it in a direction you choose. Make a check with the hand's Strength contested by the Strength (Athletics) check of the target. If the target is Medium or smaller, you have advantage on the check. If you succeed, the hand pushes the target up to 5 feet plus a number of feet equal to five times your spellcasting ability modifier. The hand moves with the target to remain within 5 feet of it.   
-**Grasping Hand.** The hand attempts to grapple a Huge or smaller creature within 5 feet of it. You use the hand's Strength score to resolve the grapple. If the target is Medium or smaller, you have advantage on the check. While the hand is grappling the target, you can use a bonus action to have the hand crush it. When you do so, the target takes bludgeoning damage equal to 2d6 + your spellcasting ability modifier.   
-**Interposing Hand.** The hand interposes itself between you and a creature you choose until you give the hand a different command. The hand moves to stay between you and the target, providing you with half cover against the target. The target can't move through the hand's space if its Strength score is less than or equal to the hand's Strength score. If its Strength score is higher than the hand's Strength score, the target can move toward you through the hand's space, but that space is difficult terrain for the target.
+Ви створюєте велику руку мерехтливих сил, напівзайнятих у незамінному просторі, яку можна побачити в раді. Рука триває тривалістю заклинання, і вона рухається по командуванню, імітуючи рухи власної руки.    
+Рука - це об’єкт, який має AC 20 і чутливий до максимальної максимальної висоти за очками. Якщо воно впаде до нуля визначних точок, то написано заклинання закінчується. Це має Силу 26 (+8) та силу 10 (+0). Рука не наповнює свій простір.    
+Коли ви кидаєте заклинання і в якості бонусної дії на наступні повороти, ви можете перемістити руку вгору до 60 футів, а потім викликати один з наступних ефектів.    
+**Закритий Fist.** Рука вражає одну істоту або об'єкт в межах 5 футів від нього. Намагайтеся запобігти заклинання ближнього бою, використовуючи свою ігрову статистику. По удару ціль наносить 4d8 шкоду силі.    
+**Змушена манка.** Рука намагається відсунути істоту в межах 5 футів від неї у тому напрямку, який ви виберете. Перевір силою руки, оскаржений силою сили сили сили сили (Атлетика) в міці. Якщо мета середня або менша, ви можете скористатися покупкою. Якщо у вас все вийде, рука відштовхує ціль на 5 футів плюс кількість футів дорівнює 5 помножити на здатність заклинання модифікатора. Рука рухається з ціллю, щоб залишатися на відстані в 5 футів.   
+**Захоплює землю.** Рука намагається зігнати Величезну або меншу істоту на 5 футів від нього. Ви використовуєте оцінку успіху для вирішення винограду. Якщо мета середня або менша, ви можете скористатися покупкою. Хоча рука греблює ціль, ви можете використати бонус дії, щоб стиснути її. Коли ви це робите, ціль наносить пошкодження 2d6 + ваш модифікатор здатності орфографії   
+**втручатися в оману.** Рука взаємодіє між вами і істотою, яку ви оберете, поки не надасте іншій команді. Рука рухається так, щоб залишитися між вами та цією метою, що забезпечує вас наполовину прикриттям до цілі. Мета не може проходити крізь простір руки, якщо її рівень менше або дорівнює потужності руки. Якщо оцінка його Сили вища, ніж оцінка сили руки, ціль може рухатися до вас в просторі рук, але цей простір є складним для цілі.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the damage from the clenched fist option increases by 2d8 and the damage from the grasping hand increases by 2d6 for each slot level above 5th. 
+**На вищих рівнях.** Коли ви кидаєте це заклинання використовуючи слот 6-го рівня або вище, пошкодження від стиснутого кулака збільшується на 2d8 та пошкодження від схоплення руки збільшуються на 2d6 для кожного слоту вище 5. 
