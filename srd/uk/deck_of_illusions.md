@@ -1,49 +1,49 @@
-name: Deck of Illusions type: item
+назва: Колода Ілюзій тип: елемент
 
-# Deck of Illusions
-_Wondrous item, uncommon_
+# Герб ілюзій
+_Нетиповий для Wondrous_
 
-This box contains a set of parchment cards. A full deck has 34 cards. A deck found as treasure is usually missing 1d20 − 1 cards.
+У цій коробці міститься набір пергаментних карт. Повна колода має 34 карти. Колода, знайдена як скарб, зазвичай втрачається 1d20 - 1 карти.
 
-The magic of the deck functions only if cards are drawn at random (you can use an altered deck of playing cards to simulate the deck). You can use an action to draw a card at random from the deck and throw it to the ground at a point within 30 feet of you.
+Магія функції колоди лише у тому випадку, якщо карти намальовані випадковим чином (ви можете використовувати змінену колоду для симуляції колоду). За допомогою дії можна навмання намалювати картку з колоди і кинути її на землю в точці на відстані 30 футів від вас.
 
-An illusion of one or more creatures forms over the thrown card and remains until dispelled. An illusory creature appears real, of the appropriate size, and behaves as if it were a real creature except that it can do no harm. While you are within 120 feet of the illusory creature and can see it, you can use an action to move it magically anywhere within 30 feet of its card. Any physical interaction with the illusory creature reveals it to be an illusion, because objects pass through it. Someone who uses an action to visually inspect the creature identifies it as illusory with a successful DC 15 Intelligence (Investigation) check. The creature then appears translucent.
+Ілюзія одного або декількох істот форми над кинутою карткою і залишається, поки не розірветься. ілюзорна істота виявляється реальною, щодо відповідного розміру і поводиться так, ніби вона була справжньою істотою, за винятком того, що вона не може завдати шкоди. Поки ви біля 120 футів від ілюзорної істоти і можете її бачити, Можна використати дію, щоб магічно перемістити її в межах 30 футів від її карти. Будь-яка фізична взаємодія з ілюзорною істотою виявляє, що вона є ілюзією, тому що об'єкти проходять через неї. Когось, хто використовує дію для візуального дослідження істоти ідентифікує її як ілюзорну роботу з успішною перевіркою розвідки DC 15 (слідування) . Тоді істота виявляється напівпрозорою.
 
-The illusion lasts until its card is moved or the illusion is dispelled. When the illusion ends, the image on its card disappears, and that card can't be used again.
+Ілюзія триває поки її карта не буде перенесена, або ілюзія не зникне. Коли ілюзія закінчується, зображення на його картці зникає, а картка не може використовуватись знову.
 
 
-| Playing Card      | Illusion                         |
-| ----------------- | -------------------------------- |
-| Ace of hearts     | Red dragon                       |
-| King of hearts    | Knight and four guards           |
-| Queen of hearts   | Succubus or incubus              |
-| Jack of hearts    | Druid                            |
-| Ten of hearts     | Cloud giant                      |
-| Nine of hearts    | Ettin                            |
-| Eight of hearts   | Bugbear                          |
-| Two of hearts     | Goblin                           |
-| Ace of diamonds   | Beholder                         |
-| King of diamonds  | Archmage and mage apprentice     |
-| Queen of diamonds | Night hag                        |
-| Jack of diamonds  | Assassin                         |
-| Ten of diamonds   | Fire giant                       |
-| Nine of diamonds  | Ogre mage                        |
-| Eight of diamonds | Gnoll                            |
-| Two of diamonds   | Kobold                           |
-| Ace of spades     | Lich                             |
-| King of spades    | Priest and two acolytes          |
-| Queen of spades   | Medusa                           |
-| Jack of spades    | Veteran                          |
-| Ten of spades     | Frost giant                      |
-| Nine of spades    | Troll                            |
-| Eight of spades   | Hobgoblin                        |
-| Two of spades     | Goblin                           |
-| Ace of clubs      | Iron golem                       |
-| King of clubs     | Bandit captain and three bandits |
-| Queen of clubs    | Erinyes                          |
-| Jack of clubs     | Berserker                        |
-| Ten of clubs      | Hill giant                       |
-| Nine of clubs     | Ogre                             |
-| Eight of clubs    | Orc                              |
-| Two of clubs      | Kobold                           |
-| Jokers (2)        | You (the deck's owner)           |
+| Картка              | Ілюзія                       |
+| ------------------- | ---------------------------- |
+| Туш з чирва         | Червоний дракон              |
+| Король чирва        | Кінь і чотири охоронці       |
+| Королева чирва      | Сукуб або інкуб              |
+| Джек з чирва        | Друїди                       |
+| Десять серв         | Велетенські хмари            |
+| Дев’ята чирва       | Ettin                        |
+| Вісім сердець       | Багведмідь                   |
+| Два серця           | Гоблін                       |
+| Авіація дзвінку     | Beholder                     |
+| Король алмазів      | Механізм та майдан           |
+| Королева дзвінкової | Нічний трамвай               |
+| Бубновий валет      | Вбивця                       |
+| Десять діамантів    | Вогняний гігант              |
+| Дев'ята бубнова     | Ogre mage                    |
+| Вісім діамантів     | Гнолл                        |
+| Двоє діамантів      | Kobold                       |
+| Ас з винового       | Ліч                          |
+| Король винового     | Священник і два аколіти      |
+| Королева винова     | Medusa                       |
+| Джек з вино         | Ветеран                      |
+| Десять вино         | Морозний гігант              |
+| Дев'ять вин         | Troll                        |
+| Вісім вино          | Hobgoblin                    |
+| Два вино            | Гоблін                       |
+| Ейс                 | Залізний голем               |
+| Король клубів       | Бандит Капітан і три бандити |
+| Королева клубів     | Erinyes                      |
+| Джек                | Berserker                    |
+| Десять палиць       | Гілл-Гілл                    |
+| Дев'ята булави      | Ogre                         |
+| Вісім клубів        | Орки                         |
+| Два жировки         | Kobold                       |
+| Джокерс (2)         | Ви (власник колоди)          |
