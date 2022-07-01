@@ -1,8 +1,8 @@
-# Privacy Policy
-## Google Analytics
+# Політика конфіденційності
+## Google Аналітика
 
-5thsrd.org uses Google Analytics (with IP anonymization enabled) to track website performance.
+5thsrd.org використовує Google Analytics (з увімкненою анонімністю IP), щоб відслідковувати продуктивність веб-сайту.
 
-## Advertisements
+## Реклама
 
-We use a third-party to provide monetization technologies for our site. You can review their privacy and cookie policy [here](https://www.snigel.com/privacy-policy/).
+З третьою стороною ми використовуємо технології монетизації для нашого сайту. Ви можете ознайомитися з їх політикою конфіденційності та куки [тут](https://www.snigel.com/privacy-policy/).
