@@ -1,13 +1,13 @@
-name: Wind Wall level: 3 school: evocation classes: druid ranger
+назва: Дані вітряної стіни : 3 школа: евакуація класів: druid діапазон
 
-# Wind Wall
-_3rd-level evocation_
+# Вітрова стіна
+_Евокація на третьому рівні_
 
-**Casting Time:** 1 action    
-**Range:** 120 feet    
-**Components:** V, S, M (a tiny fan and a feather of exotic origin)    
-**Duration:** Concentration, up to 1 minute
+**Час трансляції часу:** 1 дія    
+**Діапазон:** 120 футів    
+**компоненти:** V, S, М (крихітний фанат і перо екзотичного походження)    
+**тривалість:** Зосередження, до 1 хвилини
 
-A wall of strong wind rises from the ground at a point you choose within range. You can make the wall up to 50 feet long, 15 feet high, and 1 foot thick. You can shape the wall in any way you choose so long as it makes one continuous path along the ground. The wall lasts for the duration.    
-When the wall appears, each creature within its area must make a Strength saving throw. A creature takes 3d8 bludgeoning damage on a failed save, or half as much damage on a successful one.    
-The strong wind keeps fog, smoke, and other gases at bay. Small or smaller flying creatures or objects can't pass through the wall. Loose, lightweight materials brought into the wall fly upward. Arrows, bolts, and other ordinary projectiles launched at targets behind the wall are deflected upward and automatically miss. (Boulders hurled by giants or siege engines, and similar projectiles, are unaffected.) Creatures in gaseous form can't pass through it. 
+Стіна сильного вітру підвищується з землі в момент, коли ви обираєте в раді. Стіна можна проробити до 50 футів завдовжки, 15 футів заввишки і по 1 фут. Ви можете встановити стіну в будь-який час, поки вона зробить один безперервний шлях по землі. Тривалість триває стіна.    
+Коли стіна з’являється, кожна істота в межах її області повинна зробити зберігання міцності. Створіння наносить 3d8 пошкодження від невдалого заощадження, або ж ушкодження від успішного.    
+Сильний вітер утримує туман, дим, а також інші гази в страху. Маленькі чи менші літаючі істоти чи об'єкти не можуть пройти через стіну. Погляньте, легкі матеріали потрапляли до стіни догори. Стріли, болти та інші звичайні проекти, запущені по об'єктах за стіною, знижуються вгору та автоматично пропускаються. (Боулдери постраждали гігантами чи облоговими двигунами та подібними проектилями не впливають.) Істоти в газоподібній формі не можуть пройти через неї. 
