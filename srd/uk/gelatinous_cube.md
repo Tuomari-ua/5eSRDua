@@ -1,13 +1,13 @@
-name: Gelatinous Cube type: ooze cr: 2
+назва: Gelatinous Cube тип: ooze cr: 2
 
 # Gelatinous Cube
-_Large ooze, unaligned_
+_Велике око, не вирівняти_
 
-**Armor Class** 6    
-**Hit Points** 84 (8d10 + 40)    
-**Speed** 15 ft.
+**Клас броні** 6    
+**Очки** 84 (8d10 + 40)    
+**швидкість** фут.
 
-| STR     | DEX    | CON     | INT    | WIS    | CHA    |
+| СТР     | ДЕКС   | CON     | ІНТ    | WIS    | CHA    |
 | ------- | ------ | ------- | ------ | ------ | ------ |
 | 14 (+2) | 3 (−4) | 20 (+5) | 1 (−5) | 6 (−2) | 1 (−5) |
 
@@ -16,15 +16,15 @@ _Large ooze, unaligned_
 **Languages** --    
 **Challenge** 2 (450 XP)
 
-**Ooze Cube.** The cube takes up its entire space. Other creatures can enter the space, but a creature that does so is subjected to the cube's Engulf and has disadvantage on the saving throw.    
-Creatures inside the cube can be seen but have total cover.    
-A creature within 5 feet of the cube can take an action to pull a creature or object out of the cube. Doing so requires a successful DC 12 Strength check, and the creature making the attempt takes 10 (3d6) acid damage.    
+**Oze Cube.** Кубу займає весь простір. Інші істоти можуть увійти в простір, але істота, яка так піддається енгулфу куба і має недоліки в результатах економії.    
+Створіння всередині куба можна побачити, але з цілковитою обкладинкою.    
+Творчість в межах 5 футів куба може вжити заходів, щоб витягнути істоту чи об'єкт з кубика. Doing so requires a successful DC 12 Strength check, and the creature making the attempt takes 10 (3d6) acid damage.    
 The cube can hold only one Large creature or up to four Medium or smaller creatures inside it at a time.    
-**Transparent.** Even when the cube is in plain sight, it takes a successful DC 15 Wisdom (Perception) check to spot a cube that has neither moved nor attacked. A creature that tries to enter the cube's space while unaware of the cube is surprised by the cube.
+**Transparent.** Even when the cube is in plain sight, it takes a successful DC 15 Wisdom (Perception) check to spot a cube that has neither moved nor attacked. Особа, яка намагається увійти в простір куба, при цьому не усвідомлюючи куба, дивиться кубом.
 
-### Actions
-**Pseudopod.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 10 (3d6) acid damage.    
-**Engulf.** The cube moves up to its speed. While doing so, it can enter Large or smaller creatures' spaces. Whenever the cube enters a creature's space, the creature must make a DC 12 Dexterity saving throw.    
-On a successful save, the creature can choose to be pushed 5 feet back or to the side of the cube. A creature that chooses not to be pushed suffers the consequences of a failed saving throw.    
-On a failed save, the cube enters the creature's space, and the creature takes 10 (3d6) acid damage and is engulfed. The engulfed creature can't breathe, is restrained, and takes 21 (6d6) acid damage at the start of each of the cube's turns. When the cube moves, the engulfed creature moves with it.    
-An engulfed creature can try to escape by taking an action to make a DC 12 Strength check. On a success, the creature escapes and enters a space of its choice within 5 feet of the cube.
+### Дії
+**Псевдо.** _Атака ближньої зброї:_ +4, щоб влучити по 5, одна істота. _Вразів:_ 10 (3d6) пошкоджень кислоти    
+**Інгульф.** Куб рухається до своєї швидкості. Якщо це зробити, то можна увійти в пробіли великих або менших істот. Щоразу, коли кубик входить в простір істоти, істота повинна створити огиду 12 фунтів стерлінгів кожного.    
+У успішному збереженні, істоту можна вибрати відштовхнути 5 футів назад або на сторону куба. Створіння, яке не бажаєте підштовхнути не страждає від наслідків невдалого результату.    
+На помилковому збереженні кубик входить в простір істоти, а істота наносить 10 (3d6) кислотного пошкодження та поглинається. Посилена істота не може дихати, не може бути стриманою і приймає 21 (6d6) кислотну шкоду на початку кожної з більок. Коли кубик рухається, тіло тісно переміщується з ним.    
+Захоплена істота може спробувати її уникнути, приймаючи дію, щоб зробити перевірку сильності DC 12. За успіхом істота тікає і вступає в простір вибору в межах 5 футів куба.
