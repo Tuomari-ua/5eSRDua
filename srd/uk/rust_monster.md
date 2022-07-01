@@ -1,24 +1,24 @@
-name: Rust Monster type: monstrosity cr: .5
+назва: Крайній Монстр тип: чудовисько cr: .5
 
-# Rust Monster
-_Medium monstrosity, unaligned_
+# Іржаний монстр
+_Середній чудовиськ, не вирівняний_
 
 **Armor Class** 14 (natural armor)    
 **Hit Points** 27 (5d8 + 5)    
 **Speed** 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 13 (+1) | 12 (+1) | 13 (+1) | 2 (−4) | 13 (+1) | 6 (−2) |
 
 **Senses** darkvision 60 ft., passive Perception 11    
-**Languages** --    
-**Challenge** 1/2 (100 XP)
+**Мови** --    
+Завдання</strong> **** 1/2 (100 XP)
 
-**Iron Scent.** The rust monster can pinpoint, by scent, the location of ferrous metal within 30 feet of it.    
-**Rust Metal.** Any nonmagical weapon made of metal that hits the rust monster corrodes. After dealing damage, the weapon takes a permanent and cumulative −1 penalty to damage rolls. If its penalty drops to −5, the weapon is destroyed. Nonmagical ammunition made of metal that hits the rust monster is destroyed after dealing damage.
+**Залізний сент.** Монстр іржі може щипнути, за запахом, розташування заліза в межах 30 футів від нього.    
+**Швидкісний метал.** Будь-яка немагічна зброя зроблена з металу, що потрапляє на монстра корпусом. Після завдавання шкоди, зброя займає постійну і кумулятивну штрафу проти пошкодження роликів. Якщо його краплі покарання до ремонту 5, зброя зруйнується. Магічні боєприпаси з металу, які вражають монстра іржами, руйнуються після нанесення пошкоджень.
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 5 (1d8 + 1) piercing damage.    
-**Antennae.** The rust monster corrodes a nonmagical ferrous metal object it can see within 5 feet of it. If the object isn't being worn or carried, the touch destroys a 1-foot cube of it. If the object is being worn or carried by a creature, the creature can make a DC 11 Dexterity saving throw to avoid the rust monster's touch.    
-If the object touched is either metal armor or a metal shield being worn or carried, its takes a permanent and cumulative −1 penalty to the AC it offers. Armor reduced to an AC of 10 or a shield that drops to a +0 bonus is destroyed. If the object touched is a held metal weapon, it rusts as described in the Rust Metal trait.
+### Дії
+**Біт.** _Атака ближньої зброї:_ +3 до влучання, досягли 5-ї цілі, одна мета. _Вдач:_ 5 (1d8 + 1) проникливу шкоду.    
+**Аннале.** Металічний об'єкт з іржавим монстром містить немагічний бронувальний об'єкт, який можна побачити в межах 5 футів. Якщо предмет не вдягається і не переноситься на землю, дотик знищує його з 1-футового кубика. Якщо тіло носить або переноситься створінням, істота може зробити DC 11 Dexterity врятовані, щоб уникнути дотику монстра від іржавого монстра.    
+Якщо торкнутий до об'єкта є або металевим бронею або металевим щитом, або доставленим, для цього необхідний постійний і сукупний -товарний штраф у AC, який він пропонує. Броня зменшується до AC з 10 або щиту, який опускається на +0 бонус знищено. Якщо торкнутий об'єкт є залізною зброєю, він іржі, як описано в рульовій металевій рисі.
