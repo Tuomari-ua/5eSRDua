@@ -1,13 +1,13 @@
-name: Locate Object level: 2 school: divination classes: bard cleric druid paladin ranger wizard
+назва: Locate Object level: 2 school: divination classes: bard cleric druid paladin ranger wizard
 
-# Locate Object
-_2nd-level divination_
+# Знайти об'єкт
+_Розщеплення на 2-му рівні_
 
-**Casting Time:** 1 action    
-**Range:** Self    
-**Components:** V, S, M (a forked twig)    
-**Duration:** Concentration, up to 10 minutes
+**Кастинг часу:** 1 дія    
+**Діапазон:** Самостій    
+**компоненти:** V, S, М (одружений)    
+**тривалість:** центр, до 10 хвилин
 
-Describe or name an object that is familiar to you. You sense the direction to the object's location, as long as that object is within 1,000 feet of you. If the object is in motion, you know the direction of its movement.    
-The spell can locate a specific object known to you, as long as you have seen it up close--within 30 feet--at least once. Alternatively, the spell can locate the nearest object of a particular kind, such as a certain kind of apparel, jewelry, furniture, tool, or weapon.    
-This spell can't locate an object if any thickness of lead, even a thin sheet, blocks a direct path between you and the object. 
+Опишіть або назвіть об'єкт, який вам знайоме. Ви відчуваєте напрям визначення місця розташування об'єкта, доки цей об'єкт знаходиться в межах 1 000 футів від вас. Якщо тіло в русі, ви знаєте напрямок його руху.    
+Орфографія може знайти певний об'єкт, відомий вам, поки ви бачили його, близько, в межах 30 футів - хоча б один раз. Крім того, заклинання може визначити найближчий об'єкт певного роду, наприклад, вид одягу, прикрас, меблі, інструмент або зброя.    
+Ця заклинання не може знайти об’єкт, якщо будь-яка товщина свинку, навіть тонкий аркуш, блокує прямий шлях між вами та об'єктом. 
