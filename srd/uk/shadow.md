@@ -1,13 +1,13 @@
-name: Shadow type: undead cr: .5
+назва: Тінь тип: нечистий cr: .5
 
-# Shadow
-_Medium undead, chaotic evil_
+# Тінь
+_Середні мертві, хаотичне зло_
 
 **Armor Class** 12    
 **Hit Points** 16 (3d8 + 3)    
 **Speed** 40 ft.
 
-| STR    | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР    | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------ | ------- | ------- | ------ | ------- | ------ |
 | 6 (−2) | 14 (+2) | 13 (+1) | 6 (−2) | 10 (+0) | 8 (−1) |
 
@@ -20,10 +20,10 @@ _Medium undead, chaotic evil_
 **Languages** --    
 **Challenge** 1/2 (100 XP)
 
-**Amorphous.** The shadow can move through a space as narrow as 1 inch wide without squeezing.    
-**Shadow Stealth.** While in dim light or darkness, the shadow can take the Hide action as a bonus action.    
-**Sunlight Weakness.** While in sunlight, the shadow has disadvantage on attack rolls, ability checks, and saving throws.
+**Аморфна.** Тінь може рухатися через простір як вузький, як 1 дюйм широкий без стискання.    
+**Тінь крадіжка. У тьмяному світлі чи темряві** тінь може вжити таких дій як додаткова дія.    
+**Слабкість сонячного світла.** У той час як сонячне світло, тінь не має переваги при атаці роликів, шахів здатності і збереженні килим.
 
-### Actions
-**Strength Drain.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 9 (2d6 + 2) necrotic damage, and the target's Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest.    
-If a non-evil humanoid dies from this attack, a new shadow rises from the corpse 1d4 hours later.
+### Дії
+**Сила витрачання.** _Атака ближньої зброї:_ +4, щоб влучити в нього, дійдійде до 5 щитів, одне створіння. _Вразів:_ 9 (2d6 + 2) некротичних пошкоджень, а рівень потужності цілі зменшено на 1d4. Ціль вмирає, якщо це знижує його силу до 0. В іншому випадку скорочення триває до тих пір, поки ціль не завершить коротке або тривале відпочинки.    
+Якщо нелихий гуманоїд вмирає від цієї атаки, нова тінь піднімається з трупу 1d4 годин пізніше.
