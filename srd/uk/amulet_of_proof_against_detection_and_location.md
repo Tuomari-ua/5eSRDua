@@ -1,6 +1,6 @@
-name: Amulet of Proof against Detection and Location type: item
+назва: Amulet Proof to Detection and Location : елемент
 
-# Amulet of Proof against Detection and Location
-_Wondrous item, uncommon (requires attunement)_
+# Амулет доказів виявлення і розташування
+_Нетиповий предмет Wondrous (вимагає приєднання)_
 
-While wearing this amulet, you are hidden from divination magic. You can't be targeted by such magic or perceived through magical scrying sensors.
+Під час одягу в цей амулет, тебе приховано від дарунної магії. На вас не можна націлити таку магію або сприйняту магічними сенсорами та розсіяним серсками.
