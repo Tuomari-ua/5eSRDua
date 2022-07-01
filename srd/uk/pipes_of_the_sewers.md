@@ -1,10 +1,10 @@
-name: Pipes of the Sewers type: item
+назва: Труби тіл типу: елемент
 
-# Pipes of the Sewers
-_Wondrous item, uncommon (requires attunement)_
+# Труби селян
+_Нетиповий предмет Wondrous (вимагає приєднання)_
 
-You must be proficient with wind instruments to use these pipes. While you are attuned to the pipes, ordinary rats and giant rats are indifferent toward you and will not attack you unless you threaten or harm them.
+Ви повинні бути досвідченими з вітровими інструментами для використання цих труб. Поки ви не заражені трубопроводами, звичайні щурі та гігантські щурі байдужі до вас, і не нападають на вас, якщо ви не погрожуєте або не шкодите їх.
 
-The pipes have 3 charges. If you play the pipes as an action, you can use a bonus action to expend 1 to 3 charges, calling forth one swarm of rats with each expended charge, provided that enough rats are within half a mile of you to be called in this fashion (as determined by the GM). If there aren't enough rats to form a swarm, the charge is wasted. Called swarms move toward the music by the shortest available route but aren't under your control otherwise. The pipes regain 1d3 expended charges daily at dawn.
+Труби мають 3 заряди. Якщо ви граєте в труби як дію, ви можете використати бонус для виконання від 1 до 3 витрат, викличучи один рій щурів з кожним витраченим рахунком, за умови, що в межах півмилі від вас буде названо достатньою кількістю щурів (визначається GM). Якщо щурів недостатньо для формування гарчання та відходиться заряд. Інакше кажучи, ми підійшли до музики, яка була під найкоротшим доступним маршрутом, але іншому під вашим контролем. Трубопроводи відновлюються на світанку щоденно 1 d3.
 
-Whenever a swarm of rats that isn't under another creature's control comes within 30 feet of you while you are playing the pipes, you can make a Charisma check contested by the swarm's Wisdom check. If you lose the contest, the swarm behaves as it normally would and can't be swayed by the pipes' music for the next 24 hours. If you win the contest, the swarm is swayed by the pipes' music and becomes friendly to you and your companions for as long as you continue to play the pipes each round as an action. A friendly swarm obeys your commands. If you issue no commands to a friendly swarm, it defends itself but otherwise takes no actions. If a friendly swarm starts its turn and can't hear the pipes' music, your control over that swarm ends, and the swarm behaves as it normally would and can't be swayed by the pipes' music for the next 24 hours.
+Всякий раз, коли кілька щурів, які не під керуванням іншою істотою, досягають 30 футів від вас, поки ви граєте в трубки, ви можете зробити перевірку Харизму оспорюваною міткою мудрості її. Якщо ви втратите конкурс, то рій поводиться як він зазвичай і не зможе підгойдатися музикою труб протягом наступних 24 годин. Якщо ви виграєте конкурс, рій гойдається музикою і стає доброзичливим до вас і до ваших супутників поки ви продовжуєте грати труби кожного раунду як дію. Чистий гриз ваших команд. Якщо ви не задаєте жодних команд в дружньому шарі, вона захищає себе, але в іншому випадку не потрібно дій. Якщо дружній рій починає свою чергу, і не чує музики труб, ваш контроль за цим теплом кінцями, і її тепло поводиться, як воно зазвичай і не може бути відганяється музикою труб протягом наступних 24 годин.
