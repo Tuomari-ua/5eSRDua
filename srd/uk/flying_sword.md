@@ -1,13 +1,13 @@
-name: Flying Sword type: construct cr: .25
+назва: Літаючий Меч тип: конструктор cr: .25
 
-# Flying Sword
-_Small construct, unaligned_
+# Летюче меч
+_Невеличне будівництво, не вирівняти_
 
-**Armor Class** 17 (natural armor)    
-**Hit Points** 17 (5d6)    
-**Speed** 0 ft., fly 50 ft. (hover)
+**Клас броні** 17 (природна броня)    
+**Бали** 17 (5d6)    
+**Швидкість** фут. політ 50 футів (завис)
 
-| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS    | CHA    |
 | ------- | ------- | ------- | ------ | ------ | ------ |
 | 12 (+1) | 15 (+2) | 11 (+0) | 1 (-5) | 5 (-3) | 1 (-5) |
 
@@ -18,8 +18,8 @@ _Small construct, unaligned_
 **Languages** --    
 **Challenge** 1/4 (50 XP)
 
-**Antimagic Susceptibility.** The sword is incapacitated while in the area of an antimagic field. If targeted by **_dispel magic_**, the sword must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.    
-**False Appearance.** While the sword remains motionless and isn't flying, it is indistinguishable from a normal sword.
+**Підвищена чутливість** Меч недієздатний хоча в районі антимагічного поля. Якщо ціль **_розвіяти магію_**меч повинен бути успішним в економії Конституції проти заклинання замку, економити округ Колумбія або впасти несвідомим на 1 хвилину.    
+**False Appearance.** Поки меч залишається нерухомим і не літає, він не відрізняється від звичайного меча.
 
-### Actions
-**Longsword.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 5 (1d8 + 1) slashing damage.
+### Дії
+**Довгий меч.** _Атака ближньої зброї:_ +3 до влучання, досягає 5 щитів, одна ціль. _Удач:_ 5 (1d8 + 1) зменшення шкоди.
