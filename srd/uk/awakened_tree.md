@@ -1,13 +1,13 @@
-name: Awakened Tree type: plant cr: 2
+назва: Пробуджене Дерево тип: посадити cr: 2
 
-# Awakened Tree
-_Huge plant, unaligned_
+# Дерево пробуджених
+_Величезний завод, неприєднаний_
 
-**Armor Class** 13 (natural armor)    
-**Hit Points** 59 (7d12 + 14)    
-**Speed** 20 ft.
+**Клас броні** 13 (природна броня)    
+**Бали** 59 (7d12 + 14)    
+**Швидкість** фут.
 
-| STR     | DEX    | CON     | INT     | WIS     | CHA    |
+| СТР     | ДЕКС   | CON     | ІНТ     | WIS     | CHA    |
 | ------- | ------ | ------- | ------- | ------- | ------ |
 | 19 (+4) | 6 (−2) | 15 (+2) | 10 (+0) | 10 (+0) | 7 (−2) |
 
@@ -17,9 +17,9 @@ _Huge plant, unaligned_
 **Languages** one language known by its creator    
 **Challenge** 2 (450 XP)
 
-**False Appearance.** While the tree remains motionless, it is indistinguishable from a normal tree.
+**False Appearance.** Поки дерево залишається нерухомим, його не відрізняють від звичайного дерева.
 
-### Actions
-**Slam.** _Melee Weapon Attack:_ +6 to hit, reach 10 ft., one target. _Hit:_ 14 (3d6 + 4) bludgeoning damage.
+### Дії
+**Лева.** _Атака ближньої зброї:_ +6 до удару, досягає 10-ти, одна ціль. _Удара:_ 14 (3d6 + 4) пошкодження дублювання.
 
-An awakened tree is an ordinary tree given sentience and mobility by the awaken spell or similar magic. 
+Пробуджене дерево - це звичайне дерево з урахуванням чутливості і мобільності пробудженого заклинання чи аналогічна магія. 
