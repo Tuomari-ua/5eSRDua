@@ -1,10 +1,10 @@
-description: Rules governing inspiration from the 5th Edition (5e) SRD (System Reference Document).
+опис: правила, що регулюють натхнення з 5-ї версії (5e) SRD (Документація з Системної Документації).
 
-# Inspiration
-Inspiration is a rule the game master can use to reward you for playing your character in a way that’s true to his or her personality traits, ideal, bond, and flaw. By using inspiration, you can draw on your personality trait of compassion for the downtrodden to give you an edge in negotiating with the Beggar Prince. Or inspiration can let you call on your bond to the defense of your home village to push past the effect of a spell that has been laid on you.
+# Натхнення
+Натхнення – це правило, який майстер гри може використати для винагороди за те, що ваш персонаж тримається таким чином, що вірно йому або її особистісні риси, ідеальні, облігації та недоліки. Використовуючи натхнення, ви можете спиратися на свою особистісну ознаку співчуття до занепаду, щоб дати вам край у переговорах з жебраковим принцем. Або натхнення дозволить вам закликати до вашого зв'язку на захист вашого рідного села просунути ефект від заклинання що була накладена на вас.
 
-## Gaining Inspiration
-Your GM can choose to give you inspiration for a variety of reasons. Typically, GMs award it when you play out your personality traits, give in to the drawbacks presented by a flaw or bond, and otherwise portray your character in a compelling way. Your GM will tell you how you can earn inspiration in the game. You either have inspiration or you don’t - you can’t stockpile multiple “inspirations” for later use.
+## Отримати натхнення
+Ваш GM може дати вам натхнення з різних причин. Зазвичай "В одному" визначається при відтворюванні характерних рис особистості, давайте до нічиїх представлені з недолі або зв'язку, а іншим чином зображуємо свого персонажа у переконливий спосіб. Ваш GM розкаже вам, як ви можете зробити натхнення в грі. У вас або є натхнення, або ви не можете заручитися кількома «натхненнями» для подальшого використання.
 
-## Using Inspiration
-If you have inspiration, you can expend it when you make an attack roll, saving throw, or ability check. Spending your inspiration gives you advantage on that roll. Additionally, if you have inspiration, you can reward another player for good roleplaying, clever thinking, or simply doing something exciting in the game. When another player character does something that really contributes to the story in a fun and interesting way, you can give up your inspiration to give that character inspiration.
+## Використання Натхнення
+Якщо у вас є натхнення, то ви можете витратити на нього коли атакуєте роль, зберігаючи дроти або перевірку здібності. Витрати на натхнення дають вам перевагу на цьому звороті. Додатково, якщо ви маєте натхнення, ви можете нагородити іншого гравця за хорошу роль, розумне мислення або просто зробити щось захоплююче в грі. Коли інший гравець робить щось, що дійсно сприяє історії веселим та цікавим, ви можете зробити натхнення для того, щоб надихнути персонажів.
