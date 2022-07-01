@@ -1,9 +1,9 @@
-name: Scarab of Protection type: item
+назва: Скараб захисту типу: елемент
 
-# Scarab of Protection
-_Wondrous item, legendary (requires attunement)_
+# Скарабей захисту
+_Завдання Wondrous, легендарний (вимагає відвідування)_
 
-If you hold this beetle-shaped medallion in your hand for 1 round, an inscription appears on its surface revealing its magical nature. It provides two benefits while it is on your person:
+Якщо ви триматимете медальйон у формі бетону в руці на 1 раунд, на його поверхні з'являється напис, що відкриває магічну природу. Він забезпечує дві переваги, поки використовується в Вашій людині:
 
-* You have advantage on saving throws against spells.
-* The scarab has 12 charges. If you fail a saving throw against a necromancy spell or a harmful effect originating from an undead creature, you can use your reaction to expend 1 charge and turn the failed save into a successful one. The scarab crumbles into powder and is destroyed when its last charge is expended. 
+* Є перевага у збереженні квітів проти заклинань.
+* Тараб має 12 зарядів. Якщо ви не здаєтеся під час збереження до заклинання некмітливості або шкідливого ефекту, що зароджується з істоти немертвих, ви можете використати вашу реакцію, щоб подовжити 1 заряд і перетворити не вдалося зберегти на успішний. Бомбур заривається у порох і знищує, коли його буде подовжено останній заряд. 
