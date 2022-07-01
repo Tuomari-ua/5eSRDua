@@ -1,14 +1,14 @@
-name: Chuul type: aberration cr: 4
+назва: Чуул тип: aberration cr: 4
 
 # Chuul
-_Large aberration, chaotic evil_
+_Велике аберацію, хаотичне лихо_
 
 
 **Armor Class** 16 (natural armor)    
 **Hit Points** 93 (11d10 + 33)    
 **Speed** 30 ft., swim 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 19 (+4) | 10 (+0) | 16 (+3) | 5 (-3) | 11 (+0) | 5 (-3) |
 
@@ -19,10 +19,10 @@ _Large aberration, chaotic evil_
 **Languages** understands Deep Speech but can't speak    
 **Challenge** 4 (1,100 XP)
 
-**Amphibious.** The chuul can breathe air and water.    
-**Sense Magic.** The chuul senses magic within 120 feet of it at will. This trait otherwise works like the **_detect magic_** spell but isn't itself magical.
+**Амфібіян.** Чувак може дихати повітрям і водою.    
+**Sense Magic.** Чулових відчуттів магії в межах 120 футів за бажанням. Ця риса в іншому випадку працює як **_виявити магію_** заклинання але вона не є чарівною.
 
-### Actions
-**Multiattack.** The chuul makes two pincer attacks. If the chuul is grappling a creature, the chuul can also use its tentacles once.    
-**Pincer.** _Melee Weapon Attack:_ +6 to hit, reach 10 ft., one target. _Hit:_ 11 (2d6 + 4) bludgeoning damage. The target is grappled (escape DC 14) if it is a Large or smaller creature and the chuul doesn't have two other creatures grappled.    
-**Tentacles.** One creature grappled by the chuul must succeed on a DC 13 Constitution saving throw or be poisoned for 1 minute. Until this poison ends, the target is paralyzed. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+### Дії
+**Мультиатака.** Чуій робить дві атаки на свинець. Якщо Хуул бореться з істотою, псевдонім може також використати свої щупальці один раз    
+**Пінкер.** _Атака ближньої зброї:_ +6 щоб вдарити, досягти 10-ти, одна ціль. _Удара:_ 11 (2d6 + 4) пошкодження дублювання. Мішень заплановано (escape DC 14) якщо це велика або менша істота, а круок не має двох інших істот грейди.    
+**Щупалень.** Одна істота, зібрана чуйлом, повинна досягти успіху на шляху до створення конституції DC 13 або бути отруєна 1 хвилину. Поки ця отруйна закінчується, ціль паралізована. Ціль може повторювати накопичення в кінці кожної своєї черги, закінчуючи вплив на себе на успіх.
