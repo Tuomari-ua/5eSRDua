@@ -1,13 +1,13 @@
-name: Gladiator type: humanoid (any race) cr: 5
+назва: Гладіатор тип: humanoid (any race) cr: 5
 
-# Gladiator
-_Medium humanoid (any race), any alignment_
+# Гладіатор
+_Середня гуманоїда (будь-яке не), будь-яке вирівнювання_
 
-**Armor Class** 16 (studded leather, shield)    
-**Hit Points** 112 (15d8 + 45)    
-**Speed** 30 ft.
+**Клас броні** 16 (навчальний шкір, щит)    
+**Очки** 112 (15d8 + 45)    
+**швидкість** фут.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 15 (+2) | 16 (+3) | 10 (+0) | 12 (+1) | 15 (+2) |
 
@@ -20,13 +20,13 @@ _Medium humanoid (any race), any alignment_
 **Brave.** The gladiator has advantage on saving throws against being frightened.    
 **Brute.** A melee weapon deals one extra die of its damage when the gladiator hits with it (included in the attack).
 
-### Actions
-**Multiattack.** The gladiator makes three melee attacks or two ranged attacks.    
-**Spear.** _Melee or _Ranged Weapon Attack:__ +7 to hit, reach 5 ft. and range 20/60 ft., one target. _Hit:_ 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack.    
-**Shield Bash.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one creature. _Hit:_ 9 (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
+### Дії
+**Мультиатака.** Гладіатор робить три напади ближнього бою або дві далекобійні атаки.    
+Спис**.** _Атака ближнього або _Стрільбища Зброї:__ +7, щоб влучити у 5 футів і знайти відстань до 20/60, одна ціль. _Удача:_ 11 (2d6 + 4) пробивної шкоди, або 13 (2d8 + 4) пробирається пошкодження, якщо використовується двома руками, щоб зробити таку атаку.    
+**Щит-Щит.** _Атака ближньої зброї:_ +7 щоб вдарити, сягнути 5 футів, одна істота. _Удара:_ 9 (2d4 + 4) пошкодження дублювання. Якщо ціль є Середньою або меншою істотою, вона повинна бути успішною в СРСР, вона має бути накопичена або бути постукована часткою.
 
-### Reactions
-**Parry.** The gladiator adds 3 to its AC against one melee attack that would hit it. To do so, the gladiator must see the attacker and be wielding a melee weapon.
+### Реакції
+**Париж.** Гладіатор додає 3 до свого AC проти одного нападу ближнього бою, який би постраждав від нього. Для цього гладіатор повинен побачити нападника і взяти в руку ближнього боку.
 
-### Description
-Gladiators battle for the entertainment of raucous crowds. Some gladiators are brutal pit fighters who treat each match as a life-or-death struggle, while others are professional duelists who command huge fees but rarely fight to the death. 
+### Опис
+Гладіатори биються за розваги нерукосових натовпів. Деякі гладіатори є жорстокими винищувачами, які ставляться до кожного матчу як життєва боротьба або смерть, в той час як інші - професійні дуелісти, які командують величезними платами, але рідко биються на смерть. 
