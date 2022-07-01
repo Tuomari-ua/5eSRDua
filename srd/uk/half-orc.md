@@ -1,26 +1,26 @@
-description: Rules and information for the Half-Orc race from the 5th Edition (5e) SRD (System Reference Document).
+опис: правила та інформація для пів-Орка з 5-ї версії (5e) SRD (Документація Системна Документація).
 
-# Half-Orc
-## Half-Orc Traits
+# Північний орк
+## Особливості Пів-Орка
 - - -
-Your half-orc character has certain traits deriving from your orc ancestry.
+У вашого напіворкального персонажа є риси, що походять з оркського походження.
 
-**Ability Score Increase.** Your Strength score increases by 2, and your Constitution score increases by 1.
+**Оцінка здібностей зростає.** Збільшення балів вашої Сили збільшується на 2, а кількість балів вашої Конституції збільшується на 1.
 
-**Age.** Half-orcs mature a little faster than humans, reaching adulthood around age 14. They age noticeably faster and rarely live longer than 75 years.
+**Вік.** Напівкорки дозрівають трохи швидше, ніж люди, досягаючи дорослих до 14 років. Вони старіють швидше і рідко живуть довше 75 років.
 
-**Alignment.** Half-orcs inherit a tendency toward chaos from their orc parents and are not strongly inclined toward good. Half-orcs raised among orcs and willing to live out their lives among them are usually evil.
+**Вирівнювання.** Напіворки успадковують тенденцію до хаосу від своїх батьків з орбіки і не сильно схиляються до добра. Половина орків, вирощених серед орків, і готові прожити свої життя, між ними, як правило, злі.
 
-**Size.** Half-orcs are somewhat larger and bulkier than humans, and they range from 5 to well over 6 feet tall. Your size is Medium.
+**Розмір.** Напівкорки дещо більші і громіздкі, ніж люди, і вони досягають діапазону від 5 до 6 метрів висоти. Ваш розмір є медичним.
 
-**Speed.** Your base walking speed is 30 feet.
+**Швидкість.** Ваша базова швидкість ходьби становить 30 футів.
 
-**Darkvision.** Thanks to your orc blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+**Darkvision.** Завдяки вашій дузі дуги крові, ви вищі бачення в темних і тьмяних умовах. Ви можете бачити в тьмяному світлі 60 футів від вас, як якщо б було яскраве світло, а в пітьмі наче було тьмяне світло. Ви не можете розрізняти колір у темряві, лише відтінки сірого кольору.
 
-**Menacing.** You gain proficiency in the Intimidation skill.
+**Згадка.** Ви отримуєте майстерність в навичці інтуїції.
 
-**Relentless Endurance.** When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can’t use this feature again until you finish a long rest.
+**Непорушна міцність.** Якщо ви зменшені до 0 очків, але не вбиваєте прямо, то можете замість цього перейти до 1 точки. Ви не можете використати цю функцію знову, поки не закінчиш довгу відпочинок.
 
-**Savage Attacks.** When you score a critical hit with a melee weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit.
+**Атакує дикуна.** Коли ви набираєте критичний удар зі швидкістю зброї, ви можете отримати ще одну шкоду від зброї - ще один раз та додати її до додаткової шкоди критичного удару.
 
-**Languages.** You can speak, read, and write Common and Orc. Orc is a harsh, grating language with hard consonants. It has no script of its own but is written in the Dwarvish script.
+**Мови** Ви можете говорити, читати і писати Загальні і Orc. Орк - це суворою мовою, де працюють жорсткі приголоси. Він не має власного писемності, але написаний на Двійнському скрипті.
