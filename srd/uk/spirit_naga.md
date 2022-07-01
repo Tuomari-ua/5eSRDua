@@ -1,25 +1,25 @@
-name: Spirit Naga type: monstrosity cr: 8
+назва: Spirit Naga тип: чудовисько cr: 8
 
 # Spirit Naga
-_Large monstrosity, chaotic evil_
+_Велике чудовисько, хаотичне зло_
 
-**Armor Class** 15 (natural armor)    
-**Hit Points** 75 (10d10 + 20)    
-**Speed** 40 ft.
+**Клас броні** 15 (природна броня)    
+**Очки** 75 (10d10 + 20)    
+**Швидкість** фут.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 17 (+3) | 14 (+2) | 16 (+3) | 15 (+2) | 16 (+3) |
 
-**Saving Throws** Dex +6, Con +5, Wis +5, Cha +6    
-**Damage Immunities** poison    
-**Condition Immunities** charmed, poisoned    
-**Senses** darkvision 60 ft., passive Perception 12    
-**Languages** Abyssal, Common    
-**Challenge** 8 (3,900 XP)
+**Збереження кишить** Dex +6, Con +5, Wis +5, Cha +6    
+**Ушкодження** отрути    
+**Імунітети** , Графік умови, отруєний    
+**Установки** затемнення 60 футів. пасивне сприйняття 12    
+мов **мов** Безодняних, Загально    
+**виклик** (3,900 XP)
 
-**Rejuvenation.** If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a wish spell can prevent this trait from functioning.    
-**Spellcasting.** The naga is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following wizard spells prepared:    
+**Омолодість.** Якщо він помре, Нага повернеться до життя за 1d6 днів, і знову потрапить у всі свої влучання. Only a wish spell can prevent this trait from functioning.    
+**Spellcasting.** The naga is a 10th-level spellcaster. Його здатність заклинання є розвідкою (заклинання заощадити DC 14 + 6 до удару заклинання атаки), і йому потрібні лише словесні компоненти, щоб кинути його заклинання . It has the following wizard spells prepared:    
 Cantrips (at will): **_mage hand, minor illusion, ray of frost_**    
 1st level (4 slots): **_charm person, detect magic, sleep_**    
 2nd level (3 slots): **_detect thoughts, hold person_**    
@@ -27,5 +27,5 @@ Cantrips (at will): **_mage hand, minor illusion, ray of frost_**
 4th level (3 slots): **_blight, dimension door_**    
 5th level (2 slots): **_dominate person_**
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +7 to hit, reach 10 ft., one creature. _Hit:_ 7 (1d6 + 4) piercing damage, and the target must make a DC 13 Constitution saving throw, taking 31 (7d8) poison damage on a failed save, or half as much damage on a successful one.
+### Дії
+**Біт.** _Атака ближньої зброї:_ +7 туди, досягає 10, одна істота. _Вразу:_ 7 (1d6 + 4) пробиваючи пошкодження, і мета повинна зробити економію конституції DC 13 заподіяння 31 (7d8) пошкодження від загубленого заощадження, або ж удвічі більше шкоди від успішного.
