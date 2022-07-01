@@ -1,6 +1,6 @@
-name: Pipes of Haunting type: item
+назва: Труби привидів типу: елемент
 
-# Pipes of Haunting
-_Wondrous item, uncommon_
+# Труби привидів
+_Нетиповий для Wondrous_
 
-You must be proficient with wind instruments to use these pipes. They have 3 charges. You can use an action to play them and expend 1 charge to create an eerie, spellbinding tune. Each creature within 30 feet of you that hears you play must succeed on a DC 15 Wisdom saving throw or become frightened of you for 1 minute. If you wish, all creatures in the area that aren't hostile toward you automatically succeed on the saving throw. A creature that fails the saving throw can repeat it at the end of each of its turns, ending the effect on itself on a success. A creature that succeeds on its saving throw is immune to the effect of these pipes for 24 hours. The pipes regain 1d3 expended charges daily at dawn. 
+Ви повинні бути досвідченими з вітровими інструментами для використання цих труб. Вони мають 3 заряди. Ви можете використати дію, щоб відтворити їх та послати один заряд, щоб створити сокрову мелодію орфографії. Кожна істота в межах 30 футів від вас, що чує гра, повинна досягти успіху у покращенні DC 15 Мудро, що заощаджує ваше кидання або перетворюється на 1 хвилину. Якщо ви хочете, всі істоти в області, які не ворожі до вас автоматично досягають успіху в збереженні. Особа, яка не вдалася від накопичення може повторюватися в кінці кожної з цих черг, дія на себе впливає на успіх. Особа, яка досягає успіху, діє на викид, є імунітетом на ті труби протягом 24 годин. Трубопроводи відновлюються на світанку щоденно 1 d3. 
