@@ -1,13 +1,13 @@
-name: Roc type: monstrosity cr: 11
+назва: Roc type: чудовисько cr: 11
 
-# Roc
-_Gargantuan monstrosity, unaligned_
+# Птах Рух
+_Вирівнювання вантажних монстров, невідповідність_
 
-**Armor Class** 15 (natural armor)    
-**Hit Points** 248 (16d20 + 80)    
-**Speed** 20 ft., fly 120 ft.
+**Клас обладунку** </strong> 15 (природна броня)    
+**Бали** 248 (16d20 + 80)    
+**швидкість** фут. політ 120 футів.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 28 (+9) | 10 (+0) | 20 (+5) | 3 (−4) | 10 (+0) | 9 (−1) |
 
@@ -17,9 +17,9 @@ _Gargantuan monstrosity, unaligned_
 **Languages** --    
 **Challenge** 11 (7,200 XP)
 
-**Keen Sight.** The roc has advantage on Wisdom (Perception) checks that rely on sight.
+**Keen Sight.** Рок має перевагу в Wisdom (виключення) перевірки, які покладаються на зір.
 
-### Actions
-**Multiattack.** The roc makes two attacks: one with its beak and one with its talons.    
-**Beak.** _Melee Weapon Attack:_ +13 to hit, reach 10 ft., one target. _Hit:_ 27 (4d8 + 9) piercing damage.    
-**Talons.** _Melee Weapon Attack:_ +13 to hit, reach 5 ft., one target. _Hit:_ 23 (4d6 + 9) slashing damage, and the target is grappled (escape DC 19). Until this grapple ends, the target is restrained, and the roc can't use its talons on another target.
+### Дії
+**Багатоатака.** Рок робить дві атаки: один з них і один з його талантами.    
+**Дзьоб.** _Атака ближньої зброї:_ +13 , щоб вдарити в 10-ту, одна ціль. _Hit:_ 27 (4d8 + 9) piercing damage.    
+**Talons.** _Melee Weapon Attack:_ +13 to hit, reach 5 ft., one target. _Здобути:_ 23 (4d6 + 9) наносити пошкодження, а мета - зібрана (escape DC 19). Поки ця жалібність не буде обмежена, а рока не зможе використати свої таланти на іншу мету.
