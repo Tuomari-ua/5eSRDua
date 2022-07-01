@@ -1,13 +1,13 @@
-name: Gorgon type: monstrosity cr: 5
+назва: Gorgon type: monstrosity cr: 5
 
-# Gorgon
-_Large monstrosity, unaligned_
+# Горгона
+_Величезний чудовиськ, не вирівняти_
 
 **Armor Class** 19 (natural armor)    
 **Hit Points** 114 (12d10 + 48)    
 **Speed** 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 20 (+5) | 11 (+0) | 18 (+4) | 2 (−4) | 12 (+1) | 7 (−2) |
 
@@ -17,8 +17,8 @@ _Large monstrosity, unaligned_
 **Languages** --    
 **Challenge** 5 (1,800 XP)
 
-**Trampling Charge.** If the gorgon moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 16 Strength saving throw or be knocked prone. If the target is prone, the gorgon can make one attack with its hooves against it as a bonus action.
+**поштовий заряд.** Якщо Горгонь рухатиметься щонайменше на 20 футів прямо до істоти, а потім потрапить на той самий поворот, ця мета повинна досягти успіху в DC 16 Долі Заощадження або бути постукованою королею. Якщо ціль не схильна, Горгон може змусити один напад із своїми копитами протидіяти їй як бонусні дії.
 
-### Actions
-**Gore.** _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 18 (2d12 + 5) piercing damage. Hooves. _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 16 (2d10 + 5) bludgeoning damage.    
-**Petrifying Breath (Recharge 5–6).** The gorgon exhales petrifying gas in a 30-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw. On a failed save, a target begins to turn to stone and is restrained. The restrained target must repeat the saving throw at the end of its next turn. On a success, the effect ends on the target. On a failure, the target is petrified until freed by the greater restoration spell or other magic.
+### Дії
+**Гор.** _Атака ближньої зброї:_ +8 до влучання, досягає 5-ї цілі, одна ціль. _Вразів:_ 18 (2d12 + 5) наносить пошкодження. Народ. _Атака ближньої зброї:_ +8 щоб вдарити, досягти 5-ти цілі, одна ціль. _Вражає:_ 16 (2d10 + 5) пошкоджені    
+**Нажирає подих (Recharge 5–6).** Горгон виділяє бензиновий газ у 30-футовій шишці. Кожна істота в цій області повинна досягти успіху в Конституції DC 13 стріл. На невдалому збереженні ціль починає повертатися до каменю і стримана. Обмежена мета повинна повторити порятунок кидати в кінець наступного кроку. Під час успіху ефект закінчується ціллю. Що стосується невдачі, то ціль не затьмарена допоки не звільняється від більшого заклинання чи іншого ракурсу.
