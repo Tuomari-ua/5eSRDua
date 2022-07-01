@@ -1,13 +1,13 @@
-name: Giant Centipede type: beast cr: .25
+назва: Гігантська багатоніжка тип: звір cr: .25
 
-# Giant Centipede
-_Small beast, unaligned_
+# Гігантська багатоніжка
+_Малий звір, неприєднаний_
 
 **Armor Class** 13 (natural armor)    
 **Hit Points** 4 (1d6 + 1)    
 **Speed** 30 ft., climb 30 ft.
 
-| STR    | DEX     | CON     | INT    | WIS    | CHA    |
+| СТР    | ДЕКС    | CON     | ІНТ    | WIS    | CHA    |
 | ------ | ------- | ------- | ------ | ------ | ------ |
 | 5 (−3) | 14 (+2) | 12 (+1) | 1 (−5) | 7 (−2) | 3 (−4) |
 
@@ -15,5 +15,5 @@ _Small beast, unaligned_
 **Languages** --    
 **Challenge** 1/4 (50 XP)
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or take 10 (3d6) poison damage. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way. 
+### Дії
+**Біт.** _Атака ближньої зброї:_ +4, досягнувши 5, одну істоту. _Вразів:_ 4 (1d4 + 2) проколювання пошкоджень, і ціль має досягти успіху в збереженні Конституції DC 11 або забирати 10 (3d6) отрути. Якщо шкода від отруєння зменшує ціль до 0 балів то ціль є стабільною, але отруєна 1 годину, навіть після відновлення вразливих точок і паралізовано під час отруєння таким чином. 
