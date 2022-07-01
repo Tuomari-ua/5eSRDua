@@ -1,13 +1,13 @@
-name: Cloud Giant type: giant cr: 9
+назва: Гігантський Гігант тип: гігантський cr: 9
 
-# Cloud Giant
-_Huge giant, neutral good (50%) or neutral evil (50%)_
+# Хмарний Гігант
+_Величезний гігант, нейтральний товар (50%) або нейтральне зло (50%)_
 
-**Armor Class** 14 (natural armor)    
-**Hit Points** 200 (16d12 + 96)    
-**Speed** 40 ft.
+**Клас броні** 14 (природна броня)    
+**Бали** 200 (16d12 + 96)    
+**Швидкість** фут.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 27 (+8) | 10 (+0) | 22 (+6) | 12 (+1) | 16 (+3) | 16 (+3) |
 
@@ -17,13 +17,13 @@ _Huge giant, neutral good (50%) or neutral evil (50%)_
 **Languages** Common, Giant    
 **Challenge** 9 (5,000 XP)
 
-**Keen Smell.** The giant has advantage on Wisdom (Perception) checks that rely on smell.    
-**Innate Spellcasting.** The giant's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:    
-At will: **_detect magic_**, **_fog cloud_**, **_light_**    
-3/day each: **_feather fall_**, **_fly_**, **_misty step_**, **_telekinesis_**    
-1/day each: **_control weather_**, **_gaseous form_**
+**Keen Smell.** Гігант має перевагу в Wisdom (виключання) перевіряє, чи покладаються на запах.    
+**Заощадження орфографії.** вроджене написання орфографії є харизма. Коли вони можуть придавати наступні заклинання, у разі не вимагається жодних матеріальних компонентів:    
+На волі: **_виявити магію_** **_хмара туману_** **_світло_**    
+3/днів кожен: **_пера падіння_** **_літак_**, **_туманний крок_**, **_телекінез_**    
+1/day each: **_контролює погоду_**, **_газоподібна форма_**
 
-### Actions
-**Multiattack.** The giant makes two morningstar attacks.    
-**Morningstar.** _Melee Weapon Attack:_ +12 to hit, reach 10 ft., one target. _Hit:_ 21 (3d8 + 8) piercing damage.    
-**Rock.** _Ranged Weapon Attack:_ +12 to hit, range 60/240 ft., one target. _Hit:_ 30 (4d10 + 8) bludgeoning damage.
+### Дії
+**Багатоатака.** Гігант робить два напади на ранкову зірку    
+**Морнінгзірок.** _Атака ближньої зброї:_ +12, щоб вдарити, досягнути 10-ти, одна ціль. _Вразу:_ 21 (3d8 + 8) пробна шкода.    
+**Кек.** _Атака дальньої зброї:_ +12, щоб вдарити, діапазон 60/240, одна мета. _Удара:_ 30 (4d10 + 8) пошкодженням блокуванням.
