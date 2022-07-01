@@ -1,26 +1,26 @@
-name: Giant Shark type: beast cr: 5
+назва: Гігантний тягар тип: звір cr: 5
 
-# Giant Shark
-_Huge beast, unaligned_
+# Шарк велетенського
+_Величезний звір, неприєднаний_
 
 **Armor Class** 13 (natural armor)    
 **Hit Points** 126 (11d12 + 55)    
 **Speed** 0 ft., swim 50 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 23 (+6) | 11 (+0) | 21 (+5) | 1 (−5) | 10 (+0) | 5 (−3) |
 
-**Skills** Perception +3    
-**Senses** blindsight 60 ft., passive Perception 13    
-**Languages** --    
-**Challenge** 5 (1,800 XP)
+**Навичка** Перехоплення +3    
+**Senses** осліплення 60 фут. пасивний Виключення 13    
+**Мови** ,    
+**виклик** (1,800 XP)
 
-**Blood Frenzy.** The shark has advantage on melee attack rolls against any creature that doesn't have all its hit points.    
-**Water Breathing.** The shark can breathe only underwater.
+**Французька кров.** Акула скористатися на атаці ближнього бою обертається проти будь-якої істоти, яка не має всіх ударів.    
+**Подихання води.** Акула може дихати тільки під водою.
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +9 to hit, reach 5 ft., one target. _Hit:_ 22 (3d10 + 6) piercing damage.
+### Дії
+**Біт.** _Атака ближньої зброї:_ +9 до влучання, досягне 5-ї цілі, одна мета. _Удач:_ 22 (3d10 + 6) наносити шкоду.
 
-### Description
-A giant shark is 30 feet long and normally found in deep oceans. Utterly fearless, it preys on anything that crosses its path, including whales and ships. 
+### Опис
+Гігантська акула має довжину 30 футів і зазвичай зустрічається в глибоких океанах. Він сильно безстрашний, та здобуває за будь-що, що перетинає його шлях, включаючи кита та кораблі. 
