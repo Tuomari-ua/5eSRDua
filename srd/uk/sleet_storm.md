@@ -1,13 +1,13 @@
-name: Sleet Storm level: 3 school: conjuration classes: druid sorcerer wizard
+назва: Шторм снігової бурі : 3 школи: conjuration класі: druid сорціуючий майстер
 
-# Sleet Storm
-_3rd-level conjuration_
+# Сильна буря
+_Однорівнева тривалість_
 
 **Casting Time:** 1 action    
 **Range:** 150 feet    
 **Components:** V, S, M (a pinch of dust and a few drops of water)    
 **Duration:** Concentration, up to 1 minute
 
-Until the spell ends, freezing rain and sleet fall in a 20-foot-tall cylinder with a 40-foot radius centered on a point you choose within range. The area is heavily obscured, and exposed flames in the area are doused.    
-The ground in the area is covered with slick ice, making it difficult terrain. When a creature enters the spell's area for the first time on a turn or starts its turn there, it must make a Dexterity saving throw. On a failed save, it falls prone.    
-If a creature is concentrating in the spell's area, the creature must make a successful Constitution saving throw against your spell save DC or lose concentration. 
+Поки заклинання не закінчується, крижаний дощ і морозильний дощ у 20-футовому циліндрі з радіусом 40 футів зосереджено на пункті, який ви обираєте у рейсі. Площа важко затьмарена, а ще оголене полум'я в районі приглушене.    
+Земля покрита слизом, що робить її складною місцевістю. Коли істота вступає в область заклинання вперше по повороті або починає свою чергу, там, це має зробити згубну шкоду. У невдалому збереженні вона впадає на чорну діру.    
+Якщо істота зосереджена в області заклинання, істота повинна зробити успішне заощадження Конституції проти вашого заклинання заощадити округ Колумбія, або втратити концентрацію. 
