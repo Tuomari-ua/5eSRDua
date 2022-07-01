@@ -1,6 +1,6 @@
-name: Robe of Scintillating Colors type: item
+назва: Заповнення Скінтиляційних кольорів типу: елемент
 
-# Robe of Scintillating Colors
-_Wondrous item, very rare (requires attunement)_
+# Площа Сцинтиляційних кольорів
+_Wondrous позиція, дуже рідкісна (вимагає захоплення)_
 
-This robe has 3 charges, and it regains 1d3 expended charges daily at dawn. While you wear it, you can use an action and expend 1 charge to cause the garment to display a shifting pattern of dazzling hues until the end of your next turn. During this time, the robe sheds bright light in a 30-foot radius and dim light for an additional 30 feet. Creatures that can see you have disadvantage on attack rolls against you. In addition, any creature in the bright light that can see you when the robe's power is activated must succeed on a DC 15 Wisdom saving throw or become stunned until the effect ends. 
+Ця сукня має 3 заряди, і вона відновлює щоденно 1 добути, витрати на світанку. Поки ти одягаєш його, ви можете використати операцію і витратити 1 заряд, щоб викликати одяг на відображення зміни схеми відсліджування відтінків до кінця наступного поверху. На цей час в сукні просочується яскраве світло на 30-футовому радіусі і тьмяне світло на відстані 30 футів. Створіння, які можуть бачити, що ви не перевагу в атаці супроти вас. Крім того, будь-яка істота в світлому світлі, яке може вас бачити, коли активується сила Роба. Повинен досягти успіху в записі DC 15 Мудро, який заощадить або стане приголомшеним, поки ефект не закінчиться в кінці. 
