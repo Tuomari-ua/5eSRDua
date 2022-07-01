@@ -1,11 +1,11 @@
-name: Resistance level: 0 school: abjuration classes: cleric druid
+назва: Стійкість рівень: 0 школа: abjuration класи: cleric druid
 
-# Resistance
-_Abjuration cantrip_
+# Опір
+_Канікуль землетрусу_
 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S, M (a miniature cloak)    
-**Duration:** Concentration, up to 1 minute
+**Час трансляції :** 1 дія    
+**Діапазон:** Торкніться    
+**компоненти:** V, S, М (мініатюрний плащ)    
+**тривалість:** пункти, до 1 хвилини
 
-You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one saving throw of its choice. It can roll the die before or after making the saving throw. The spell then ends. 
+Ви торкаєтесь одного, хто бажає створити. Після того, як заклинання закінчується, ціль може повернути d4 і додати число у один варіант кинути його. Вона може скотати смерть до або після того, як заощадить жбурляння. Потім заклинання закінчується. 
