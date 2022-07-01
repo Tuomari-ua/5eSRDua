@@ -1,12 +1,12 @@
-name: Rod of Absorption type: rod
+назва: Род-го поглинання типу: rod
 
-# Rod of Absorption
-_Rod, very rare (requires attunement)_
+# Асорбція
+_Rod, дуже рідкісний (вимагає залучення)_
 
-While holding this rod, you can use your reaction to absorb a spell that is targeting only you and not with an area of effect. The absorbed spell's effect is canceled, and the spell's energy--not the spell itself--is stored in the rod. The energy has the same level as the spell when it was cast. The rod can absorb and store up to 50 levels of energy over the course of its existence. Once the rod absorbs 50 levels of energy, it can't absorb more. If you are targeted by a spell that the rod can't store, the rod has no effect on that spell.
+Тримаючи цю палицю, можна використовувати свою реакцію, щоб поглинути заклинання - на вас тільки заради ефективної перспективи. Ефект поглиненого заклинання скасований, а сила заклинання - не заклинання - не заклинання себе - зберігається в палиці. Енергія має такий самий рівень, як і заклинання коли її врахували. Різка може поглинати і накопичувати до 50 рівнів енергії протягом свого існування. Як тільки палиця поглинає 50 рівнів енергії, вона не може поглинати більше. Якщо на вас націлені заклинання, яке не може зберегти, палиця не вплине на це заклинання.
 
-When you become attuned to the rod, you know how many levels of energy the rod has absorbed over the course of its existence, and how many levels of spell energy it currently has stored.
+Коли тебе турбує мотузка, ви знаєте, скільки рівнів енергії поглинув палиця за весь хід його існування, і скільки рівнів сили заклинання в даний час зберігається.
 
-If you are a spellcaster holding the rod, you can convert energy stored in it into spell slots to cast spells you have prepared or know. You can create spell slots only of a level equal to or lower than your own spell slots, up to a maximum of 5th level. You use the stored levels in place of your slots, but otherwise cast the spell as normal. For example, you can use 3 levels stored in the rod as a 3rd-level spell slot.
+Якщо ви — заклинник, що тримає палицю, ви можете перетворити енергію, збережену у у ньому в заклинання для кидання заклинання або знаєте. Ви можете створити орфографічні слоти рівня тільки рівних або нижчих, ніж орфографії, до максимального 5-го рівня. Ви використовуєте збережені рівні замість слотів, але в іншому випадку заклинання стало нормальним. Наприклад, ви можете використовувати 3 рівні, що зберігаються в паличці на третьому рівні як клітинку заклинання на 3-му рівні.
 
-A newly found rod has 1d10 levels of spell energy stored in it already. A rod that can no longer absorb spell energy and has no energy remaining becomes nonmagical. 
+Нещодавно знайдена палиця має 1d10 рівнів енергії заклинання у ній. Паливом, який більше не може поглинути заклинання енергії і не має залишку енергії стає немагічним. 
