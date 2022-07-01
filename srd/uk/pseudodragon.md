@@ -1,13 +1,13 @@
-name: Pseudodragon type: dragon cr: .25
+назва: Псевдодракон тип: дракона cr: .25
 
-# Pseudodragon
-_Tiny dragon, neutral good_
+# Псевдодракон
+_Крихітний дракон, нейтральний товар_
 
 **Armor Class** 13 (natural armor)    
 **Hit Points** 7 (2d4 + 2)    
 **Speed** 15 ft., fly 60 ft.
 
-| STR    | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР    | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------ | ------- | ------- | ------- | ------- | ------- |
 | 6 (−2) | 15 (+2) | 13 (+1) | 10 (+0) | 12 (+1) | 10 (+0) |
 
@@ -15,10 +15,10 @@ _Tiny dragon, neutral good_
 **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 13    
 **Languages** understands Common and Draconic but can't speak    
 **Challenge** 1/4 (50 XP) Keen    
-**Senses**. The pseudodragon has advantage on Wisdom (Perception) checks that rely on sight, hearing, or smell.    
-**Magic Resistance.** The pseudodragon has advantage on saving throws against spells and other magical effects.    
-**Limited Telepathy.** The pseudodragon can magically communicate simple ideas, emotions, and images telepathically with any creature within 100 feet of it that can understand a language.
+**Senses**. Псевдодракон має перевагу в Мудрості (Виняття) перевірках, які покладаються на видовище, слух або нюхають.    
+**Магічного Опору.** Псевдодракон має перевагу на збереженні квітів проти заклинання та інших магічних ефектів.    
+**Обмежена телепатія.** псевдодракон може магічно спілкуватися простими ідеями, емоціями, та зображення зі спеціально будь-якої істоти в межах 100 футів від неї що можуть розуміти мову.
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage.    
-**Sting.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or become poisoned for 1 hour. If the saving throw fails by 5 or more, the target falls unconscious for the same duration, or until it takes damage or another creature uses an action to shake it awake.
+### Дії
+**Біт.** _Атака ближньої зброї:_ +4 до удару, досягає 5-ї цілі, одна мета. _Вражаємо:_ 4 (1d4 + 2) проколювання пошкодження.    
+**Тримаючи.** _Атака ближньої зброї:_ +4, щоб вдарити в 5, одну істоту. _Вразів:_ 4 (1d4 + 2) проколювання пошкоджень, і ціль має досягти успіху в економії конституції DC 11 року або стати отруєною протягом 1 години. Якщо заощадження провалиться на 5 і більше, то ціль падає несвідомо протягом того самого часу, або доки вона не зашкодить або до іншої істоти використовує дію, щоб пробудити її.
