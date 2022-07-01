@@ -1,13 +1,13 @@
-name: Orc type: humanoid (orc) cr: .5
+назва: Orc type: humanoid (orc) cr: .5
 
-# Orc
-_Medium humanoid (orc), chaotic evil_
+# Орки
+_Середнє гуманоїди (орк), хаотичне зло_
 
-**Armor Class** 13 (hide armor)    
-**Hit Points** 15 (2d8 + 6)    
-**Speed** 30 ft.
+**Клас броні** 13 (приховати броню)    
+**Бали** 15 (2d8 + 6)    
+**Швидкість** фут.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA     |
 | ------- | ------- | ------- | ------ | ------- | ------- |
 | 16 (+3) | 12 (+1) | 16 (+3) | 7 (−2) | 11 (+0) | 10 (+0) |
 
@@ -16,8 +16,8 @@ _Medium humanoid (orc), chaotic evil_
 **Languages** Common, Orc    
 **Challenge** 1/2 (100 XP)
 
-**Aggressive**. As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.
+**агресивний**. Як бонусна дія орк може рухатися вгору до своєї швидкості до ворожої істоти, яку вона може бачити.
 
-### Actions
-**Greataxe.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 9 (1d12 + 3) slashing damage.    
-**Javelin.** _Melee or _Ranged Weapon Attack:__ +5 to hit, reach 5 ft. or range 30/120 ft., one target. _Hit:_ 6 (1d6 + 3) piercing damage.
+### Дії
+**Чудова сокира.** _Атака ближньої зброї:_ +5 для удару, досягає 5 щитів, одна ціль. _Вдач:_ 9 (1d12 + 3) наносити пошкодження.    
+**Javelin.** _Атака ближнього або _Стрільбища Зброї: __ +5, щоб влучити у нього, досягає 5 футів або діапазону 30/120., одна ціль. _Обок:_ 6 (1d6 + 3) пошкодження від проб.
