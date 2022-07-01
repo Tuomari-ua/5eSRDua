@@ -1,25 +1,25 @@
-name: Giant Sea Horse type: beast cr: .5
+назва: Коня Гігантського моря тип: звір Кр: .5
 
-# Giant Sea Horse
-_Large beast, unaligned_
+# Кінь велетенського моря
+_Великий звір, неприєднаний_
 
-**Armor Class** 13 (natural armor)    
-**Hit Points** 16 (3d10)    
-**Speed** 0 ft., swim 40 ft.
+**Клас броні** 13 (природна броня)    
+**Очки** 16 (3d10)    
+**Швидкість** ft., пливи 40 футів.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 12 (+1) | 15 (+2) | 11 (+0) | 2 (−4) | 12 (+1) | 5 (−3) |
 
-**Senses** passive Perception 11    
-**Languages** --    
-**Challenge** 1/2 (100 XP)
+**Звуки** пасивне сприйняття 11    
+**Мови** --    
+**виклик** 1/2 (100 XP)
 
-**Charge.** If the sea horse moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) bludgeoning damage. It the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.    
-**Water Breathing.** The sea horse can breathe only underwater.
+**Заряд.** Якщо кінь моря рухатиметься щонайменше в 20 футів прямо до мети, а тоді влучить в нього з атакою барана на одному кроці, ціль отримує додаткову 7 (2d6) шкоду блокування. Ціль - це створіння, воно має бути успішним в збереженні сили DC 11 або бути задоволений металом.    
+**Подихання води.** Морський кінь може дихати тільки під водою.
 
-### Actions
-**Ram.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) bludgeoning damage.
+### Дії
+**Рам.** _Атака ближньої зброї:_ +3 до удару, досягає 5-ї цілі, одна мета. _Удара:_ 4 (1d6 + 1) пошкодження дублювання.
 
-### Description
-Like their smaller kin, giant sea horses are shy, colorful fish with elongated bodies and curled tails. Aquatic elves train them as mounts. 
+### Опис
+Як і їхні менші родичі, гігантські морські коні - це сором'язлива риба з видовженими тілами та звивистими хвостами. Водні ельфи тренують їх як кріплення. 
