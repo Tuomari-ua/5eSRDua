@@ -1,8 +1,8 @@
-name: Oil of Slipperiness type: potion
+назва: Олія затемнення типу: зілля
 
-# Oil of Slipperiness
-_Potion, uncommon_
+# Олія затемнення
+_Тривале зілля_
 
-This sticky black unguent is thick and heavy in the container, but it flows quickly when poured. The oil can cover a Medium or smaller creature, along with the equipment it's wearing and carrying (one additional vial is required for each size category above Medium). Applying the oil takes 10 minutes. The affected creature then gains the effect of a **_freedom of movement_** spell for 8 hours.
+Цей липкий чорний негумент густий і важкий у контейнері, але він швидко тече. Нафта може покрити середню або меншу істоту, разом з спорядженням вона носить та переносить (на кожен додатковий флакон потрібний для кожної категорії розміру вище Середнього). Застосування нафти займає 10 хвилин. Уразлива істота отримує ефект **_свободи руху_** заклинання протягом 8 годин.
 
-Alternatively, the oil can be poured on the ground as an action, where it covers a 10-foot square, duplicating the effect of the **_grease_** spell in that area for 8 hours.
+Або нафту можна заливати на землю як акцію, де вона вкриває площу в 10 футів, дублювання ефекту **_пара_** заклинання в цій області протягом 8 годин.
