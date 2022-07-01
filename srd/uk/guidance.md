@@ -1,11 +1,11 @@
-name: Guidance level: 0 school: divination classes: cleric druid
+назва: Посібник рівень: 0 школу: divination класів: священно druid
 
-# Guidance
-_Divination cantrip_
+# Супровід
+_Подібна подорож_
 
 **Casting Time:** 1 action    
 **Range:** Touch    
 **Components:** V, S    
 **Duration:** Concentration, up to 1 minute
 
-You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends. 
+Ви торкаєтесь одного, хто бажає створити. Після того, як заклинання закінчується, ціль може повернути d4 і додати число у перевірку одного варіанту спроможності. Він може котитися раніше або після перевірки простору. Потім заклинання закінчується. 
