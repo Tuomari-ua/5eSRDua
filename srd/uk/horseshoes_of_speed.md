@@ -1,6 +1,6 @@
-name: Horseshoes of Speed type: item
+назва: Хорсешуми швидкості типу: елемент
 
-# Horseshoes of Speed
-_Wondrous item, rare_
+# Підкови Швидкості
+_Один предмет, рідкісний_
 
-These iron horseshoes come in a set of four. While all four shoes are affixed to the hooves of a horse or similar creature, they increase the creature's walking speed by 30 feet.
+Ці залізні підкови входять в ряд з чотирьох складових. Всі чотири черевики прикріплені до коней або ж подібні істоти, збільшують швидкість руху істоти на 30 футів.
