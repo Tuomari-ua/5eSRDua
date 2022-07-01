@@ -1,54 +1,54 @@
-description: Rules for managing movement and travel from the 5th Edition (5e) SRD (System Reference Document).
+опис: Правила управління рухом і подорожем від 5-ї версії (5e) SRD (Документація з Системної Документації).
 
-# Movement
-Swimming across a rushing river, sneaking down a dungeon corridor, scaling a treacherous mountain slope--all sorts of movement play a key role in fantasy gaming adventures.
+# Переміщення
+Плавання через бурхливу річку, крапаючись до коридору, поширення підступного гірського схилу - всілякі рухи відіграють ключову роль у фантазійних ігрових пригод.
 
-The GM can summarize the adventurers' movement without calculating exact distances or travel times: "You travel through the forest and find the dungeon entrance late in the evening of the third day." Even in a dungeon, particularly a large dungeon or a cave network, the GM can summarize movement between encounters: "After killing the guardian at the entrance to the ancient dwarven stronghold, you consult your map, which leads you through miles of echoing corridors to a chasm bridged by a narrow stone arch."
+GM може узагальнити рух продавців без розрахунку точних відстаней і подорожей: "Ви подорожуєте лісом і знаходите приземний вхід пізно ввечері третього дня." Навіть у підземеллях, особливо у великих темницях чи печерній мережі, GM може підсумовувати рух між поясами: "Після вбивства опікуна при вході у стародавню карликову твердиню, ви проконсультуєтеся з вашою картою, яка веде вас через милі коридорів до прірви, обвішені вузькою кам'яною аркою. "
 
-Sometimes it's important, though, to know how long it takes to get from one spot to another, whether the answer is in days, hours, or minutes. The rules for determining travel time depend on two factors: the speed and travel pace of the creatures moving and the terrain they're moving over.
+Іноді це важливо, однак, щоб знати, скільки часу потрібно, щоб дістатися з одного місця до іншого, як відповідь ведеться, години, чи хвилини. Правила визначення часу в дорозі залежать від двох факторів: швидкість і швидкість руху істот рухаються і місцевість, які переміщуються.
 
-## Speed
-Every character and monster has a speed, which is the distance in feet that the character or monster can walk in 1 round. This number assumes short bursts of energetic movement in the midst of a life-threatening situation. The following rules determine how far a character or monster can move in a minute, an hour, or a day.
+## Швидкість
+Кожен персонаж і монстр мають швидкість, відстань у футах від якої персонаж або монстр можуть ходити в 1 раунд. Ця цифра передбачає короткий сплеск енергійного руху у розпал небезпечної ситуації з життям. Наступні правила визначають, як далеко персонаж або монстр може рухатися за хвилину, годину або день.
 
-### Travel Pace
-While traveling, a group of adventurers can move at a normal, fast, or slow pace, as shown on the Travel Pace table. The table states how far the party can move in a period of time and whether the pace has any effect. A fast pace makes characters less perceptive, while a slow pace makes it possible to sneak around and to search an area more carefully.
+### Подорожі Пейс
+подорожуючи, група авантюристів може рухатися нормально, швидко або повільним темпами, як показано на столі Мандрівних мишей. Таблиця показуватиме, як далеко партія може рухатися за період часу, і чи має цей темп ефекту. Швидкий темп робить ієрогліфи менш сприйнятними, тоді як повільний темп дає можливість краще прокрастися й ретельніше шукати область.
 
-**Forced March.** The Travel Pace table assumes that characters travel for 8 hours in day. They can push on beyond that limit, at the risk of exhaustion.
+**Примусово в березні** Таблиця Мандрівного Пакунку передбачає, що персонажі подорожують протягом 8 годин на добу. Вони можуть вийти за рамки цієї межі, ризикуючи вичерпатися.
 
-For each additional hour of travel beyond 8 hours, the characters cover the distance shown in the Hour column for their pace, and each character must make a Constitution saving throw at the end of the hour. The DC is 10 + 1 for each hour past 8 hours. On a failed saving throw, a character suffers one level of exhaustion.
+Для кожної додаткової години подорожі за 8 годин, герої покривають відстань, показану в колонці Години пошуку за їх темпами, і кожен персонаж повинен зробити збереження конституції наприкінці години. DC це 10 + 1 протягом кожної години на останні 8 годин. На збої економії кинуть, персонаж страждає на один рівень виснаження.
 
-**Mounts and Vehicles.** For short spans of time (up to an hour), many animals move much faster than humanoids. A mounted character can ride at a gallop for about an hour, covering twice the usual distance for a fast pace. If fresh mounts are available every 8 to 10 miles, characters can cover larger distances at this pace, but this is very rare except in densely populated areas.
+**Гори та транспортні засоби.** Протягом коротких запасів часу (до години), багато тварин рухаються набагато швидше, ніж гуманоїди. Монтажний персонаж може їздити з галопом десь на годину, що закриває вдвічі звичайну відстань для швидкого темпу. Якщо свіжі монтажі доступні кожні 8 до 10 миль, символи можуть покривати більші відстані в цей темп, але це дуже рідкісний тільки в густонаселених районах.
 
-Characters in wagons, carriages, or other land vehicles choose a pace as normal. Characters in a waterborne vessel are limited to the speed of the vessel, and they don't suffer penalties for a fast pace or gain benefits from a slow pace. Depending on the vessel and the size of the crew, ships might be able to travel for up to 24 hours per day.
+Символи вагонів, карет або інших земельних ділянок обирають нормальний темп. Ієрогліфи у водно-судинах обмежені швидкістю посудини, і вони не зазнають штрафних санкцій за швидкий темп або отримують переваги від повільного темпу. Залежно від посуду та розміру екіпажу, кораблі можуть подорожувати до 24 годин на день.
 
-Certain special mounts, such as a pegasus or griffon, or special vehicles, such as a _carpet of flying_, allow you to travel more swiftly.
+Певні особливі монтажі, такі як бенк або грифон, особливі транспортні засоби, такі, як _килим з літаючих_, дозволяють пересуватися швидше.
 
-| Pace   | Distance per Minute | Distance per Hour | Distance per day | Effect                                           |
-| ------ | ------------------- | ----------------- | ---------------- | ------------------------------------------------ |
-| Fast   | 400 feet            | 4 miles           | 30 miles         | -5 penalty to passive Wisdom (Perception) scores |
-| Normal | 300 feet            | 3 miles           | 24 miles         | -                                                |
-| Slow   | 200 feet            | 2 miles           | 18 miles         | Able to use stealth                              |
+| Темп       | Відстань за хвилину | Відстань на годину | Відстань на день | Ефект                                         |
+| ---------- | ------------------- | ------------------ | ---------------- | --------------------------------------------- |
+| Швидко     | 400 футів           | 4 милі             | 30 миль          | -5 штрафу у пасивній мудрості (Вручні) оцінці |
+| Нормальний | 300 футів           | 3 милі             | 24 милі          | -                                             |
+| Повільне   | 200 футів           | 2 милі             | 18 миль          | Можливість використання таємностей            |
 
-### Difficult Terrain
-The travel speeds given in the Travel Pace table assume relatively simple terrain: roads, open plains, or clear dungeon corridors. But adventurers often face dense forests, deep swamps, rubble-filled ruins, steep mountains, and ice-covered ground--all considered difficult terrain.
+### Складна ділянка
+Швидкості подорожей, що здійснюються у столі подорожей, передбачають відносно просту терасу: дороги, відкриті рівнини або чіткі морози. Але авантюристи часто стикаються з густими лісами, глибокими болотами, наповненими руїнами, крутими горами та крижаною землею, усі вважалися важкими рельєфами.
 
-You move at half speed in difficult terrain--moving 1 foot in difficult terrain costs 2 feet of speed--so you can cover only half the normal distance in a minute, an hour, or a day.
+Рухаємося напівшвидкими рухами на складному рівні - рухаємось на 1 фут у складній землі коштує 2 фути швидкості - таким чином можна покрити лише половину нормальної відстані за хвилину, годину, або день.
 
-## Special Types of Movement
-Movement through dangerous dungeons or wilderness areas often involves more than simply walking. Adventurers might have to climb, crawl, swim, or jump to get where they need to go.
+## Особливі типи переміщення
+Рух через небезпечні підземелля чи райони пустелі часто передбачає більше, ніж просто ходьба. Сестри пригод повинні бути лізти, повзати, плисти, плисти або стрибати, щоб дістатись куди їм треба йти.
 
-### Climbing, Swimming, and Crawling
-While climbing or swimming, each foot of movement costs 1 extra foot (2 extra feet in difficult terrain), unless a creature has a climbing or swimming speed. At the GM’s option, climbing a slippery vertical surface or one with few handholds requires a successful Strength (Athletics) check. Similarly, gaining any distance in rough water might require a successful Strength (Athletics) check.
+### Піднятися, Плавати та плавати
+Сходження або плавання, кожна фут руху коштує 1 додатковий фут (2 зайві бар'єри), Якщо у істоти немає альпіністів чи швидкості плавання. У GM варіанті, що лазили по слизькій вертикальній поверхні або на одній з кількох ручних боків потребують успішної сили (атлетичної). Аналогічно, отримання будь-якої відстані в грубій воді може зажадати успішної перевірки сили (атлетики).
 
-### Jumping
-Your Strength determines how far you can jump.
+### Перехід
+Ваша Сила визначає як далеко ви можете стрибати.
 
-**Long Jump.** When you make a long jump, you cover a number of feet up to your Strength score if you move at least 10 feet on foot immediately before the jump. When you make a standing long jump, you can leap only half that distance. Either way, each foot you clear on the jump costs a foot of movement.
+**Довгий стрибок.** Коли ви стрибаєте, охоплює кількість футів вгору до вашої сили, якщо рухатиметесь хоча б 10 футів прямо зараз перед стрибком. Коли ви змушуєте стояти довгим стрибком, ви можете стрибати лише половину цієї відстані. Так чи інакше, кожна нога рівна стрибка коштує фут руху.
 
-This rule assumes that the height of your jump doesn't matter, such as a jump across a stream or chasm. At your GM's option, you must succeed on a DC 10 Strength (Athletics) check to clear a low obstacle (no taller than a quarter of the jump's distance), such as a hedge or low wall. Otherwise, you hit it.
+Це правило передбачає, що висота вашого стрибка не має значення, наприклад, стрибок через потік або прірву. За Вашою можливістю GM, ви повинні перейти до виконання сили DC 10 (атлетики) перевірки, щоб очистити низьку перешкоду (не вище, ніж чверть відстані стрибача), такі, як хеджування чи низька стіна. В іншому випадку, ти вдарив його.
 
-When you land in difficult terrain, you must succeed on a DC 10 Dexterity (Acrobatics) check to land on your feet. Otherwise, you land prone.
+Коли ви приземляєтесь на важкій терасі, то мусите досягти успіху в Dexterity (Acrobatics) чекатиме на ногах. В іншому випадку, ви суходіл.
 
-**High Jump.** When you make a high jump, you leap into the air a number of feet equal to 3 + your Strength modifier if you move at least 10 feet on foot immediately before the jump. When you make a standing high jump, you can jump only half that distance. Either way, each foot you clear on the jump costs a foot of movement. In some circumstances, your GM might allow you to make a Strength (Athletics) check to jump higher than you normally can.
+**Високий стрибок.** Коли ви стрибаєте, ви стрибнете в повітря кількість футів дорівнює 3 + вашій силі модифікатору, якщо переміститися зі швидкістю не менше 10 футів на футів відразу перед стрибком. Коли ви змушуєте стояти високим стрибом, ви можете стрибнути лише половину тієї відстані. Так чи інакше, кожна нога рівна стрибка коштує фут руху. В деяких випадках ваш GM може дозволити зробити перевірку сильності (Athletics) стрибати вище, ніж зазвичай.
 
-You can extend your arms half your height above yourself during the jump. Thus, you can reach above you a distance equal to the height of the jump plus 1 1/2 times your height.
+Ви можете подовжити руки на собі під час стрибка. Таким чином, ви можете досягти вище вас відстань дорівнює висоті стрибка плюс 1 1/2 помножити на вашу висоту.
