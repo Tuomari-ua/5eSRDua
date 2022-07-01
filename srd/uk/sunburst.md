@@ -1,13 +1,13 @@
-name: Sunburst level: 8 school: evocation classes: druid sorcerer wizard
+назва: Сонячний спалах рівень: 8 школа: евокація класі: druid сортувальник
 
-# Sunburst
-_8th-level evocation_
+# Сонячний спалах
+_Евокація 8-го рівня_
 
-**Casting Time:** 1 action    
-**Range:** 150 feet    
-**Components:** V, S, M (fire and a piece of sunstone)    
-**Duration:** Instantaneous
+**Час трансляції часу:** 1 дія    
+**Діапазон:** 150 футів    
+**компоненти:** V, S, М (вогонь і шматочок сонячного камені)    
+**тривалість:** миттєві
 
-Brilliant sunlight flashes in a 60-foot radius centered on a point you choose within range. Each creature in that light must make a Constitution saving throw. On a failed save, a creature takes 12d6 radiant damage and is blinded for 1 minute. On a successful save, it takes half as much damage and isn't blinded by this spell. Undead and oozes have disadvantage on this saving throw.    
-A creature blinded by this spell makes another Constitution saving throw at the end of each of its turns. On a successful save, it is no longer blinded.    
-This spell dispels any darkness in its area that was created by a spell. 
+Блискуче сонячне світло в радіусі 60-футів зосереджено на точці, яку ви обираєте у радіусі дії. Кожна істота в цьому світлі повинна робити економію конституції. На невдалому збереженні істота наносить 12d6 радіантних ушкоджень і засліплює 1 хвилину. На успішний спосіб заощадження він займає половину шкоди і не засліплений цим заклинанням. Невмирущі та ози не помітили в цьому рятувальному жбурлянні.    
+істота, засліплена цим заклинанням, робить збереження іншої Конституції у кінці кожного з її поворотів. На успішному збереженні він більше не засліплений.    
+Ця заклинання відкидає будь-яку темряву в його області, створену заклинанням. 
