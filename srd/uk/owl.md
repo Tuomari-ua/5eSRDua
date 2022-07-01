@@ -1,13 +1,13 @@
-name: Owl type: beast cr: 0
+назва: Уводний світ тип: зверхність cr: 0
 
-# Owl
-_Tiny beast, unaligned_
+# Совоподібні
+_Крихітний звір, неприєднаний_
 
 **Armor Class** 11    
 **Hit Points** 1 (1d4 − 1)    
 **Speed** 5 ft., fly 60 ft.
 
-| STR    | DEX     | CON    | INT    | WIS     | CHA    |
+| СТР    | ДЕКС    | CON    | ІНТ    | WIS     | CHA    |
 | ------ | ------- | ------ | ------ | ------- | ------ |
 | 3 (−4) | 13 (+1) | 8 (−1) | 2 (−4) | 12 (+1) | 7 (−2) |
 
@@ -16,8 +16,8 @@ _Tiny beast, unaligned_
 **Languages** --    
 **Challenge** 0 (10 XP)
 
-**Flyby.** The owl doesn't provoke opportunity attacks when it flies out of an enemy's reach.    
-**Keen Hearing and Sight.** The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight.
+**Летбі** Сова не провокує альтернативних атак, коли вона вийде з ворога.    
+**Keen Hearing і Sight.** Це має перевагу в мудрості (Виняткові) перевірки, які покладаються на слух або зорі.
 
-### Actions
-**Talons.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 1 slashing damage. 
+### Дії
+**Талони** _Атака ближньої зброї:_ +3 до влучання, досягли 5-ї цілі, одна мета. _Удачі:_ 1 удар поштою. 
