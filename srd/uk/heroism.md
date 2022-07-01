@@ -1,13 +1,13 @@
-name: Heroism level: 1 school: enchantment classes: bard paladin
+назва: Героїзм рівень: 1 школа: зачарування класів: Бард паліадин
 
-# Heroism
-_1st-level enchantment_
+# Героїзм
+_Зачарування на перший рівень_
 
 **Casting Time:** 1 action    
 **Range:** Touch    
 **Components:** V, S    
 **Duration:** Concentration, up to 1 minute
 
-A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to being frightened and gains temporary hit points equal to your spellcasting ability modifier at the start of each of its turns. When the spell ends, the target loses any remaining temporary hit points from this spell.
+Гостра істота, яку ви торкаєтеся, пов'язана з хоробрістю. До заклинання закінчується, істота застрахована від того, щоб її налякати та отримати тимчасові точки що дорівнює вашому випромінюванню здатності до грамотності на початку кожної з цих черг. Коли заклинання закінчується, ціль втрачає будь-які тимчасові точки від цього заклинання.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. 
+**На вищих рівнях.** Коли ви транслюєте це заклинання використовуючи слот 2-го рівня або вище, ви можете назначити ще одну істоту для кожного рівня слоту вище 1st. 
