@@ -1,23 +1,23 @@
-name: Confusion level: 4 school: enchantment classes: bard druid sorcerer wizard
+назва: Плутанина рівень: 4 школа: зачарування класі: Бард druid сортувальник
 
-# Confusion
-_4th-level enchantment_
+# Плутанина
+_Зачарування четвертого рівня_
 
-**Casting Time:** 1 action    
-**Range:** 90 feet    
-**Components:** V, S, M (three nut shells)    
-**Duration:** Concentration, up to 1 minute
+**Час трансляції часу:** 1 дія    
+**Діапазон:** 90 футів    
+**компоненти:** V, S, М (три мозаїки)    
+**тривалість:** пункти, до 1 хвилини
 
-This spell assaults and twists creatures' minds, spawning delusions and provoking uncontrolled action. Each creature in a 10-foot-radius sphere centered on a point you choose within range must succeed on a Wisdom saving throw when you cast this spell or be affected by it.    
-An affected target can't take reactions and must roll a d10 at the start of each of its turns to determine its behavior for that turn.
+Ця заклинання напади і спотворює розум, створюючи марення, створюючи марення, провокуючи неконтрольовані дії. Кожна істота в 10-футовій радіусі зосередженій на точці, яку ви оберете у межах діапазону, повинна досягти успіху у поліпшенні Мудрості, коли ви кинули це заклинання або вплинули на неї.    
+Погоджена ціль не може зробити реакцію і повинна повернути d10 на початку кожного з її поворотів щоб визначити свою поведінку для цього повороту.
 
-| d10  | Behavior                                                                                                                                                                                        |
-| ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1    | The creature uses all its movement to move in a random direction. To determine the direction, roll a d8 and assign a direction to each die face. The creature doesn't take an action this turn. |
-| 2-6  | The creature doesn't move or take actions this turn.                                                                                                                                            |
-| 7-8  | The creature uses its action to make a melee attack against a randomly determined creature within its reach. If there is no creature within its reach, the creature does nothing this turn.     |
-| 9-10 | The creature can act and move normally.                                                                                                                                                         |
+| д10  | Поведінка                                                                                                                                                                                    |
+| ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | Ця істота використовує весь свій рух, щоб рухатися у випадковому напрямку. Щоб визначити напрямок, задіяти d8 і надати напрямок кожному вимер. Ця істота не бере на себе таких заходів.      |
+| 2-6  | Ця істота не рухається і не приймає дій на цьому кроці.                                                                                                                                      |
+| 7-8  | Творчість використовує свою дію, щоб зробити атаку на ближню сторону від довільної рішучої істоти в її межах. Якщо немає жодної істоти в її досягненні, то ця істота не робить жодної черги. |
+| 9-10 | Ця істота може діяти і рухатися нормально.                                                                                                                                                   |
 
-At the end of each of its turns, an affected target can make a Wisdom saving throw. If it succeeds, this effect ends for that target.
+По завершенню кожного своєї черги уражена ціль може зробити мудрість збереженням стріли. Якщо це вдасться, цей ефект закінчує цю ціль.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the radius of the sphere increases by 5 feet for each slot level above 4th. 
+**На вищих рівнях.** Коли ви кидаєте це заклинання використовуючи гніздо 5-го рівня або вище, радіус сфери збільшується на 5 футів для рівня кожного слота вище 4. 
