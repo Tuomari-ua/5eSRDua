@@ -1,13 +1,13 @@
-name: Spy type: humanoid (any race) cr: 1
+назва: Spy тип: humanoid (any race) cr: 1
 
-# Spy
-_Medium humanoid (any race), any alignment_
+# Шпигун
+_Середня гуманоїда (будь-яке не), будь-яке вирівнювання_
 
 **Armor Class** 12    
 **Hit Points** 27 (6d8)    
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 10 (+0) | 15 (+2) | 10 (+0) | 12 (+1) | 14 (+2) | 16 (+3) |
 
@@ -16,13 +16,13 @@ _Medium humanoid (any race), any alignment_
 **Languages** any two languages    
 **Challenge** 1 (200 XP)
 
-**Cunning Action.** On each of its turns, the spy can use a bonus action to take the Dash, Disengage, or Hide action.    
-**Sneak Attack (1/Turn).** The spy deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the spy that isn't incapacitated and the spy doesn't have disadvantage on the attack roll.
+**Дія хитрощі.** На кожному з її поворотів шпигун може використовувати додаткові дії для прийняття розділу або дії "Шовка".    
+**Крапече Атака (1/Turn).** Шпигун завдає додатково 7 (2d6) пошкодження під час удару в ціль з атакою зброї та має перевагу в розкоші атаки, або якщо ціль знаходиться в межах 5 футів від союзника шпигуна, що не є недієздатним, і шпигун не має недоліків на атакуючому ролі.
 
-### Actions
-**Multiattack.** The spy makes two melee attacks.    
-**Shortsword.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.    
-**Hand Crossbow.** _Ranged Weapon Attack:_ +4 to hit, range 30/120 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.
+### Дії
+**Мультиатака.** Шпигун робить два напади на ближній бік.    
+**Короткий меч.** _Атака ближньої зброї:_ +4 щоб вдарити, досягти 5-ти цілі, одна ціль. _Вдач:_ 5 (1d6 + 2) пробивання пошкодження.    
+**Рука Арбалет.** _Атака дальньої зброї:_ +4 щоб вдарити, діапазон 30/120 футів. _Вразів:_ 5 (1d6 + 2) пробивання пошкоджень.
 
-### Description
-Rulers, nobles, merchants, guildmasters, and other wealthy individuals use spies to gain the upper hand in a world of cutthroat politics. A spy is trained to secretly gather information. Loyal spies would rather die than divulge information that could compromise them or their employers. 
+### Опис
+Налери, дворяни, торговці, гільдстери та інші заможні люди використовують шпигунів, щоб отримати перевагу у світі горлої політики. Шпигун навчається таємно збирати інформацію. Вірні шпигуни замість того, щоб розгуляти інформацію, яка може поставити під загрозу їх або їх роботодавців. 
