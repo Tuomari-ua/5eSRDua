@@ -1,6 +1,6 @@
-name: Slippers of Spider Climbing type: item
+назва: Скидання лічильника типу: елемент
 
-# Slippers of Spider Climbing
-_Wondrous item, uncommon (requires attunement)_
+# Сліпники павукового сходження
+_Нетиповий предмет Wondrous (вимагає приєднання)_
 
-While you wear these light shoes, you can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free. You have a climbing speed equal to your walking speed. However, the slippers don't allow you to move this way on a slippery surface, such as one covered by ice or oil. 
+Піднімаючись цими легкими черевиками, ви можете рухатися донизу, на вертикальній поверхні та догори вниз по стелі, залишаючи свої руки вільними. У вас швидкість сходження дорівнює вашій швидкості руху. Однак, капці не дозволяють вам пересувати цей шлях на слизькій поверхні, наприклад на льодяній або нафті. 
