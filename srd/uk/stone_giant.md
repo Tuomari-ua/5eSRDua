@@ -1,13 +1,13 @@
-name: Stone Giant type: giant cr: 7
+назва: Камінь гігант тип: гігантський cr: 7
 
-# Stone Giant
-_Huge giant, neutral_
+# Камінь Гігант
+_Величезний гігант, нейтральний_
 
-**Armor Class** 17 (natural armor)    
-**Hit Points** 126 (11d12 + 55)    
-**Speed** 40 ft.
+**Клас броні** 17 (природна броня)    
+**Очки влучання** 126 (11d12 + 55)    
+**швидкість** фут.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA    |
 | ------- | ------- | ------- | ------- | ------- | ------ |
 | 23 (+6) | 15 (+2) | 20 (+5) | 10 (+0) | 12 (+1) | 9 (−1) |
 
@@ -17,11 +17,11 @@ _Huge giant, neutral_
 **Languages** Giant    
 **Challenge** 7 (2,900 XP)
 
-**Stone Camouflage.** The giant has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
+**Кам'яний камуфляж** Величезний має перевагу в стандартах Dexterity (Stealth) перевірки, які можна приховати від гірського рельєфу.
 
-### Actions
-**Multiattack.** The giant makes two greatclub attacks. Greatclub. _Melee Weapon Attack:_ +9 to hit, reach 15 ft., one target. _Hit:_ 19 (3d8 + 6) bludgeoning damage.    
-**Rock.** _Ranged Weapon Attack:_ +9 to hit, range 60/240 ft., one target. _Hit:_ 28 (4d10 + 6) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.
+### Дії
+**Мультиатака.** Гігант робить дві повітряні атаки в суперклубі. Крутий клуб. _Атака ближньої зброї:_ +9 щоб вдарити, досягти 15-ї цілі, одна ціль. _Удара:_ 19 (3d8 + 6) пошкодження дублювання.    
+**Rock.** _Атака дальньої зброї:_ +9, щоб вдарити, діапазон 60/240, одна мета. _Удара:_ 28 (4d10 + 6) пошкодження дублювання. Якщо ціль є створенням, вона повинна перейти до успіху в економії сили DDC 17 або бути постукована часткою.
 
-### Reactions
-**Rock Catching.** If a rock or similar object is hurled at the giant, the giant can, with a successful DC 10 Dexterity saving throw, catch the missile and take no bludgeoning damage from it.
+### Реакції
+**Рок лов.** Якщо камінь або подібний об’єкт кидають на гіганта, гігантська може з успішним збереженням Dexterity DC 10-го, зловити ракету і не завдавати йому шкоди.
