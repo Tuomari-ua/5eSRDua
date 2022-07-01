@@ -1,13 +1,13 @@
-name: Shambling Mound type: plant cr: 5
+назва: М'ясний Маунт тип: садити cr: 5
 
-# Shambling Mound
-_Large plant, unaligned_
+# Шамблінг Маунд
+_Великий завод, не вирівняний_
 
 **Armor Class** 15 (natural armor)    
 **Hit Points** 136 (16d10 + 48)    
 **Speed** 20 ft., swim 20 ft.
 
-| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС   | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------ | ------- | ------ | ------- | ------ |
 | 18 (+4) | 8 (−1) | 16 (+3) | 5 (−3) | 10 (+0) | 5 (−3) |
 
@@ -19,9 +19,9 @@ _Large plant, unaligned_
 **Languages** --    
 **Challenge** 5 (1,800 XP)
 
-**Lightning Absorption.** Whenever the shambling mound is subjected to lightning damage, it takes no damage and regains a number of hit points equal to the lightning damage dealt.
+**Абсорпція блискавок.** Кожен раз, коли ганьба зазнає пошкодження блискавки, це не спрацьовує і повертає ряд ударів у нанесенні ударів.
 
-### Actions
-**Multiattack.** The shambling mound makes two slam attacks. If both attacks hit a Medium or smaller target, the target is grappled (escape DC 14), and the shambling mound uses its Engulf on it.    
-**Slam.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) bludgeoning damage.    
-**Engulf.** The shambling mound engulfs a Medium or smaller creature grappled by it. The engulfed target is blinded, restrained, and unable to breathe, and it must succeed on a DC 14 Constitution saving throw at the start of each of the mound's turns or take 13 (2d8 + 4) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can have only one creature engulfed at a time.
+### Дії
+**Багатоатака.** Сорійний фунт робить дві слабкі атаки. Якщо обидва атаки досягли середньої або меншої мети, ціль запланована (втеча від DC 14), і ганебна маса використовує на собі Інгулф.    
+**Слем.** _Атака важкої зброї:_ +7 щоб вдарити, сягнути 5 футів, одна ціль. _Вразів:_ 13 (2d8 + 4) пошкодження bludgeing.    
+**Engulf.** ОрОркестр охолодження середніх або менших істот влучає в нього. Посилена ціль осліплена, обмежена і не може дихати, і це має бути успішним в DDC 14 Заощадження виконання Конституції на початку кожного з поворотів туману, або ж забрати 13 (2d8 + 4) шкоди, які шкодують. Якщо фунт рухається, його переміщає охолола мішень. Межа може схвилювати лише одну істоту.
