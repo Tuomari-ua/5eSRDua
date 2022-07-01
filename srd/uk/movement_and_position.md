@@ -1,90 +1,90 @@
-description: Rules for managing movement and position in combat from the 5th Edition (5e) SRD (System Reference Document).
+опис: Правила управління рухом і положенням в боротьбі з 5-ї версії (5e) SRD (Документація з Системної Документації).
 
-# Movement and Position
-In combat, characters and monsters are in constant motion, often using movement and position to gain the upper hand.
+# Переміщення і розташування
+У битві, ієрогліфи та монстри знаходяться в постійному русі, часто використовуючи рух та положення, щоб отримати верхню руку.
 
-On your turn, you can move a distance up to your speed. You can use as much or as little of your speed as you like on your turn, following the rules here.
+На свою чергу, ви можете переміщатися на відстань до швидкості. Ви можете використовувати стільки чи мало вашої швидкості так як вам до вподоби, і дотримуючись правил тут.
 
-Your movement can include jumping, climbing, and swimming. These different modes of movement can be combined with walking, or they can constitute your entire move. However you're moving, you deduct the distance of each part of your move from your speed until it is used up or until you are done moving.
+Ваш рух може включати стрибки, сходження та плавання. Ці різні способи руху можна поєднувати під час ходьби, або вони можуть сформувати весь ваш рух. Як би ви не переїхали, ви віднімаєте відстань кожної частини вашого ходу від швидкості до тих пір, поки воно не буде використане або поки не буде продовжуватись далі.
 
-## Breaking Up Your Move
-You can break up your movement on your turn, using some of your speed before and after your action. For example, if you have a speed of 30 feet, you can move 10 feet, take your action, and then move 20 feet.
+## Розбиваючись з ніг
+Ви можете поламати свій рух за рух, використовуючи частину вашої швидкості до і після вашої дії. Наприклад, якщо у вас швидкість 30 футів, ви можете рухатися по 10 футів, робити дії, а потім рухатися на 20 футів.
 
-### Moving between Attacks
-If you take an action that includes more than one weapon attack, you can break up your movement even further by moving between those attacks. For example, a fighter who can make two attacks with the Extra Attack feature and who has a speed of 25 feet could move 10 feet, make an attack, move 15 feet, and then attack again.
+### Переміщення між атаками
+Якщо ви вживаєте заходів, які містять більше ніж одну зброю, ви можете побити ваш рух ще далі, рухаючись між цими атаками. Наприклад, боєць, який може зробити дві атаки з функцією додаткову Атаку і швидкість в кого 25 футів може рухати 10 футів, зробити атаку, перемістися на 15 футів, а потім атакувати знову.
 
-### Using Different Speeds
-If you have more than one speed, such as your walking speed and a flying speed, you can switch back and forth between your speeds during your move. Whenever you switch, subtract the distance you've already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can't use the new speed during the current move.
+### Використовуючи різні швидкості
+Якщо у вас є більш ніж одна швидкість, наприклад швидкість ходьби і швидкість польоту, ви можете переключатися назад і вперед між своїми швидкостями під час руху. Всякий раз, віднімаючи відстань, яку ви вже переміщували з нової швидкості. Результат визначає скільки ще можна рухатися. Якщо результат дорівнює 0 або менше, ви не можете використовувати нову швидкість під час поточного кроку.
 
-For example, if you have a speed of 30 and a flying speed of 60 because a wizard cast the fly spell on you, you could fly 20 feet, then walk 10 feet, and then leap into the air to fly 30 feet more.
+Наприклад, якщо у вас є швидкість - 30 і швидкість польоту 60, тому що чарівник вкинув на вас заклинання муху, можна летіти на 20 футів, потім пройти 10 футів, а потім стрибнути на повітря, щоб літати на 30 футів.
 
-## Difficult Terrain
-Combat rarely takes place in bare rooms or on featureless plains. Boulder-strewn caverns, briar-choked forests, treacherous staircases--the setting of a typical fight contains difficult terrain.
+## Складна ділянка
+Бойовий рідко відбувається в голих кімнатах або на неявних рівнинах. Красиві печери з бритвою — ліси, задушені, зрадливі сходи — служіння була типова боротьба містить складні землі.
 
-Every foot of movement in difficult terrain costs 1 extra foot. This rule is true even if multiple things in a space count as difficult terrain.
+Кожна нога руху зі складною місцевістю коштує 1 додаткову фут. Це правило справедливо, навіть якщо кілька речей із простору розраховують на складну ділянку.
 
-Low furniture, rubble, undergrowth, steep stairs, snow, and shallow bogs are examples of difficult terrain. The space of another creature, whether hostile or not, also counts as difficult terrain.
+Низькі меблі, рум'яні, підйомний підйом, круті сходи, снігопад та неглибокі яйця - приклади важкого рельєфу. Простір іншої істоти, будь то ворожий, чи ні, також вважається складною ділянкою.
 
-## Being Prone
-Combatants often find themselves lying on the ground, either because they are knocked down or because they throw themselves down. In the game, they are prone, a condition described in appendix A. You can drop prone without using any of your speed. Standing up takes more effort; doing so costs an amount of movement equal to half your speed. For example, if your speed is 30 feet, you must spend 15 feet of movement to stand up. You can't stand up if you don't have enough movement left or if your speed is 0.
+## Бути принцем
+Комбатани часто летять на землю, або тому, що вони збиті, або тому, що вони руйнуються. У грі є частка та умова, що описана в апендіксі А. Ви можете видалити розріз без використання будь-якої швидкості. Постійно докладає більше зусиль; роблячи це коштує всього руху, що дорівнює наполовину вашої швидкості. Наприклад, якщо ваша швидкість становить 30 футів, ви повинні витратити 15 футів руху, щоб встати. Ви не можете встати якщо у вас недостатньо рухів вліво або швидкість 0.
 
-To move while prone, you must **crawl** or use magic such as teleportation. Every foot of movement while crawling costs 1 extra foot. Crawling 1 foot in difficult terrain, therefore, costs 3 feet of movement.
-> ### Interacting with Objects
+Щоб переміститись на кроці, необхідно **сканувати** або використовувати магію, таку як телепортацію. Кожна стопа руху, повзаючи з ноги коштує 1 додаткову фут. Отже, шляху по 1 фут у складній місцевості, таким чином, коштує 3 фути руху.
+> ### Взаємодія з Об'єктами
 > 
-> Around You Here are a few examples of the sorts of thing you can do in tandem with your movement and action:
-> * draw or sheathe a sword
-> * open or close a door
-> * withdraw a potion from your backpack
-> * pick up a dropped axe
-> * take a bauble from a table
-> * remove a ring from your finger
-> * stuff some food into your mouth
-> * plant a banner in the ground
-> * fish a few coins from your belt pouch
-> * drink all the ale in a flagon
-> * throw a lever or a switch
-> * pull a torch from a sconce
-> * take a book from a shelf you can reach
-> * extinguish a small flame
-> * don a mask
-> * pull the hood of your cloak up and over your head
-> * put your ear to a door
-> * kick a small stone
-> * turn a key in a lock
-> * tap the floor with a 10-foot pole
-> * hand an item to another character
+> Попереду вас - декілька прикладів тих речей, які можна зробити в тандемі з вашими рухами та діями:
+> * намалювати або підвісити меч
+> * відкрити або закрити двері
+> * вивести зілля з рюкзаку
+> * підібрати запущений сокира
+> * взяти баабль зі таблиці
+> * видалити кільце з вашого пальця
+> * штуй тут їжу для твого рота
+> * посадити банер у землю
+> * риба кілька монет з насідання яму
+> * випити весь зал у прапорі
+> * кидати важіль чи перемикач
+> * витягнути смолоскип з сосни
+> * взяти книгу з полиці, ви можете дотягнутися
+> * гасити маленьке полум'я
+> * не маска
+> * накрийте капоту вашого плаща вгору і над головою
+> * надіньте вухо до дверей
+> * штовхнути маленький камінь
+> * повернути ключ у замк
+> * торкніться підлоги з 10-футовим полюсом
+> * передати предмет іншому символу
 
-## Moving Around Other Creatures
-You can move through a nonhostile creature's space. In contrast, you can move through a hostile creature's space only if the creature is at least two sizes larger or smaller than you. Remember that another creature's space is difficult terrain for you.
+## Переміщення інших істот
+Ви можете переміщатися через неворожу істоту. Навпаки, ви можете проходити у просторі ворожої істоти, тільки якщо істота є принаймні два розміри або менше ніж ви. Пам'ятайте, що для вас простір іншої істоти - складна місцевість.
 
-Whether a creature is a friend or an enemy, you can't willingly end your move in its space.
+Чи є істота другом чи ворогом, ви не можете охоче припинити свій рух в його просторі.
 
-If you leave a hostile creature's reach during your move, you provoke an opportunity attack, as explained later in the chapter.
+Якщо ви залишаєте ворожу істоту під час свого кроку, ви провокуєте сприятливу атаку, як описано пізніше у розділі.
 
-## Flying Movement
-Flying creatures enjoy many benefits of mobility, but they must also deal with the danger of falling. If a flying creature is knocked prone, has its speed reduced to 0, or is otherwise deprived of the ability to move, the creature falls, unless it has the ability to hover or it is being held aloft by magic, such as by the **_fly_** spell.
+## Політ
+Літаючі істоти користуються багатьма перевагами мобільності, але вони також повинні впоратися з небезпекою падіння. Якщо летальна істота нахиляється до 0, або швидкість погіршена до 0, або в іншому випадку позбавлена здатності рухатися, істота падає, якщо вона не здатна зависати або тримати її від магії, наприклад, **_політ_**.
 
-## Creature Size
-Each creature takes up a different amount of space. The Size Categories table shows how much space a creature of a particular size controls in combat. Objects sometimes use the same size categories.
+## Розмір істоти
+Кожна істота має різну кількість місця. Розмір категорії категорій показує об'єм місця істоти певного розміру в бою. Об'єкти іноді використовують категорії такого ж розміру.
 
-**Size Categories**
+**Категорії розміру**
 
-| Size       | Space                  |
-| ---------- | ---------------------- |
-| Tiny       | 2 1/2 by 2 1/2 ft.     |
-| Small      | 5 by 5 ft.             |
-| Medium     | 5 by 5 ft.             |
-| Large      | 10 by 10 ft.           |
-| Huge       | 15 by 15 ft.           |
-| Gargantuan | 20 by 20 ft. or larger |
+| Розмір       | З відступом               |
+| ------------ | ------------------------- |
+| Дрібний      | 2 1/2 на 2 1/2 фут.       |
+| Маленький    | 5 на 5 фут.               |
+| Медіум       | 5 на 5 фут.               |
+| Великий      | 10 на фут.                |
+| Дуже великий | 15 на 15 фут.             |
+| Gargantuan   | 20 на 20 футів або більше |
 
 
-### Space
-A creature's space is the area in feet that it effectively controls in combat, not an expression of its physical dimensions. A typical Medium creature isn't 5 feet wide, for example, but it does control a space that wide. If a Medium hobgoblin stands in a 5‐foot-wide doorway, other creatures can't get through unless the hobgoblin lets them.
+### З відступом
+Простір істоти - це область сфери, яка ефективно контролює в бою, а не вираз її фізичних розмірів. Типово середня істота не 5 футів завширшки, наприклад, вона контролює простір завширшки. Якщо середній гобіт стоїть у 5 метрів завширшки й інші істоти, через які не зможуть пройти цей гобіт, якщо тільки відбудуться гобіти.
 
-A creature's space also reflects the area it needs to fight effectively. For that reason, there's a limit to the number of creatures that can surround another creature in combat. Assuming Medium combatants, eight creatures can fit in a 5-foot radius around another one.
+Простір істоти також відображає область, яка потрібна для ефективної боротьби. З цієї причини існує обмеження на кількість істот, які можуть оточувати іншу істоту у бою. Якщо припустити, середні бойові літаки, вісім істот можуть поміститися в радіусі 5 футів навколо іншого.
 
-Because larger creatures take up more space, fewer of them can surround a creature. If five Large creatures crowd around a Medium or smaller one, there's little room for anyone else. In contrast, as many as twenty Medium creatures can surround a Gargantuan one.
+Тому що більші істоти займають більше місця, менше з них можуть оточувати істоту. Якщо п'ять великих істот натовп навколо середнього або меншого значення, є мало місця для всіх інших. На відміну від цілих двадцяти середніх істот можуть обтяжувати вантажних удар.
 
-### Squeezing into a Smaller Space
-A creature can squeeze through a space that is large enough for a creature one size smaller than it. Thus, a Large creature can squeeze through a passage that's only 5 feet wide. While squeezing through a space, a creature must spend 1 extra foot for every foot it moves there, and it has disadvantage on attack rolls and Dexterity saving throws. Attack rolls against the creature have advantage while it's in the smaller space.
+### Стиснення в малесенький простір
+Створіння може протиснутися через простір, достатньо великий для істоти одного розміру меншого за нього. Таким чином, велика істота може протиснутися через прохід, що має лише 5 футів у ширину. При стисканні через простір, істота повинна витрачати на 1 фут на кожен крок там, і це мало користь для нападу на рятувальні киди та рятування слабкості. Знову напади проти істот мають перевагу, поки вона у меншому просторі.
