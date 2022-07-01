@@ -1,13 +1,13 @@
-name: Gnome, Deep (Svirfneblin) type: humanoid (gnome) cr: .5
+назва: Gnome, Deep (Svirfneblin) type: humanoid (gnome) cr: .5
 
 # Gnome, Deep (Svirfneblin)
-_Small humanoid (gnome), neutral good_
+_Невеличкий людський (gnome), нейтральний хороший_
 
-**Armor Class** 15 (chain shirt)    
-**Hit Points** 16 (3d6 + 6)    
-**Speed** 20 ft.
+**Клас броні** 15 (ланцюгова футболка)    
+**Бали** 16 (3d6 + 6)    
+**Швидкість** фут.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA    |
 | ------- | ------- | ------- | ------- | ------- | ------ |
 | 15 (+2) | 14 (+2) | 14 (+2) | 12 (+1) | 10 (+0) | 9 (−1) |
 
@@ -16,12 +16,12 @@ _Small humanoid (gnome), neutral good_
 **Languages** Gnomish, Terran, Undercommon    
 **Challenge** 1/2 (100 XP)
 
-**Stone Camouflage.** The gnome has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.    
-**Gnome Cunning.** The gnome has advantage on Intelligence, Wisdom, and Charisma saving throws against magic.    
-**Innate Spellcasting.** The gnome's innate spellcasting ability is Intelligence (spell save DC 11). It can innately cast the following spells, requiring no material components:    
-At will: **_nondetection_** (self only)    
-1/day each: **_blindness/deafness_**, **_blur_**, **_disguise self_**
+**Кам'яний камуфляж.** Купол має перевагу в перевірці Dexterity (Stealth) спробований, щоб сховатися в гірських дорогах.    
+**Cuning Gnome** Гнома має перевагу в інтелекті, мудрості та Харизмі заощаджують кидатися від магії.    
+**Викликати виставлення орфографії.** вроджену здатність орфографії гнома - це розвідка (заклинання 11). Коли вони можуть придавати наступні заклинання, вимагаючи від жодних компонентів матеріалу:    
+Якщо буде: **_невиявлення_** (тільки    
+1/day each: **_сліпоти / глупота_**, **_розмите_**, **_замаскування себе_**
 
-### Actions
-**War Pick.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage.    
-**Poisoned Dart.** _Ranged Weapon Attack:_ +4 to hit, range 30/120 ft., one creature. _Hit:_ 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+### Дії
+**Пік війни.** _Атака ближньої зброї:_ +4, досягає 5, одна ціль. _Удара:_ 6 (1d8 + 2) наносити пошкодження.    
+**Отруєний Дарт.** _Атака дальньої зброї:_ +4 щоб вдарити, діапазон 30/120 футів, одна істота. _Вразів:_ 4 (1d4 + 2) проколювання пошкоджень, і ціль має бути досягнутою в розмірі скидання до Конституції DC 12 хвилин або буде отруєна 1 хвилину. Ціль може повторювати накопичення в кінці кожної своєї черги, закінчуючи вплив на себе на успіх.
