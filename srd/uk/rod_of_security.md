@@ -1,10 +1,10 @@
-name: Rod of Security type: rod
+назва: Род безпеки : rod
 
-# Rod of Security
-_Rod, very rare_
+# Род безпеки
+_Род, дуже рідкісний_
 
-While holding this rod, you can use an action to activate it. The rod then instantly transports you and up to 199 other willing creatures you can see to a paradise that exists in an extraplanar space. You choose the form that the paradise takes. It could be a tranquil garden, lovely glade, cheery tavern, immense palace, tropical island, fantastic carnival, or whatever else you can imagine. Regardless of its nature, the paradise contains enough water and food to sustain its visitors. Everything else that can be interacted with inside the extraplanar space can exist only there. For example, a flower picked from a garden in the paradise disappears if it is taken outside the extraplanar space.
+Тримаючи цього прута, ви можете використати дію, щоб активувати його. Стержень потім миттєво перевозить вас і до 199 інших бажаючих істот, ви можете побачити рай, який існує в позапланочному просторі. Ви вибираєте форму, яку набуває рай. Це може бути спокійний сад, прекрасна таверна, величезний палац, тропічний острів, фантастичний карнавал, або будь-що інше, як ви можете собі уявити. Незалежно від її природи, рай містить достатньо води та їжі для підтримки його відвідувачів. Усе інше, що може взаємодіяти зсередини позапланарного простору, може існувати лише там. Наприклад, квітка, обрана з саду в раю зникає, якщо її беруть за межі позапланетного простору.
 
-For each hour spent in the paradise, a visitor regains hit points as if it had spent 1 Hit Die. Also, creatures don't age while in the paradise, although time passes normally. Visitors can remain in the paradise for up to 200 days divided by the number of creatures present (round down).
+Протягом кожної години, проведеної в раю, відвідувач отримує очки, ніби він витратив 1 хіт помер. Також, істоти не старіють у раю, хоча час проходить. Відвідувачі можуть залишатися в раю до 200 днів, поділених на кількість присутніх істот (заокруглено).
 
-When the time runs out or you use an action to end it, all visitors reappear in the location they occupied when you activated the rod, or an unoccupied space nearest that location. The rod can't be used again until ten days have passed. 
+Коли час вичерпується, або ви використовуєте дію для його закінчення, всі відвідувачі з'являються знову в місці, де вони окупувались, коли ви активували палицю, або незайнятий простір поблизу цього місця. Стержень не можна використовувати знову, доки не пройде десять днів. 
