@@ -1,13 +1,13 @@
-name: Magic Missile level: 1 school: evocation classes: sorcerer wizard
+назва: Чарівна Ракета рівень: 1 школу: evocation classes: sorer майстер
 
-# Magic Missile
-_1st-level evocation_
+# Чарівна Ракета
+_11-ше евокація_
 
-**Casting Time:** 1 action    
-**Range:** 120 feet    
-**Components:** V, S    
-**Duration:** Instantaneous
+**Час трансляції часу:** 1 дія    
+**Діапазон:** 120 футів    
+**компоненти:** V, S    
+**тривалість:** миттєві
 
-You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.
+Ви створюєте тривимірні дроти магічної сили. Кожен малюнок відповідає істоті за ваш вибір, який ви бачите в межах діапазону. Дрот завдає шкоди 1d4 + 1 сила. Чоботи завдають удару одночасно, і ви можете направити їх на удару однієї істоти чи ступу.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the spell creates one more dart for each slot level above 1st.
+**На вищих рівнях.** Коли ви транслюєте це заклинання використовуючи слот 2-го рівня або вище, заклинання створює ще один план для кожного слота вище 1st.
