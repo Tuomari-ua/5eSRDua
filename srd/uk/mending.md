@@ -1,12 +1,12 @@
-name: Mending level: 0 school: transmutation classes: bard cleric druid sorcerer wizard
+назва: Вирівнює : 0 школу: транмутація класи: кодування дублювальник druid sorcerer
 
-# Mending
-_Transmutation cantrip_
+# В очікуванні
+_Трансмутація_
 
-**Casting Time:** 1 minute    
-**Range:** Touch    
-**Components:** V, S, M (two lodestones)    
-**Duration:** Instantaneous
+**Час трансляції :** 1 хвилину    
+**Діапазон:** Торкніться    
+**компоненти:** V, S, М (два губенстони)    
+**тривалість:** миттєві
 
-This spell repairs a single break or tear in an object you touch, such as a broken chain link, two halves of a broken key, a torn cloak, or a leaking wineskin. As long as the break or tear is no larger than 1 foot in any dimension, you mend it, leaving no trace of the former damage.    
-This spell can physically repair a magic item or construct, but the spell can't restore magic to such an object. 
+Ця заклинання повертає по одному розриву або сльозу в об'єкті, який ви торкаєтесь, наприклад, зламане ланцюгове посилання, дві половини зламаного ключа, розірваного плаща, або просочувальний моряк. Поки перерва або сльози не більше ніж 1 фут у будь-якому розмірі, ви ремонтуєте, не залишаючи слідів колишніх пошкоджень.    
+Ця заклинання може фізично відновити магічний предмет або конструкцію, але заклинання не може відновити магію такому об'єкту. 
