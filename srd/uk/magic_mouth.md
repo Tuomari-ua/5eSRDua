@@ -1,13 +1,13 @@
-name: Magic Mouth level: 2 school: illusion classes: bard wizard
+назва: Магічний рот рівень: 2 школа: ілюзія класів: майстер думок
 
-# Magic Mouth
-_2nd-level illusion (ritual)_
+# Чарівний рот
+_Ілюзія 2n-рівня (ритуал)_
 
-**Casting Time:** 1 minute    
-**Range:** 30 feet    
-**Components:** V, S, M (a small bit of honeycomb and jade dust worth at least 10 gp, which the spell consumes)    
-**Duration:** Until dispelled
+**Час Кастингу:** 1 хвилину    
+**Діапазон:** 30 футів    
+**компоненти:** V, S, М (трішки меду і пилу вартістю не менше 10 Gp, який витрачає заклинання    
+**тривалість:** До відхилення
 
-You implant a message within an object in range, a message that is uttered when a trigger condition is met. Choose an object that you can see and that isn't being worn or carried by another creature. Then speak the message, which must be 25 words or less, though it can be delivered over as long as 10 minutes. Finally, determine the circumstance that will trigger the spell to deliver your message.    
-When that circumstance occurs, a magical mouth appears on the object and recites the message in your voice and at the same volume you spoke. If the object you chose has a mouth or something that looks like a mouth (for example, the mouth of a statue), the magical mouth appears there so that the words appear to come from the object's mouth. When you cast this spell, you can have the spell end after it delivers its message, or it can remain and repeat its message whenever the trigger occurs.    
-The triggering circumstance can be as general or as detailed as you like, though it must be based on visual or audible conditions that occur within 30 feet of the object. For example, you could instruct the mouth to speak when any creature moves within 30 feet of the object or when a silver bell rings within 30 feet of it. 
+Ви імплантуєте повідомлення в діапазоні об'єкта, повідомлення, яке порушується, коли виконується умова тригера. Оберіть об'єкт, який ви бачите і який не носяться чи переноситься іншою істотою. А потім говоріть повідомлення, повинно бути 25 слів або менше, хоча їх можна доставляти до 10 хвилин. Нарешті, визначте обставини, що викликають заклинання для доставки вашого повідомлення.    
+при виникненні обставин, магічний рот з'являється на об'єкті і передає повідомлення у вашому голосі і при тому ж обсязі ви говорите. Якщо обраний вами об'єкт має рот або щось, що виглядає як рот (наприклад, рот статуї), магічним ротом з'являється так, що ці слова походять з уста об'єкта. Коли ви кидаєте це заклинання ви можете мати заклинання завершення після того, як воно доставляє його повідомлення, або він може залишатися і повторювати своє повідомлення кожного разу, коли відбувається тригер.    
+Умови активації можуть бути настільки загальними або детальними, наскільки ви забажаєте, хоча він повинен базуватися на візуальних або звукових умовах, які виникають в межах 30 футів об'єкта. Наприклад, ви можете повідомити рота, коли будь-яка істота рухається в межах 30 футів від об'єкта, або коли срібний дзвоник у межах 30 футів від нього. 
