@@ -1,12 +1,12 @@
-name: Mass Heal level: 9 school: evocation classes: cleric
+назва: Масове Лікування рівень: 9 школа: евакуація класів: священнослужителі
 
-# Mass Heal
-_9th-level evocation_
+# Масове лікування
+_Евокація 9-го рівня_
 
 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S    
-**Duration:** Instantaneous
+**Час трансляції :** 1 дія    
+**Діапазон:** 60 футів    
+**компоненти:** V, S    
+**тривалість:** миттєві
 
-A flood of healing energy flows from you into injured creatures around you. You restore up to 700 hit points, divided as you choose among any number of creatures that you can see within range. Creatures healed by this spell are also cured of all diseases and any effect making them blinded or deafened. This spell has no effect on undead or constructs. 
+Дитя зцілення енергії перейде від вас до травмованих істот. Ви відновлюєте до 700 хітностей поділені на кількість серед істот, які можна побачити на відстані. Ці заклинання вилікувані істоти також виліковуються від усіх захворювань. Кожен ефект робить їх засліпленими або глухими. Ця заклинання не впливає на незгадані чи конструкції. 
