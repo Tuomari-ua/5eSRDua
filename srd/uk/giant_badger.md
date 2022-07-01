@@ -1,23 +1,23 @@
-name: Giant Badger type: beast cr: .25
+назва: Гігантний Бейджер тип: звір cr: .25
 
-# Giant Badger
-_Medium beast, unaligned_
+# Гігантський Беджер
+_Середній звір, неприєднаний_
 
 **Armor Class** 10    
 **Hit Points** 13 (2d8 + 4)    
 **Speed** 30 ft., burrow 10 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 13 (+1) | 10 (+0) | 15 (+2) | 2 (−4) | 12 (+1) | 5 (−3) |
 
 **Senses** darkvision 30 ft., passive Perception 11    
-**Languages** --    
-**Challenge** 1/4 (50 XP)
+**Мови** --    
+**Виклик** 1/4 (50 XP)
 
-**Keen Smell.** The badger has advantage on Wisdom (Perception) checks that rely on smell.
+**Keen Smell.** badger має перевагу в Wisdom (виключання) перевірки, які покладаються на запах.
 
-### Actions
-**Multiattack.** The badger makes two attacks: one with its bite and one with its claws.    
-**Bite.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage.    
-**Claws.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 6 (2d4 + 1) slashing damage. 
+### Дії
+**Мультиатака.** Беджер робить дві атаки: один з одним, перекушеним та один з його кігтями.    
+**Біт.** _Атака ближньої зброї:_ +3, щоб ударити до 5, одна ціль. _Вдач:_ 4 (1d6 + 1) пробна шкода.    
+**Кігті.** _Атака ближньої зброї:_ +3 для удару, досягає 5-ти показників, одна ціль. _Удар удару:_ 6 (2d4 + 1) пошкодження. 
