@@ -1,13 +1,13 @@
-name: Werebear type: humanoid (human, shapechanger) cr: 5
+назва: Вертневест тип: Хуманоїд (людина, кимчанг) cr: 5
 
-# Werebear
-_Medium humanoid (human, shapechanger), neutral good_
+# Вереведмідь
+_Середній гуманоїд (людина, шестикутник), нейтральне благо_
 
-**Armor Class** 10 in humanoid form, 11 (natural armor) in bear and hybrid form    
-**Hit Points** 135 (18d8 + 54)    
-**Speed** 30 ft. (40 ft., climb 30 ft. in bear or hybrid form)
+**Клас броні** 10 в форма гуманоїду, 11 (природна брода) в ведмедя і гібридній формі    
+**Очки** 135 (18d8 + 54)    
+**швидкість** фут. (40... піднімайтесь на 30 футів на ведмедя або гібридні форми)
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 19 (+4) | 10 (+0) | 17 (+3) | 11 (+0) | 12 (+1) | 12 (+1) |
 
@@ -17,11 +17,11 @@ _Medium humanoid (human, shapechanger), neutral good_
 **Languages** Common (can't speak in bear form)    
 **Challenge** 5 (1,800 XP)
 
-**Shapechanger.** The werebear can use its action to polymorph into a Large bear-humanoid hybrid or into a Large bear, or back into its true form, which is humanoid. Its statistics, other than its size and AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.    
-**Keen Smell.** The werebear has advantage on Wisdom (Perception) checks that rely on smell.
+**Посипає.** Ведмідь може використовувати його дію для поліморфа в великий ведмежий гібрид або в великого ведмедя, або ж знову у його вірну форму, що є Гуманоїдом. Її статистика, відмінний від розміру і АС, однакові у кожній формі. Будь-яке спорядження воно одягнуте або перенесене не перетворюється. Він повертається до його справжньої форми, коли воно загине.    
+**Кін Смолл.** The werebear має перевагу в Wisdom (Переняття) перевірки, які покладаються на запах.
 
-### Actions
-**Multiattack.** In bear form, the werebear makes two claw attacks. In humanoid form, it makes two greataxe attacks. In hybrid form, it can attack like a bear or a humanoid.    
-**Bite (Bear or Hybrid Form Only).** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 15 (2d10 + 4) piercing damage. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be cursed with werebear lycanthropy.    
-**Claw (Bear or Hybrid Form Only).** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) slashing damage.    
-**Greataxe (Humanoid or Hybrid Form Only).** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 10 (1d12 + 4) slashing damage.
+### Дії
+**Мультиатака.** У формі ведмедя роблять дві атаки. У формі humanoid роблять два напади на величі. У гібридній формі він може атакувати як ведмідь або людство.    
+**Кусит (ведмедик або гібридний БЗ).** _Атака ближньої зброї:_ +7 щоб вдарити, досягти 5-ти цілі, одна ціль. _Вразів:_ 15 (2d10 + 4) наносити пошкодження. Якщо ціль є гуманоїдом, вона повинна досягти успіху в збереженні Конституції DC 14 кидання або бути проклята з лікантропою.    
+**Язик (лише ведмедь або гібридна форма).** _Атака ближньої зброї:_ +7 щоб вдарити, досягти 5-ти цілі, одна ціль. _Вдач:_ 13 (2d8 + 4) удар пошкодження.    
+**Greataxe (Humanoid або Hybrid Form Only).** _Атака ближньої зброї:_ +7 щоб ударити, досягти 5-ти цілі, одну ціль. _Удару:_ 10 (1d12 + 4) пошкодження.
