@@ -1,31 +1,31 @@
-name: Erinyes type: fiend (devil) cr: 12
+назва: Erinyes type: fiend (devil) cr: 12
 
 # Erinyes
-_Medium fiend (devil), lawful evil_
+_Середній диявол), законне зло_
 
 **Armor Class** 18 (plate)    
 **Hit Points** 153 (18d8 + 72)    
 **Speed** 30 ft., fly 60 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 16 (+3) | 18 (+4) | 14 (+2) | 14 (+2) | 18 (+4) |
 
-**Saving Throws** Dex +7, Con +8, Wis +6, Cha +8    
-**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered    
-**Damage Immunities** fire, poison    
-**Condition Immunities** poisoned    
-**Senses** truesight 120 ft., passive Perception 12    
-**Languages** Infernal, telepathy 120 ft.    
-**Challenge** 12 (8,400 XP)
+**Збереження жбурлянь** Dex +7, Con +8, Wis +6, Cha +8    
+**Стійкість до пошкоджень** холодно; bludgeoning, проколювання і різання з немагічних атак, які не сріблили    
+**Пошкодження від пошкоджень** вогню отрута    
+**одиниці умови** отруєні    
+**тверджень** пікселів на 120 футів. пасивне сприйняття 12    
+**мов** Інфернальна, телепатія 120 футів.    
+**виклик** (8,400 XP)
 
-**Hellish Weapons.** The erinyes's weapon attacks are magical and deal an extra 13 (3d8) poison damage on a hit (included in the attacks).    
-**Magic Resistance.** The erinyes has advantage on saving throws against spells and other magical effects.
+**Пелектна зброя .** Атаки з використанням зброї катастроф є магічним засобом і завдає додатково 13 (3d8) отрути ударом (включений в напад).    
+**Магічний Стійкість до** Милосердя має перевагу в економії кисть проти заклинань та інших магічних ефектів.
 
-### Actions
-**Multiattack.** The erinyes makes three attacks.    
-**Longsword.** _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands, plus 13 (3d8) poison damage.    
-**Longbow.** _Ranged Weapon Attack:_ +7 to hit, range 150/600 ft., one target. _Hit:_ 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned. The poison lasts until it is removed by the lesser restoration spell or similar magic.
+### Дії
+**Мультиатака.** Милостиня робить три атаки.    
+**Довгий меч.** _Атака ближньої зброї:_ +8 щоб вдарити в нього, досягти 5-ти ціль, одну ціль. _Hit:_ 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands, plus 13 (3d8) poison damage.    
+**Longbow.** _Ranged Weapon Attack:_ +7 to hit, range 150/600 ft., one target. _Вразу:_ 7 (1d8 + 3) пошкодження пробивання плюс 13 (3d8) отрута, і ціль має досягти успіху в виконанні набору Конституції DC 14 або бути отруєною. Отрута триває до тих пір, поки його не знімає менше заклинання відновлення або подібну магію.
 
-### Reactions
-**Parry.** The erinyes adds 4 to its AC against one melee attack that would hit it. To do so, the erinyes must see the attacker and be wielding a melee weapon.
+### Реакції
+**Париж.** Erinyes додає 4 до свого AC в один напад на ближній бік, який б влучив. Для цього рини повинні побачити зловмисника і поставити зброю ближнього бою.
