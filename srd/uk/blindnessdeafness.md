@@ -1,13 +1,13 @@
-name: Blindness/Deafness level: 2 school: necromancy classes: bard cleric sorcerer wizard
+назва: Blindness/Deafness рівень: 2 школа: некромантність класі: Бард клер- сортувальник
 
-# Blindness/Deafness
-_2nd-level necromancy_
+# Блінднес/глухота
+_2N-рівень некромантія_
 
 **Casting Time:** 1 action   
 **Range:** 30 feet   
 **Components:** V   
 **Duration:** 1 minute
 
-You can blind or deafen a foe. Choose one creature that you can see within range to make a Constitution saving throw. If it fails, the target is either blinded or deafened (your choice) for the duration. At the end of each of its turns, the target can make a Constitution saving throw. On a success, the spell ends.
+Незрячі або глухі ворога. Виберіть одну істоту, яку ви можете бачити в межах діапазону, щоб зробити збереження конституції кипою. Якщо це не вдасться, ціль або засліплена або оглушена (ваш вибір) протягом тривалого часу. По завершенню кожного зі своїх поворотів ціль може зробити збереження конституції кипою. Після успіху заклинання закінчується.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd. 
+**На вищих рівнях.** Коли ви кидаєте це заклинання використовуючи гніздо 3-го рівня або вище, ви можете вказати ще одну істоту для кожного слоту вище 2nd. 
