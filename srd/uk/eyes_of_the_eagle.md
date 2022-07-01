@@ -1,6 +1,6 @@
-name: Eyes of the Eagle type: item
+назва: Очі орла типу: елемент
 
-# Eyes of the Eagle
-_Wondrous item, uncommon (requires attunement)_
+# Очі орла
+_Нетиповий предмет Wondrous (вимагає приєднання)_
 
-These crystal lenses fit over the eyes. While wearing them, you have advantage on Wisdom (Perception) checks that rely on sight. In conditions of clear visibility, you can make out details of even extremely distant creatures and objects as small as 2 feet across.
+Ці кристалічні лінзи вміщуються над очима. Носячи їх, ви маєте перевагу в Wisdom (Вручну) перевіряє, що на вигляд покладається. В умовах чіткої видимості ви можете деталізувати навіть надзвичайно віддалені істоти та об'єкти до меншої, як 2 фути у діаметрі.
