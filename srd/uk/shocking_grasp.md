@@ -1,12 +1,12 @@
-name: Shocking Grasp level: 0 school: evocation classes: sorcerer wizard
+назва: Час з Grasp рівень: 0 школу: викидання класів: чарівник сортувальника
 
-# Shocking Grasp
-_Evocation cantrip_
+# Шокінг Грасп
+_Евокаційна конфіскація_
 
 **Casting Time:** 1 action    
 **Range:** Touch    
 **Components:** V, S    
 **Duration:** Instantaneous
 
-Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a melee spell attack against the target. You have advantage on the attack roll if the target is wearing armor made of metal. On a hit, the target takes 1d8 lightning damage, and it can't take reactions until the start of its next turn.    
-The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8). 
+Блискавка з вашої руки, щоб доставити удар істоті, яку ви намагаєтеся торкнутися. Зробіть напад на зустріч зустріч проти цілі. Ви маєте перевагу над атакуючим рулетом, якщо ціль в броні зроблена з металу. При ударі ціль заподіює 1d8 блискавок і вона не зможе вжити реакції до початку свого наступного кроку.    
+Пошкодження правопису збільшуються на 1d8, коли ви досягнете 5-го рівня (2d8), 11-го рівня (3d8) та 17-го рівня (4d8). 
