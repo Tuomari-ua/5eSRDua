@@ -1,12 +1,12 @@
-name: Speak with Dead level: 3 school: necromancy classes: bard cleric
+назва: Говорити з мерцем рівень: 3 школа: некромантність класів: Бард священной
 
-# Speak with Dead
-_3rd-level necromancy_
+# Говоріть з мерцями
+_3-рівна некромантія_
 
 **Casting Time:** 1 action    
 **Range:** 10 feet    
 **Components:** V, S, M (burning incense)    
 **Duration:** 10 minutes
 
-You grant the semblance of life and intelligence to a corpse of your choice within range, allowing it to answer the questions you pose. The corpse must still have a mouth and can't be undead. The spell fails if the corpse was the target of this spell within the last 10 days.    
-Until the spell ends, you can ask the corpse up to five questions. The corpse knows only what it knew in life, including the languages it knew. Answers are usually brief, cryptic, or repetitive, and the corpse is under no compulsion to offer a truthful answer if you are hostile to it or it recognizes you as an enemy. This spell doesn't return the creature's soul to its body, only its animating spirit. Thus, the corpse can't learn new information, doesn't comprehend anything that has happened since it died, and can't speculate about future events.
+Ви даєте перевагу життєвому та інтелекту трупу вашого вибору в межах діапазону, і дозволяєте йому відповідати на питання, які ти в змозі знайти. Труп, мабуть, ще має рот і не може бути мертвим. Зачай провалився, якщо труп був мішенню цього заклинання протягом останніх 10 днів.    
+До кінця заклинання можна поставити труп до п'яти питань. Труп знає лише те, що він знав у житті, включаючи мови, які він знав. Відповіді зазвичай короткі, криптичні або повторювані, і труп не перебуває у відсутності обов'язку, щоб запропонувати правдиву відповідь, якщо ви ворожі до неї або вона розпізнає вас як ворога. Ця заклинання не повертає душу істоти в її тілі, тільки в вражаючий дух. Таким чином, труп не може вивчати нову інформацію, не розуміє нічого що сталося з того часу як він помер, і не може спекулювати майбутні події.
