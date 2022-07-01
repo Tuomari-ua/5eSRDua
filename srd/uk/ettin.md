@@ -1,13 +1,13 @@
-name: Ettin type: giant cr: 4
+назва: Ettin тип: гігантський cr: 4
 
 # Ettin
-_Large giant, chaotic evil_
+_Велике гігантське хаотичне лихо_
 
-**Armor Class** 12 (natural armor)    
-**Hit Points** 85 (10d10 + 30)    
-**Speed** 40 ft.
+**Клас броні** 12 (природна броня)    
+**Бали** 85 (10d10 + 30)    
+**Швидкість** фут.
 
-| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС   | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------ | ------- | ------ | ------- | ------ |
 | 21 (+5) | 8 (−1) | 17 (+3) | 6 (−2) | 10 (+0) | 8 (−1) |
 
@@ -16,10 +16,10 @@ _Large giant, chaotic evil_
 **Languages** Giant, Orc    
 **Challenge** 4 (1,100 XP)
 
-**Two Heads.** The ettin has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.    
-**Wakeful.** When one of the ettin's heads is asleep, its other head is awake.
+**Два лицьові боки.** Детеніт має перевагу в мудрості (Помилювання) перевірок і при збереженні ґрунтів проти сліпих, вишуканих, нажаханих, приголомшених, приголомшених, і постукав у себе несвідомо.    
+**Wakeful.** Коли один з головок еттіна спить, інша голова спить.
 
-### Actions
-**Multiattack.** The ettin makes two attacks: one with its battleaxe and one with its morningstar.    
-**Battleaxe.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 14 (2d8 + 5) slashing damage.    
-**Morningstar.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 14 (2d8 + 5) piercing damage.
+### Дії
+**Багатоатака.** Беттін зробить дві атаки: один з них сокирою бою і один з одним з його ранковим зіркою.    
+**Бляшка.** _Атака ближньої зброї:_ +7, щоб влучити по 5, одна ціль. _Вражаємо:_ 14 (2d8 + 5) наносить пошкодження.    
+**Шалена зірка.** _Атака ближньої зброї:_ +7 щоб ударити, досягти 5-ти цілі, одну ціль. _Вразів:_ 14 (2d8 + 5) наносити пошкодження.
