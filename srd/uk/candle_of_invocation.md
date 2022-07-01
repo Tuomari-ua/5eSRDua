@@ -1,24 +1,24 @@
-name: Candle of Invocation type: item
+назва: Виклик свічки тип: предмет
 
-# Candle of Invocation
-_Wondrous item, very rare (requires attunement)_
+# Свічка Виклику
+_Wondrous позиція, дуже рідкісна (вимагає захоплення)_
 
-This slender taper is dedicated to a deity and shares that deity's alignment. The candle's alignment can be detected with the **_detect evil and good_** spell. The GM chooses the god and associated alignment or determines the alignment randomly.
+Цей папір для слабості і частки, які відповідають за узгодження божества. Вирівнювання свічки може бути виявлене **_виявити зле і хороше_** заклинання . GM вибирає бога, відповідного вирівнювання, або випадковим чином визначає вирівнювання.
 
-| d20   | Alignment       |
-| ----- | --------------- |
-| 1-2   | Chaotic evil    |
-| 3-4   | Chaotic neutral |
-| 5-7   | Chaotic good    |
-| 8-9   | Neutral evil    |
-| 10-11 | Neutral         |
-| 12-13 | Neutral good    |
-| 14-15 | Lawful evil     |
-| 16-17 | Lawful neutral  |
-| 18-20 | Lawful good     |
+| д20   | Вирівнювання          |
+| ----- | --------------------- |
+| 1-2   | Chaotic evil          |
+| 3-4   | Хаотичний нейтральний |
+| 5-7   | Хаотичні плоди        |
+| 8-9   | Нейтральне зло        |
+| 10-11 | Нейтрально            |
+| 12-13 | Нейтральне благо      |
+| 14-15 | Правдиве лихо         |
+| 16-17 | Юридичний нейтральний |
+| 18-20 | Правове благо         |
 
-The candle's magic is activated when the candle is lit, which requires an action. After burning for 4 hours, the candle is destroyed. You can snuff it out early for use at a later time. Deduct the time it burned in increments of 1 minute from the candle's total burn time.
+Магія свічки активується, коли свічка освітлена, яка вимагає дії. Після спалювання 4 годин свічка зруйнується. Ви можете погрузити її на початку використання в будь-який час. Приберіть час, який він спалив з моменту збільшення на 1 хвилину від загального часу горіння свічки.
 
-While lit, the candle sheds dim light in a 30-foot radius. Any creature within that light whose alignment matches that of the candle makes attack rolls, saving throws, and ability checks with advantage. In addition, a cleric or druid in the light whose alignment matches the candle's can cast 1st- level spells he or she has prepared without expending spell slots, though the spell's effect is as if cast with a 1st-level slot.
+При освітленні, свічка випромінює тьмяне світло на 30-футовому радіусі. Будь-яка істота в цьому світлі, вирівнювання якої відповідає вимогам свічки, зробить атаку в роликах, заощаджуючи кидання, а також перевірки здатності з перевагою. Крім того, клерк або druid у світлі, чиї вирівнювання збігається з свічкою може поставити 1 раз рівні заклинання він або вона підготовлена без витрат орфографічних слотів, хоча ефект орфографії в кінцевому результаті акторський слот на 1му рівні.
 
-Alternatively, when you light the candle for the first time, you can cast the **_gate_** spell with it. Doing so destroys the candle. 
+Або ж, коли ви запалюєте свічку вперше, ви можете поставити **_ворота_** заклинання ним. Це так руйнує свічку. 
