@@ -1,15 +1,15 @@
-name: Blight level: 4 school: necromancy classes: druid sorcerer warlock wizard
+назва: Blight рівень: 4 школа: некромантність класі: druid сортувальник warlock
 
-# Blight
-_4th-level necromancy_
+# Яскравість
+_4-мірна некромантія_
 
-**Casting Time:** 1 action   
-**Range:** 30 feet   
-**Components:** V, S   
-**Duration:** Instantaneous
+**Час трансляції :** 1 дія   
+**Діапазон:** 30 футів   
+**компоненти:** V, S   
+**тривалість:** миттєві
 
-Necromantic energy washes over a creature of your choice that you can see within range, draining moisture and vitality from it. The target must make a Constitution saving throw. The target takes 8d8 necrotic damage on a failed save, or half as much damage on a successful one. This spell has no effect on undead or constructs.    
-If you target a plant creature or a magical plant, it makes the saving throw with disadvantage, and the spell deals maximum damage to it.    
-If you target a nonmagical plant that isn't a creature, such as a tree or shrub, it doesn't make a saving throw; it simply withers and dies.
+Некромантична енергія зменшує створіння вашого вибору, яке можна побачити в радіозері, осущуванні та життєздатності з нього. Ціль повинна зробити економію конституції. Ціль завдає 8d8 шкоди від невдалого заощадження, або ж удвічі більше шкоди від успішного. Ця заклинання не впливає на незгадані чи конструкції.    
+Якщо ви надаєте перевагу рослині або магічну рослину, це наносить ураження невигідністю, і заклинання завдає максимальної шкоди.    
+Якщо ви настановите немагічну рослину, що не є істотою, наприклад дерево чи чагарнику, вона не робить скидання для заощадження; це просто висуває і помре.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d8 for each slot level above 4th. 
+**На вищих рівнях.** Коли ви кидаєте це заклинання використовуючи гніздо 5-го рівня або вище, шкода збільшується на 1d8 для кожного слоту вище 4-го рівня. 
