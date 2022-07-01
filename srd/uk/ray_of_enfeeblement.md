@@ -1,12 +1,12 @@
-name: Ray of Enfeeblement level: 2 school: necromancy classes: warlock wizard
+назва: Ray кодування рівень: 2 школа: некромантність класів: майстер warlock
 
-# Ray of Enfeeblement
-_2nd-level necromancy_
+# Доля непохитності
+_2N-рівень некромантія_
 
 **Casting Time:** 1 action    
 **Range:** 60 feet    
 **Components:** V, S    
 **Duration:** Concentration, up to 1 minute
 
-A black beam of enervating energy springs from your finger toward a creature within range. Make a ranged spell attack against the target. On a hit, the target deals only half damage with weapon attacks that use Strength until the spell ends.    
-At the end of each of the target's turns, it can make a Constitution saving throw against the spell. On a success, the spell ends. 
+Чорний промінь енергійної енергії рухається від свого пальця до істоти на відстані. Зробіть напад коливань проти цілі. При ударі ціль наносить лише половину шкоди зі збройними атаками, які використовують Силу до закінчення заклинання.    
+у кінці кожної мети мети може зробити рятування Конституції метання проти заклинання. Після успіху заклинання закінчується. 
