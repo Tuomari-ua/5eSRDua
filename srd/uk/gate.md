@@ -1,14 +1,14 @@
-name: Gate level: 9 school: conjuration classes: cleric sorcerer wizard
+назва: Брама рівень: 9 школу: conjuration класів: священний сортувальник
 
-# Gate
-_9th-level conjuration_
+# Ворота
+_Тривалість 9-го рівня_
 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S, M (a diamond worth at least 5,000 gp)    
-**Duration:** Concentration, up to 1 minute
+**Час трансляції :** 1 дія    
+**Діапазон:** 60 футів    
+**компоненти:** V, S, М (діамант, вартістю не менше 5000 Gp)    
+**тривалість:** Мета, до 1 хвилини
 
-You conjure a portal linking an unoccupied space you can see within range to a precise location on a different plane of existence. The portal is a circular opening, which you can make 5 to 20 feet in diameter. You can orient the portal in any direction you choose. The portal lasts for the duration.    
-The portal has a front and a back on each plane where it appears. Travel through the portal is possible only by moving through its front. Anything that does so is instantly transported to the other plane, appearing in the unoccupied space nearest to the portal.    
-Deities and other planar rulers can prevent portals created by this spell from opening in their presence or anywhere within their domains.    
-When you cast this spell, you can speak the name of a specific creature (a pseudonym, title, or nickname doesn't work). If that creature is on a plane other than the one you are on, the portal opens in the named creature's immediate vicinity and draws the creature through it to the nearest unoccupied space on your side of the portal. You gain no special power over the creature, and it is free to act as the GM deems appropriate. It might leave, attack you, or help you. 
+Ви включили портал, що пов'язує незайнятий простір, ви можете побачити в діапазоні до точного розташування на іншій площині існування. Портал є круговим відкриттям, що може зробити 5 на 20 футів у діаметрі. Ви можете орієнтувати портал у будь-якому напрямку, який вибираєте. Портал триває тривалість.    
+портал має передній план і назад, де він з’являється. Проїхати через портал можливий тільки пройшовши вперед. Все, що робить це миттєво перевозить до іншого літака, потрапляючи в незакуплений простір, найближчий до порталу.    
+Глибини та інші планарні правителі можуть не допускати порталів, створених цією заклинанням, відкриватись у своїй присутності або будь-де у своїх доменах.    
+Коли ви кидаєте це заклинання, ви можете говорити про ім'я конкретної істоти (псевдонім, назва, назва або псевдонім не працює). Якщо ця істота є не в літаку, а в тій, на який ви активовані, портал відкривається в іменіх істоти безпосередньою зацікавленістю і протягує істоту через неї до найближчого незайнятого простору на вашому боці порталу. Ви отримуєте не особливу силу над створенням, і це може виступати в ролі GM вважає необхідним. Він може йти, напасти на вас або допомогти вам. 
