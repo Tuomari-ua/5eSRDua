@@ -1,13 +1,13 @@
-description: Rules about nonplayer characters from the 5th Edition (5e) SRD (System Reference Document).
+опис: правила про неігрові символи з 5-ї версії (5e) SRD (Документація з Системного Посилання).
 
-# Nonplayer Characters
-## Customizing NPCs
-There are many easy ways to customize the NPCs for your home campaign.
+# Ієрогліфи безгравця
+## Кастомізація NPC
+Існують багато легких способів налаштувати NPC для вашої домашньої кампанії.
 
-**Racial Traits.** You can add racial traits to an NPC. For example, a halfling druid might have a speed of 25 feet and the Lucky trait. Adding racial traits to an NPC doesn't alter its challenge rating. For more on racial traits, see the Player's Handbook.
+**Расові риси.** Ви можете додати расові риси до NPC. Наприклад, краса на півтінь може мати швидкість в 25 футів і Лаки. Додавання расових рис до NPC не змінює свого виклику рейтингу. Більше про расові риси можна знайти в Рукописці гравця.
 
-**Spell Swaps.** One way to customize an NPC spellcaster is to replace one or more of its spells. You can substitute any spell on the NPC's spell list with a different spell of the same level from the same spell list. Swapping spells in this manner doesn't alter an NPC's challenge rating.
+**заклинання (Spell Swaps).** Один із способів налаштувати заклинання NPC можна замінити одну або декілька його орфографій. Ви можете замінити будь-яку заклинання на NPC списком орфографії іншого рівня на той самий заклинання зі списку книг. Таким чином заклинання не змінює випробування NPC.
 
-**Armor and Weapon Swaps.** You can upgrade or downgrade an NPC's armor, or add or switch weapons. Adjustments to Armor Class and damage can change an NPC's challenge rating.
+**Смотив броні та зброї** Ви можете покращити або знизити рівень броні НП, або додати або змінити зброю. Коригування до класу обладунку та пошкодження можуть змінити рейтинг виклику НП.
 
-**Magic Items.** The more powerful an NPC, the more likely it has one or more magic items in its possession. An archmage, for example, might have a magic staff or wand, as well as one or more potions and scrolls. Giving an NPC a potent damage-dealing magic item could alter its challenge rating.
+**Магічні предмети.** Чим потужніший NPC, тим більша ймовірність, що він має один або більше магічних елементів у своєму володінні. Наприклад, архія може мати магічного персоналу або канати, а також одну або кілька зіллів і сувій. Надання НІП магічним предметом для боротьби з пошкодженнями може змінити свій виклик у рейтингу.
