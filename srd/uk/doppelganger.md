@@ -1,13 +1,13 @@
-name: Doppelganger type: monstrosity cr: 3
+назва: Doppelganger тип: чудовисько cr: 3
 
 # Doppelganger
-_Medium monstrosity (shapechanger), neutral_
+_Середній чудовисько (шестикул), нейтральний_
 
 **Armor Class** 14    
 **Hit Points** 52 (8d8 + 16)    
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 11 (+0) | 18 (+4) | 14 (+2) | 11 (+0) | 12 (+1) | 14 (+2) |
 
@@ -17,10 +17,10 @@ _Medium monstrosity (shapechanger), neutral_
 **Languages** Common    
 **Challenge** 3 (700 XP)
 
-**Shapechanger.** The doppelganger can use its action to polymorph into a Small or Medium humanoid it has seen, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.    
-**Ambusher.** The doppelganger has advantage on attack rolls against any creature it has surprised. Surprise Attack. If the doppelganger surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 10 (3d6) damage from the attack.
+**Посипає.** Деппеллюгер може використати свою дію з поліморфом у маленького або середнього гуманоїду, який він бачив, або повернутися в свою справжню форму. Його статистика, окрім його розміру, є однаковими у кожній формі. Будь-яке спорядження воно одягнуте або перенесене не перетворюється. Він повертається до справжньої форми, якщо вона помирає.    
+**Амбусгер.** Доппелгер має перевагу в атаці нападів на будь-яку істоту, яку він здивувався. Сюрприз атакує. Якщо допеляція здивує істоту і вдарить її нападом під час першого раунду бою, ціль отримує додаткове 10 (3d6) пошкодження від атаки.
 
-### Actions
-**Multiattack.** The doppelganger makes two melee attacks.   
-**Slam.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 7 (1d6 + 4) bludgeoning damage.    
-**Read Thoughts.** The doppelganger magically reads the surface thoughts of one creature within 60 feet of it. The effect can penetrate barriers, but 3 feet of wood or dirt, 2 feet of stone, 2 inches of metal, or a thin sheet of lead blocks it. While the target is in range, the doppelganger can continue reading its thoughts, as long as the doppelganger's concentration isn't broken (as if concentrating on a spell). While reading the target's mind, the doppelganger has advantage on Wisdom (Insight) and Charisma (Deception, Intimidation, and Persuasion) checks against the target.
+### Дії
+**Мультиатака.** Доппелджера зробить дві атаки у ближньому бою   
+**Слема.** _Атака ближньої зброї:_ +6 щоб вдарити, досягти 5-ти цілі, одна ціль. _Удара:_ 7 (1d6 + 4) пошкодження bludgeing.    
+**Читати речі.** Це магічним способом сутінки однієї істоти знаходиться в 60 футів від неї. Ефект може проникати в бар'єри, але в 3 фути деревини або землі, 2 фути каменю, 2 дюйми металу, або тонкий аркуш блоків свинцю. Поки ціль далеко, її зондування може й далі читати свої думки, поки концентрація допелганги не розбита (як у випадку з заклинанням). Читаючи думки цілі, допелгер використовує переваги в Wisdom (Insight) та Харизмі (занепад, Intimidation та Persuasion) тримаються проти цілі.
