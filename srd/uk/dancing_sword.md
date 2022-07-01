@@ -1,10 +1,10 @@
-name: Dancing Sword type: weapon
+назва: Меч Танцюючих тип: зброя
 
-# Dancing Sword
-Weapon (any sword), very rare (requires attunement)
+# Танцювальний меч
+Зброя (будь який меч), дуже рідкісний (вимагає удару)
 
-You can use a bonus action to toss this magic sword into the air and speak the command word. When you do so, the sword begins to hover, flies up to 30 feet, and attacks one creature of your choice within 5 feet of it. The sword uses your attack roll and ability score modifier to damage rolls.
+Ви можете використати бонусну дію, щоб підкинути цей чарівний меч у повітря і сказати слово "команди". Коли ви це робите, меч починає шкутильгати - вкривається на 30 футів, і нападає на одну істоту вибору в межах 5 футів. Меч використовує вашу атакуючий рулет, і модифікатор очок ушкодження поворотів.
 
-While the sword hovers, you can use a bonus action to cause it to fly up to 30 feet to another spot within 30 feet of you. As part of the same bonus action, you can cause the sword to attack one creature within 5 feet of it.
+Поки меч коливається, можна використати преміальну дію, якщо злетіти на 30 футів в іншу цятку під межею 30 футів. До тієї ж бонусної дії ви можете змусити меча атакувати одну істоту в межах 5 футів.
 
-After the hovering sword attacks for the fourth time, it flies up to 30 feet and tries to return to your hand. If you have no hand free, it falls to the ground at your feet. If the sword has no unobstructed path to you, it moves as close to you as it can and then falls to the ground. It also ceases to hover if you grasp it or move more than 30 feet away from it. 
+Після атаки меча нависають в четвертий раз, вона летить до 30 футів і намагається повернутися в руку. Якщо нема вільних рук, вона підносить дозу до ваших ніг. Якщо меч не має перешкоджаного шляху до вас, він рухається так близько до вас, як тільки можете, а потім падає на землю. Також вона перестає, якщо ви схопите її або віддаляєтеся більше, ніж на 30 футів від неї. 
