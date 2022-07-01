@@ -1,88 +1,88 @@
-description: Rules for making an attack from the 5th Edition (5e) SRD (System Reference Document).
+опис: Правила для здійснення атаки з 5-ї версії (5) SRD (Документація з Системного Посібника).
 
-# Making an Attack
-Whether you're striking with a melee weapon, firing a weapon at range, or making an attack roll as part of a spell, an attack has a simple structure.
+# Захоплення атаки
+Чи ви вражаєте своєю зброєю ближнього бою, стріляючи зброю в дальній мірі, або що зробити атакуючий рулон в рамках заклинання, напад має просту структуру.
 
-1. **Choose a target.** Pick a target within your attack's range: a creature, an object, or a location.
-2. **Determine modifiers.** The GM determines whether the target has cover and whether you have advantage or disadvantage against the target. In addition, spells, special abilities, and other effects can apply penalties or bonuses to your attack roll.
-3. **Resolve the attack.** You make the attack roll. On a hit, you roll damage, unless the particular attack has rules that specify otherwise. Some attacks cause special effects in addition to or instead of damage.
+1. **Оберіть ціль.** Виберіть ціль у діапазоні вашої атаки: істоту, об'єкт або розташування.
+2. **Визначити модифікатів.** GM визначає, чи має ціль покрити та чи ви маєте переваги чи недолік проти мети. Крім того, заклинання, спеціальні можливості та інші ефекти можуть застосовувати покарання або бонуси до вашого Троушку.
+3. **Розв'язати атаку.** Ви атакуєте. Після удару, ви не завдаєте шкоди конкретній атаці, якщо тільки не вказали правила, які визначають інше. Деякі атаки викликають спецефекти на додаток або замість пошкодження.
 
 
-If there's ever any question whether something you're doing counts as an attack, the rule is simple: if you're making an attack roll, you're making an attack.
+Якщо коли-небудь виникає питання, чи те, що ви робите, вважається атакою, правило просте: якщо ви створюєте атаку, ви робите атаку.
 
-## Attack Rolls
-When you make an attack, your attack roll determines whether the attack hits or misses. To make an attack roll, roll a d20 and add the appropriate modifiers. If the total of the roll plus modifiers equals or exceeds the target's Armor Class (AC), the attack hits. The AC of a character is determined at character creation, whereas the AC of a monster is in its stat block.
+## Ручні атаки
+Коли ви атакуєте, ваша атака рулетка атаки визначає, чи впливає на атаку, чи не влучає. Щоб зробити атакуюче ролля, додайте 20 відповідних модифікатерів. Якщо загальна сума зворотнього виклику плюс модифікатори дорівнює або перевищує клас обладунку (АК), атакуючі удари. АС персонажа визначається при створенні персонажа, в той час як АК монстра знаходиться в блоці стентів.
 
-### Modifiers to the Roll
-When a character makes an attack roll, the two most common modifiers to the roll are an ability modifier and the character's proficiency bonus. When a monster makes an attack roll, it uses whatever modifier is provided in its stat block.
+### Модифікатори на рол
+Коли персонаж наносить атаку, два найпоширеніші модифікатори до жбурляння є модифікатором здатності та бонусом персонажу. Коли монстр робить атакуюче ролля, він використовуватиме будь-які модифікатори, що надається в блоці ударів.
 
-**Ability Modifier.** The ability modifier used for a melee weapon attack is Strength, and the ability modifier used for a ranged weapon attack is Dexterity. Weapons that have the finesse or thrown property break this rule.
+**Змінення здібностей.** Модифікатор можливостей, який використовується для атаки зі зброєю ближнього бою, є сильною та здатністю, що використовується для атак на дальню зброю, є Dexterity. Зброя, яка має штраф або кидання майна порушує це правило.
 
-Some spells also require an attack roll. The ability modifier used for a spell attack depends on the spellcasting ability of the spellcaster.
+Деякі заклинання також потребують атакуючі. Модифікатор можливості, який використовується для атаки орфографії, залежить від здатності орфографії орфографії.
 
-**Proficiency Bonus.** You add your proficiency bonus to your attack roll when you attack using a weapon with which you have proficiency, as well as when you attack with a spell.
+**Поліцейський Бонус.** Додайте бонус здібностей до вашого нападу під час атаки використовуючи зброю, за допомогою якої у вас є досконалість а також при нападі з заклинанням.
 
-### Rolling 1 or 20
-Sometimes fate blesses or curses a combatant, causing the novice to hit and the veteran to miss.
+### Одну чи 20
+Іноді доля благословить або прокляття бойового корабля, що призводить до того, що новорічно вдарила і ветеран промахується.
 
-If the d20 roll for an attack is a 20, the attack hits regardless of any modifiers or the target's AC. This is called a critical hit, which is explained later in this chapter.
+Якщо д20 обертів для нападу становить 20, атака потрапляє незалежно від будь-яких модифікатерів або АК мети. Це називається критичним ударом, який пізніше пояснюється у цьому розділі.
 
-If the d20 roll for an attack is a 1, the attack misses regardless of any modifiers or the target's AC.
+Якщо д20 обертів для нападу становить 1, атака промахується незалежно від будь-яких модифікатерів або AC цілі.
 
-## Unseen Attackers and Targets
-Combatants often try to escape their foes' notice by hiding, casting the invisibility spell, or lurking in darkness.
+## Непереглянуті нападники та цілі
+Сутички часто намагаються уникнути повідомлення своїх ворогів, приховуючи, лишаючи невидимість заклинання чи ховання в темряві.
 
-When you attack a target that you can't see, you have disadvantage on the attack roll. This is true whether you're guessing the target's location or you're targeting a creature you can hear but not see. If the target isn't in the location you targeted, you automatically miss, but the GM typically just says that the attack missed, not whether you guessed the target's location correctly.
+Коли ви нападаєте на ціль, яку не можете побачити, ви завдали шкоди атаці перебій. Це правда, якщо ви вгадуєте місце розташування цілі, або ви цілюєте істоту, яку можете почути, але не бачити. Якщо мета не в місці, яке ви вказали, ви пропускаєте автоматично, але GM зазвичай каже, що атака пропущена, не чи ви правильно здогадалися про місцезнаходження мети.
 
-When a creature can't see you, you have advantage on attack rolls against it. If you are hidden--both unseen and unheard--when you make an attack, you give away your location when the attack hits or misses.
+Коли істота не може вас бачити, ви маєте перевагу від атак рулон проти нього. Якщо ви приховані - і невидимий і несердечний - коли ви робите атаку, ви віддаєте своє місце, коли напад удари або промаху.
 
-## Ranged Attacks
-When you make a ranged attack, you fire a bow or a crossbow, hurl a handaxe, or otherwise send projectiles to strike a foe at a distance. A monster might shoot spines from its tail. Many spells also involve making a ranged attack.
+## Далекобійні атаки
+Коли ви робите далекобійний напад, ви активуєте лука або арбалета, кидаєте ганьбу ганьбу, або ж наслати снаряди на відстані. Монстр може розстріляти хребети за хвіст. Багато заклинання також пов'язані з здійсненням далекобійного нападу.
 
 ### Range
-You can make ranged attacks only against targets within a specified range.
+Ви можете зробити далекобійні атаки лише проти цілей у заданому діапазоні.
 
-If a ranged attack, such as one made with a spell, has a single range, you can't attack a target beyond this range.
+Якщо далекобійна атака, наприклад, зроблена з заклинанням, має один діапазон, ви не можете атакувати ціль за цим діапазоном.
 
-Some ranged attacks, such as those made with a longbow or a shortbow, have two ranges. The smaller number is the normal range, and the larger number is the long range. Your attack roll has disadvantage when your target is beyond normal range, and you can't attack a target beyond the long range.
+Деякі далекобійні атаки, такі як ті, які зроблені з довгим луком або коротким луком, мають два діапазони. Менше число - це нормальний діапазон, а більше - великі числа. Ваш нападник має недолік, коли ваша ціль перевищить нормальний діапазон, і ви не можете атакувати ціль за межами тривалого діапазону.
 
-### Ranged Attacks in Close Combat
-Aiming a ranged attack is more difficult when a foe is next to you. When you make a ranged attack with a weapon, a spell, or some other means, you have disadvantage on the attack roll if you are within 5 feet of a hostile creature who can see you and who isn't incapacitated.
+### Далекобійні атаки в Близькому бою
+Назустріч далекобійній атаці складніше, коли ворог знаходиться поруч з вами. Коли ви робите далекобійний напад зі зброєю, заклинання чи інші засоби, ви не можете сказати, що атакуючий рулет, якщо ви на висоті 5 футів ворожої істоти, які можуть бачити вас і хто не є недієздатним.
 
-## Melee Attacks
-Used in hand-to-hand combat, a melee attack allows you to attack a foe within your reach. A melee attack typically uses a handheld weapon such as a sword, a warhammer, or an axe. A typical monster makes a melee attack when it strikes with its claws, horns, teeth, tentacles, or other body part. A few spells also involve making a melee attack.
+## Атака ближнього бою
+Використовується в рукопашному бою, атака ближнього бою дозволяє напасти на ворога в межах вашого досягнення. Атака ближнього бою, як правило, використовує ручну зброю, таку як меч, вармеч або сокиру. Типовий монстр створює напад ближнього бою, коли він вражає свої кігті, роги, зуби, щупальці або частинки тіла. Деякі заклинання також пов'язані зі створенням битви ближнього бою.
 
-Most creatures have a 5-foot **reach** and can thus attack targets within 5 feet of them when making a melee attack. Certain creatures (typically those larger than Medium) have melee attacks with a greater reach than 5 feet, as noted in their descriptions.
+Більшість істот мають 5-фут **дістатися до** і тому можуть атакувати цілі в межах 5 футів від них, зробивши рукопашну атаку. Деякі істоти (як правило, ці більші, ніж середньо) мають ближні атаки з більшими за 5 футів, з позначкою в їх описах.
 
-Instead of using a weapon to make a melee weapon attack, you can use an **unarmed strike**: a punch, kick, head-butt, or similar forceful blow (none of which count as weapons). On a hit, an unarmed strike deals bludgeoning damage equal to 1 + your Strength modifier. You are proficient with your unarmed strikes.
+Замість використання зброї для створення атаки зі зброєю ближнього бою, ви можете використовувати **неозброєний удар**: удар, повітряний удар по горбі, замащенню або схожому сили (жоден із них не рахується як зброя). Після удару, неозброєний удар завдає душевним пошкодженням, що дорівнює 1-й твоїм модифікатором Сили. Ви виснажені своїми беззбройними ударами.
 
-### Opportunity Attacks
-In a fight, everyone is constantly watching for a chance to strike an enemy who is fleeing or passing by. Such a strike is called an opportunity attack.
+### Напади потенційної угоди
+У бої кожен постійно дивиться на шанс вдарити ворога, який тікає або проходить. Такий страйк називається можливою атакою.
 
-You can make an opportunity attack when a hostile creature that you can see moves out of your reach. To make the opportunity attack, you use your reaction to make one melee attack against the provoking creature. The attack occurs right before the creature leaves your reach.
+Ви можете напасти на можливість коли вороже істота надає, яку можна побачити поза вашим досягненням. Для того, щоб зробити атаку, використайте свою реакцію, щоб зробити напад ближнього бою проти того, щоб викликати істоту. Напад відбувається прямо перед тим, як істота покине ваше досягнення.
 
-You can avoid provoking an opportunity attack by taking the Disengage action. You also don't provoke an opportunity attack when you teleport or when someone or something moves you without using your movement, action, or reaction. For example, you don't provoke an opportunity attack if an explosion hurls you out of a foe's reach or if gravity causes you to fall past an enemy.
+Ви можете уникнути провокування нападу на можливості, вживаючи заходи. Ви також не провокуєте таку можливість, коли ви переміщуєтесь, або коли хтось або щось переміщає вас, не використовуючи ваші рухи, дії або реакції. Наприклад, ви не провокуєте таку нагоду, якщо вибух завдасть вам шкоди з боку ворога або якщо гравітація змушує вас пропливати повз ворога.
 
-### Two-Weapon Fighting
-When you take the Attack action and attack with a light melee weapon that you're holding in one hand, you can use a bonus action to attack with a different light melee weapon that you're holding in the other hand. You don't add your ability modifier to the damage of the bonus attack, unless that modifier is negative.
+### Бій з двома зброєю
+Коли ви вступаєте в атаку з легкою зброєю ближнього бою, яку тримаєте одним рукою, ви можете використовувати бонус дії для атаки з іншою легкою зброєю ближнього бою, яку ви тримаєте в іншій руці. Ви не додасте свої можливості до пошкодження бонусної атаки, якщо тільки ця модифікація не негативна.
 
-If either weapon has the thrown property, you can throw the weapon, instead of making a melee attack with it.
+Якщо будь-яка зброя має силу, ви можете кидати зброю, замість того, щоб атакувати ближню з нею.
 
-> ### Contests in Combat 
+> ### Конкурси 
 > 
-> Battle often involves pitting your prowess against that of your foe. Such a challenge is represented by a contest. This section includes the most common contests that require an action in combat: grappling and shoving a creature. The GM can use these contests as models for improvising others.
+> Битва часто спричиняє гальмування вашої доблесті проти ворожки. Такий виклик представлений змаганням. У цьому розділі також присутні найпоширеніші конкурси, які потребують дії в бою: боротьба та боротьба з істотою. GM може використовувати ці конкурси як моделі для імпровізації інших.
 
-### Grappling
-When you want to grab a creature or wrestle with it, you can use the Attack action to make a special melee attack, a grapple. If you're able to make multiple attacks with the Attack action, this attack replaces one of them.
+### Греплінг
+Коли ви хочете захопити істоту або боротись з нею, ви можете скористатися атакою для створення особливої атаки ближнього бою, винограду. Якщо ви зможете зробити декілька атак за допомогою дії атаки, це замінить одну з них.
 
-The target of your grapple must be no more than one size larger than you and must be within your reach. Using at least one free hand, you try to seize the target by making a grapple check instead of an attack roll: a Strength (Athletics) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use). If you succeed, you subject the target to the grappled condition. The condition specifies the things that end it, and you can release the target whenever you like (no action required).
+Ціль вашого ґрана не може бути більше одного розміру за вас і має бути в межах вашої досяжності. Використання принаймні однієї вільної руки, ви намагаєтеся захопити ціль, роблячи перевірку на жаль замість атаку: сила (Athletics) яка оспорюється силою цілі (Athletics) або перевіркою достоїнства (Акробатика) (ціль визначає можливість використати). Якщо ви досягаєте успіху, то ви надаєте ціль зачепленій умові. Умова вказує на стан справ що її закінчується, і ви можете випустити ціль коли вам не потрібен (дія не потрібна).
 
-**Escaping a Grapple.** A grappled creature can use its action to escape. To do so, it must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check contested by your Strength (Athletics) check.
+**Втеча грабок.** Потрійна істота може використовувати її дію для екрану. Щоб це зробити, це повинно бути успішним в контролі сили (Athletics) або Декстрики (Acrobatics) перевіряти під контролем вашої сили (Athletics).
 
-**Moving a Grappled Creature.** When you move, you can drag or carry the grappled creature with you, but your speed is halved, unless the creature is two or more sizes smaller than you.
+**Переміщення недоскоєної істоти.** Коли ви рухаєтесь, можете перетягувати або переносити з вами пограбування істоти, але ваша швидкість зменшується вдвічі, якщо істота не менша за вас.
 
 
-### Shoving a Creature
-Using the Attack action, you can make a special melee attack to shove a creature, either to knock it prone or push it away from you. If you're able to make multiple attacks with the Attack action, this attack replaces one of them.
+### Поховання істоти
+Використовуючи дію атаки, ви можете зробити особливу атаку ближнього бою, щоб знищити істоту, або щоб вдарити його по горло чи відштовхнути від вас. Якщо ви зможете зробити декілька атак за допомогою дії атаки, це замінить одну з них.
 
-The target must be no more than one size larger than you and must be within your reach. Instead of making an attack roll, you make a Strength (Athletics) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use). If you win the contest, you either knock the target prone or push it 5 feet away from you. 
+Ціль не має перевищувати одного розміру, що перевищує вас і не повинна бути в межах вашого досягнення. Замість того, щоб зробити атакуюче ролля, ви перевіряєте силу тяжіння (Athletics) яка оспорюється сильністю цілі (Athletics) або галочкою (Acrobatics) (ціль обирає можливість використати). Якщо ви виграєте конкурс, ви або стукаєте в кубінці або відштовхнете від вас на 5 футів. 
