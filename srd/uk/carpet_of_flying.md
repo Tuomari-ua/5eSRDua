@@ -1,17 +1,17 @@
-name: Carpet of Flying type: item
+назва: Килим літального типу: елемент
 
-# Carpet of Flying
-_Wondrous item, very rare_
+# Килим політу
+_Чудові речі - дуже рідкісні_
 
-You can speak the carpet's command word as an action to make the carpet hover and fly. It moves according to your spoken directions, provided that you are within 30 feet of it.
+Ви можете говорити командне слово килима як дію, щоб зависати тіло і літати. Відсувається за промовленим напрямком, за умови, що ви знаходитесь на відстані понад 30 футів.
 
-Four sizes of **carpet of flying** exist. The GM chooses the size of a given carpet or determines it randomly.
+Існують чотири розміри **килима на висоті**. GM обирає розмір заданого килима або випадково визначає його.
 
-| d100   | Size          | Capacity | Flying Speed |
-| ------ | ------------- | -------- | ------------ |
-| 01-20  | 3 ft. x 5 ft. | 200 lb.  | 80 feet      |
-| 21-55  | 4 ft. x 6 ft. | 400 lb.  | 60 feet      |
-| 56-80  | 5 ft. x 7 ft. | 600 lb.  | 40 feet      |
-| 81-100 | 6 ft. x 9 ft. | 800 lb.  | 30 feet      |
+| д100   | Розмір              | Ємність     | Швидкість польоту |
+| ------ | ------------------- | ----------- | ----------------- |
+| 01-20  | 3 фути. х 5 футів.  | 200 фунтів. | 80 футів          |
+| 21-55  | 4 фут. х 6 фут.     | 400 фунтів. | 60 футів          |
+| 56-80  | 5 футів. х 7 футів. | 600 фунтів. | 40 футів          |
+| 81-100 | 6 футів. х 9 футів. | 800 фунтів. | 30 футів          |
 
-A carpet can carry up to twice the weight shown on the table, but it flies at half speed if it carries more than its normal capacity. 
+Килим може перевозити вдвічі більше ваги, ніж на столі, але він летить з половиною швидкістю, якщо він володіє більшою ніж нормальна здатність. 
