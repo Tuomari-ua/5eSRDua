@@ -1,195 +1,195 @@
-description: Rules and information for the Paladin class from the 5th Edition (5e) SRD (System Reference Document).
+опис: Правила та інформація для класу Paladin з 5-ї версії (5e) SRD (Документація з Системної Документації).
 
-# The Paladin
-| Level | Proficiency Bonus | 1st | 2nd | 3rd | 4th | 5th | Features                                   |
-| ----- | ----------------- | --- | --- | --- | --- | --- | ------------------------------------------ |
-| 1st   | +2                | -   | -   | -   | -   | -   | Divine Sense, Lay on Hands                 |
-| 2nd   | +2                | 2   | -   | -   | -   | -   | Fighting Style, Spellcasting, Divine Smite |
-| 3rd   | +2                | 3   | -   | -   | -   | -   | Divine Health, Sacred Oath                 |
-| 4th   | +2                | 3   | -   | -   | -   | -   | Ability Score Improvement                  |
-| 5th   | +3                | 4   | 2   | -   | -   | -   | Extra Attack                               |
-| 6th   | +3                | 4   | 2   | -   | -   | -   | Aura of Protection                         |
-| 7th   | +3                | 4   | 3   | -   | -   | -   | Sacred Oath feature                        |
-| 8th   | +3                | 4   | 3   | -   | -   | -   | Ability Score Improvement                  |
-| 9th   | +4                | 4   | 3   | 2   | -   | -   | -                                          |
-| 10th  | +4                | 4   | 3   | 2   | -   | -   | Aura of Courage                            |
-| 11th  | +4                | 4   | 3   | 3   | -   | -   | Improved Divine Smite                      |
-| 12th  | +4                | 4   | 3   | 3   | -   | -   | Ability Score Improvement                  |
-| 13th  | +5                | 4   | 3   | 3   | 1   | -   | -                                          |
-| 14th  | +5                | 4   | 3   | 3   | 1   | -   | Cleansing Touch                            |
-| 15th  | +5                | 4   | 3   | 3   | 2   | -   | Sacred Oath feature                        |
-| 16th  | +5                | 4   | 3   | 3   | 2   | -   | Ability Score Improvement                  |
-| 17th  | +6                | 4   | 3   | 3   | 3   | 1   | -                                          |
-| 18th  | +6                | 4   | 3   | 3   | 3   | 1   | Aura improvements                          |
-| 19th  | +6                | 4   | 3   | 3   | 3   | 2   | Ability Score Improvement                  |
-| 20th  | +6                | 4   | 3   | 3   | 3   | 2   | Sacred Oath feature                        |
+# Паладин
+| Рівень    | Бонус здібностей | Перший | Друге | Третє | Четвертий | П'ятий | Особливості                             |
+| --------- | ---------------- | ------ | ----- | ----- | --------- | ------ | --------------------------------------- |
+| Перший    | +2               | -      | -     | -     | -         | -      | Божественний сенс                       |
+| Друге     | +2               | 2      | -     | -     | -         | -      | Бойовий стиль, орфографія, кулак дивіне |
+| Третє     | +2               | 3      | -     | -     | -         | -      | Божественне здоров'я. Священної клятви  |
+| Четвертий | +2               | 3      | -     | -     | -         | -      | Покращення рівня здібностей             |
+| П'ятий    | +3               | 4      | 2     | -     | -         | -      | Додаткова атака                         |
+| 6-е       | +3               | 4      | 2     | -     | -         | -      | Аура захисту                            |
+| 7-е       | +3               | 4      | 3     | -     | -         | -      | Святкова присяга функція                |
+| 8-е       | +3               | 4      | 3     | -     | -         | -      | Покращення рівня здібностей             |
+| 9-е       | +4               | 4      | 3     | 2     | -         | -      | -                                       |
+| 10-е      | +4               | 4      | 3     | 2     | -         | -      | Аура Мужності                           |
+| 11-е      | +4               | 4      | 3     | 3     | -         | -      | Поліпшений божественний сміх            |
+| 12-е      | +4               | 4      | 3     | 3     | -         | -      | Покращення рівня здібностей             |
+| 13-е      | +5               | 4      | 3     | 3     | 1         | -      | -                                       |
+| 14-е      | +5               | 4      | 3     | 3     | 1         | -      | Очищення дотику                         |
+| 15-е      | +5               | 4      | 3     | 3     | 2         | -      | Святкова присяга функція                |
+| 16-е      | +5               | 4      | 3     | 3     | 2         | -      | Покращення рівня здібностей             |
+| 17-е      | +6               | 4      | 3     | 3     | 3         | 1      | -                                       |
+| 18-е      | +6               | 4      | 3     | 3     | 3         | 1      | Покращення Аури                         |
+| 19-е      | +6               | 4      | 3     | 3     | 3         | 2      | Покращення рівня здібностей             |
+| 20-е      | +6               | 4      | 3     | 3     | 3         | 2      | Святкова присяга функція                |
 
-## Class Features
-As a paladin, you gain the following class features.
+## Характеристики класу
+Як з палітром, ви отримуєте наступні функції класу.
 
-### Hit Points
-**Hit Dice:** 1d10 per paladin level  
-**Hit Points at 1st Level:** 10 + your Constitution modifier  
-**Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per paladin level after 1st
+### Хіт точок
+**Натискання Dice:** 1d10 за рівень паладину  
+**Бали на 1-му рівень:** 10 + модифікатор вашої Конституції  
+**Очків на вищих рівнів:** 1d10 (або 6) + модифікатор вашої Конституції на рівень після 1
 
-### Proficiencies
-**Armor:** All armor, shields  
-**Weapons:** Simple weapons, martial weapons  
-**Tools:** None     
-**Saving Throws:** Wisdom, Charisma   
-**Skills:** Choose two from Athletics, Insight, Intimidation, Medicine, Persuasion and Religion
+### Політики
+**Броня:** Усі обладунки, щити  
+**Зброя:** Проста зброя, інструменти з бойової зброї  
+**format@@:** Не     
+**Збереження речей:** Wisdom, Харизма   
+**Вмінь:** Виберіть два з Атлетики, вторгнення, Медицина, Провина та Релігія
 
-### Equipment
-You start with the following equipment, in addition to the equipment granted by your background:
+### Устаткування
+Ви починаєте з наступного обладнання, на додаток до обладнання, яке надає ваш фон:
 
-* (a) a martial weapon and a shield or (b) two martial weapons
-* (a) five javelins or (b) any simple melee weapon
-* (a) a priest's pack or (b) an explorer's pack
-* Chain mail and a holy symbol
+* (a) бойова зброя і щит або (b) дві бойової зброї
+* (а) п'ять списів або (b) будь-яка проста зброя ближнього бою
+* (a) пакет священика або (b) дослідник
+* Кольчуга з листом і святим символом
 
-### Divine Sense
+### Божественне чуття
 - - -
-The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the **_hallow_** spell.   
-You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.
+Наявність сильних злих реєструвань на ваших почуттях, як ошуканий див, і блажні кільця, такі як небесна музика у вухах. В якості дії ви можете відкрити свою обізнаність, щоб виявити такі сили. До закінчення наступного кроку, ви знаєте місцезнаходження небесного, офіз або ж немертвий у межах 60 футів від вас який не стоїть за цілковитою обкладинкою. Ви знаєте той тип (небесний, лютий чи немертвий) будь-якої істоти, чиї присутності, ви в сенсі, але не свою особистість (наприклад, вампір Граф Страхд фон Зарович). У тому ж радіусі ви також виявляєте присутність будь-якого місця або об'єкта, який був освячений або детективований, як і орфографії **_половинно_** .   
+Ви можете використовувати цю функцію ряд разів, що дорівнює 1 + ваш модифікатор Харісми. Коли ви закінчите довгий відпочинок, ви відновите всі витрачені на використання.
 
-### Lay on Hands
+### Ле на печалі
 - - -
-Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your paladin level × 5.   
-As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in your pool.   
-Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one.   
-This feature has no effect on undead and constructs.
+Ваш благословенний дотик може лікувати поранення. Є пул зцілення сил, що відновлюється, коли ти відпочинеш довгу відпору. Разом з цим басейном можна відновити загальну кількість очків, що дорівнює вашому рівня палацу × 5.   
+як дія, ви можете торкнутися істоти та надати силу з басейну для відновлення декількох хітів до цієї істоти, до максимальної кількості, що залишився у вашому басейні.   
+Альтернативно, ви можете витратити 5 очків на лікування щоб вилікувати мету однієї хвороби або нейтралізувати від однієї отрути, яка зачіпає її. Ви можете вилікувати декілька захворювань і нейтралізувати кілька отрут за допомогою одного засобу "Політ" в Руках. Витрачайте точки окремо для кожного з них.   
+Ця функція не впливає на немертві та конструкції.
 
-### Fighting Style
+### Файтинг
 - - -
-At 2nd level, you adopt a style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
+На другому рівні ви приймаєте стиль боротьби як свою спеціальність. Виберіть один із наступних параметрів. Не можна взяти опцію «Боротьба стилю» більше одного разу, навіть якщо ви пізніше оберете знову.
 
-#### Defense
-While you are wearing armor, you gain a +1 bonus to AC.
+#### Захист
+Поки ви носите броню, ви отримуєте бонус +1 до н.е.
 
 #### Dueling
-When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
+Коли ви володієте зброєю ближнього бою в одній руці і ні в якому іншому зброї, ви отримуєте бонус +2 до шкоди, яка пошкоджується за допомогою цієї зброї.
 
-#### Great Weapon Fighting
-When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll. The weapon must have the two-handed or versatile property for you to gain this benefit.
+#### Великий захист зброї
+Коли ви відколюєте 1 чи 2 на пошкодження, помираєте за атаку, яку ви утворюєте зброєю ближнього бою, яку ви маєте двома руками, ви можете переростити смерть і використовувати новий рол. Зброя, мабуть, має мати дворучну або вороже майно для вас, щоб отримати цю користь.
 
-#### Protection
-When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
+#### Захист
+Коли істота можна побачити напади не тільки на вас, а й на відстані 5 футів, ви можете використати свою реакцію, щоб нав'язати шкоду на атаку. Вам необхідно промахнути щит.
 
-### Spellcasting
+### Орфографію
 - - -
-By 2nd level, you have learned to draw on divine magic through meditation and prayer to cast spells as a cleric does.
+На 2-му, ти навчився малювати божественну магію за допомогою медитації та молитви, щоб чавити заклинання, як у священнослужителів.
 
-#### Preparing and Casting Spells
-The Paladin table shows how many spell slots you have to cast your spells. To cast one of your paladin spells of 1st level or higher, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.   
-You prepare the list of paladin spells that are available for you to cast, choosing from the paladin spell list. When you do so, choose a number of paladin spells equal to your Charisma modifier + half your paladin level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.    
-For example, if you are a 5th-level paladin, you have four 1st-level and two 2nd-level spell slots. With a Charisma of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell **_cure wounds_**, you can cast it using a 1st-level or a 2nd- level slot. Casting the spell doesn't remove it from your list of prepared spells.   
-You can change your list of prepared spells when you finish a long rest. Preparing a new list of paladin spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
+#### Підготовка та показ заклинання
+У таблиці Паладін показано, скільки заклинання ви повинні кидати орфографії. Щоб відкласти одне з ваших заклинань паладіна 1-го рівня або вище, необхідно вказати слот на рівень орфографії або вище. Ви знову заходите на прописні слоти після закінчення довгого відпочинку.   
+Ми готуємо список заклинань до паладіна, доступних для вас, вибираємо з заклинання палітру. Коли ви це зробите, виберіть кількість заклинань до галявин, що еквівалентно екіпажу Харісми, + половину вашого рівня палітру, закруглений донизу (мінімум одного правопису). Орфографії мають бути рівними, в якому ви маєте орфографічні слоти.    
+, наприклад, якщо ви п’ятий рівень палітри, ви маєте чотири найліпші і два слоти на 2-му рівні. З Харизмою 14 ваш список підготовлених заклинань може включати чотири заклинання 1-го або 2-го рівня в будь-якій комбінації. Якщо ви підготуєте заклинання високого рівня **_до лікування_**, ви можете прести його за допомогою максимального рівня або слоту на 2nd- рівня. Кастинг заклинання не видаляє його зі списку підготовлених орфографій.   
+Ви можете змінити список підготовлених заклинань після закінчення довгого відпочинку. Підготовка нового списку заклинання палітра потребує часу, проведеного в молитві та медитації: в вашому списку щохвилини на рівень заклинання для кожної заклинання в вашому списку.
 
-#### Spellcasting Ability
-Charisma is your spellcasting ability for your paladin spells, since their power derives from the strength of your convictions. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a paladin spell you cast and when making an attack roll with one.
+#### Вміння орфографії
+Харизма — це православна здатність до заклинань паладинів, оскільки їхня влада отримує від сили ваших переконань. Харизму завжди означає здатність орфографії. Крім того, ви використовуєте свій модифікатор Charisma під час встановлення скидання ДК для заклинання паладіна, яку ви транслюєте, і коли робите поворот атаки з одним.
 
-> **Spell save DC** = 8 + your proficiency bonus + your Charisma modifier
+> **Spell save DC** = 8 + бонус майстерності + ваш модифікатор Charisma
 
-> **Spell attack modifier** = your proficiency bonus + your Charisma modifier
+> **Модифікатор атаки орфографії** = ваш бонус здібності + ваш модифікатор Харісми
 
-#### Spellcasting Focus
-You can use a holy symbol as a spellcasting focus for your paladin spells.
+#### Фокус правопису
+Можна використати Святий символ в якості фокусу орфографії для ваших заклинань паладинів.
 
-### Divine Smite
+### Божественна усмішка
 - - -
-Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon’s damage. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each spell level higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is an undead or a fiend.
+Починаючи на 2-му рівні, коли ви вдаряєте істоту зі зброєю ближнього бою, ви можете надіслати один заклинання для нанесення радіантного пошкодження до цілі, крім шкоди зброї. Додаткова шкода 2d8 - найвищий слот 1-го рівня, плюс 1d8 для кожної орфографії вище 1d8, до максимуму 5d8. Шкода збільшується на 1d8 якщо ціль є незагиблим або кулаком.
 
-### Divine Health
+### Здоров'я Божестви
 - - -
-By 3rd level, the divine magic flowing through you makes you immune to disease.
+На третьому рівні божественні чари, які протікають через вас, роблять вас імунітетом до хвороб.
 
 ### Sacred Oath
 - - -
-When you reach 3rd level, you swear the oath that binds you as a paladin forever. Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it. Now  you choose  an  oath,   such    as  the Oath    of  Devotion.   
-Your choice grants you features at 3rd level and again at 7th, 15th, and 20th level. Those features include oath spells and the Channel Divinity feature.
+Коли ви дійдете третього рівня, ми клянетесь клятві, що зв'язує вас, як паладин назавжди. До цього часу ви були на стадії підготовки, дотримуєтесь шляху, але ще не присягнулися на неї. А тепер ви обираєте клятву як клятву Девоації.   
+Ваш вибір дає вам можливості 3-го рівня і знову на 7-му, 15 та 20-му рівні. Ці функції включають заклинання присяги та функцію Divinity каналу.
 
 #### Oath Spells
-Each oath has a list of associated spells. You gain access to these spells at the levels specified in the oath description. Once you gain access to an oath spell, you always have it prepared. Oath spells don’t count against the number of spells you can prepare each day.    
-If you gain an oath spell that doesn't appear on the paladin spell list, the spell is nonetheless a paladin spell for you.
+Кожна присяга має список асоційованих заклинань. Ви отримуєте доступ до цих заклинань на тих рівнях, зазначених в описі присяги. Як тільки ви отримуєте доступ до заклинання клятви, ви завжди маєте його готові. Оазні заклинання не враховують кількості заклинань, які можна готувати щодня.    
+Якщо ви отримуєте заклинання присяги, яке не з'являється у списку заклинання палідонців, тим не менш, заклинання паладин за вас.
 
-#### Channel Divinity
-Your oath allows you to channel divine energy to fuel magical effects. Each Channel Divinity option provided by your oath explains how to use it.    
-When you use your Channel Divinity, you choose which option to use. You must then finish a short or long rest to use your Channel Divinity again.    
-Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your paladin spell save DC.
+#### Канал Дівініті
+Ваша присяга дозволяє перенаправити священну енергію для підживлення магічних ефектів. Кожен параметр Divinity каналу, який надає ваша присяга, пояснює, як його використовувати.    
+Коли ви використовуєте ваш канал Divinity, ви обираєте яку опцію використовувати. Після цього ви повинні закінчити коротке або довге відпочинку, щоб використати знову канал Divinity каналу.    
+Деякі ефекти Divinity в каналі потребують збереження килим. Коли ви використовуєте такий ефект від цього класу, DDC дорівнює написанню Paladin у заощадити DC.
 
-### Ability Score Improvement
+### Покращення рівня здібностей
 - - -
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+Коли ви досягнете 4-го рівня, і знову на 8-му, 12-му, 16-тому та 19-му рівні, ви можете збільшити один бал ваших опцій на 2 або збільшити кількість 2-х здібностей на ваш вибір на 1. Як нормально, ви не можете збільшити бал здатності вище 20 за допомогою цієї функції.
 
-### Extra Attack
+### Додаткова атака
 - - -
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+Починаючи з 5-го рівня, ви можете атакувати двічі, а не один раз, коли ви будете приймати атаку на вашому кроці.
 
-### Aura of Protection
+### Аура захисту
 - - -
-Starting at 6th level, whenever you or a friendly creature within 10 feet of you must make a saving throw, the creature gains a bonus to the saving throw equal to your Charisma modifier (with a minimum bonus of +1). You must be conscious to grant this bonus.    
-At 18th level, the range of this aura increases to 30 feet.
+Починаючи з 6-го рівня, коли ви або дружня істота в межах 10 футів від вас повинні зробити рятування істота отримує бонус до об’єкта Заощадження, що дорівнює вашому модифікації Харісми (мінімальний бонус +1). Ви повинні бути свідомі, щоб надати цей бонус.    
+На 18-му рівні, діапазон цієї аури зростає до 30 футів.
 
-### Aura of Courage
+### Аура Мужності
 - - -
-Starting at 10th level, you and friendly creatures within 10 feet of you can't be frightened while you are conscious.    
-At 18th level, the range of this aura increases to 30 feet.
+Починаючи з 10-го рівня, ви та дружні істоти в межах 10 футів від вас не можна налякати, поки ви свідомо.    
+на 18-му рівні діапазон цієї аури зростає до 30 футів.
 
-### Improved Divine Smite
+### Поліпшений божественний сміх
 - - -
-By 11th level, you are so suffused with righteous might that all your melee weapon strikes carry divine power with them. Whenever you hit a creature with a melee weapon, the creature takes an extra 1d8 radiant damage. If you also use your Divine Smite with an attack, you add this damage to the extra damage of your Divine Smite.
+На 11-му рівні вам так вистачає, що вся ваша зброя ближнього бою може з ними мати божественну силу. Щоразу, коли у вас є істота з зброєю ближнього бою, істота отримує додаткову 1d8 радіантних ушкоджень. Якщо ви також використовуєте вашу Божественну Удар з атакою, ви додасте це пошкодження до додаткового пошкодження вашого Сміту.
 
-### Cleansing Touch
+### Очищення дотику
 - - -
-Beginning at 14th level, you can use your action to end one spell on yourself or on one willing creature that you touch.    
-You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain expended uses when you finish a long rest.
+Починаючи з 14-го рівня, ви можете використовувати свої дії, щоб покласти кінець один заклинання на себе або на бажану істоту, яку ви торкаєтесь.    
+Ви можете використовувати цю функцію кілька разів, таких як ваш модифікатор Харісми (мінімум один раз). Ви знову витрачаєте кошти, коли закінчите довгу відпочинок.
 
-## Sacred Oaths
-Becoming a paladin involves taking vows that commit the paladin to the cause of righteousness, an active path of fighting wickedness. The final oath, taken when he or she reaches 3rd level, is the culmination of all the paladin's training. Some characters with this class don't consider themselves true paladins until they have reached 3rd level and made this oath. For others, the actual swearing of the oath is a formality, an official stamp on what has always been true in the paladin's heart.
+## Священні клятви
+Будучи паладіном означає прийняття обітниць, що робить паладіна заради справедливості, активним шляхом боротьби з кривдою. Остання присяга, коли він або дійде до третього рівня, це наслідок кульмінації всієї тренування паладіна. Деякі символи з цим класом не вважають себе справжніми паладинами, поки вони не досягли 3-го рівня та не створили цієї присяги. Для інших, справжньою присягою є формальність офіційного гербування на те, що завжди було правдою в серці палацина.
 
-### Oath of Devotion
+### Присяга відступаючих
 - - -
-The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white knights, or holy warriors, these paladins meet the ideal of the knight in shining armor, acting with honor in pursuit of justice and the greater good. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods' tenets as the measure of their devotion. They hold angels--the perfect servants of good--as their ideals, and incorporate images of angelic wings into their helmets or coats of arms.
+Присяга відданість прив'язує паладіна до найвеличніших ідеалів справедливості, чесноти і порядок. Часом називаються лицарі, білі лицарі або святі воїни, ці палацини відповідають ідеалу лицаря в сяючому обладунку, діяти з честю в гонитві за справедливістю та більшою доброю. Вони дотримуються найвищих стандартів поведінки та інших, в кращому чи гіршому випадку, затримують решту світу до тих же стандартів. Кожен, хто присягу присягнув оцю присягу, присвятив богам законом і Божим домашнім улюбленцям, як міру їхньої відданості. Вони тримають янголів - досконалих слуг добра - як своїх ідеалів, а також вкладають імітації ангельських крил у свої шоломи чи шапки зброї.
 
-#### Tenets of Devotion
-Though the exact words and strictures of the Oath of Devotion vary, paladins of this oath share these tenets.    
-**Honesty.** Don't lie or cheat. Let your word be your promise.    
-**Courage.** Never fear to act, though caution is wise.    
-**Compassion.** Aid others, protect the weak, and punish those who threaten them. Show mercy to your foes, but temper it with wisdom.    
-**Honor.** Treat others with fairness, and let your honorable deeds be an example to them. Do as much good as possible while causing the least amount of harm.    
+#### Відданість десятків
+Хоча точні слова та звинувачення присяги в тому, що присяга мають різне значення за відчаєм.    
+**Чесності.** Не обманюйте і не обманюйте. Нехай ваше слово буде вашою обіцянкою.    
+**Мужності.** Ніколи не бійся діяти, але обережно.    
+**Співчуття.** Допоможи іншим, захищайте слабкі та карайте тих, хто їм погрожує. Пожалуйте своїх ворогів, але загартуйте його своєю мудрістю.    
+**Чесності.** Ставтеся до інших із справедливістю, і нехай ваші почесні вчинки стануть прикладом для них. Do as much good as possible while causing the least amount of harm.    
 **Duty.** Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you.
 
 #### Oath Spells
-You gain oath spells at the paladin levels listed.
+Ви отримуєте присяжні заклинання на рівнях палацинів.
 
-| Paladin Level | Spells                                     |
-| ------------- | ------------------------------------------ |
-| 3rd           | _protection from evil and good, sanctuary_ |
-| 5th           | _lesser restoration, zone of truth_        |
-| 9th           | _beacon of hope, dispel magic_             |
-| 13th          | _freedom of movement, guardian of faith_   |
-| 17th          | _commune, flame strike_                    |
+| Паладин Рівень | Spells                              |
+| -------------- | ----------------------------------- |
+| Третє          | _захист від зла і добра, святилище_ |
+| П'ятий         | _менше відновлення, зона правди_    |
+| 9-е            | _маяк надії, розвіяний магія_       |
+| 13-е           | _свобода руху, опікун віри_         |
+| 17-е           | _спільнота, вогонь страйк_          |
 
-#### Channel Divinity
-When you take this oath at 3rd level, you gain the following two Channel Divinity options.
+#### Канал Дівініті
+Коли ви берете цю присягу на третьому рівні, ви отримаєте наступні два параметри Divinity каналу
 
-**Sacred Weapon.** As an action, you can imbue one weapon that you are holding with positive energy, using your Channel Divinity. For 1 minute, you add your Charisma modifier to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 20-foot radius and dim light 20 feet beyond that. If the weapon is not already magical, it becomes magical for the duration.    
-You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall unconscious, this effect ends.    
-**Turn the Unholy.** As an action, you present your holy symbol and speak a prayer censuring fiends and undead, using your Channel Divinity. Each fiend or undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes damage.    
-A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
+**Священна зброя.** В якості дії ви можете натягнути одну зброю, яку ви тримаєте з позитивною енергією, використовуючи ваш канал Divinity. На 1 хвилину ви додаєте ваш модифікатор Харісми, щоб атакувати зустрічі, виконані з цією зброєю (з мінімальним бонусом +1). Зброя також випромінює яскраве світло на радіусі 20-футів та тьмяне світло на 20 футів після цього. Якщо зброя не має магічного значення, вона стає магічним для цієї тривалісті.    
+Ви можете припинити цей ефект на повороті як частину будь-якої іншої дії. Якщо ви більше не тримаєте цієї зброї або не несвідомо, цей ефект закінчується.    
+**Поверніть Несвяте.** У якості дії ви представляєте свій святий символ і говоріть молитву під кулаками і не мертвими, використовуючи ваш канал Divinity. Кожен кулак або немертвий, який може бачити або чути тебе в межах 30 футів, повинен зробити Мудро, що заощаджує. Якщо істота не вдається заощадити ряд, то на одну хвилину або доки не завдасть шкоди.    
+Повернуту істоту повинно витрачати свої повороти, намагаючись відійти настільки далеко, як можливо, і воно не може охоче переміститися на простір в межах 30 футів від вас. Він також не може вжити реакцій. Для його дії він може використовувати лише Dash або намагатися уникнути ефекту, який заважає йому рухатися. Якщо немає куди рухатися, істота може скористатися дією на ходу.
 
-#### Aura of Devotion
-Starting at 7th level, you and friendly creatures within 10 feet of you can't be charmed while you are conscious.    
-At 18th level, the range of this aura increases to 30 feet.
+#### Аура Відмова
+Починаючи з 7-го рівня, ви і дружні істоти в межах 10 футів від вас не можуть бути закарбовані поки ви свідомо.    
+на 18-му рівні діапазон цієї аури зростає до 30 футів.
 
-#### Purity of Spirit
-Beginning at 15th level, you are always under the effects of a **_protection from evil and good_** spell.
+#### Монастир Дух
+Починаючи з 15-го рівня, ви завжди під ефектами **_захисту від зла і доброго_** заклинають.
 
-#### Holy Nimbus
-At 20th level, as an action, you can emanate an aura of sunlight. For 1 minute, bright light shines from you in a 30-foot radius, and dim light shines 30 feet beyond that.    
-Whenever an enemy creature starts its turn in the bright light, the creature takes 10 radiant damage.     
-In addition, for the duration, you have advantage on saving throws against spells cast by fiends or undead.     
-Once you use this feature, you can't use it again until you finish a long rest.
-> ##### Breaking Your Oath
+#### Святий Німб
+20-ий рівень, як дія, ви можете видати ауру сонячного світла. Протягом 1 хвилини яскраве світло засвічує від вас радіус 30-футового світла і тьмяніє від нього.    
+Щоразу, коли ворожа істота почне обертатись при світлі істоти, істота завдає 10 радіус.     
+Крім того, протягом тривалого часу ви маєте перевагу перед збереженням кидків проти заклинань чи звільнених.     
+Коли ви будете використовувати цю функцію, ви не зможете її знову використати, доки не закінчите довге.
+> ##### Роздирайте свою присягу
 > 
-> A paladin tries to hold to the highest standards of conduct, but even the most virtuous paladin is fallible. Sometimes the right path proves too demanding, sometimes a situation calls for the lesser of two evils, and sometimes the heat of emotion causes a paladin to transgress his or her oath. A paladin who has broken a vow typically seeks absolution from a cleric who shares his or her faith or from another paladin of the same order. The paladin might spend an all-night vigil in prayer as a sign of penitence, or undertake a fast or similar act of self-denial. After a rite of confession and forgiveness, the paladin starts fresh. If a paladin willfully violates his or her oath and shows no sign of repentance, the consequences can be more serious. At the GM’s discretion, an impenitent paladin might be forced to abandon this class and adopt another.
+> Фалін намагається дотримуватися найвищих стандартів поведінки, але навіть найдоброчесніший паладин є помилковим. Іноді правильний шлях виявляє занадто вимогливим, іноді ситуація вимагає меншого з двох злах, а іноді й спека емоцій змушує паладіна переступити його чи присягу. Фаладін, який зламав обів, як правило, шукає відпущення від священнослужителя, який поділяє свою чи свою віру чи з іншого паладина того ж порядку. Цей паладін може провести всю ніч у молитві як ознака штрафування, або здійснити швидкий або аналогічний акт самовідмови. Після обряду зізнання та прощення паладін стає свіжий. Якщо паладін навмисно порушує його присягу і не виявляє жодних ознак покаяння, наслідки можуть бути більш серйозними. На розсуд GM безперешкодний паладин може бути змушений відмовитися від цього класу та прийняти інший.
