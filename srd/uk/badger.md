@@ -1,21 +1,21 @@
-name: Badger type: beast cr: 0
+назва: Badger тип: тварина cr: 0
 
-# Badger
-_Tiny beast, unaligned_
+# Беджер
+_Крихітний звір, неприєднаний_
 
-**Armor Class** 10    
-**Hit Points** 3 (1d4 + 1)    
-**Speed** 20 ft., burrow 5 ft.
+**Рівень броні** 10    
+**Очки** 3 (1d4 + 1)    
+**швидкість** 20 ft., горіння 5 футів.
 
-| STR    | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР    | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------ | ------- | ------- | ------ | ------- | ------ |
 | 4 (−3) | 11 (+0) | 12 (+1) | 2 (−4) | 12 (+1) | 5 (−3) |
 
 **Senses** darkvision 30 ft., passive Perception 11    
-**Languages** --    
-**Challenge** 0 (10 XP)
+**Мови** --    
+**Challenge** (10 XP)
 
-**Keen Smell.** The badger has advantage on Wisdom (Perception) checks that rely on smell.
+**Keen Smell.** badger має перевагу в Wisdom (виключання) перевірки, які покладаються на запах.
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 1 piercing damage. 
+### Дії
+**Біт.** _Атака ближньої зброї:_ +2 до удару, досягає 5-ї цілі, одна мета. _Вразів:_ 1 проколювання пошкодження. 
