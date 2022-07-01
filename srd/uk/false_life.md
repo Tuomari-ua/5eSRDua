@@ -1,13 +1,13 @@
-name: False Life level: 1 school: necromancy classes: sorcerer wizard
+назва: False Life рівень: 1 школа: некроманність класі: сортувальник
 
-# False Life
-_1st-level necromancy_
+# Хибне життя
+_базовий рівень некромантності_
 
-**Casting Time:** 1 action    
-**Range:** Self    
-**Components:** V, S, M (a small amount of alcohol or distilled spirits)    
-**Duration:** 1 hour
+**Кастинг часу:** 1 дія    
+**Діапазон:** Самостій    
+**компоненти:** V, S, М (невеликий обсяг алкоголю або спотворених думок)    
+**тривалість:** години
 
-Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration.
+Чим розвивається за допомогою некромантичної гордості життя, тим більше часу ви отримуєте 1d4 + 4 тимчасових точки удару.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you gain 5 additional temporary hit points for each slot level above 1st. 
+**На вищих рівнях.** Коли ви транслюєте це заклинання використовуючи слот 2-го рівня або вище, ви отримаєте 5 додаткових тимчасових точок для кожного рівня слоту вище 1st. 
