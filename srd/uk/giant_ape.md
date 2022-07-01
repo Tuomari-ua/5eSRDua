@@ -1,13 +1,13 @@
-name: Giant Ape type: beast cr: 7
+назва: Гігантські мавпи тип: звірина cr: 7
 
-# Giant Ape
-_Huge beast, unaligned_
+# Гігантська мавпа
+_Величезний звір, неприєднаний_
 
-**Armor Class** 12    
-**Hit Points** 157 (15d12 + 60)    
-**Speed** 40 ft., climb 40 ft.
+**Клас броні** 12    
+**Очки** 157 (15d12 + 60)    
+**Швидкість** 40 передач, підйом 40 футів.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 23 (+6) | 14 (+2) | 18 (+4) | 7 (−2) | 12 (+1) | 7 (−2) |
 
@@ -16,7 +16,7 @@ _Huge beast, unaligned_
 **Languages** --    
 **Challenge** 7 (2,900 XP)
 
-### Actions
-**Multiattack.** The ape makes two fist attacks.    
-**Fist.** _Melee Weapon Attack:_ +9 to hit, reach 10 ft., one target. _Hit:_ 22 (3d10 + 6) bludgeoning damage.    
-**Rock.** _Ranged Weapon Attack:_ +9 to hit, range 50/100 ft., one target. _Hit:_ 30 (7d6 + 6) bludgeoning damage. 
+### Дії
+**Мультиатака.** Мавпа створює дві кулачні атаки.    
+**Фіст.** _Атака ближньої зброї:_ +9, щоб вдарити, досягти 10-ти, одна ціль. _Удачі:_ 22 (3d10 + 6) пошкодження дублювання.    
+**Кек.** _Атака дальньої зброї:_ +9 щоб вдарити, діапазон 50/100, одна мета. _Удара:_ 30 (7d6 + 6) пошкодження дублювання. 
