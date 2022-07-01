@@ -1,30 +1,30 @@
-name: Teleport level: 7 school: conjuration classes: bard sorcerer wizard
+назва: Телепорт рівень: 7 школа: conjuration класи: маємо чіткий сортувальник
 
-# Teleport
-_7th-level conjuration_
+# Телепорт
+_7-ми рівнева тривалість_
 
 **Casting Time:** 1 action    
 **Range:** 10 feet    
 **Components:** V    
 **Duration:** Instantaneous
 
-This spell instantly transports you and up to eight willing creatures of your choice that you can see within range, or a single object that you can see within range, to a destination you select. If you target an object, it must be able to fit entirely inside a 10-foot cube, and it can't be held or carried by an unwilling creature.    
-The destination you choose must be known to you, and it must be on the same plane of existence as you. Your familiarity with the destination determines whether you arrive there successfully. The GM rolls d100 and consults the table.
+Ця заклинання одразу транспортує вас до восьми охочих істот вибору, які ви можете бачити в межах далекого діапазону, або єдиний об'єкт, який ви можете бачити в межах діапазону, до потрібного вам призначення. Якщо ви націлите на об'єкт, він повинен вміститись повністю всередині 10-футового кубика, і це не може бути тримати чи неохоче створіння.    
+Вибране вами повинно бути відоме і має знаходитись на тій же стадії існування. Ваша ознайомленість з пунктом призначення визначає успішність вашого прибутку. GM котиться в 100 і проконсультується зі столом.
 
-| Familiarity       | Mishap | Similar Area | Off Target | On Target |
-| ----------------- | ------ | ------------ | ---------- | --------- |
-| Permanent circle  | -      | -            | -          | 01-100    |
-| Associated object | -      | -            | -          | 01-100    |
-| Very familiar     | 01-05  | 06-13        | 14-24      | 25-100    |
-| Seen casually     | 01-33  | 34-43        | 44-53      | 54-100    |
-| Viewed once       | 01-43  | 44-53        | 54-73      | 74-100    |
-| Description       | 01-43  | 44-53        | 54-73      | 74-100    |
-| False destination | 01-50  | 51-100       | -          | -         |
+| Знайомство            | Mishap | Подібна область | Вимкнення цілі | По цілі |
+| --------------------- | ------ | --------------- | -------------- | ------- |
+| Постійне коло         | -      | -               | -              | 01-100  |
+| Пов'язаний об'єкт     | -      | -               | -              | 01-100  |
+| Дуже добре знайомі    | 01-05  | 06-13           | 14-24          | 25-100  |
+| Бачив випадково       | 01-33  | 34-43           | 44-53          | 54-100  |
+| Переглядів раз        | 01-43  | 44-53           | 54-73          | 74-100  |
+| Опис                  | 01-43  | 44-53           | 54-73          | 74-100  |
+| Помилкове призначення | 01-50  | 51-100          | -              | -       |
 
-**Familiarity.** "Permanent circle" means a permanent teleportation circle whose sigil sequence you know. "Associated object" means that you possess an object taken from the desired destination within the last six months, such as a book from a wizard's library, bed linen from a royal suite, or a chunk of marble from a lich's secret tomb.    
-"Very familiar" is a place you have been very often, a place you have carefully studied, or a place you can see when you cast the spell. "Seen casually" is someplace you have seen more than once but with which you aren't very familiar. "Viewed once" is a place you have seen once, possibly using magic. "Description" is a place whose location and appearance you know through someone else's description, perhaps from a map.    
-"False destination" is a place that doesn't exist. Perhaps you tried to scry an enemy's sanctum but instead viewed an illusion, or you are attempting to teleport to a familiar location that no longer exists.    
-**On Target.** You and your group (or the target object) appear where you want to.    
-**Off Target.** You and your group (or the target object) appear a random distance away from the destination in a random direction. Distance off target is 1d10 × 1d10 percent of the distance that was to be traveled. For example, if you tried to travel 120 miles, landed off target, and rolled a 5 and 3 on the two d10s, then you would be off target by 15 percent, or 18 miles. The GM determines the direction off target randomly by rolling a d8 and designating 1 as north, 2 as northeast, 3 as east, and so on around the points of the compass. If you were teleporting to a coastal city and wound up 18 miles out at sea, you could be in trouble.    
-**Similar Area.** You and your group (or the target object) wind up in a different area that's visually or thematically similar to the target area. If you are heading for your home laboratory, for example, you might wind up in another wizard's laboratory or in an alchemical supply shop that has many of the same tools and implements as your laboratory. Generally, you appear in the closest similar place, but since the spell has no range limit, you could conceivably wind up anywhere on the plane.    
-**Mishap.** The spell's unpredictable magic results in a difficult journey. Each teleporting creature (or the target object) takes 3d10 force damage, and the GM rerolls on the table to see where you wind up (multiple mishaps can occur, dealing damage each time). 
+**Щільність родини.** "Постійне коло" означає постійне коло телепортації, вам відомо сигілістична послідовність. "Пов'язаний об'єкт" означає, що ви володієте об'єктом, взятим з необхідного призначення протягом останніх шести місяців, такі, як книга з чарівницької бібліотеки, ліжко постелили з королівського готелю, або кущик мармуру з таємної могилі на лиха.    
+"Дуже знайома" це місце, яке ви часто знаходитесь, місце, де ви старанно навчалися, або місце, яке можете побачити, коли кинули заклинань. "З "В випадку" ви бачите не тільки один раз, але й не дуже знайомі. "Подивитися один раз" це місце, яке ви бачили один раз, можливо використовуючи магію. "Опис" це місце, місце чиї місцеположення і зовнішній вигляд ви знаєте через чужий опис, можливо з мапи.    
+"False destination" - це місце, якого не існує. Можливо, ви намагалися налякати ворожу святинку, але замість цього дивилися ілюзію, або ви намагаєтеся переміститися у знайоме місце, яке більше не існує.    
+**На цілі.** Ви і ваш груповий (або цільовий об'єкт) виявляється місцем.    
+**від Target.** Вам та вашій групі (або цільовому об'єкту) виявляються випадковою відстанню від місця призначення в випадковому напрямку. Відстань до цілі - 1d10 × 1d10 відсотків від відстані, яка має бути подолана. Наприклад, якщо ви спробували долати 120 миль, злетіти на посадку цілі, та підкинув 5 і 3 на 2 d10 і згодом у вас буде ціль на 15 відсотків або 18 миль. GM визначає напрям від цілі випадково шляхом переміщення d8 і призначення 1 як північ, 2 на північний схід, 3 як на схід і близько точок компаса. Якщо б ви телепортували в прибережне місто і поранили на 18 миль у морі, ви б потрапили у халепу.    
+**Схожа область.** Вам і вашій групі (або цільовому об'єкту) прямують в іншу область, візуально або ж подібну до цільової зони. Наприклад, якщо ви прямуєте до домашньої лабораторії, наприклад, ви можете опинитися в лабораторії іншого чарівника або алхімічного постачання, який має багато тих же інструментів і реалізує вашу лабораторію. В цілому, ви приходите в найближче подібне місце, але оскільки заклинання не має обмеженого діапазону, ви, можливо, можете потрапити будь-де в літак.    
+**Пройшло.** Непередбачувані магічні результати в важкій подорожі. Кожна телепортація істота (або цільовий об'єкт) наносить ушкодження 3d10 сил, і GM ретоли на таблиці, щоб побачити, де ви потрапляєте в воду (може траплятися кілька бід, завдаючи шкоди кожного разу). 
