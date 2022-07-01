@@ -1,23 +1,23 @@
 name: Guard type: humanoid (any race) cr: .125
 
-# Guard
-_Medium humanoid (any race), any alignment_
+# Охорона
+_Середня гуманоїда (будь-яке не), будь-яке вирівнювання_
 
-**Armor Class** 16 (chain shirt, shield)    
-**Hit Points** 11 (2d8 + 2)    
-**Speed** 30 ft.
+**Клас броні** 16 (Ланцюгова сорочка)    
+**Бали** 11 (2d8 + 2)    
+**швидкість** фут.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 13 (+1) | 12 (+1) | 12 (+1) | 10 (+0) | 11 (+0) | 10 (+0) |
 
-**Skills** Perception +2    
-**Senses** passive Perception 12    
-**Languages** any one language (usually Common)    
-**Challenge** 1/8 (25 XP)
+**Вимоги** Перехоплення +2    
+**Senses** пасивного Перехоплення 12    
+**Мови** будь-якої мови (зазвичай Common)    
+**Виклик** 1/8 (25 XP)
 
-### Actions
-**Spear.** _Melee_ or _Ranged Weapon Attack:_ +3 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
+### Дії
+**Спис** _ближній бій_ або _Атака зброї:_ +3 до удару, досягає 5 футів або близько 20/60, одна ціль. _Вразів:_ 4 (1d6 + 1) пробивання пошкоджень, або 5 (1d8 + 1) пробний пошкодження, якщо їх обома руками везуть повітряну атаку.
 
-### Description
-Guards include members of a city watch, sentries in a citadel or fortified town, and the bodyguards of merchants and nobles. 
+### Опис
+До гвардії відносяться члени міської годинника та ремені в цитаделі або укріпленому місті, та охоронці купців і дворян. 
