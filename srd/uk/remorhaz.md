@@ -1,13 +1,13 @@
-name: Remorhaz type: monstrosity cr: 11
+назва: Нагадування тип: монстрозовість cr: 11
 
 # Remorhaz
-_Huge monstrosity, unaligned_
+_Величезний чудовиськ, не вирівняний_
 
-**Armor Class** 17 (natural armor)    
-**Hit Points** 195 (17d12 + 85)    
-**Speed** 30 ft., burrow 20 ft.
+**Клас обладунку** 17 (природна броня)    
+**Очки** 195 (17d12 + 85)    
+**швидкість** фут. здійняти 20 футів.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 24 (+7) | 13 (+1) | 21 (+5) | 4 (−3) | 10 (+0) | 5 (−3) |
 
@@ -16,9 +16,9 @@ _Huge monstrosity, unaligned_
 **Languages** --    
 **Challenge** 11 (7,200 XP)
 
-**Heated Body.** A creature that touches the remorhaz or hits it with a melee attack while within 5 feet of it takes 10 (3d6) fire damage.
+**Отепло.** істота, яка торкається реморхазу або вдаряється в напад ближнього бою, а в межах 5 футів від неї завдають 10 (3d6) пожежної шкоди.
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +11 to hit, reach 10 ft., one target. _Hit:_ 40 (6d10 + 7) piercing damage plus 10 (3d6) fire damage. If the target is a creature, it is grappled (escape DC 17). Until this grapple ends, the target is restrained, and the remorhaz can't bite another target.    
-**Swallow.** The remorhaz makes one bite attack against a Medium or smaller creature it is grappling. If the attack hits, that creature takes the bite's damage and is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the remorhaz, and it takes 21 (6d6) acid damage at the start of each of the remorhaz's turns.    
-If the remorhaz takes 30 damage or more on a single turn from a creature inside it, the remorhaz must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the remorhaz. If the remorhaz dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 15 feet of movement, exiting prone.
+### Дії
+**Біт.** _Атака ближньої зброї:_ +11, досягне 10-ти, одна ціль. _Вдач:_ 40 (6d10 + 7) пробиваючої шкоди + 10 (3d6) завдаваної шкоди. Якщо ціль це істота, вона зачепилася (втеча DN 17). Доки кінцевий баран не буде стримуватись ціль, а реморхаз не може окусити іншу ціль.    
+**Swallow.** Жага викликає напад проти середньої або меншої істоти, що веде до посадки. Якщо атака влучає, ця істота завдає шкоди біту і поглинає, і жнива завершується. Незважаючи на ковтання, істота засліплена і стримана, вона має загальний прикриття від атак та інших наслідків поза каменем, і він забирає 21 (6d6) шкоди в кислоті на початку кожної з черг кабана.    
+Якщо реморхаз отримає 30 пошкоджень або більше одного повороту із істоти всередині нього, реморхаз повинен досягти успіху в збори Конституції DC 15 року, наприкінці цього повороту або повторити всі ковтаючі істоти, які впадають в простір в 10 футів від камуфляжу. Якщо реморхаз вмирає, ковтаюча істота більше не утримується нею і може текти з трупу, використовуючи 15 футів руху, виходячи з кори.
