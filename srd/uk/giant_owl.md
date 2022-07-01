@@ -1,13 +1,13 @@
-name: Giant Owl type: beast cr: .25
+назва: Гігантна Сова тип: звір cr: .25
 
-# Giant Owl
-_Large beast, neutral_
+# Гігантська сова
+_Великий звір, нейтральний_
 
 **Armor Class** 12    
 **Hit Points** 19 (3d10 + 3)    
 **Speed** 5 ft., fly 60 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA     |
 | ------- | ------- | ------- | ------ | ------- | ------- |
 | 13 (+1) | 15 (+2) | 12 (+1) | 8 (−1) | 13 (+1) | 10 (+0) |
 
@@ -16,11 +16,11 @@ _Large beast, neutral_
 **Languages** Giant Owl, understands Common, Elvish, and Sylvan but can't speak them    
 **Challenge** 1/4 (50 XP)
 
-**Flyby.** The owl doesn't provoke opportunity attacks when it flies out of an enemy's reach.    
-**Keen Hearing and Sight.** The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight.
+**Летбі** Сова не провокує альтернативних атак, коли вона вийде з ворога.    
+**Keen Hearing і Sight.** Це має перевагу в мудрості (Виняткові) перевірки, які покладаються на слух або зорі.
 
-### Actions
-**Talons.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 8 (2d6 + 1) slashing damage.
+### Дії
+**Талони** _Атака ближньої зброї:_ +3 до влучання, досягли 5-ї цілі, одна мета. _Удач:_ 8 (2d6 + 1) зменшення шкоди.
 
-### Description
-Giant owls often befriend fey and other sylvan creatures and are guardians of their woodland realms. 
+### Опис
+Гігантські сови часто підкоряються лимонним та іншим сильванським істотам, а це опікуни їхніх лісових земель. 
