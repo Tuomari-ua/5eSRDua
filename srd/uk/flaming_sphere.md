@@ -1,15 +1,15 @@
-name: Flaming Sphere level: 2 school: conjuration classes: druid wizard
+назва: Sphere : 2 школу: conjuration класі: druid майстер
 
-# Flaming Sphere
-_2nd-level conjuration_
+# Палаюча Сфера
+_Однорівнева тривалість_
 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S, M (a bit of tallow, a pinch of brimstone, and a dusting of powdered iron)    
-**Duration:** Concentration, up to 1 minute
+**Час трансляції:** 1 дія    
+**Діапазон:** 60 футів    
+**компонентів:** V, S, M (трохи великий, чагарник з сіркою, і пилення залізо)    
+**тривалість:** Місце проведення, до 1 хвилини
 
-A 5-foot-diameter sphere of fire appears in an unoccupied space of your choice within range and lasts for the duration. Any creature that ends its turn within 5 feet of the sphere must make a Dexterity saving throw. The creature takes 2d6 fire damage on a failed save, or half as much damage on a successful one.    
-As a bonus action, you can move the sphere up to 30 feet. If you ram the sphere into a creature, that creature must make the saving throw against the sphere's damage, and the sphere stops moving this turn.    
-When you move the sphere, you can direct it over barriers up to 5 feet tall and jump it across pits up to 10 feet wide. The sphere ignites flammable objects not being worn or carried, and it sheds bright light in a 20-foot radius and dim light for an additional 20 feet.
+5-метрова сфера вогню з'являється в незайнятому просторі вашого вибору в межах дії і триває тривалість. Будь-яка істота, що кінчить з поворотом в 5 футів сфери, повинна зробити розподілення удару. Створіння наносить пошкодження в 2d6 пожеж у невдалому збереженні, або ж удвічі більше шкоди від успішного.    
+Як дія бонусу, ви можете перемістити сферу вгору на 30 футів. Якщо ви коштуєте сферу в істоту, ця істота повинна змусити врятувати від пошкоджень сфери, а сфера зупиняє рух цього повороту.    
+У разі руху сфери, ви можете направити її на перешкоди до 5 футів у висоту і перестрибнути крізь неї вверх до 10 футів у ширину. Сфера запалює легкозаймисті об'єкти, які не носять або передають їх, і він просочується яскравим світлом у радіусі 20 футів і тьмяним світлом на відстані додаткових 20 футів.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd. 
+**На вищих рівнях.** Коли ви кидаєте це заклинання використовуючи гніздо 3-го рівня або вище, пошкодження збільшує на 1d6 для кожного рівня 2nd. 
