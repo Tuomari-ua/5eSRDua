@@ -1,25 +1,24 @@
-name: Copper Dragon Wyrmling type: dragon cr: 1
+назва: Мідний Дракон вирмлінг тип: дракона cr: 1
 
-# Copper Dragon Wyrmling
-_Medium dragon, chaotic good_
+# Мідний Дракон Вирмлінг
+_Середній дракон, хаотичний смак_
 
 **Armor Class** 16 (natural armor)    
 **Hit Points** 22 (4d8 + 4)    
 **Speed** 30 ft., climb 30 ft., fly 60 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 15 (+2) | 12 (+1) | 13 (+1) | 14 (+2) | 11 (+0) | 13 (+1) |
 
-**Saving Throws** Dex +3, Con +3, Wis +2, Cha +3    
-**Skills** Perception +4, Stealth +3    
-**Damage Immunities** acid    
-**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14    
-**Languages** Draconic    
-**Challenge** 1 (200 XP)
+**Збереження жбурлянь** Dex +3, Con +3, Wis +2, Cha +3 **Навичків** Perception +4, Крадіжки +3    
+**Пошкодження** кислот    
+**Забезпечення** оснащення 10 футів. темп 60 кв. пасивне сприйняття 14    
+мови **мов** Драконо    
+**виклику** (200 XP)
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (1d10 + 2) piercing damage.    
+### Дії
+**Біт.** _Атака ближньої зброї:_ +4 до удару, досягає 5-ї цілі, одна мета. _Hit:_ 7 (1d10 + 2) piercing damage.    
 **Breath Weapons (Recharge 5–6).** The dragon uses one of the following breath weapons.    
-**Acid Breath.** The dragon exhales acid in an 20-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 18 (4d8) acid damage on a failed save, or half as much damage on a successful one.    
-**Slowing Breath.** The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+**Acid Breath.** The dragon exhales acid in an 20-foot line that is 5 feet wide. Кожна істота в цьому рядку повинна зробити економію Dexter DC 11 отримання 18 (4d8) шкоди від пошкоджень у заощадженні, або ж вдвічі більше шкоди від успішного.    
+**світяться дихання.** Дракон видимий у висоті 15 футів шин. Кожна істота в цій галузі повинна досягти успіху в Конституції DC 11 кроку. На невдалому збереженні істота не може використовувати реакції, її швидкість вдвічі зменшується, і вона не може зробити більше однієї атаки на свою чергу. Крім того, істота може використовувати або дію, або бонусну дію на своєму кроці, але не в обох. Ці ефекти тривають протягом 1 хвилини. Створіння може повторювати накопичення в кінці кожної своєї черги, припинивши вплив на себе успішним збереженням.
