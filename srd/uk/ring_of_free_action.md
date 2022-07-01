@@ -1,6 +1,6 @@
-name: Ring of Free Action type: ring
+назва: Кільце вільної дії тип: ring
 
-# Ring of Free Action
-_Ring, rare (requires attunement)_
+# Кільце вільної дії
+_Рідкісний, рідкісний (вимагає відвідування)_
 
-While you wear this ring, difficult terrain doesn't cost you extra movement. In addition, magic can neither reduce your speed nor cause you to be paralyzed or restrained. 
+Коли ви носите це кільце, важка місцевість не коштуватиме вам додаткового руху. Крім того, магія не може не зменшити швидкість і не спричинити паралізованого чи обмеження. 
