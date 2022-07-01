@@ -1,19 +1,19 @@
-name: Glyph of Warding level: 3 school: abjuration classes: bard cleric wizard
+назва: гліф вартових рівень: 3 школи: abjuration класів: парк постановка
 
-# Glyph of Warding
-_3rd-level abjuration_
+# Гліф вартових тонів
+_Відступ на третьому рівні_
 
-**Casting Time:** 1 hour    
-**Range:** Touch    
-**Components:** V, S, M (incense and powdered diamond worth at least 200 gp, which the spell consumes)    
-**Duration:** Until dispelled or triggered
+**Час трансляції :** 1 година    
+**Діапазон:** Торкніться    
+**компонентів:** V, S, М (порядок дії та порошкового алмазу варті щонайменше 200 фунтів, який витрачає заклинання    
+**тривалість:** Поки не буде виключено або запущено
 
-When you cast this spell, you inscribe a glyph that harms other creatures, either upon a surface (such as a table or a section of floor or wall) or within an object that can be closed (such as a book, a scroll, or a treasure chest) to conceal the glyph. If you choose a surface, the glyph can cover an area of the surface no larger than 10 feet in diameter. If you choose an object, that object must remain in its place; if the object is moved more than 10 feet from where you cast this spell, the glyph is broken, and the spell ends without being triggered.    
-The glyph is nearly invisible and requires a successful Intelligence (Investigation) check against your spell save DC to be found.    
-You decide what triggers the glyph when you cast the spell. For glyphs inscribed on a surface, the most typical triggers include touching or standing on the glyph, removing another object covering the glyph, approaching within a certain distance of the glyph, or manipulating the object on which the glyph is inscribed. For glyphs inscribed within an object, the most common triggers include opening that object, approaching within a certain distance of the object, or seeing or reading the glyph. Once a glyph is triggered, this spell ends.    
-You can further refine the trigger so the spell activates only under certain circumstances or according to physical characteristics (such as height or weight), creature kind (for example, the ward could be set to affect aberrations or drow), or alignment. You can also set conditions for creatures that don't trigger the glyph, such as those who say a certain password.    
+Коли ви кладете це заклинання, ви надпишете гліф, який шкодить іншим істотам, або на поверхні (наприклад, стіл або розділ підлоги або стіни), або в об'єкті, який можна закрити (таку як книга, прокрутити або скриню зі скарбами) для приховання гліфа. Якщо ви виберете поверхню, гліф зможе покрити площу поверхні не більшою за 10 футів у діаметрі. Якщо ви виберете об'єкт, цей об'єкт повинен залишатися в його місці; якщо об'єкт рухався більше, ніж за 10 футів від вашого списку, гліф зламаний, і заклинання закінчується без ураження.    
+Гліф є майже невидимим і потребує успішної перевірки розвідки (слідкування за збереженням DC за вашим запитом.    
+Ви вирішуєте, які тригери гліфа під час написання гліфа. Для гліфів, які розміщуються на поверхні, найбільш типовими штрихами є дотиком або розташуванням на гліфі, вилучаючи ще один об'єкт, що охоплює гліф, наближаючись до певної відстані гліфа або маніпулюючи об’єктом, на якому гліф написано. Для гліфів на основі об'єкта, найбільш поширені тригери включають відкриття цього об'єкта, близькість на певній відстані об'єкта, спостерігаючи або читаючи гліф. Коли гліф з’явиться, це заклинання закінчується.    
+Ви можете ще більше уточнити тригер, тому заклинання активується тільки за певних обставин або за фізичними характеристиками (наприклад, висоту чи вагу), істота (наприклад, варта може бути встановлено для стискання аберацій або потоку), або вирівнювання. You can also set conditions for creatures that don't trigger the glyph, such as those who say a certain password.    
 When you inscribe the glyph, choose **explosive runes** or a **spell glyph**.    
-**Explosive Runes.** When triggered, the glyph erupts with magical energy in a 20-foot-radius sphere centered on the glyph. The sphere spreads around corners. Each creature in the area must make a Dexterity saving throw. A creature takes 5d8 acid, cold, fire, lightning, or thunder damage on a failed saving throw (your choice when you create the glyph), or half as much damage on a successful one.    
-**Spell Glyph.** You can store a prepared spell of 3rd level or lower in the glyph by casting it as part of creating the glyph. The spell must target a single creature or an area. The spell being stored has no immediate effect when cast in this way. When the glyph is triggered, the stored spell is cast. If the spell has a target, it targets the creature that triggered the glyph. If the spell affects an area, the area is centered on that creature. If the spell summons hostile creatures or creates harmful objects or traps, they appear as close as possible to the intruder and attack it. If the spell requires concentration, it lasts until the end of its full duration.
+**Explosive Runes.** When triggered, the glyph erupts with magical energy in a 20-foot-radius sphere centered on the glyph. Світлофори поширюються по кутах. Кожна істота в області повинна створити рятування поспіль. Творчість приймає 5d8 кислоти, холодний, вогонь, вогнище, або пошкодження від грози при збереженні (ваш вибір при створенні гліфа) або ж половину шкоди від успішного.    
+**створити гліф.** Ви можете зберегти підготовлене заклинання третього рівня або нижче у гліфі, віддаючи його як частину створення гліфа. Лист має бути призначений для однієї істоти або області. Збережена заклинання не має негайного ефекту під час створення цього шляху. Коли гліф запущено, зберігається заклинання буде закладено. Якщо заклинання має ціль, він має на увазі істоту, яка запустила гліф. Якщо заклинання впливає на територію, площа зосереджена на цій істоті. Якщо заклинання саміт, ворожі істоти або створює шкідливі об'єкти або пастки, вони з'являються якомога ближче до порушника і атакують його. Якщо заклинання вимагає концентрації, воно триває до кінця своєї повної тривалісті.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage of an **explosive runes** glyph increases by 1d8 for each slot level above 3rd. If you create a **spell glyph**, you can store any spell of up to the same level as the slot you use for the **_glyph of warding_**. 
+**На вищих рівнях.** Коли ви кидаєте це заклинання використовуючи слот четвертого рівня або вище, пошкодження шрифту **вибухових рухів** збільшення на 1d8 для кожного рівня слота вище 3rd. Якщо створити **заклинання**, ви можете зберігати будь-яке заклинання до такого ж рівня у слоті, який ви використовуєте для **_гліфа вартових_**. 
