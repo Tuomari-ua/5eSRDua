@@ -1,38 +1,38 @@
-description: Rules and descriptions for diseases from the 5th Edition (5e) SRD (System Reference Document).
+опис: правила та описи для захворювань з 5-ї версії (5e) SRD (Документація з Системної Документації).
 
-# Diseases
-A plague ravages the kingdom, setting the adventurers on a quest to find a cure. An adventurer emerges from an ancient tomb, unopened for centuries, and soon finds herself suffering from a wasting illness. A warlock offends some dark power and contracts a strange affliction that spreads whenever he casts spells.
+# Хвороби
+Чума роздирає королівство, накриваючи пригодників на пошуки, щоб знайти ліки. Пригода з'являється з давньої могили, відкритої століттями і незабаром переживає себе на марні хвороби. warlock ображає певну темну силу і контрастує на чужій відразі, яка поширюється коли він кидає заклинань.
 
-A simple outbreak might amount to little more than a small drain on party resources, curable by a casting of **_lesser restoration_**. A more complicated outbreak can form the basis of one or more adventures as characters search for a cure, stop the spread of the disease, and deal with the consequences.
+Проста спалах може означати трохи більше ніж невелике сток на партійних ресурсах. cтатими кастинг **_менше відновлення_**. Більш складний спалах може стати основою одного або більше пригод, як герой, що шукає ліки, зупинити поширення хвороби і вирішити з наслідками.
 
-A disease that does more than infect a few party members is primarily a plot device. The rules help describe the effects of the disease and how it can be cured, but the specifics of how a disease works aren't bound by a common set of rules. Diseases can affect any creature, and a given illness might or might not pass from one race or kind of creature to another. A plague might affect only constructs or undead, or sweep through a halfling neighborhood but leave other races untouched. What matters is the story you want to tell.
+Захвала, що вражає більше ніж кількох учасників, є насамперед пристроєм. Правила допомагають описати наслідки захворювання та як їх можна вилікувати, але специфіка того, як працює хвороба, не зв'язана загальним набором правил. Хвороби можуть впливати на будь-яке створіння, і якщо з усіх хвороб можуть передаватися чи не переходити з однієї раси або істоти до іншої. Чума може вплинути лише на конструкції чи немертвих або протаємні райони, але залишити інші перегони недоторканими. Що важливо, це та історія, яку ви хочете розповісти.
 
-## Sample Diseases
-The diseases here illustrate the variety of ways disease can work in the game. Feel free to alter the saving throw DCs, incubation times, symptoms, and other characteristics of these diseases to suit your campaign.
+## Приклад хвороб
+Хвороба ось тут ілюструє різноманітні способи, які можуть працювати в грі. Ви можете вільно змінити метод заощадження, викидати дисків, інкубації, симптоми та інші характеристики цих захворювань для проведення вашої кампанії.
 
-### Cackle Fever
-This disease targets humanoids, although gnomes are strangely immune. While in the grips of this disease, victims frequently succumb to fits of mad laughter, giving the disease its common name and its morbid nickname: "the shrieks."
+### Рекл Лихоманка
+Ця хвороба є об'єктами з Гуманоїдів, хоча гноми дивно незахищені. Хоча під час перешкод цієї хвороби жертви часто піддаються прихильності шаленого сміху, даючи хворобу його поширене ім'я і його хворобливий нікнейм: "шерики."
 
-Symptoms manifest 1d4 hours after infection and include fever and disorientation. The infected creature gains one level of exhaustion that can't be removed until the disease is cured.
+Симптоми проявляються за 1d4 години після зараження і містять лихоманку та дезорієнтацію. Заражена істота отримує один рівень виснаження, який не може бути знищений, поки хвороба не вилікуватиметься.
 
-Any event that causes the infected creature great stress--including entering combat, taking damage, experiencing fear, or having a nightmare--forces the creature to make a DC 13 Constitution saving throw. On a failed save, the creature takes 5 (1d10) psychic damage and becomes incapacitated with mad laughter for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the mad laughter and the incapacitated condition on a success.
+Будь-яка подія, яка спричиняє інфіковану істоту великого стресу - в тому числі вступу в бій, приносячи шкоду, переживши страх або мати кошмар - змушує істоту зробити економію Конституції 13 округ Колумбія. У невдалому збереженні істота забирає 5 (1d10) психічні пошкодження та завдають нестримного сміху на 1 хвилину. Ця істота може повторювати порятунок в кінці кожного з своїх черг, припинення шаленого сміху і недієздатного стану на успіх.
 
-Any humanoid creature that starts its turn within 10 feet of an infected creature in the throes of mad laughter must succeed on a DC 10 Constitution saving throw or also become infected with the disease. Once a creature succeeds on this save, it is immune to the mad laughter of that particular infected creature for 24 hours.
+Будь-яка людська істота, яка починає свій поворот на глибину 10 футів від зараженої істоти в покрівлі шаленого сміху, повинна бути успішною на постійному дистрибуції DC 10 або ж заразною хворобою. Як тільки істота досягає цієї рятки, вона не піддається шаленому сміху того конкретного зараженого істоти протягом 24 годин.
 
-At the end of each long rest, an infected creature can make a DC 13 Constitution saving throw. On a successful save, the DC for this save and for the save to avoid an attack of mad laughter drops by 1d6. When the saving throw DC drops to 0, the creature recovers from the disease. A creature that fails three of these saving throws gains a randomly determined form of indefinite madness, as described later in this chapter.
+Наприкінці кожного довгого відпочинку інфікована істота може зробити рятувальну Конституцію DC 13 закладів. На успішному збереженні DC за це врятування і за збереження, щоб уникнути атаки шаленого сміху до 1d6. Коли заощадження заощадження зменшуються до 0, істота відновлюється від хвороби. Твердірка, яка не вдалася від трьох таких заощаджень, отримує випадковим чином рішучу форму невизначеного безумства, як описано в цьому розділі.
 
-### Sewer Plague
-Sewer plague is a generic term for a broad category of illnesses that incubate in sewers, refuse heaps, and stagnant swamps, and which are sometimes transmitted by creatures that dwell in those areas, such as rats and otyughs.
+### Хвороба шумів
+Канцелярська чума - це загальний термін для широкої категорії хвороб, які інкублюють у каналізації, відмовляють від тепла та застійні болоти, і які іноді передаються створіннями, що сидять у цих сферах, такими як щурі й котлами.
 
-When a humanoid creature is bitten by a creature that carries the disease, or when it comes into contact with filth or offal contaminated by the disease, the creature must succeed on a DC 11 Constitution saving throw or become infected.
+Коли гуманоїдна істота укусила істоту, яка несе захворювання, або коли хвороба доходить до контактів з брудом чи забрудненою хворобою, істота повинна бути успішною в процесі створення Конституції DC 11 або бути зараженою.
 
-It takes 1d4 days for sewer plague's symptoms to manifest in an infected creature. Symptoms include fatigue and cramps. The infected creature suffers one level of exhaustion, and it regains only half the normal number of hit points from spending Hit Dice and no hit points from finishing a long rest.
+Симптоми канапи в зараженій істоті займає 1d4 дні. Симптоми включають втому та скорочення. Заражена істота страждає на один рівень виснаження, і це поверне лише половину нормальної кількості влучених точок від збирання дика витратного прибутку і ніяк не потрапляє до кінця тривалої відпочинок.
 
-At the end of each long rest, an infected creature must make a DC 11 Constitution saving throw. On a failed save, the character gains one level of exhaustion. On a successful save, the character's exhaustion level decreases by one level. If a successful saving throw reduces the infected creature's level of exhaustion below 1, the creature recovers from the disease.
+Наприкінці кожного довгого відпочинку інфікована істота повинна зробити рятувальну Конституцію DC 11 ступінь. На помилковому збереженні персонаж виграє один рівень вичерпності. На успішному збереженні рівень вичерпання персонажа падає на один рівень. Якщо успішне кидання енергії знижує рівень виснаження інфікованої істоти нижче 1, то істота відновлюється від захворювання.
 
-### Sight Rot
-This painful infection causes bleeding from the eyes and eventually blinds the victim.
+### Сіайт Рот
+Це болісне зараження викликає кровотечу з очей і врешті-решт осліплює жертву.
 
-A beast or humanoid that drinks water tainted by sight rot must succeed on a DC 15 Constitution saving throw or become infected. One day after infection, the creature's vision starts to become blurry. The creature takes a −1 penalty to attack rolls and ability checks that rely on sight. At the end of each long rest after the symptoms appear, the penalty worsens by 1. When it reaches −5, the victim is blinded until its sight is restored by magic such as **_lesser restoration_** or **_heal_**.
+Звір або гуманоїд, які п’ють воду, за допомогою гнилого зору, повинні досягти успіху в економії конституції DC 15 кидає або стають інфікованими. Через день після зараження створюється розмиття. Істота набуває штрафу у розмірі Kel1 для нападу на заколоти і перевірки можливостей, які покладаються на зір. В кінці кожної відпочинку після появи симптомів, штраф погіршиться на 1. Коли кривда досягає 5, жертва закриється, доки її приціл не буде відновлено магічними даними наприклад **_менше відновлення_** або **_зцілити_**.
 
-Sight rot can be cured using a rare flower called Eyebright, which grows in some swamps. Given an hour, a character who has proficiency with an herbalism kit can turn the flower into one dose of ointment. Applied to the eyes before a long rest, one dose of it prevents the disease from worsening after that rest. After three doses, the ointment cures the disease entirely.
+Прихилого гнізда можна вилікувати, використовуючи рідкісну квітку під назвою Eyebright, яка росте в деяких болотах. Враховуючи годину, персонаж, який має здібність до гербалізму може перетворити квітку в одну дозу мачання. Припускається до очей перед довгим відпочинком, одна доза неї заважає хвороби погіршуватися після цього відпочинку. Після трьох доз масть повністю лікує захворювання.
