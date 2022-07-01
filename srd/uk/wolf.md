@@ -1,23 +1,23 @@
-name: Wolf type: beast cr: .25
+назва: Вовк тип: Звір cr: .25
 
-# Wolf
-_Medium beast, unaligned_
+# Вовк
+_Середній звір, неприєднаний_
 
 **Armor Class** 13 (natural armor)    
 **Hit Points** 11 (2d8 + 2)    
 **Speed** 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 12 (+1) | 15 (+2) | 12 (+1) | 3 (−4) | 12 (+1) | 6 (−2) |
 
-**Skills** Perception +3, Stealth +4    
-**Senses** passive Perception 13    
-**Languages** --    
-**Challenge** 1/4 (50 XP)
+**Навичка** Перехоплення +3, Крадіжка +4    
+**Senses** пасивного Виключення 13    
+**Мови** --    
+**Виклик** 1/4 (50 XP)
 
-**Keen Hearing and Smell.** The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.    
-**Pack Tactics.** The wolf has advantage on attack rolls against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.
+**Цілком серце і пахне.** Вовк скористався годинником у мудрості (Виключення) перевірками, які покладаються на слух або запах.    
+**Тактики з пакету.** вовк має перевагу в атаці рухів проти істоти, якщо принаймні один з союзників вовка знаходиться на протязі 5 футів істоти, а союзник не недієздатний.
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone. 
+### Дії
+**Біт.** _Атака ближньої зброї:_ +4 до удару, досягає 5-ї цілі, одна мета. _Вдач:_ 7 (2d4 + 2) пробне пошкодження. Якщо ціль є створенням, вона повинна перейти до успіху в економії сили DC 11 або бути постукованою часткою. 
