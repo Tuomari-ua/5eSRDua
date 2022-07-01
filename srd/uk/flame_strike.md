@@ -1,13 +1,13 @@
-name: Flame Strike level: 5 school: evocation classes: cleric
+назва: Flame Strike рівень: 5 школа: евакуація класів: священнослужителя
 
-# Flame Strike
-_5th-level evocation_
+# Полум'яний Удар
+_Евокація 5-го рівня_
 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S, M (pinch of sulfur)    
-**Duration:** Instantaneous
+**Час трансляції :** 1 дія    
+**Діапазон:** 60 футів    
+**компоненти:** V, S, М (рожевий сірник)    
+**тривалість:** миттєві
 
-A vertical column of divine fire roars down from the heavens in a location you specify. Each creature in a 10-foot-radius, 40-foot-high cylinder centered on a point within range must make a Dexterity saving throw. A creature takes 4d6 fire damage and 4d6 radiant damage on a failed save, or half as much damage on a successful one.
+Вертикальна колонка божественного вогню гніздиться з небес у місці, де ви вказали. Кожна істота в 10-футовому радіусі, 40-футовому циліндричному центрі, зосередженому на точці, повинна зробити розподілення ощадливості поспіль. Істота завдає шкоди 4d6 вогню, а 4d6 випромінювальних пошкоджень від невдалого заощадження, або ж удвічі більша.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the fire damage or the radiant damage (your choice) increases by 1d6 for each slot level above 5th. 
+**На вищих рівнях.** Коли ви кидаєте це заклинання використовуючи слот 6-го рівня або вище, пошкодження від вогню або сяйва збільшується на 1d6 для кожного слоту вище 5го рівня. 
