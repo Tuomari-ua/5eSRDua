@@ -1,12 +1,12 @@
-name: Goodberry level: 1 school: transmutation classes: druid ranger
+назва: Goodberry рівень: 1 школа: транмутація класи: druid діапазон
 
-# Goodberry
-_1st-level transmutation_
+# Гудберрі
+_11-ша трансмутація_
 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S, M (a sprig of mistletoe)    
-**Duration:** Instantaneous
+**Час трансляції :** 1 дія    
+**Діапазон:** Торкніться    
+**компоненти:** V, S, М (сплеск туману)    
+**тривалість:** миттєві
 
-Up to ten berries appear in your hand and are infused with magic for the duration. A creature can use its action to eat one berry. Eating a berry restores 1 hit point, and the berry provides enough nourishment to sustain a creature for one day.    
-The berries lose their potency if they have not been consumed within 24 hours of the casting of this spell.
+До десяти ягід з'являється у руці, наповнені магією на тривалість. Творчість може використати свою дію, щоб з'їсти одну ягід. Вживання ягоди відновлює роботу в 1 хіт, а ягідка забезпечує достатнє харчування для підтримки істоти протягом одного дня.    
+Ягоди втрачають потенціал, якщо вони не були спожиті протягом 24 годин лиття цього заклинання.
