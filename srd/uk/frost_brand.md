@@ -1,10 +1,10 @@
-name: Frost Brand type: weapon
+назва: Frost бренд тип: зброя
 
-# Frost Brand
-_Weapon (any sword), very rare (requires attunement)_
+# Морозний бренд
+_Зброя (будь який меч), дуже рідкісний (вимагає удару)_
 
-When you hit with an attack using this magic sword, the target takes an extra 1d6 cold damage. In addition, while you hold the sword, you have resistance to fire damage.
+Коли вдариш через атаку, використовуючи цей чарівний меч, ціль завдає додатково 1d6 холодних пошкоджень. Крім того, поки ти тримаєш меч, ти маєш опір вогню.
 
-In freezing temperatures, the blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
+В умовах замерзання температури леза проливає яскраве світло на 10-футовому радіусі і тьмяному світлі ще 10 футів.
 
-When you draw this weapon, you can extinguish all nonmagical flames within 30 feet of you. This property can be used no more than once per hour. 
+Коли ви малюєте цю зброю, ви можете гасити всі немагічні полум'я на відстані 30 футів від вас. Ця властивість може використовуватись не частіше ніж один раз на годину. 
