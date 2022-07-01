@@ -1,38 +1,38 @@
-description: Rules and information for the Dragonborn race from the 5th Edition (5e) SRD (System Reference Document).
+опис: Правила та інформація для перегонів 5-ї версії (5e) SRD (Документація по Системній Рекламі).
 
-# Dragonborn
-## Dragonborn Traits
+# Драгонборн
+## Риси Драконів
 - - -
-Your draconic heritage manifests in a variety of traits you share with other dragonborn.
+Ваша драконічна спадщина проявляється в різних рисах тих ознак, які ви розділяєте з іншими драконами.
 
-**Ability Score Increase.** Your Strength score increases by 2, and your Charisma score increases by 1.
+**Оцінка здібностей зростає.** Рівень вашої сили збільшується на 2, а бал вашої Хариси збільшується на 1.
 
-**Age.** Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80.
+**Вік.** Молодий драконнародився швидко росте. Вони ходять годинами після вилучення, досягнуть розміру та розвитку десятирічної людської дитини до віку в 3 років і досягнуть дорослого віку. Вони доживають до 80.
 
-**Alignment.** Dragonborn tend to extremes, making a conscious choice for one side or the other in the cosmic war between good and evil. Most dragonborn are good, but those who side with evil can be terrible villains.
+**Alignment.** Dragonborn tend to extremes, making a conscious choice for one side or the other in the cosmic war between good and evil. Більшість драконів хороші, але ті, що йдуть із злом, можуть бути страшними лихами.
 
-**Size.** Dragonborn are taller and heavier than humans, standing well over 6 feet tall and averaging almost 250 pounds. Your size is Medium.
+**Розмір.** Дракононароджені вищі й важчі за людей, що в середньому стоять понад 6 футів у висоті і в середньому майже 250 фунтів. Ваш розмір є медичним.
 
-**Speed.** Your base walking speed is 30 feet.
+**Швидкість.** Ваша базова швидкість ходьби становить 30 футів.
 
 #### Draconic Ancestry
-| Dragon | Damage Type | Breath Weapon                |
-| ------ | ----------- | ---------------------------- |
-| Black  | Acid        | 5 by 30 ft. line (Dex. save) |
-| Blue   | Lightning   | 5 by 30 ft. line (Dex. save) |
-| Brass  | Fire        | 5 by 30 ft. line (Dex. save) |
-| Bronze | Lightning   | 5 by 30 ft. line (Dex. save) |
-| Copper | Acid        | 5 by 30 ft. line (Dex. save) |
-| Gold   | Fire        | 15 ft. cone (Dex. save)      |
-| Green  | Poison      | 15 ft. cone (Con. save)      |
-| Red    | Fire        | 15 ft. cone (Dex. save)      |
-| Silver | Cold        | 15 ft. cone (Con. save)      |
-| White  | Cold        | 15 ft. cone (Con. save)      |
+| Дракон       | Тип шкоди | Зброя дихання                         |
+| ------------ | --------- | ------------------------------------- |
+| Чорний колір | Кислоти   | 5 на 30 футів лінії (Dex. збереження) |
+| Синій        | Блискавка | 5 на 30 футів лінії (Dex. збереження) |
+| Латунь       | Вогонь    | 5 на 30 футів лінії (Dex. збереження) |
+| Бронза       | Блискавка | 5 на 30 футів лінії (Dex. збереження) |
+| Мідь         | Кислоти   | 5 на 30 футів лінії (Dex. збереження) |
+| Золото       | Вогонь    | Конус 15 футів (Dex. збереження)      |
+| Зелений      | Отрута    | Конус 15 футів (Кон. збереження)      |
+| Червоний     | Вогонь    | Конус 15 футів (Dex. збереження)      |
+| Срібло       | Холод     | Конус 15 футів (Кон. збереження)      |
+| Білі         | Холод     | Конус 15 футів (Кон. збереження)      |
 
-**Draconic Ancestry.** You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table.
+**Драконічний Спадковий антибіотик.** Ви мали драконічний родовід. Виберіть один тип дракона зі столу Драконського анкету. Зброя вашого дихання і опір пошкодження визначаються типом дракона, як показано у столі.
 
-**Breath Weapon.** You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation. When you use your breath weapon, each creature in the area of the exhalation must make a saving throw, the type of which is determined by your draconic ancestry. The DC for this saving throw equals **_8 + your Constitution modifier + your proficiency bonus._** A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level. After you use your breath weapon, you can’t use it again until you complete a short or long rest.
+**дихальна зброя.** Ви можете використовувати свої дії для передачі потужності деструктивної енергії. Ваш драконічний предк визначає розмір, форму, ушкодження типу вдихання. При використанні зброї віддиху, кожна істота в області виділення повинна зробити рятувальний ряд, тип якого визначається драконічним родом. DC для цього кинути рівне **_8 + модифікатор Конституції + ваш бонус чутливості._** Створіння наносить 2d6 пошкодження від зазнає невдачі, та половину шкоди від успішного. Пошкодження збільшує на 3d6 на 6-му рівні, 4d6 на 11-му рівні та 5d6 на 16-му рівні. Після того, як ви використовуєте дихальну зброю, ви не можете використовувати її знову, поки не закінчиться коротке або довге відпочинку.
 
-**Damage Resistance.** You have resistance to the damage type associated with your draconic ancestry.
+**Стійкість до пошкоджень.** У вас опір до типу пошкодження, пов’язаної з вашим походженням дрейконічного.
 
-**Languages.** You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.  
+**Мови** можна говорити, читати і писати звичайну і драконську. Драконізм вважає однією з найдавніших мов і часто використовується в вивченні магії. Мова звучить суворим для більшості інших істот і включає в себе численних жорстких прийомів і сибілів.  
