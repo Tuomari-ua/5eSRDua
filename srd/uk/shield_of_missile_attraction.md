@@ -1,8 +1,8 @@
-name: Shield of Missile Attraction type: armor
+назва: Щит Спорядження ракети тип: броня
 
-# Shield of Missile Attraction
-_Armor (shield), rare (requires attunement)_
+# Щит Злиття ракети
+_Броня (щит), рідкісна (потребує супроводу)_
 
-While holding this shield, you have resistance to damage from ranged weapon attacks.
+Тримаючи цей щит, ви маєте опір шкоді від ударів із дальньої зброї.
 
-**Curse.** This shield is cursed. Attuning to it curses you until you are targeted by the **_remove curse_** spell or similar magic. Removing the shield fails to end the curse on you. Whenever a ranged weapon attack is made against a target within 10 feet of you, the curse causes you to become the target instead. 
+**Прокляття.** Цей щит проклятий. Намагаючись проклинати її, доки на тебе не націлить **_видалити прокляття_** або аналогічну магію. Видалення щита не може закінчитися прокляттям на вас. Щоразу, коли атака стрімкої зброї здійснюється проти цілі в 10 футів від вас, прокляття змушує вас стати мішенню. 
