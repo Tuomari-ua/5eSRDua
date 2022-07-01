@@ -1,6 +1,6 @@
-name: Medallion of Thoughts type: item
+назва: Medallion Thoughts тип: елемент
 
-# Medallion of Thoughts
-_Wondrous item, uncommon (requires attunement)_
+# Медаліон Душей
+_Нетиповий предмет Wondrous (вимагає приєднання)_
 
-The medallion has 3 charges. While wearing it, you can use an action and expend 1 charge to cast the **_detect thoughts_** spell (save DC 13) from it. The medallion regains 1d3 expended charges daily at dawn. 
+Медаліон має 3 заряди. При його носі, ви можете використати дію і подовжити 1 заряд для кидання **_виявити думки_** заклинання (збереження DC 13) від неї. Медальйон відновлює щоденно 1d3 витрати, витрачені на світанку. 
