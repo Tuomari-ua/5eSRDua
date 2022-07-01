@@ -1,13 +1,13 @@
-name: Chain Devil type: fiend (devil) cr: 8
+назва: Ланцюговий Диявол тип: fiend (devil) cr: 8
 
-# Chain Devil
-_Medium fiend (devil), lawful evil_
+# Ланцюговий Диявол
+_Середній диявол), законне зло_
 
-**Armor Class** 16 (natural armor)    
-**Hit Points** 85 (10d8 + 40)    
-**Speed** 30 ft.
+**Клас броні** 16 (природна броня)    
+**Бали** 85 (10d8 + 40)    
+**Швидкість** фут.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 15 (+2) | 18 (+4) | 11 (+0) | 12 (+1) | 14 (+2) |
 
@@ -22,11 +22,11 @@ _Medium fiend (devil), lawful evil_
 **Devil's Sight.** Magical darkness doesn't impede the devil's darkvision.    
 **Magic Resistance.** The devil has advantage on saving throws against spells and other magical effects.
 
-### Actions
-**Multiattack.** The devil makes two attacks with its chains.    
-**Chain.** _Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target. _Hit:_ 11 (2d6 + 4) slashing damage. The target is grappled (escape DC 14) if the devil isn't already grappling a creature. Until this grapple ends, the target is restrained and takes 7 (2d6) piercing damage at the start of each of its turns.    
-**Animate Chains (Recharges after a Short or Long Rest).** Up to four chains the devil can see within 60 feet of it magically sprout razor-­edged barbs and animate under the devil's control, provided that the chains aren't being worn or carried.    
-Each animated chain is an object with AC 20, 20 hit points, resistance to piercing damage, and immunity to psychic and thunder damage. When the devil uses multiattack on its turn, it can use each animated chain to make one additional chain attack. An animated chain can grapple one creature of its own but can't make attacks while grappling. An animated chain reverts to its inanimate state if reduced to 0 hit points or if the devil is incapacitated or dies.
+### Дії
+**Багатоатака.** Диявол робить дві атаки зі своїми ланцюжками.    
+**Ланцюгом.** _Атака ближньої зброї:_ +8 щоб вдарити, досягти 10-ти, одна ціль. _Вразів:_ 11 (2d6 + 4) пошкодження. Ціль передається (втеча від дракона 14), якщо диявол вже не бореться з істотою. Поки ця жалюгідність не закінчиться і не завдасть 7 (2d6) пробивання на початку кожної своєї черги.    
+**Анімаційні ланцюжки (перевантаження після Короткого або Довгого відновлення).** До чотирьох ланцюгів диявол може бачити в межах 60 футів магічним чином розпорошеним штрихами і анімованими під контролем диявола, повідомили, що ланцюжки не носять або не доставляються.    
+Кожен анімований ланцюг є об'єктом з AC 20, 20 очками стійкість до пробивання шкоди, а імунітет до психіки та грому. Коли диявол використовує багатоатаку на свою чергу, він може використовувати кожен анімований ланцюжок, щоб зробити одну додаткову ланцюгову атаку. Анімований ланцюг може захоплювати одну істоту власної, але не може робити атаки під час вирощування. Анімований ланцюг повертається до його неживих стану, якщо зменшується до 0 чолов'яжних пунктів або якщо диявол недієздатний або помирає.
 
-### Reactions
-**Unnerving Mask.** When a creature the devil can see starts its turn within 30 feet of the devil, the devil can create the illusion that it looks like one of the creature's departed loved ones or bitter enemies. If the creature can see the devil, it must succeed on a DC 14 Wisdom saving throw or be frightened until the end of its turn.
+### Реакції
+**Модифінальна Маска.** Коли диявол бачить істоту, вона починає свою чергу в 30 футів від диявола, диявол може створити ілюзію, що це схоже на те, що одна з істот пом'якшена до одного, чи гіркого ворога. Якщо істота може бачити диявол, для досягнення успіху в DC 14 Мудрості навпаки злякатися до кінця свого повороту.
