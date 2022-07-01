@@ -1,12 +1,12 @@
-name: Regenerate level: 7 school: transmutation classes: bard cleric druid
+назва: Повторне створення рівень: 7 школа: транмутація класів: Бард подвійний druid
 
-# Regenerate
-_7th-level transmutation_
+# Згенерувати новий
+_7-й рівень трансмутації_
 
-**Casting Time:** 1 minute    
-**Range:** Touch    
-**Components:** V, S, M (a prayer wheel and holy water)    
-**Duration:** 1 hour
+**Час трансляції :** 1 хвилину    
+**Діапазон:** Торкніться    
+**компоненти:** V, S, М (колесо молитви і свята вода)    
+**Тривалість:** години
 
-You touch a creature and stimulate its natural healing ability. The target regains 4d8 + 15 hit points. For the duration of the spell, the target regains 1 hit point at the start of each of its turns (10 hit points each minute).    
-The target's severed body members (fingers, legs, tails, and so on), if any, are restored after 2 minutes. If you have the severed part and hold it to the stump, the spell instantaneously causes the limb to knit to the stump. 
+Ви торкаєтеся істоти та стимулюєте її природні життєздатності. Цільова ціль повертає 4d8 + 15 влучань. На тривалість заклинання ціль повертає 1 точку на початку кожної позиції повороту (10 очків щохвилини).    
+Члени цілі (пальці, ноги, хвости тощо), якщо вони є, відновлюються через 2 хвилини. Якщо у вас є розрізана частина і утримуйте її на палубу, заклинання миттєво змушує кінцівка зв"язати палубу. 
