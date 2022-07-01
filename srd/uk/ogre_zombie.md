@@ -1,13 +1,13 @@
-name: Ogre Zombie type: undead cr: 2
+назва: Ogre Zombie тип: нежирний cr: 2
 
 # Ogre Zombie
-_Large undead, neutral evil_
+_Велике несмертне, нейтральне зло_
 
-**Armor Class** 8    
-**Hit Points** 85 (9d10 + 36)    
-**Speed** 30 ft.
+**Клас броні** 8    
+**Очки** 85 (9d10 + 36)    
+**Швидкість** фут.
 
-| STR     | DEX    | CON     | INT    | WIS    | CHA    |
+| СТР     | ДЕКС   | CON     | ІНТ    | WIS    | CHA    |
 | ------- | ------ | ------- | ------ | ------ | ------ |
 | 19 (+4) | 6 (−2) | 18 (+4) | 3 (−4) | 6 (−2) | 5 (−3) |
 
@@ -18,7 +18,7 @@ _Large undead, neutral evil_
 **Languages** understands Common and Giant but can't speak    
 **Challenge** 2 (450 XP)
 
-**Undead Fortitude.** If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
+**Невмирущий Фортуна.** Якщо пошкодження зменшує зомбі до 0 ударів це має зробити рятування Конституції наданням диплому з 5 + завданої шкоди, якщо шкода не є випроміненою або критичною ударами. На успіху зомбі випадає до 1 очка.
 
-### Actions
-**Morningstar.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) bludgeoning damage.
+### Дії
+**Морнінгзор.** _Атака важкої зброї:_ +6 для удару, досягає 5 щитів, одна ціль. _Удару:_ 13 (2d8 + 4) пошкодження дублювання.
