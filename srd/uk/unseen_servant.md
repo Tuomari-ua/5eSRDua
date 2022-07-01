@@ -1,13 +1,13 @@
-name: Unseen Servant level: 1 school: conjuration classes: bard warlock wizard
+назва: Невидимий Слуга рівень: 1 школа: паралельність класів: тверда варва
 
-# Unseen Servant
-_1st-level conjuration (ritual)_
+# Невидима служба
+_Однорівнева кон'юрація (ритуал)_
 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S, M (a piece of string and a bit of wood)    
-**Duration:** 1 hour
+**Час трансляції :** 1 дія    
+**Діапазон:** 60 футів    
+**компоненти:** V, S, M (шматок рядка і трохи дерева)    
+**тривалість:** години
 
-This spell creates an invisible, mindless, shapeless force that performs simple tasks at your command until the spell ends. The servant springs into existence in an unoccupied space on the ground within range. It has AC 10, 1 hit point, and a Strength of 2, and it can't attack. If it drops to 0 hit points, the spell ends.    
-Once on each of your turns as a bonus action, you can mentally command the servant to move up to 15 feet and interact with an object. The servant can perform simple tasks that a human servant could do, such as fetching things, cleaning, mending, folding clothes, lighting fires, serving food, and pouring wine. Once you give the command, the servant performs the task to the best of its ability until it completes the task, then waits for your next command.    
-If you command the servant to perform a task that would move it more than 60 feet away from you, the spell ends.
+Ця заклинання створює невидиму, бездумну і безглузду силу, яка виконує прості завдання під час виконання вашої команди до кінця. Службові джерела, існували в незазайнятому просторі на землі в далечині. Він має силу АС 10, 1 місце удару. І сила 2, і він не може атакувати. Якщо воно впаде до нуля визначних точок, то написано заклинання закінчується.    
+Один з ваших поворотів як бонусна дія команда розуму може підняти його до 15 футів та взаємодіяти з об'єктом. Служниця може виконувати прості завдання, які людський раб міг зробити, такі як отримання речей, очищення, поштукатурення, складання одягу, освітлення пожеж, їжа та виливання вина. Як тільки Ви даєте команду, служниця виконує завдання якнайкраще, що дає йому можливість до виконання завдання, потім чекайте на вашу наступну команду.    
+Якщо ви накажете службі виконати завдання, що зробить його більш ніж 60 футів від вас, заклинання закінчується.
