@@ -1,10 +1,11 @@
-# Устаткування
+# Раси
 
-* [Пригоди передач](/adventuring/equipment/adventuring_gear/)
-* [Броня](/adventuring/equipment/armor/)
-* [Монети](/adventuring/equipment/coins/)
-* [Набори Спорядження](/adventuring/equipment/equipment_packs/)
-* [Верхи та транспортні засоби](/adventuring/equipment/mounts_and_vehicles/)
-* [Інструменти](/adventuring/equipment/tools/)
-* [Торгуйте](/adventuring/equipment/trade_goods/)
-* [Зброя](/adventuring/equipment/weapons/)     
+* [Драгонборн](/character/races/dragonborn/)
+* [Гноми](/character/races/dwarf/)
+* [Ельфи](/character/races/elf/)
+* [Gnome](/character/races/gnome/)
+* [НапівЕльф](/character/races/half-elf/)
+* [Північний орк](/character/races/half-orc/)
+* [Галфлінг](/character/races/halfling/)
+* [Людина](/character/races/human/)
+* [Tiefling](/character/races/tiefling/)
