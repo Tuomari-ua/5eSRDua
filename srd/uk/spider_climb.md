@@ -1,11 +1,11 @@
-name: Spider Climb level: 2 school: transmutation classes: sorcerer warlock wizard
+назва: Підйом павука рівень: 2 школа: транмутація класі: сортувальник захопити
 
-# Spider Climb
-_2nd-level transmutation_
+# Сходження павука
+_Трансмутація 2N-рівня_
 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S, M (a drop of bitumen and a spider)   
-**Duration:** Concentration, up to 1 hour
+**Час трансляції :** 1 дія    
+**Діапазон:** Торкніться    
+**компоненти:** V, S, М (падіння бітум та павука)   
+**тривалість:** межі, до 1 години
 
-Until the spell ends, one willing creature you touch gains the ability to move up, down, and across vertical surfaces and upside down along ceilings, while leaving its hands free. The target also gains a climbing speed equal to its walking speed. 
+Поки заклинання не завершується, один охоче істота з вами надходить можливість рухатися вгору, вниз, і на усіх вертикальних поверхонях і догори стілем, залишаючи його руки вільними. Ціль також підвищує швидкість своїх кроків. 
