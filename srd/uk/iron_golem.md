@@ -1,29 +1,29 @@
-name: Iron Golem type: construct cr: 16
+назва: Залізний Голем тип: конструювання cr: 16
 
-# Iron Golem
-_Large construct, unaligned_
+# Залізний ґолем
+_Велика конструкція, не вирівняти_
 
 **Armor Class** 20 (natural armor)    
 **Hit Points** 210 (20d10 + 100)    
 **Speed** 30 ft.
 
-| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС   | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------ | ------- | ------ | ------- | ------ |
 | 24 (+7) | 9 (−1) | 20 (+5) | 3 (−4) | 11 (+0) | 1 (−5) |
 
-**Damage Immunities** fire, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine    
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned    
-**Senses** darkvision 120 ft., passive Perception 10    
-**Languages** understands the languages of its creator but can't speak    
-**Challenge** 16 (15,000 XP)
+**Враження пошкоджень** вогонь, отрута, психіка; bludgeoning, проколювання і різання з немагічних атак, які не є несанкціонованими    
+**Імунітети з умов** забарвлені, виснаження, перелякане, паралізоване, напрочущене, отруєне    
+**Способи захисту від темряви** футів затемнення 120 футів. пасивне сприйняття 10    
+**мови** розуміє мови його творця, але не може говорити    
+виклик**Завдань** (15, 16 00 ДОСВІДУ)
 
 **Fire Absorption.** Whenever the golem is subjected to fire damage, it takes no damage and instead regains a number of hit points equal to the fire damage dealt.    
 **Immutable Form.** The golem is immune to any spell or effect that would alter its form.    
 **Magic Resistance.** The golem has advantage on saving throws against spells and other magical effects.    
 **Magic Weapons.** The golem's weapon attacks are magical.
 
-### Actions
-**Multiattack.** The golem makes two melee attacks.    
-**Slam.** _Melee Weapon Attack:_ +13 to hit, reach 5 ft., one target. _Hit:_ 20 (3d8 + 7) bludgeoning damage.    
-**Sword.** _Melee Weapon Attack:_ +13 to hit, reach 10 ft., one target. _Hit:_ 23 (3d10 + 7) slashing damage.    
-**Poison Breath (Recharge 6).** The golem exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
+### Дії
+**Багатоатака.** Голем зробив дві атаки на ближній бік.    
+**Слема.** _Атака ближньої зброї:_ +13 щоб вдаряти, досягти 5-ти цілі, одна ціль. _Удара:_ 20 (3d8 + 7) пошкодження дублювання.    
+**Меч.** _Атака ближньої зброї:_ +13, щоб вдарити в ціль, досягнути 10; одна ціль. _Вражає:_ 23 (3d10 + 7) наносити шкоду.    
+**Отрутне дихання (повторне заряджання 6).** Голем виділяє отруйний газ у 15-футовій шишці. Кожна істота в цій галузі повинна зробити СР 19 заощаджень конституції отримання 45 (10d8) пошкодження отрути при невдалому збереженні, або ж удвічі більше шкоди від успішного.
