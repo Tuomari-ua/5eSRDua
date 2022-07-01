@@ -1,18 +1,18 @@
-description: A list of prebuilt equipment packs for characters from the 5th Edition (5e) SRD (System Reference Document).
+опис: список попередньо побудованих набори спорядження для символів з 5-ї версії (5e) SRD (Документація по Системній Документації).
 
-# Equipment packs
-The starting equipment you get from your class includes a collection of useful adventuring gear, put together in a pack. The contents of these packs are listed here. If you are buying your starting equipment, you can purchase a pack for the price shown, which might be cheaper than buying the items individually.
+# Пакети спорядження
+Початкове обладнання, яке ви отримаєте від вашого класу, включає в себе колекцію корисного пригодницького шестерня, складеного в пакет. Тут перераховано вміст цих пакетів. Якщо ви купуєте початкове обладнання, ви можете придбати пакунок для показника цін, який може бути дешевшим, ніж купуєте предмети індивідуально.
 
-**Burglar's Pack (16 gp).** Includes a backpack, a bag of 1,000 ball bearings, 10 feet of string, a bell, 5 candles, a crowbar, a hammer, 10 pitons, a hooded lantern, 2 flasks of oil, 5 days rations, a tinderbox, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
+**Пакунок Бурглара (16 gp).** Включає рюкзак, мішок з 1000 ферм м'яча, протистояння, дзвін в 10 футів, дзвіночок, 5 свічок, лопків, коронуса, молот, 10 пітонів, ліхтаря, 2 маски нафти, 5 днів з трубочками, табочковиною і водяною шкірою. У пакунку також міститься 50 футів степової мотузки, що звисала до її кінця.
 
-**Diplomat's Pack (39 gp).** Includes a chest, 2 cases for maps and scrolls, a set of fine clothes, a bottle of ink, an ink pen, a lamp, 2 flasks of oil, 5 sheets of paper, a vial of perfume, sealing wax, and soap.
+**Пакет Дипломатів (39 gp).** Включає скриню, 2 випадки для карт і прокрутки, набір тонких одягу, пляшечку чорнил, рожевою перою, лампою, 2 маски нафти, 5 шматків паперу, віламу парфуму, сокири та мило.
 
-**Dungeoneer's Pack (12 gp).** Includes a backpack, a crowbar, a hammer, 10 pitons, 10 torches, a tinderbox, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
+**Пакунок Підземелля (12 сигналів).** Включає рюкзак, тунчик, молот, 10 топок, 10 смолоскипів, контейнер з олівцем, 10 днів пакування та водяної шкіри. У пакунку також міститься 50 футів степової мотузки, що звисала до її кінця.
 
-**Entertainer's Pack (40 gp).** Includes a backpack, a bedroll, 2 costumes, 5 candles, 5 days of rations, a waterskin, and a disguise kit.
+**Пакунок Розглядачів (40 gp).** Включає рюкзак, спальня, 2 костюми, 5 свічок, 5 днів пайків, водяної шкіри та маскування комплекту.
 
-**Explorer's Pack (10 gp).** Includes a backpack, a bedroll, a mess kit, a tinderbox, 10 torches, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
+**Набір дослідника (10 gp).** Включає бекпак, спальні, суцільний комплект, тонусник, 10 смолоскипів, 10 днів пайків і водяної шкіри. У пакунку також міститься 50 футів степової мотузки, що звисала до її кінця.
 
-**Priest's Pack (19 gp).** Includes a backpack, a blanket, 10 candles, a tinderbox, an alms box, 2 blocks of incense, a censer, vestments, 2 days of rations, and a waterskin.
+**Пакунок священика (19 gp).** Включає рюкзак, ковдрою, 10 свічок, таблетку, секретну скриньку з інверстатом 2 блоки кадила, кадильниця, рубки, 2 дні пайців та водяної шкіри.
 
-**Scholar's Pack (40 gp).**) Includes a backpack, a book of lore, a bottle of ink, an ink pen, 10 sheets of parchment, a little bag of sand, and a small knife.
+**Вчений Пакунок (40 gp).**) Включає рюкзак, книгу з лором, пляшку чорнил, рожеву ручку, 10 аркушів пергаменту, маленький мішок піску і невеликий ніж.
