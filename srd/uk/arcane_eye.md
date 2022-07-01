@@ -1,13 +1,13 @@
-name: Arcane Eye level: 4 school: divination classes: wizard
+назва: Око масиву рівень: 4 школи: divination класи: чарівник
 
-# Arcane Eye
-_4th-level divination_
+# Арканське око
+_4 рівні розлучення_
 
-**Casting Time:** 1 action   
-**Range:** 30 feet   
-**Components:** V, S, M (a bit of bat fur)   
-**Duration:** Concentration, up to 1 hour
+**Час трансляції :** 1 дія   
+**Діапазон:** 30 футів   
+**компоненти:** V, S, М (трохи кажана хутра)   
+**тривалість:** концентру, до 1 години
 
-You create an invisible, magical eye within range that hovers in the air for the duration.    
-You mentally receive visual information from the eye, which has normal vision and darkvision out to 30 feet. The eye can look in every direction.    
-As an action, you can move the eye up to 30 feet in any direction. There is no limit to how far away from you the eye can move, but it can't enter another plane of existence. A solid barrier blocks the eye's movement, but the eye can pass through an opening as small as 1 inch in diameter. 
+Ви створюєте невидиме, магічне око в повітрі, яке витає в повітрі.    
+Ви ментально отримуєте візуальну інформацію від ока, яка має нормальний зір і темп від 30 футів. Око може дивитися в будь-якому напрямку.    
+Коли дія, ви можете переміщати очі вверх до 30 футів у будь-якому напрямку. Немає межі, як далеко від вас може переміститися, але він не може увійти в інший літак існування. Суцільна перешкода блокує рух очей, але око може пройти через отвір як мінімум 1 дюйм в діаметрі. 
