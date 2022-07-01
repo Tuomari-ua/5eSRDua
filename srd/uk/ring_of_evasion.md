@@ -1,6 +1,6 @@
-name: Ring of Evasion type: ring
+назва: Кільце Євазії тип: кільце
 
-# Ring of Evasion
-_Ring, rare (requires attunement)_
+# Переслідування
+_Рідкісний, рідкісний (вимагає відвідування)_
 
-This ring has 3 charges, and it regains 1d3 expended charges daily at dawn. When you fail a Dexterity saving throw while wearing it, you can use your reaction to expend 1 of its charges to succeed on that saving throw instead. 
+Це кільце має 3 заряди, і воно відновлює щоденну плату в 1d3 витрат. Коли ви не в процесі збереження в навантаженні, ви можете використати свою реакцію, щоб потратити один з її гріхів, щоб досягти успіху в тому, що замість цього потрібно "Заощадити". 
