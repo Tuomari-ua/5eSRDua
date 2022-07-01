@@ -1,13 +1,13 @@
-name: Dispel Magic level: 3 school: abjuration classes: bard cleric druid paladin sorcerer warlock wizard
+назва: Магія Межею рівень: 3 школи: abjuration класі: bard cleric druid paladin sorcerer warlock Майстер
 
-# Dispel Magic
-_3rd-level abjuration_
+# Вигнати магія
+_Відступ на третьому рівні_
 
-**Casting Time:** 1 action    
-**Range:** 120 feet    
-**Components:** V, S    
-**Duration:** Instantaneous
+**Час трансляції часу:** 1 дія    
+**Діапазон:** 120 футів    
+**компоненти:** V, S    
+**тривалість:** миттєві
 
-Choose one creature, object, or magical effect within range. Any spell of 3rd level or lower on the target ends. For each spell of 4th level or higher on the target, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a successful check, the spell ends.
+Виберіть одну істоту, об'єкт чи магічний ефект в межах діапазону. Будь-яка заклинання 3-го рівня або нижче по кінцевих цілях. Для кожної розповіді про 4 рівні або вище цілі ви можете перевірити свою перевірку орфографії. DC дорівнює 10 + рівень заклинання. Під час успішного перевірки заклинання завершується.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, you automatically end the effects of a spell on the target if the spell's level is equal to or less than the level of the spell slot you used. 
+**На вищих рівнях.** Коли ви кидаєте це заклинання використовуючи слот четвертого рівня або вище, ви автоматично завершуєте ефекти заклинання на цілі, якщо рівень орфографії дорівнює або менше, ніж рівень орфографії, який ви використали. 
