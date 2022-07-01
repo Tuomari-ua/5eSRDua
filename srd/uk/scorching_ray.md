@@ -1,14 +1,14 @@
-name: Scorching Ray level: 2 school: evocation classes: sorcerer wizard
+назва: Випалений промінь рівень: 2 школа: евакуація класів: сортувальник
 
-# Scorching Ray
-_2nd-level evocation_
+# Пекучий промінь
+_Евокація 2-го рівня_
 
-**Casting Time:** 1 action    
-**Range:** 120 feet    
-**Components:** V, S    
-**Duration:** Instantaneous
+**Час трансляції часу:** 1 дія    
+**Діапазон:** 120 футів    
+**компоненти:** V, S    
+**тривалість:** миттєві
 
-You create three rays of fire and hurl them at targets within range. You can hurl them at one target or several.    
-Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire damage.
+Тож ви створюєте три промені вогню і кидаєте їм шкоду на міські об'єкти. Ви можете зашкодити їм за допомогою однієї цілі чи окружності зору.    
+Зробіть обведену атаку орфографії для кожного променя. У ударі ціль завдає 2d6 шкоди вогню.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you create one additional ray for each slot level above 2nd. 
+**На вищих рівнях.** Коли ви кидаєте це заклинання використовуючи гніздо 3-го рівня або вище, ви створюєте один додатковий промінь для кожного рівня слота вище 2nd. 
