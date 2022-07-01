@@ -1,22 +1,22 @@
-name: Mule type: beast cr: .125
+назва: тип: Звір cr: .125
 
-# Mule
-_Medium beast, unaligned_
+# Мул
+_Середній звір, неприєднаний_
 
 **Armor Class** 10    
 **Hit Points** 11 (2d8 + 2)    
 **Speed** 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 14 (+2) | 10 (+0) | 13 (+1) | 2 (−4) | 10 (+0) | 5 (−3) |
 
-**Senses** passive Perception 10    
-**Languages** --    
-**Challenge** 1/8 (25 XP)
+**Подяки** пасивне сприйняття 10    
+**Мови** --    
+**виклик** 1/8 (25 XP)
 
-**Beast of Burden.** The mule is considered to be a Large animal for the purpose of determining its carrying capacity.    
-**Sure-Footed.** The mule has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
+**Звір Бердена.** Мул вважається великою твариною з метою визначення ємності його переносу.    
+**Звичайна журна.** Мул має перевагу на рятуванні потужності та слабкості, зроблених проти наслідків, які б збивали з пантелику.
 
-### Actions
-**Hooves.** _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) bludgeoning damage. 
+### Дії
+**Хуоїв.** _Атака ближньої зброї:_ +2 до удару, досягає 5 щитів, одна ціль. _Удара:_ 4 (1d4 + 2) пошкодження дублювання. 
