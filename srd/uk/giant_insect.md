@@ -1,14 +1,14 @@
-name: Giant Insect level: 4 school: transmutation classes: druid
+назва: Випускні Insect рівень: 4 школа: транмутація класи: druid
 
-# Giant Insect
-_4th-level transmutation_
+# Гігантські комахи
+_4-та трансмутація_
 
 **Casting Time:** 1 action    
 **Range:** 30 feet    
 **Components:** V, S    
 **Duration:** Concentration, up to 10 minutes
 
-You transform up to ten centipedes, three spiders, five wasps, or one scorpion within range into giant versions of their natural forms for the duration. A centipede becomes a giant centipede, a spider becomes a giant spider, a wasp becomes a giant wasp, and a scorpion becomes a giant scorpion.    
-Each creature obeys your verbal commands, and in combat, they act on your turn each round. The GM has the statistics for these creatures and resolves their actions and movement.    
-A creature remains in its giant size for the duration, until it drops to 0 hit points, or until you use an action to dismiss the effect on it.    
-The GM might allow you to choose different targets. For example, if you transform a bee, its giant version might have the same statistics as a giant wasp. 
+Ви трансформуєте до десяти багатоніжок, трьох павуків, п'яти ос, або одного скорпіону всередині в гігантських версіях їхніх природних форм на тривалість. Centipede стає гігантським паркетром, павук стає гігантським павуком, оса стає гігантською оса і скорпіон стає гігантським скорпіоном.    
+Кожна істота об'єднує ваші словесні команди і в бою, вони діють на кожному раунді вашої істоти. GM має статистику для цих істот і виконує свої дії та рух.    
+Створіння залишається в його гігантському розмірі на тривалість, поки вона не падає до 0 точок або доки ви не використаєте дію, щоб відхилити ефект від неї.    
+GM може дозволити вам вибрати різні цілі. Наприклад, якщо ви трансформуєте бджолу, її гігантська версія може мати таку ж саму статистику, як і гігантська була. 
