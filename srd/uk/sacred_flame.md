@@ -1,12 +1,12 @@
-name: Sacred Flame level: 0 school: evocation classes: cleric
+назва: Священне Полум'я рівень: 0 школа: евакуація класів: копію
 
-# Sacred Flame
-_Evocation cantrip_
+# Священне полум'я
+_Евокаційна конфіскація_
 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S    
-**Duration:** Instantaneous
+**Час трансляції :** 1 дія    
+**Діапазон:** 60 футів    
+**компоненти:** V, S    
+**тривалість:** миттєві
 
-Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity saving throw or take 1d8 radiant damage. The target gains no benefit from cover for this saving throw.    
-The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8). 
+Вогнеподібне до випромінювання спадає на істоту, яку можна побачити в межах діапазону. Ціль має досягти успіху в процесі збереження Dexterity або набрати 1d8 радіантних ушкоджень. Цільові надбавки не стають перевагами для цього заощадження.    
+Пошкодження правопису збільшуються на 1d8, коли ви досягнете 5-го рівня (2d8), 11-го рівня (3d8) та 17-го рівня (4d8). 
