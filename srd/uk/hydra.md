@@ -1,13 +1,13 @@
-name: Hydra type: monstrosity cr: 8
+назва: Hydra тип: монстрозовість cr: 8
 
-# Hydra
-_Huge monstrosity, unaligned_
+# Гідра
+_Величезний чудовиськ, не вирівняний_
 
 **Armor Class** 15 (natural armor)    
 **Hit Points** 172 (15d12 + 75)    
 **Speed** 30 ft., swim 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 20 (+5) | 12 (+1) | 20 (+5) | 2 (−4) | 10 (+0) | 7 (−2) |
 
@@ -16,13 +16,13 @@ _Huge monstrosity, unaligned_
 **Languages** --    
 **Challenge** 8 (3,900 XP)
 
-**Hold Breath.** The hydra can hold its breath for 1 hour.    
-**Multiple Heads.** The hydra has five heads. While it has more than one head, the hydra has advantage on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.    
-Whenever the hydra takes 25 or more damage in a single turn, one of its heads dies. If all its heads die, the hydra dies.    
-At the end of its turn, it grows two heads for each of its heads that died since its last turn, unless it has taken fire damage since its last turn. The hydra regains 10 hit points for each head regrown in this way.    
-**Reactive Heads.** For each head the hydra has beyond one, it gets an extra reaction that can be used only for opportunity attacks.    
-**Wakeful.** While the hydra sleeps, at least one of its heads is awake.
+**Тримати дух.** Гідра може здихатися протягом 1 години.    
+**Множини лицьових боків.** Гідра має п'ять лицьових боків. Незважаючи на те, що вона має більше однієї голови, гідра може скористатися тим, що рятуєш від сліпоти, осліплених та проклятих, наганих, оглушених, приголомшених, побитих і постукав несвідомо.    
+Кожен раз, коли водень завдає 25 або більше пошкоджень в одній черзі, одна з її голов. Якщо всі її голови гинуть, то гинуть гідри.    
+У кінці повороту риска росте дві голови для кожної з її голов, яка померла від останнього кроку. якщо вона не завдала шкоди вогню з моменту останньої черги. Гідра повертає собі 10 великих точок для кожного розросту голови. Таким чином    
+**Реактивний Лист.** Для кожної голови, гідра має поза одну, вона отримує додаткову реакцію, яка може бути використана тільки для альтернативних атак.    
+**Wakeful.** Поки спить гідра, принаймні одна з її головок не спить.
 
-### Actions
+### Дії
 **Multiattack.** The hydra makes as many bite attacks as it has heads.    
-**Bite.** _Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target. _Hit:_ 10 (1d10 + 5) piercing damage.
+**Bite.** _Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target. _Вразів:_ 10 (1d10 + 5) наносити пошкодження.
