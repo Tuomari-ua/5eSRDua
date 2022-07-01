@@ -1,9 +1,9 @@
-name: Boots of the Winterlands type: item
+назва: Чоботи Вінтерленду типу: елемент
 
-# Boots of the Winterlands
-_Wondrous item, uncommon (requires attunement)_
+# Чоботи Вінтерлендів
+_Нетиповий предмет Wondrous (вимагає приєднання)_
 
-These furred boots are snug and feel quite warm. While you wear them, you gain the following benefits:
+Ці хутряні чоботи затишні і відчувають себе досить тепло. Поки ви носите їх, ви отримуєте наступні переваги:
 
-* You have resistance to cold damage.
-* You ignore difficult terrain created by ice or snow. You can tolerate temperatures as low as −50 degrees Fahrenheit without any additional protection. If you wear heavy clothes, you can tolerate temperatures as low as −100 degrees Fahrenheit. 
+* Від тебе можуть завдати холоду шкоди.
+* Ви ігноруєте важку місцевість, створену льодом або снігом. Ви можете терпіти температуру як мінімум низьку, як мінімально 50 градусів за Фаренгейтом без будь-якого додаткового захисту. Якщо ви носите важкий одяг, ви можете терпіти температуру як мінімум у мінімальній кількості градусів за Фаренгейтом. 
