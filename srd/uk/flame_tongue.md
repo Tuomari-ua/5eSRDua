@@ -1,6 +1,6 @@
-name: Flame Tongue type: weapon
+назва: Вогневий язик тип: зброя
 
-# Flame Tongue
-_Weapon (any sword), rare (requires attunement)_
+# Полум'я язика
+_Зброя (будь який меч), рідкісний (вимагає ватання)_
 
-You can use a bonus action to speak this magic sword's command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra 2d6 fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword. 
+Ви можете використовувати бонусну дію, щоб говорити словом магічного меча, що призведе до спалаху з лезо. Ці вогні проганяють яскраве світло на 40-футовому радіусі та тьмяним світлом на відстані додаткових 40 футів. Доки меч запалений, він завдає додатково 2d6 вогняного пошкодження будь-якій цілі, до якої він влучає. Полум'я останнє, доки ви не скористаєтесь бонусною дією для повторного згасання командного слова доти, доки не видалите або назведете меч. 
