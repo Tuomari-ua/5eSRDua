@@ -1,4 +1,5 @@
-# Магічні Предмети індекси
+# Індекси монстрів
 
-* [Магічні предмети за назвою](/gamemaster_rules/magic_item_indexes/items_by_name/)
-* [Магічні елементи за типом](/gamemaster_rules/magic_item_indexes/items_by_type/)
+* [Монстри по CR](/gamemaster_rules/monster_indexes/monsters_by_cr/)
+* [Монстри за назвою](/gamemaster_rules/monster_indexes/monsters_by_name/)
+* [Монстри за типом](/gamemaster_rules/monster_indexes/monsters_by_type)
