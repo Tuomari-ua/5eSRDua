@@ -1,13 +1,13 @@
-name: Specter type: undead cr: 1
+назва: Спектер тип: немертвий cr: 1
 
-# Specter
-_Medium undead, chaotic evil_
+# Спектр
+_Середні мертві, хаотичне зло_
 
-**Armor Class** 12    
-**Hit Points** 22 (5d8)    
-**Speed** 0 ft., fly 50 ft. (hover)
+**Клас броні** 12    
+**Очки** 22 (5d8)    
+**швидкість** ft., польоту 50 футів. (коливання)
 
-| STR    | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР    | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------ | ------- | ------- | ------- | ------- | ------- |
 | 1 (−5) | 14 (+2) | 11 (+0) | 10 (+0) | 10 (+0) | 11 (+0) |
 
@@ -18,8 +18,8 @@ _Medium undead, chaotic evil_
 **Languages** understands all languages it knew in life but can't speak    
 **Challenge** 1 (200 XP)
 
-**Incorporeal Movement.** The specter can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.    
-**Sunlight Sensitivity.** While in sunlight, the specter has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+**Поступовий рух.** Спектр може рухатися іншими істотами і об'єктами, неначе вони були важкими рельєфами. Вона завдає 5-ти (1d10) шкоди, якщо завершить свою поворот всередині об'єкта.    
+**Чутливість до світла.** Під час сонячного світла спектр має приціл під час атаки мул, а також за мудрістю (Вперечання) перевіряє, що покладається на вид.
 
-### Actions
-**Life Drain.** _Melee Spell Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 10 (3d6) necrotic damage. The target must succeed on a DC 10 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the creature finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+### Дії
+**Життєвий мост.** _Субота Spell Attack:_ +4, досягає 5, одна істота. _Удачі:_ 10 (3d6) пошкодження. Ціль повинна досягти успіху в економії Конституції DC 10 року, або її максимальний час зменшується на суму, яка дорівнює розподіленій шкоді. Це зниження триває до завершення істоти довго відпочинку. Ціль вмирає, якщо цей ефект зменшує максимальну точку дотику до 0.
