@@ -1,13 +1,13 @@
-name: Griffon type: monstrosity cr: 2
+назва: Грифон тип: чудовисько cr: 2
 
 # Griffon
-_Large monstrosity, unaligned_
+_Величезний чудовиськ, не вирівняти_
 
 **Armor Class** 12    
 **Hit Points** 59 (7d10 + 21)    
 **Speed** 30 ft., fly 80 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 18 (+4) | 15 (+2) | 16 (+3) | 2 (−4) | 13 (+1) | 8 (−1) |
 
@@ -16,9 +16,9 @@ _Large monstrosity, unaligned_
 **Languages** --    
 **Challenge** 2 (450 XP)
 
-**Keen Sight.** The griffon has advantage on Wisdom (Perception) checks that rely on sight.
+**Keen Sight.** Грифон має перевагу в мудрості (Виключення), які покладаються на видовище.
 
-### Actions
-**Multiattack.** The griffon makes two attacks: one with its beak and one with its claws.    
-**Beak.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 8 (1d8 + 4) piercing damage.    
-**Claws.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) slashing damage.
+### Дії
+**Мультиатака.** Грифон робить дві атаки: один з них дзьобом, а один - його кігті.    
+**Дзьоб.** _Атака Міле Зброя:_ +6 щоб вдарити, досягнути 5-ї цілі, одну ціль. _Вразу:_ 8 (1d8 + 4) проколовлювати пошкодження.    
+**Кігті.** _Атака ближньої зброї:_ +6 щоб вдарити, досягти 5-ти цілі, одна ціль. _Вразів:_ 11 (2d6 + 4) пошкодження.
