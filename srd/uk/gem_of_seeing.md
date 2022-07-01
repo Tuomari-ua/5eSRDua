@@ -1,8 +1,8 @@
-name: Gem of Seeing type: item
+назва: Gem of Seeing type: елемент
 
-# Gem of Seeing
-_Wondrous item, rare (requires attunement)_
+# Побутовий самоцвіт
+_Чудотвор, рідкісний (вимагає захоплення)_
 
-This gem has 3 charges. As an action, you can speak the gem's command word and expend 1 charge. For the next 10 minutes, you have truesight out to 120 feet when you peer through the gem.
+Цей самоцвіт має 3 заряди. В якості дії ви можете говорити командним словом гема та витратити 1 заряд. Протягом наступних 10 хвилин ви побачите відстань до 120 футів, коли проходите крізь камін.
 
-The gem regains 1d3 expended charges daily at dawn. 
+Засмінник відновлює 1 d3 звинувачення щодня на світанку. 
