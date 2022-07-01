@@ -1,13 +1,13 @@
-name: Polar Bear type: beast cr: 2
+назва: Полярний ведмідь тип: звір cr: 2
 
-# Polar Bear
-_Large beast, unaligned_
+# Полярний ведмідь
+_Великий звір, неприєднаний_
 
-**Armor Class** 12 (natural armor)    
-**Hit Points** 42 (5d10 + 15)    
-**Speed** 40 ft., swim 30 ft.
+**Клас броні** 12 (природна броня)    
+**Бали** 42 (5d10 + 15)    
+**Швидкість** фут. плавати на висоті 30 футів.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 20 (+5) | 10 (+0) | 16 (+3) | 2 (−4) | 13 (+1) | 7 (−2) |
 
@@ -16,9 +16,9 @@ _Large beast, unaligned_
 **Languages** --    
 **Challenge** 2 (450 XP)
 
-**Keen Smell.** The bear has advantage on Wisdom (Perception) checks that rely on smell.
+**Keen Smell.** Ведмідь має перевагу в Wisdom (Perception) перевіряє, чи покладаються на запах.
 
-### Actions
-**Multiattack.** The bear makes two attacks: one with its bite and one with its claws.    
-**Bite.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 9 (1d8 + 5) piercing damage.    
-**Claws.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 12 (2d6 + 5) slashing damage. 
+### Дії
+**Мультиатака.** Ведмідь робить дві атаки: один за допомогою кусання та його кігті.    
+**Біт.** _Атака ближнього бою зброї:_ +7 щоб вдарити, сягнути 5 літер, одна ціль. _Вразу:_ 9 (1d8 + 5), що проводить пошкодження.    
+**Кігнь.** _Атака ближньої зброї:_ +7 щоб ударити, досягти 5-ти цілі, одну ціль. _Вдач:_ 12 (2d6 + 5) пошкодження. 
