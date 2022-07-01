@@ -1,12 +1,12 @@
-name: Demiplane level: 8 school: conjuration classes: warlock wizard
+назва: Demiplane рівень: 8 школу: conjuration класів: warlock майстер
 
-# Demiplane
-_8th-level conjuration_
+# Деміплан
+_Рівняння 8-го рівня_
 
 **Casting Time:** 1 action    
 **Range:** 60 feet    
 **Components:** S    
 **Duration:** 1 hour
 
-You create a shadowy door on a flat solid surface that you can see within range. The door is large enough to allow Medium creatures to pass through unhindered. When opened, the door leads to a demiplane that appears to be an empty room 30 feet in each dimension, made of wood or stone. When the spell ends, the door disappears, and any creatures or objects inside the demiplane remain trapped there, as the door also disappears from the other side.    
-Each time you cast this spell, you can create a new demiplane, or have the shadowy door connect to a demiplane you created with a previous casting of this spell. Additionally, if you know the nature and contents of a demiplane created by a casting of this spell by another creature, you can have the shadowy door connect to its demiplane instead. 
+Ви створюєте тіні, двері на плоскій суцільній поверхні, яку ви можете побачити в межах. Двері досить великі, щоб дозволити середніх істот пройти через нестримні. Коли відчиняються двері ведуть до сміттєзвалища - приміщення на 30 метрів у кожному вимірі, з деревини або каменю. Коли заклинання закінчується, двері зникають, і будь-які істоти або об'єкти всередині смітника залишаються пасткою там, коли двері також зникають з іншої сторони.    
+кожен раз, коли ви кидаєте це заклинання, ви можете створити новий розклад, або ж мають тіні, двері до комбайна, який ви створили попередньою, лиття цього заклинання. Також якщо ви знаєте природу і вміст смітника що створюється литтям цього заклинання іншою істотою, ви можете підключити тіні двері до його сміття. 
