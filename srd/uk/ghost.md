@@ -1,13 +1,13 @@
-name: Ghost type: undead cr: 4
+назва: Ghost тип: немертвий cr: 4
 
-# Ghost
-_Medium undead, any alignment_
+# Привид
+_Середнє нескінченне число, будь-яке вирівнювання_
 
-**Armor Class** 11    
-**Hit Points** 45 (10d8)    
-**Speed** 0 ft., fly 40 ft. (hover)
+**Клас броні** 11    
+**Очки** 45 (10d8)    
+**швидкість** Переліт на 40 футів. (коливання)
 
-| STR    | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР    | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------ | ------- | ------- | ------- | ------- | ------- |
 | 7 (−2) | 13 (+1) | 10 (+0) | 10 (+0) | 12 (+1) | 17 (+3) |
 
@@ -18,12 +18,12 @@ _Medium undead, any alignment_
 **Languages** any languages it knew in life    
 **Challenge** 4 (1,100 XP)
 
-**Ethereal Sight.** The ghost can see 60 feet into the Ethereal Plane when it is on the Material Plane, and vice versa.    
-**Incorporeal Movement.** The ghost can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
+**Ethereal Sight.** Привид може побачити 60 футів у Вейремній площині, коли він знаходиться на літаку Матеріалів, і навпаки.    
+**Позбавлений рух.** Привид може рухатися іншими істотами і об'єктами, як ніби їх було складно виготовити. Сила завдає 5-ти (1d10) шкоди, якщо завершить поворот всередині об'єкта.
 
-### Actions
-**Withering Touch.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 17 (4d6 + 3) necrotic damage.    
-**Etherealness.** The ghost enters the Ethereal Plane from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Ethereal, and vice versa, yet it can't affect or be affected by anything on the other plane.    
-**Horrifying Visage.** Each non-undead creature within 60 feet of the ghost that can see it must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. If the save fails by 5 or more, the target also ages 1d4 × 10 years. A frightened target can repeat the saving throw at the end of each of its turns, ending the frightened condition on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to this ghost's Horrifying Visage for the next 24 hours. The aging effect can be reversed with a greater restoration spell, but only within 24 hours of it occurring.    
-**Possession (Recharge 6).** One humanoid that the ghost can see within 5 feet of it must succeed on a DC 13 Charisma saving throw or be possessed by the ghost; the ghost then disappears, and the target is incapacitated and loses control of its body. The ghost now controls the body but doesn't deprive the target of awareness. The ghost can't be targeted by any attack, spell, or other effect, except ones that turn undead, and it retains its alignment, Intelligence, Wisdom, Charisma, and immunity to being charmed and frightened. It otherwise uses the possessed target's statistics, but doesn't gain access to the target's knowledge, class features, or proficiencies.    
-The possession lasts until the body drops to 0 hit points, the ghost ends it as a bonus action, or the ghost is turned or forced out by an effect like the dispel evil and good spell. When the possession ends, the ghost reappears in an unoccupied space within 5 feet of the body. The target is immune to this ghost's Possession for 24 hours after succeeding on the saving throw or after the possession ends.
+### Дії
+**Візерунковий Тук.** _Атака ближньої зброї:_ +5 для удару, досягає 5 щитів, одна ціль. _Вдач:_ 17 (4d6 + 3) некротичної шкоди.    
+**Етенсивність.** Привид входить в Ethereal площину з літака Матеріалів, або навпаки. Це видно на площі Матеріалу, поки він знаходиться в Прикордонному Зробленні, і навпаки. Це не може вплинути або вплинути будь-що на інший літак.    
+**Рохне видимість.** Кожна немертва істота в межах 60 футів привида, який може бачити, що він повинен досягти успіху в DC 13 Мудро, що злякається або злякається протягом 1 хвилини. Якщо заощадження провалюються на 5 і більше, то ціль також вікує 1d4 × 10 років. Перелякана ціль може повторити порятунок, який кидається в кінець кожного з своїх поворотів, закінчити страхітливий стан на собі при успіху. Якщо кидання цілі є успішним або ефект закінчується, ціль має імунітет до Жахливого перегляду цього привида протягом наступних 24 годин. Ефект старіння можна змінити з більшим заклинанням відновлення, але лише протягом 24 годин воно відбувається.    
+**Позиціонування (зарядка 6).** Одна гуманоїда, що привид може побачити в межах 5 футів, має досягнути успіху на DC 13 з рятувальника Харизми чи бути володіючим привидом; привид зникає, і ціль не здатна і втрачає контроль над своїм тілом. Привид контролює тіло, але не позбавляє мети обізнаності. Привид не може бути націлений якимсь атакою, заклинання або іншим ефектом, окрім тих, що обертаються мертвими, і він зберігає своє вирівнювання, інтелекту, мудрість, харизма та імунітет до того, щоб бути чарівним і наляканим. Він інакше використовує статистику отриманої мети, але не отримує доступ до знань, класу особливостей чи здібностей.    
+Склад триває до того, як тіло не падає до 0 хітів, привид закінчує його в якості бонусної дії, або ж привид перевернувся чи змушений ділом таке, як розпорошене зло, і як запас добра. Коли володіння закінчується, привид знову з'являється в незазайнятому просторі в 5 футів тіла. Ціль незахищена від володіння цим привидом протягом 24 годин після успішного досягнення котрого або після закінчення володіння.
