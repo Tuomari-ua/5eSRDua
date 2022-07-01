@@ -1,6 +1,6 @@
-name: Manual of Bodily Health type: item
+назва: Ручне право здоров'я тип: елемент
 
-# Manual of Bodily Health
-_Wondrous item, very rare_
+# Керівництво Bodily Здоров'я
+_Чудові речі - дуже рідкісні_
 
-This book contains health and diet tips, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Constitution score increases by 2, as does your maximum for that score. The manual then loses its magic, but regains it in a century. 
+Ця книга містить поради зі здоров'ям та дієтою, а його слова заряджаються магією. Якщо ви витратите 48 годин протягом 6-ти днів, або менше вивчаєте вміст книги та практикуєте його рекомендації, ваша Конституція збільшиться на 2, так як ваша максимальна кількість балів. Підручник потім втрачає свою магію, але відновлює її за століття. 
