@@ -1,25 +1,25 @@
-name: Lion type: beast cr: 1
+назва: Лев тип: Звір cr: 1
 
-# Lion
-_Large beast, unaligned_
+# Лев
+_Великий звір, неприєднаний_
 
-**Armor Class** 12    
-**Hit Points** 26 (4d10 + 4)    
-**Speed** 50 ft.
+**Клас броні** 12    
+**Очки** 26 (4d10 + 4)    
+**швидкість** фут.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 17 (+3) | 15 (+2) | 13 (+1) | 3 (−4) | 12 (+1) | 8 (−1) |
 
-**Skills** Perception +3, Stealth +6    
-**Senses** passive Perception 13    
-**Languages** --    
-**Challenge** 1 (200 XP)
+**Навичка** Перехоплення +3, Крадіжка +6    
+**Senses** пасивного Виключення 13    
+**Мови** --    
+**Виклик** (200 XP)
 
-**Keen Smell.** The lion has advantage on Wisdom (Perception) checks that rely on smell. Pack Tactics. The lion has advantage on an attack roll against a creature if at least one of the lion's allies is within 5 feet of the creature and the ally isn't incapacitated.    
-**Pounce.** If the lion moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the lion can make one bite attack against it as a bonus action.    
-**Running Leap.** With a 10-foot running start, the lion can long jump up to 25 feet.
+**Кін Смол.** Лев скористався димажанням у Wisdom (виключення), перевіряючи, які покладаються на запах. Тактики пакету. Лев має перевагу в атаці, що розколюється проти істоти, якщо принаймні один з союзників лева знаходиться на відстані 5 футів істоти, і союзник не недієздатний.    
+**листа.** Якщо лев рухатиметься щонайменше на 20 футів прямо до істоти, а тоді вдаряється в неї з нападом кігтів на тому ж поверсі, ця мета повинна досягнути успіху в DC 13 сильних прискорень або бути постукованою часткою. Якщо ціль готова, лев може зробити одну кускову атаку проти неї як бонусна дія.    
+**штовхати стрибок.** З 10-футом пробігається, лев може швидко стрибнути до 25 футів.
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) piercing damage.    
-**Claw.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) slashing damage. 
+### Дії
+**Біт.** _Атака ближньої зброї:_ +5 до удару, досягає 5-ї цілі, одна мета. _Hit:_ 7 (1d8 + 3) piercing damage.    
+**Claw.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Удар удару:_ 6 (1d6 + 3) і ушкодження пошкодження. 
