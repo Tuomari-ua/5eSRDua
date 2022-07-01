@@ -1,178 +1,178 @@
-description: Rules and information for the Ranger class from the 5th Edition (5e) SRD (System Reference Document).
+опис: Правила та інформація для класу Ranger з 5-ї версії (5e) SRD (Документація з Системної Документації).
 
-# The Ranger
-| Level | Proficiency Bonus | Spells Known | 1st | 2nd | 3rd | 4th | 5th | Features                                          |
-| ----- | ----------------- | ------------ | --- | --- | --- | --- | --- | ------------------------------------------------- |
-| 1st   | +2                | -            | -   | -   | -   | -   | -   | Favored Enemy, Natural Explorer                   |
-| 2nd   | +2                | 2            | 2   | -   | -   | -   | -   | Fighting Style, Spellcasting                      |
-| 3rd   | +2                | 3            | 3   | -   | -   | -   | -   | Ranger Archetype, Primeval Awareness              |
-| 4th   | +2                | 3            | 3   | -   | -   | -   | -   | Ability Score Improvement                         |
-| 5th   | +3                | 4            | 4   | 2   | -   | -   | -   | Extra Attack                                      |
-| 6th   | +3                | 4            | 4   | 2   | -   | -   | -   | Favored Enemy and Natural Explorer improvements   |
-| 7th   | +3                | 5            | 4   | 3   | -   | -   | -   | Ranger Archetype feature                          |
-| 8th   | +3                | 5            | 4   | 3   | -   | -   | -   | Ability Score Improvement, Land's Stride          |
-| 9th   | +4                | 6            | 4   | 3   | 2   | -   | -   | -                                                 |
-| 10th  | +4                | 6            | 4   | 3   | 2   | -   | -   | Natural Explorer Improvement, Hide in Plain Sight |
-| 11th  | +4                | 7            | 4   | 3   | 3   | -   | -   | Ranger Archetype feature                          |
-| 12th  | +4                | 7            | 4   | 3   | 3   | -   | -   | Ability Score Improvement                         |
-| 13th  | +5                | 8            | 4   | 3   | 3   | 1   | -   | -                                                 |
-| 14th  | +5                | 8            | 4   | 3   | 3   | 1   | -   | Favored Enemy improvement, Vanish                 |
-| 15th  | +5                | 9            | 4   | 3   | 3   | 2   | -   | Ranger Archetype feature                          |
-| 16th  | +5                | 9            | 4   | 3   | 3   | 2   | -   | Ability Score Improvement                         |
-| 17th  | +6                | 10           | 4   | 3   | 3   | 3   | 1   | -                                                 |
-| 18th  | +6                | 10           | 4   | 3   | 3   | 3   | 1   | Feral Senses                                      |
-| 19th  | +6                | 11           | 4   | 3   | 3   | 3   | 2   | Ability Score Improvement                         |
-| 20th  | +6                | 11           | 4   | 3   | 3   | 3   | 2   | Foe Slayer                                        |
+# Рейнджер
+| Рівень    | Бонус здібностей | Чемерні шимпанзе | Перший | Друге | Третє | Четвертий | П'ятий | Особливості                                                         |
+| --------- | ---------------- | ---------------- | ------ | ----- | ----- | --------- | ------ | ------------------------------------------------------------------- |
+| Перший    | +2               | -                | -      | -     | -     | -         | -      | Обрана ворога, натуральний дослідник                                |
+| Друге     | +2               | 2                | 2      | -     | -     | -         | -      | Стиль битви, написання                                              |
+| Третє     | +2               | 3                | 3      | -     | -     | -         | -      | Архетип Ranger Primeval Awareness                                   |
+| Четвертий | +2               | 3                | 3      | -     | -     | -         | -      | Покращення рівня здібностей                                         |
+| П'ятий    | +3               | 4                | 4      | 2     | -     | -         | -      | Додаткова атака                                                     |
+| 6-е       | +3               | 4                | 4      | 2     | -     | -         | -      | Приховати поліпшень Ворожий та Природний Провідник                  |
+| 7-е       | +3               | 5                | 4      | 3     | -     | -         | -      | Функція Ranger Archetype                                            |
+| 8-е       | +3               | 5                | 4      | 3     | -     | -         | -      | Покращення балів поліпшення здібностей ланди                        |
+| 9-е       | +4               | 6                | 4      | 3     | 2     | -         | -      | -                                                                   |
+| 10-е      | +4               | 6                | 4      | 3     | 2     | -         | -      | Вдосконалення Натурального Досвіда, приховане в Звичайному Зціленні |
+| 11-е      | +4               | 7                | 4      | 3     | 3     | -         | -      | Функція Ranger Archetype                                            |
+| 12-е      | +4               | 7                | 4      | 3     | 3     | -         | -      | Покращення рівня здібностей                                         |
+| 13-е      | +5               | 8                | 4      | 3     | 3     | 1         | -      | -                                                                   |
+| 14-е      | +5               | 8                | 4      | 3     | 3     | 1         | -      | Улюблене покращення Ворога, зникло                                  |
+| 15-е      | +5               | 9                | 4      | 3     | 3     | 2         | -      | Функція Ranger Archetype                                            |
+| 16-е      | +5               | 9                | 4      | 3     | 3     | 2         | -      | Покращення рівня здібностей                                         |
+| 17-е      | +6               | 10               | 4      | 3     | 3     | 3         | 1      | -                                                                   |
+| 18-е      | +6               | 10               | 4      | 3     | 3     | 3         | 1      | Зроблені Ушкодження                                                 |
+| 19-е      | +6               | 11               | 4      | 3     | 3     | 3         | 2      | Покращення рівня здібностей                                         |
+| 20-е      | +6               | 11               | 4      | 3     | 3     | 3         | 2      | Туалет                                                              |
 
-## Class Features
-As a ranger, you gain the following class features.
+## Характеристики класу
+Як дальник, ви отримуєте наступні функції класу.
 
-### Hit Points
-**Hit Dice:** 1d10 per ranger level  
-**Hit Points at 1st Level:** 10 + your Constitution modifier  
-**Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per ranger level after 1st
+### Хіт точок
+**Натискання Hit Dice:** 1d10 на рівень рейнджера  
+**Бали на 1-й рівень:** 10 + модифікатор вашої Конституції  
+**Клікувайте бали з вищого рівня:** 1d10 (або 6) + модифікатор конституції на рівень діапазону після 1
 
-### Proficiencies
-**Armor:** Light armor, medium armor, shields    
-**Weapons:** Simple weapons, martial weapons   
-**Tools:** None     
-**Saving Throws:** Strength, Dexterity   
-**Skills:** Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival
+### Політики
+**Броня:** Легка броня, середня броня, щити    
+**Зброя:** Проста зброя, інструменти з бойової зброї   
+**,** Інструмента: </strong> Програм     
+**Заощаджуючі півлі:** Сила, Dexterity   
+**навичок:** Виберіть три з роботи тваринного обробки, атлетики, дослідження, розслідування, природження, перехоплення, сталі та виживання
 
-### Equipment
-You start with the following equipment, in addition to the equipment granted by your background:
+### Устаткування
+Ви починаєте з наступного обладнання, на додаток до обладнання, яке надає ваш фон:
 
-* (a) scale mail or (b) leather armor
-* (a) two shortswords or (b) two simple melee weapons
-* (a) a dungeoneer's pack or (b) an explorer's pack
-* A longbow and a quiver of 20 arrows
+* (a) масштабування обладунку або (b) шкіряної броні
+* (а) два короткі мечі або (b) дві прості малі зброї
+* (a) набір дослідників або (b) дослідник
+* Довгий лук і сагайдак 20 стріл
 
-### Favored Enemy
+### Улюблений Ворог
 - - -
-Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy.    
-Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two races of humanoid (such as gnolls and orcs) as favored enemies.    
-You have advantage on Wisdom (Survival) checks to track your favored enemies, as well as on Intelligence checks to recall information about them.     
-When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.     
-You choose one additional favored enemy, as well as an associated language, at 6th and 14th level. As you gain levels, your choices should reflect the types of monsters you have encountered on your adventures.
+Починаючи з 1-го рівня, ви маєте значне навчання, слідкування, полювання і навіть розмовляти з певним типом ворогів.    
+Оберіть тип улюбленого ворога: аберації, звіра, небеса, будівництва, дракони, свята, кулаки, гіганти, гіганти, монстрації, лаври, рослини або немертві. Крім того, ви можете вибрати дві гонки гуманоїду (таких як блиски й орски) у якості прихильних ворогів.    
+Ви маєте перевагу в Wisdom (Survival) перевіряє ваших прихильників ворогів, а також щодо розвідки перевіряє інформацію про них.     
+Коли ви отримаєте цю функцію, ви також вивчаєте одну мову на ваш вибір, про яку говорять ваші улюблені вороги, якщо взагалі вони говорять.     
+Ви обираєте одного додаткового ворога, а також асоційованої мови на 6-му та 14-му рівні. Як тільки ви отримуєте рівні, ваш вибір повинен відображати типи монстрів, які ви зустріли на ваших пригодах.
 
-### Natural Explorer
+### Натуральний дослідник
 - - -
-You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, or swamp. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you're proficient in.    
-While traveling for an hour or more in your favored terrain, you gain the following benefits:
+Особливо ви знайомі з одним типом природного середовища і вміли подорожувати і виживати в таких регіонах. Оберіть один тип обраної місцевості: арктичний, узбережжя, пустеля, ліс, трави, гора або болото. Коли ви робите перевірку розвідки чи мудрості стосовно ваших улюблених місць ваш бонус здібностей подвоюється, якщо ви використовуєте навичку, в якій ви вигадані ви.    
+Під час подорожі на годину або більше на вподобаній місцевості, ви отримуєте наступні переваги:
 
-* Difficult terrain doesn't slow your group's travel.
-* Your group can't become lost except by magical means.
-* Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.
-* If you are traveling alone, you can move stealthily at a normal pace.
-* When you forage, you find twice as much food as you normally would.
-* While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.
+* Важка місцевість не уповільнює подорож вашої групи.
+* Ваша група не може бути втрачена, крім магічних засобів.
+* Навіть, якщо ви займаєтеся іншою діяльністю під час подорожі (такі як підробка, навігація чи відстеження), ви залишаєтеся небезпекою.
+* Якщо ви їдете самі, ви можете крадькома рухатися нормальними темпами.
+* Коли ви вибачаєте, то знайдете вдвічі більше їжі, як зазвичай.
+* Відслідковуючи інші істоти, ви також вивчаєте їх точне число, їх розміри, а також те, як довго вони пройшли через область.
 
-You choose additional favored terrain types at 6th and 10th level.
+Ви вибрали додаткові типи улюблених місцевостей на 6-му та 10-му рівні.
 
-### Fighting Style
+### Файтинг
 - - -
-At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.
+На другому рівні ви приймаєте певний стиль боротьби як свою спеціальність. Виберіть один із наступних параметрів. Неможливо зробити параметр «Боротьба стилю» більше одного разу, навіть якщо ви пізніше оберете знову.
 
-#### Archery
-You gain a +2 bonus to attack rolls you make with ranged weapons.
+#### Стрільба з лука
+Ви отримаєте бонус +2 для атаки стріл, які мають далекобійні зброї.
 
-#### Defense
-While you are wearing armor, you gain a +1 bonus to AC.
+#### Захист
+Поки ви носите броню, ви отримуєте бонус +1 до н.е.
 
 #### Dueling
-When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
+Коли ви володієте зброєю ближнього бою в одній руці і ні в якому іншому зброї, ви отримуєте бонус +2 до шкоди, яка пошкоджується за допомогою цієї зброї.
 
-#### Two-Weapon Fighting
-When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
+#### Бій з двома зброєю
+Коли ви виконуєте двозбройну боротьбу, ви можете додати свій пристрій до пошкодження другої атаки.
 
-### Spellcasting
+### Орфографію
 - - -
-By the time you reach 2nd level, you have learned to use the magical essence of nature to cast spells, much as a druid does.
+Поки ви досягнете 2-го рівня, ви навчилися використовувати магічну сутність природи для кидання заклинань, так само, як це робить пустотливість.
 
 #### Spell Slots
-The Ranger table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.     
-For example, if you know the 1st-level spell **_animal friendship_** and have a 1st-level and a 2nd-level spell slot available, you can cast **_animal friendship_** using either slot.
+Таблиця Ranger показує, скільки заклинання ви повинні кидати свої заклинання 1-го рівня і вище. Щоб викинути один з цих орфоанів, вам потрібно викласти слот рівня орфографії або вище. Ви знову заходите на прописні слоти після закінчення довгого відпочинку.     
+Наприклад, якщо ви знаєте орфографію на 11-му рівні **_дружбу до тварин_** і маєте доступ на один найкращий рівень і слот правопису на 2-рівневому рівні, ви можете поширити **_дружби тварин_** , використовуючи будь-який слот.
 
-#### Spells Known of 1st Level and Higher
-You know two 1st-level spells of your choice from the ranger spell list.   
-The Spells Known column of the Ranger table shows when you learn more ranger spells of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 5th level in this class, you can learn one new spell of 1st or 2nd level.    
-Additionally, when you gain a level in this class, you can choose one of the ranger spells you know and replace it with another spell from the ranger spell list, which also must be of a level for which you have spell slots.
+#### Зачаровані заклинання 1-го рівня та вищі
+Ви знаєте два заклинання на перший рівень вибору, виділених правоохоронним листом.   
+Орфографії відомі стовпця таблиці Ranger показує, коли ви опануєте більше опорних ліній вибору. Кожна з цих заклинань повинна бути рівнем, для якого є заклинання слоти. Наприклад, коли ви досягнете 5-го рівня в цьому класі, ви зможете вивчити нове заклинання 1-го або 2-го рівня.    
+Додатково, коли ви отримуєте рівень у цьому класі, ви можете вибрати одне з заклинань, про які ви знаєте, і замінити його іншою заклинання з переліку рейнджерів який також повинен бути рівним, для якого ви маєте орфографічні слоти.
 
-#### Spellcasting Ability
-Wisdom is your spellcasting ability for your ranger spells, since your magic draws on your attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a ranger spell you cast and when making an attack roll with one.
+#### Вміння орфографії
+Мудрість – ваше заклинання для ваших заклинань, відколи ви чаруєте магію до свого здобуття природи. Ви використовуєте свою Wisdom кожного разу, коли заклинання стосується здатності орфографії. Крім того, ви використовуєте свій Модифікатор Мудрості при установці збереження DC для пульсації, яку ви кидаєте і коли робите поворот атаки з одним.
 
-> **Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier **Spell attack modifier** = your proficiency bonus + your Wisdom modifier
+> **Підтримка орфографії DC** = 8 + ваш бонус майстерності + ваш модифікатор Мудрості **Модифікатор Атаки** = ваш бонус майстерності + модифікатор Мудрості
 
 ### Ranger Archetype
 - - -
-At 3rd level, you choose an archetype that you strive to emulate: Hunter or Beast Master, both detailed at the end of the class description. Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.
+На третьому рівні ви вибираєте архетип, який ви прагнете наслідувати: мисливець чи звір, майстер, детальний за описом класу. Ваш вибір надає вам особливості на третьому рівні і знову на 7-му, 11 та 15-му рівні.
 
-### Primeval Awareness
+### Первісна обізнаність
 - - -
-Beginning at 3rd level, you can use your action and expend one ranger spell slot to focus your awareness on the region around you. For 1 minute per level of the spell slot you expend, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn't reveal the creatures' location or number.
+Починаючи з 3-го рівня, ви можете використовувати свої дії та використовувати слот для далекобійних сигналів, щоб зосередити увагу на регіоні навколо вас. Протягом 1 хвилини на рівень заклинання яку ви витрачаєте, ви можете відчути, чи знаходяться наступні типи істот в межах однієї милі (або у межах від Вас до 6 миль, якщо ви перебуваєте в своїх улюбленому місці): аберації, небеси, дракони, елементи, подвиги, жилі, жили, бої та немертвих. Ця функція не визначає розташування або номер істот.
 
-### Ability Score Improvement
+### Покращення рівня здібностей
 - - -
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+Коли ви досягнете 4-го рівня, і знову на 8-му, 12-му, 16-тому та 19-му рівні, ви можете збільшити один бал ваших опцій на 2 або збільшити кількість 2-х здібностей на ваш вибір на 1. Як нормально, ви не можете збільшити бал здатності вище 20 за допомогою цієї функції.
 
-### Extra Attack
+### Додаткова атака
 - - -
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+Починаючи з 5-го рівня, ви можете атакувати двічі, а не один раз, коли ви будете приймати атаку на вашому кроці.
 
-### Land's Stride
+### Землетрус
 - - -
-Starting at 8th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.    
-In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the entangle spell.
+Починаючи з восьмого рівня, рух за немагічну складну місцевість обійдеться вам без додаткового руху. Ви також можете проходити через немагічні рослини, не уповільнюючись від них і не пошкоджуючи їх, якщо у них є терни, шини, або аналогічна небезпека.    
+, крім того, ви маєте перевагу над збереженням квітів проти рослин, магічно створених або маніпульованих, щоб перешкоджати руху, такі, що створюються заклинанням антителів.
 
-### Hide in Plain Sight
+### Сховати як сивий приціл
 - - -
-Starting at 10th level, you can spend 1 minute creating camouflage for yourself. You must have access to fresh mud, dirt, plants, soot, and other naturally occurring materials with which to create your camouflage.    
-Once you are camouflaged in this way, you can try to hide by pressing yourself up against a solid surface, such as a tree or wall, that is at least as tall and wide as you are. You gain a +10 bonus to Dexterity (Stealth) checks as long as you remain there without moving or taking actions. Once you move or take an action or a reaction, you must camouflage yourself again to gain this benefit.
+Починаючи на 10-му рівні, ви можете витратити 1 хвилину, створюючи камуфляж для себе. Ви повинні мати доступ до свіжої бруду, рослини, сажу та інших природних матеріалів, за допомогою яких можна створити вашу камуфу.    
+Як тільки ви замасковані таким чином, ви можете спробувати приховати себе, натиснувши на тверду поверхню, такі як дерево або стіна, тобто щонайменше високий та широкий, як ви є. Ви отримуєте +10 бонусів до Dexterity (Stealth) перевіряє, доки ви залишаєтесь там, без рухомих і дій. Як тільки ви рухаєтеся або приймаєте дію або реакцію, ви повинні замаскувати себе знову, щоб отримати цю перевагу.
 
-### Vanish
+### Ванес
 - - -
-Starting at 14th level, you can use the Hide action as a bonus action on your turn. Also, you can't be tracked by nonmagical means, unless you choose to leave a trail.
+Починаючи з 14-го рівня, ви можете використовувати дію "Приховати в якості бонусної дії на вашому кроці. Також, вас не можна відстежувати немагічними засобами, якщо ви не покинете стежку.
 
-### Feral Senses
+### Зроблені Ушкодження
 - - -
-At 18th level, you gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it.    
-You are also aware of the location of any invisible creature within 30 feet of you, provided that the creature isn't hidden from you and you aren't blinded or deafened.
+На 18-му рівні ви отримуєте відчуття надприродності, які допомагають боротися з істотами, яких ви не бачите. Коли ви нападаєте на істоту, ви не можете бачити, ваша нездатність бачити не завдає шкоди вашому нападу проти нього.    
+Також ви знаєте, де знаходження будь-якої невидимої істоти в межах 30 футів від вас, за умови, що істота не прихована від вас, і ви не засліплені або глухими.
 
-### Foe Slayer
+### Туалет
 - - -
-At 20th level, you become an unparalleled hunter of your enemies. Once on each of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make against one of your favored enemies. You can choose to use this feature before or after the roll, but before any effects of the roll are applied.
+20-ий рівень ти стаєш незрівнянним мисливцем на своїх ворогах. Один раз на кожну чергу, ви можете додати свій модифікатор Мудрості до атаки, або звіт про шкоду, яку ви атакуєте проти одного з ваших улюблених ворогів. Ви можете вибрати цю функцію перед або після відкату, але до того, як буде застосований будь-який ефект жбурляння.
 
-## Ranger Archetypes
+## Архітипи Ranger
 
-The ideal of the ranger has two classic expressions: the Hunter and the Beast Master.
+Ідеал далекобійного віку складається з двох класичних виразів: Мисливця та Звіротворця.
 
-### Hunter
+### Мисливець
 - - -
-Emulating the Hunter archetype means accepting your place as a bulwark between civilization and the terrors of the wilderness. As you walk the Hunter's path, you learn specialized techniques for fighting the threats you face, from rampaging ogres and hordes of orcs to towering giants and terrifying dragons.
+Емуляція архетипу мисливця означає прийняття вашого місця, як коливання цивілізації та терорів пустелі. Проходячи по шляху мисливця, ви вивчаєте спеціалізовані методи боротьби з загрозами, з якими стикаєтесь, від бурхливих огрів та ордів до велетнів велетнів та страхітливих драконів.
 
-#### Hunter's Prey
-At 3rd level, you gain one of the following features of your choice.
+#### Жертва мисливця
+На третьому рівні ви отримуєте одну з наступних особливостей вашого вибору.
 
-**Colossus Slayer.** Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra 1d8 damage if it's below its hit point maximum. You can deal this extra damage only once per turn.    
-**Giant Killer.** When a Large or larger creature within 5 feet of you hits or misses you with an attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature.     
-**Horde Breaker.** Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.
+**Програмний шар.** Ваш натяг може носити вниз більшість потужних ворогів. Коли у вас є істота з атакою зброї, істота завдає додаткового 1d8 пошкоджень, якщо вона нижче вказаного максимуму. Ви можете нанести цю додаткову шкоду лише один раз на свою чергу.    
+**Вбивця гігантською.** Коли велика або більша істота в межах 5 футів від вас вдаряється або пропускає вас атакою, ви можете використати свою реакцію, щоб напасти на цю істоту відразу після її нападу, за умови, що ви можете побачити істоту.     
+**Брейкер Орди.** Як тільки на кожному з ваших поверхів, коли ви робите атаку зброї, ви можете зробити ще один напад з тією ж зброєю проти іншої істоти, яка знаходиться в межах 5 футів від початкової цілі і у межах вашої зброї.
 
-#### Defensive Tactics
-At 7th level, you gain one of the following features of your choice.
+#### Захисні тактичні завдання
+На 7-му рівні, ви отримуєте одну з наступних особливостей вашого вибору.
 
 **Escape the Horde.** Opportunity attacks against you are made with disadvantage.    
 **Multiattack Defense.** When a creature hits you with an attack, you gain a +4 bonus to AC against all subsequent attacks made by that creature for the rest of the turn.    
 **Steel Will.** You have advantage on saving throws against being frightened.
 
-#### Multiattack
-At 11th level, you gain one of the following features of your choice.
+#### Багатоатака
+На 11-му рівні ви отримуєте одну з наступних особливостей вашого вибору.
 
-**Volley.** You can use your action to make a ranged attack against any number of creatures within 10 feet of a point you can see within your weapon's range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target.    
-**Whirlwind Attack.** You can use your action to make a melee attack against any number of creatures within 5 feet of you, with a separate attack roll for each target.
+**Воллі.** Ви можете використовувати свою дію, щоб зробити дистанційну атаку проти будь-якої кількості істот в межах 10 футів від точки, яку ви можете побачити в межах вашої зброї. Ви повинні мати боєприпаси для кожної цілі, як звичайні, і ви робите окремий колом атаки для кожної цілі.    
+**Атака вітру.** Ви можете використовувати свою дію, щоб зробити рукопашну атаку проти будь-якої кількості істот в межах 5 футів від вас, з окремою атакою колом для кожної цілі.
 
-#### Superior Hunter's Defense
-At 15th level, you gain one of the following features of your choice.
+#### Захист Верхнього Мисливця
+На 15 рівні ви отримуєте одну з наступних особливостей вашого вибору.
 
-**Evasion.** When you are subjected to an effect, such as a red dragon's fiery breath or a lightning bolt spell, that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.    
-**Stand Against the Tide.** When a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same attack against another creature (other than itself) of your choice.    
-**Uncanny Dodge.** When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.
+**Евазіон.** Коли ви піддаєтеся ефекту, наприклад, полум'яний подих червоного дракона або блискавка заклинання блискавки, який дозволяє зробити розподіл дискучої ситуації, щоб отримати лише половину шкоди, наносять не шкоди, якщо тобі вдається завдати удару по рятівнику, а лише наполовину шкоди, якщо Ви зазнаєте невдачі.    
+**Стіни проти Tide.** Коли ворожа істота не помічає вас з атакою ближнього бою, ви можете використати свою реакцію, щоб змусити цю істоту повторити той самий напад проти іншої істоти (крім себе) вашого вибору.    
+**Відкритий Додж.** Коли зловмисник Ви зможете бачити удари при атаці, ви можете використати вашу реакцію, щоб зменшити вдвічі шкоду від вас атаки.
