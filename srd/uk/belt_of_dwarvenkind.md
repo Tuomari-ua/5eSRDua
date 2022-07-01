@@ -1,17 +1,17 @@
-name: Belt of Dwarvenkind type: item
+назва: Пояс Дварвентиду тип: елемент
 
-# Belt of Dwarvenkind
-_Wondrous item, rare (requires attunement)_
+# Дварвенкінд
+_Чудотвор, рідкісний (вимагає захоплення)_
 
-While wearing this belt, you gain the following benefits:
+Носячи цей пояс, ви отримуєте наступні переваги:
 
-* Your Constitution score increases by 2, to a maximum of 20.
-* You have advantage on Charisma (Persuasion) checks made to interact with dwarves.
+* Ваша Конституція нараховує до 2, до максимуму 20.
+* Тепер ви можете скористатися перевірками Харісми (Персуазіони) щоб взаємодіяти з гномами.
 
-In addition, while attuned to the belt, you have a 50 percent chance each day at dawn of growing a full beard if you're capable of growing one, or a visibly thicker beard if you already have one.
+Крім того, піддавшись до пояса, кожного дня у вас є шанс на 50% на зорі росту бороди, якщо у вас можливість рости з життя, або помітно товстішою бородою, якщо вона вже є.
 
-If you aren't a dwarf, you gain the following additional benefits while wearing the belt:
+Якщо ви не гном, ви отримаєте додаткові переваги під час пояса:
 
-* You have advantage on saving throws against poison, and you have resistance against poison damage.
-* You have darkvision out to a range of 60 feet.
-* You can speak, read, and write Dwarvish. 
+* Ви маєте перевагу над збереженням кидків проти отрути, та матимете опір проти отруйної шкоди.
+* У вас є темнозір до 60 футів.
+* Говори, читати та писати Двійц. 
