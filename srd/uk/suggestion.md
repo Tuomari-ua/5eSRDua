@@ -1,14 +1,14 @@
-name: Suggestion level: 2 school: enchantment classes: bard sorcerer warlock wizard
+назва: Пропозиція рівень: 2 школа: зачарування класі: сад сортувальник warlock
 
-# Suggestion
-_2nd-level enchantment_
+# Варіант перекладу
+_Зачарування 2n-ного рівня_
 
 **Casting Time:** 1 action    
 **Range:** 30 feet    
 **Components:** V, M (a snake's tongue and either a bit of honeycomb or a drop of sweet oil)    
 **Duration:** Concentration, up to 8 hours
 
-You suggest a course of activity (limited to a sentence or two) and magically influence a creature you can see within range that can hear and understand you. Creatures that can't be charmed are immune to this effect. The suggestion must be worded in such a manner as to make the course of action sound reasonable. Asking the creature to stab itself, throw itself onto a spear, immolate itself, or do some other obviously harmful act ends the spell.    
-The target must make a Wisdom saving throw. On a failed save, it pursues the course of action you described to the best of its ability. The suggested course of action can continue for the entire duration. If the suggested activity can be completed in a shorter time, the spell ends when the subject finishes what it was asked to do.    
-You can also specify conditions that will trigger a special activity during the duration. For example, you might suggest that a knight give her warhorse to the first beggar she meets. If the condition isn't met before the spell expires, the activity isn't performed.    
-If you or any of your companions damage the target, the spell ends. 
+Пропонуєте певні дії (обмежуються реченням два рази) і магічно впливають на істоту, яку можна побачити в діапазоні, яку можна почути і розуміти вас. Ці істоти, які не можна зачарувати, є імунітетними в цьому ефекті. Пропозиція повинна бути висловлена таким чином, щоб зробити хід дій розумним. Щоб створіння заставило себе на спис чи зробило якийсь інший очевидно шкідливий акт закінчується заклинання.    
+Ціль повинна зробити рятування мудрості. На невдалому збереженні він переслідує хід дій, які ви описали найкращою його здатністю. Пропонований курс дії може тривалістю продовжити всю тривалість. Якщо запропонована діяльність можна завершити через більш короткий час, заклинання закінчується, коли тема завершується за тим, що його попросили зробити.    
+Ви також можете вказати умови, які будуть викликати особливу активність протягом тривалості. Наприклад, ви могли б запропонувати лицарю віддати її коню першому жебраку, який вона зустрічає. Якщо умова не буде виконана до закінчення заклинання - діяльність не виконується.    
+Якщо ви або будь-який з ваших супутників зашкодять цілі, завершується заклинання . 
