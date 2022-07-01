@@ -1,23 +1,23 @@
-name: Red Dragon Wyrmling type: dragon cr: 4
+назва: Виверк Червоного Дракона тип: дракона cr: 4
 
-# Red Dragon Wyrmling
-_Medium dragon, chaotic evil_
+# Червоний Дракон Вирмлінг
+_Середній дракон, хаотичне зло_
 
-**Armor Class** 17 (natural armor)    
-**Hit Points** 75 (10d8 + 30)    
-**Speed** 30 ft., climb 30 ft., fly 60 ft.
+**Клас обладунку** 17 (природна броня)    
+**Очки** 75 (10d8 + 30)    
+**Швидкість** фут. піднятись на 30 раз і летіти 60 футів.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
 
-**Saving Throws** Dex +2, Con +5, Wis +2, Cha +4    
-**Skills** Perception +4, Stealth +2    
-**Damage Immunities** fire    
-**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14    
-**Languages** Draconic    
-**Challenge** 4 (1,100 XP)
+**Збереження жбурлянь** Dex +2, Con +5, Wis +2, Cha +4    
+**Навичків** Perception +4, Крадіжки +2    
+**Пошкодження** вогонь </strong> вогню    
+**Забезпечення** оснащення 10 футів. темп 60 кв. пасивне сприйняття 14    
+мови **мов** драконя    
+**виклику** (1,100 XP)
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 9 (1d10 + 4) piercing damage plus 3 (1d6) fire damage.    
-**Fire Breath (Recharge 5–6).** The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.
+### Дії
+**Біт.** _Атака ближньої зброї:_ +6 до удару, досягає 5-ї цілі, одна мета. _Вразу:_ 9 (1d10 + 4) пошкодження від проби плюс 3 (1d6) вогнепальні пошкодження.    
+**Вогняне дихання (Поповнення 5–6).** Дракон видихає вогонь в 15-футовій шині. Кожна істота в цій ділянці повинна зробити Dexterity спасіння Dexterity рятівника, заподіяння 24 (7d6) пошкодження від зазнало невдачі, або ж ушкодження від успішного.
