@@ -1,13 +1,13 @@
-name: Secret Chest level: 4 school: conjuration classes: wizard
+назва: Секретна Скриня рівень: 4 школу: conjuration класи: майстер
 
-# Secret Chest
-_4th-level conjuration_
+# Таємна скриня
+_Тривалість четвертого рівня_
 
 **Casting Time:** 1 action    
 **Range:** Touch    
 **Components:** V, S, M (an exquisite chest, 3 feet by 2 feet by 2 feet, constructed from rare materials worth at least 5,000 gp, and a Tiny replica made from the same materials worth at least 50 gp)    
 **Duration:** Instantaneous
 
-You hide a chest, and all its contents, on the Ethereal Plane. You must touch the chest and the miniature replica that serves as a material component for the spell. The chest can contain up to 12 cubic feet of nonliving material (3 feet by 2 feet by 2 feet).    
-While the chest remains on the Ethereal Plane, you can use an action and touch the replica to recall the chest. It appears in an unoccupied space on the ground within 5 feet of you. You can send the chest back to the Ethereal Plane by using an action and touching both the chest and the replica.    
-After 60 days, there is a cumulative 5 percent chance per day that the spell's effect ends. This effect ends if you cast this spell again, if the smaller replica chest is destroyed, or if you choose to end the spell as an action. If the spell ends and the larger chest is on the Ethereal Plane, it is irretrievably lost. 
+Ви сховаєте скриню, і всі її складові на Плані Естералів. Ви повинні торкнутися скрині і мініатюрної репліки, що служить матеріальним компонентом для заклинання. Скриня може містити до 12 кубічних футів неживої речовини (3 фути на 2 фути).    
+Поки скриня залишається на Плані Ethereal, ви можете використати дію та торкніться репліки, щоб відкликати скриню. Вона з'являється в незаселеному просторі на землі в 5 футів від вас. Ви можете відправити скриню назад в Ethereal Plane використовуючи дію і торкаючись скрині та репліки.    
+через 60 днів, існує сукупний 5% шанс на день, коли дія заклинання закінчується. Цей ефект закінчиться, якщо ви кинете це заклинання знову, якщо менша скриня репліки буде знищена, або якщо ви хочете завершити заклинання як дію. Якщо заклинання і більша скриня знаходиться на Плані Ейреалів, вона безповоротно втрачена. 
