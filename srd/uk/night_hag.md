@@ -1,13 +1,13 @@
-name: Night Hag type: fiend cr: 5
+назва: Нічний Хаг тип: фіювати cr: 5
 
-# Night Hag
-_Medium fiend, neutral evil_
+# Нічний хаг
+_Нейтральне, нейтральне зло_
 
-**Armor Class** 17 (natural armor)    
-**Hit Points** 112 (15d8 + 45)    
-**Speed** 30 ft.
+**Клас обладунку** 17 (природна броня)    
+**Очки** 112 (15d8 + 45)    
+**швидкість** фут.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 15 (+2) | 16 (+3) | 16 (+3) | 14 (+2) | 16 (+3) |
 
@@ -18,13 +18,13 @@ _Medium fiend, neutral evil_
 **Languages** Abyssal, Common, Infernal, Primordial    
 **Challenge** 5 (1,800 XP)
 
-**Innate Spellcasting.** The hag's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components:    
-At will: **_detect magic_**, **_magic missile_**    
-2/day each: **_plane shift_** (self only), **_ray of enfeeblement_**, **_sleep_**    
-**Magic Resistance.** The hag has advantage on saving throws against spells and other magical effects.
+**Взяти орфографію орфографії.** Природною здатністю заклинання є Харизма (заклинання збереження DC 14 , +6 для удару заклинання атак). Вона може вродиститися прикидати наступні заклинання, у разі не вимагається жодних матеріальних компонентів:    
+На волі: **_виявити магію_** **_магічна ракета_**    
+2/day кожний: **_зсув_** (тільки "я" само), **_променів беззмісту_**, **_сон_**    
+**Магічного Опору.** Гаг має перевагу на збереженні квітів проти заклинань та інших магічних ефектів.
 
-### Actions
-**Claws (Hag Form Only).** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) slashing damage.    
-**Change Shape.** The hag magically polymorphs into a Small or Medium female humanoid, or back into her true form. Her statistics are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts to her true form if she dies.    
-**Etherealness.** The hag magically enters the Ethereal Plane from the Material Plane, or vice versa. To do so, the hag must have a heartstone in her possession.    
-**Nightmare Haunting (1/Day).** While on the Ethereal Plane, the hag magically touches a sleeping humanoid on the Material Plane. A protection from evil and good spell cast on the target prevents this contact, as does a magic circle. As long as the contact persists, the target has dreadful visions. If these visions last for at least 1 hour, the target gains no benefit from its rest, and its hit point maximum is reduced by 5 (1d10). If this effect reduces the target's hit point maximum to 0, the target dies, and if the target was evil, its soul is trapped in the hag's soul bag. The reduction to the target's hit point maximum lasts until removed by the greater restoration spell or similar magic.
+### Дії
+**лише кішки (лише форма Хага).** _Атака ближньої зброї:_ +7 для удару, досягає 5-го рівня, одна ціль. _Вдач:_ 13 (2d8 + 4) удар пошкодження.    
+**Змінити форму.** форма трагічного поліморфа в малу чи середньо жіночу гуманоїд, або ж повернулася в свою справжню форму. Її статистика - однакова у кожній формі. Будь-яке обладнання вона одягнена або перенесена не трансформується. Вона звертається до правдивої форми, якщо вона помре.    
+**Занепокорення.** Синг магічним чином входить до складу Ethereal Площини Матеріалів або навпаки. To do so, the hag must have a heartstone in her possession.    
+**Nightmare Haunting (1/Day).** While on the Ethereal Plane, the hag magically touches a sleeping humanoid on the Material Plane. Захист від злого та доброго заклинання вказали на мету, запобігає цьому контакту, як магічне коло. Поки контакт не повторюється, ціль має жахливі бачення. Якщо ці бачення тривають принаймні 1 годину, ціль не отримує ніякої користі від її решти, та максимальна кількість граничного результату на 5 (1d10). Якщо цей ефект зменшує максимальну точку дотику цілі до 0, то ціль гине, і коли ціль була злою, її душа потрапила в пастку для душі. Зниження до максимальної кількості цілі триває до тих пір, поки не буде видалено більшим заклинанням для відновлення або подібною магією.
