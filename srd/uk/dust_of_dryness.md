@@ -1,10 +1,10 @@
-name: Dust of Dryness type: item
+назва: Dust of Dryness type: елемент
 
-# Dust of Dryness
-_Wondrous item, uncommon_
+# Пил суху
+_Нетиповий для Wondrous_
 
-This small packet contains 1d6 + 4 pinches of dust. You can use an action to sprinkle a pinch of it over water. The dust turns a cube of water 15 feet on a side into one marble-sized pellet, which floats or rests near where the dust was sprinkled. The pellet's weight is negligible.
+Цей маленький пакет містить 1d6 + 4 рожеві пилу. Ви можете використати дію, щоб окропити її чапка над водою. Пил перетворює кубик води 15 футів на один з основних елементів елементів елементів в одну, якого плавали або лежали довкола, де порох розбризло. Вага pellet незначна.
 
-Someone can use an action to smash the pellet against a hard surface, causing the pellet to shatter and release the water the dust absorbed. Doing so ends that pellet's magic.
+Хтось може використати дію, щоб розбити гранули на тверду поверхню, спричинивши шлюз кидком і вивільнити воду поглинаючи пил. Це закінчується часою.
 
-An elemental composed mostly of water that is exposed to a pinch of the dust must make a DC 13 Constitution saving throw, taking 10d6 necrotic damage on a failed save, or half as much damage on a successful one. 
+Елементальний складений в основному водою, яка піддається вершині пилу повинен зробити економію Конституції DC 13 отримання некротичних пошкодження в 10d6 щодо заощаджень, або ж удвічі більше шкоди від успішного. 
