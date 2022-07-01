@@ -1,24 +1,24 @@
-name: Berserker type: humanoid (any race) cr: 2
+назва: Berserker тип: humanoid (any race) cr: 2
 
 # Berserker
-_Medium humanoid (any race), any chaotic alignment_
+_Середня гуманоїда (будь-яке прорис), будь-яке хаотичне вирівнювання_
 
-**Armor Class** 13 (hide armor)    
-**Hit Points** 67 (9d8 + 27)    
-**Speed** 30 ft.
+**Клас броні** 13 (приховати броню)    
+**Очки влучання** 67 (9d8 + 27)    
+**Швидкість** фут.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 16 (+3) | 12 (+1) | 17 (+3) | 9 (−1) | 11 (+0) | 9 (−1) |
 
-**Senses** passive Perception 10    
-**Languages** any one language (usually Common)    
-**Challenge** 2 (450 XP)
+**Подяки** пасивний Виняток 10    
+**Мови** будь-якої мови (зазвичай просто)    
+**виклик** (450 XP)
 
-**Reckless.** At the start of its turn, the berserker can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.
+**Згадайте про це.** На початку свого повороту berserker може отримати перевагу в усіх аварійних ударах ближнього бою під час цього повороту, але напад проти нього має перевагу до початку наступного кроку.
 
-### Actions
-**Greataxe.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 9 (1d12 + 3) slashing damage.
+### Дії
+**Чудова сокира.** _Атака ближньої зброї:_ +5 для удару, досягає 5 щитів, одна ціль. _Вдач:_ 9 (1d12 + 3) збитки.
 
-### Description
-Hailing from uncivilized lands, unpredictable berserkers come together in war parties and seek conflict wherever they can find it. 
+### Опис
+Віруючи з нецивілізованих земель, непередбачувані берсерки збираються разом у військові партії та шукають конфлікту, де б вони не могли його знайти. 
