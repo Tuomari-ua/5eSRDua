@@ -1,11 +1,11 @@
-name: Tongues level: 3 school: divination classes: bard cleric sorcerer warlock wizard
+назва: Тайли рівень: 3 школа: divination класи: сад клорка сортувальник warlock
 
 # Tongues
-_3rd-level divination_
+_Розщеплення на третьому рівні_
 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, M (a small clay model of a ziggurat)    
-**Duration:** 1 hour
+**Час трансляції :** 1 дія    
+**Діапазон:** Торкніться    
+**компоненти:** V, M (маленька глиняна модель ziggurat)    
+**тривалість:** години
 
-This spell grants the creature you touch the ability to understand any spoken language it hears. Moreover, when the target speaks, any creature that knows at least one language and can hear the target understands what it says. 
+Ця заклинання дає істоті те, що ви торкаєтеся здатності розуміти будь-яку мовну мову, яку вона чує. Більше того, коли мета промовляє, будь-яка істота, яка знає хоча б одну мову і може почути цільову думку. 
