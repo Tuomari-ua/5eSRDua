@@ -1,41 +1,41 @@
-name: Control Weather level: 8 school: transmutation classes: cleric druid wizard
+назва: Контроль погода рівень: 8 школа: транмутація класів: священно druid майстер
 
-# Control Weather
-_8th-level transmutation_
+# Контрольна погода
+_Ретрансмутація 8-го рівня_
 
 **Casting Time:** 10 minutes    
 **Range:** Self (5-mile radius)    
 **Components:** V, S, M (burning incense and bits of earth and wood mixed in water)    
 **Duration:** Concentration, up to 8 hours
 
-You take control of the weather within 5 miles of you for the duration. You must be outdoors to cast this spell. Moving to a place where you don't have a clear path to the sky ends the spell early.    
-When you cast the spell, you change the current weather conditions, which are determined by the GM based on the climate and season. You can change precipitation, temperature, and wind. It takes 1d4 × 10 minutes for the new conditions to take effect. Once they do so, you can change the conditions again. When the spell ends, the weather gradually returns to normal.    
-When you change the weather conditions, find a current condition on the following tables and change its stage by one, up or down. When changing the wind, you can change its direction.
+Ви отримуєте контроль над погодою в межах 5 миль від вас протягом зазначеної тривалості. Ви повинні бути на вулиці, щоб кинути це заклинання. Йдемо до місця, де у вас немає чіткого шляху до неба закінчується заклинання раніше.    
+Коли ви кидаєте орфографію, ви змінюєте поточні погодні умови, які визначаються GM на основі клімату та сезону. Ви можете змінити опади, температуру та вітер. Щоб нові умови набули чинності, потрібно 1d4 × 10 хвилин. Як тільки вони це зроблять, ви можете знову змінити умови. Коли заклинання закінчується, погода поступово повертається до норми.    
+Коли ви зміните погодні умови, знайти поточну умову в наступних таблицях і змінити її етап на один, вгору або вниз. При зміні вітру ви можете змінити його напрямок.
 
-### Precipitation
-| Stage | Condition                                  |
-| ----- | ------------------------------------------ |
-| 1     | Clear                                      |
-| 2     | Light clouds                               |
-| 3     | Overcast or ground fog                     |
-| 4     | Rain, hail or snow                         |
-| 5     | Torrential rain, driving hail, or blizzard |
+### Атмосферні опади
+| Етап | Стан                                             |
+| ---- | ------------------------------------------------ |
+| 1    | Очистити                                         |
+| 2    | Світлі хмари                                     |
+| 3    | Висипаний або земляний туман                     |
+| 4    | Дощ, град або сніг                               |
+| 5    | Торентський дощ, їжачий град, або шведський март |
 
-### Temperature
-| Stage | Condition       |
-| ----- | --------------- |
-| 1     | Unbearable heat |
-| 2     | Hot             |
-| 3     | Warm            |
-| 4     | Cool            |
-| 5     | Cold            |
-| 6     | Arctic cold     |
+### Температура
+| Етап | Стан            |
+| ---- | --------------- |
+| 1    | Нестерпна тепла |
+| 2    | Спекотно        |
+| 3    | Теплий тон      |
+| 4    | Холодний        |
+| 5    | Холод           |
+| 6    | Арктичний холод |
 
-### Wind
-| Stage | Condition     |
-| ----- | ------------- |
-| 1     | Calm          |
-| 2     | Moderate wind |
-| 3     | Strong wind   |
-| 4     | Gale          |
-| 5     | Storm         |
+### Вітер
+| Етап | Стан           |
+| ---- | -------------- |
+| 1    | Штиль          |
+| 2    | Помірний вітер |
+| 3    | Сильний вітер  |
+| 4    | Ґейл           |
+| 5    | Шторм          |
