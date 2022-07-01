@@ -1,13 +1,13 @@
-name: Animal Friendship level: 1 school: enchantment classes: bard druid ranger
+назва: Дружба до тварин рівня: 1 школа: зачарування класи: Бард druid
 
-# Animal Friendship
-_1st-level enchantment_
+# Тваринна дружба
+_Зачарування на перший рівень_
 
-**Casting Time:** 1 action    
-**Range:** 30 feet    
-**Components:** V, S, M (a morsel of food)    
-**Duration:** 24 hours
+**Час трансляції :** 1 дія    
+**Діапазон:** 30 футів    
+**компоненти:** V, S, М (балка їжі)    
+**тривалість:** 24 години
 
-This spell lets you convince a beast that you mean it no harm. Choose a beast that you can see within range. It must see and hear you. If the beast's Intelligence is 4 or higher, the spell fails. Otherwise, the beast must succeed on a Wisdom saving throw or be charmed by you for the spell's duration. If you or one of your companions harms the target, the spells ends.
+Ця заклинання дозволяє переконати звіра, що ти не маєш на увазі ніякої шкоди. Виберіть звіра, яку можна побачити на межі діапазону. Він повинен бачити і чути тебе. Якщо інтелект звіра 4 або вище, заклинання не вдається. В іншому випадку звір має досягти успіху в рятувальній мудрості або бути зачарований вами за тривалістю заклинання. Якщо ви або один з ваших супутників завдають шкоди цілі, то завершуються заклинання.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional beast t level above 1st.
+**На вищих рівнях.** Коли ви транслюєте це заклинання використовуючи слот 2-го рівня або вище, ви можете вплинути на один додатковий рівень звіра вище 1st.
