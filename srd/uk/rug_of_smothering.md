@@ -1,13 +1,13 @@
-name: Rug of Smothering type: construct cr: 2
+назва: Резервна копія Спера тип: конструкція cr: 2
 
-# Rug of Smothering
-_Large construct, unaligned_
+# Килимок материнського
+_Велика конструкція, не вирівняти_
 
 **Armor Class** 12    
 **Hit Points** 33 (6d10)    
 **Speed** 10 ft.
 
-| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS    | CHA    |
 | ------- | ------- | ------- | ------ | ------ | ------ |
 | 17 (+3) | 14 (+2) | 10 (+0) | 1 (-5) | 3 (-4) | 1 (-5) |
 
@@ -17,9 +17,9 @@ _Large construct, unaligned_
 **Languages** --    
 **Challenge** 2 (450 XP)
 
-**Antimagic Susceptibility.** The rug is incapacitated while in the area of an antimagic field. If targeted by **_dispel magic_**, the rug must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.    
-**Damage Transfer.** While it is grappling a creature, the rug takes only half the damage dealt to it, and the creature grappled by the rug takes the other half.    
-**False Appearance.** While the rug remains motionless, it is indistinguishable from a normal rug.
+**Підсилення антимагічних об’єктів.** килим втрачено без ємності в районі антимагічного поля. Якщо ціль **_розвіяти магію_**килим повинен досягти успіху в економії Конституції проти заклинання замку, заощадити округ Колумбія або покинути несвідому на 1 хвилину.    
+**Пошкодження передачі.** Хоча він бореться з істотою, килимок бере лише половину шкоди, накладеної на неї, та істота зачепилася килимом на іншу половину.    
+**False Appearance.** , хоча килим залишається нерухомим, він не відрізняється від звичайного килима.
 
-### Actions
-**Smother.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one Medium or smaller creature. _Hit:_ The creature is grappled (escape DC 13). Until this grapple ends, the target is restrained, blinded, and at risk of suffocating, and the rug can't smother another target. In addition, at the start of each of the target's turns, the target takes 10 (2d6 + 3) bludgeoning damage.
+### Дії
+**Smother.** _Атака ближньої зброї:_ +5 на влучання, досягне 5-ти, однієї середньої або меншої істоти. _Одер:_ істота зачепилася (уникнення 13 відсотків). Поки ця нитка не закінчиться, ціль буде обмежена, сліпим, і, ризикуючи задушити, і килимок не може курнути ще одну ціль. Крім того, на початку кожної черги мети ціль отримує 10 (2d6 + 3) пошкодження від душок.
