@@ -1,13 +1,13 @@
-name: Circle of Death level: 6 school: necromancy classes: sorcerer warlock wizard
+назва: Коло смерті : 6 школу: некроманність класі: сортувальник тепло
 
-# Circle of Death
-_6th-level necromancy_
+# Коло смерті
+_Некромантія 6-го рівня_
 
 **Casting Time:** 1 action    
 **Range:** 150 feet   
 **Components:** V, S, M (the powder of a crushed black pearl worth at least 500 gp)    
 **Duration:** Instantaneous
 
-A sphere of negative energy ripples out in a 60-foot- radius sphere from a point within range. Each creature in that area must make a Constitution saving throw. A target takes 8d6 necrotic damage on a failed save, or half as much damage on a successful one.
+Сфера від'ємних енергетичних брил за 60 футів - радіусу від точки в межах діапазону. Кожна істота в цій галузі повинна робити економію конституції. Ціль завдає 8d6 шкоди від невдалого заощадження, або ж удвічі більше шкоди від успішного.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, the damage increases by 2d6 for each slot level above 6th. 
+**На вищих рівнях.** Коли ви кидаєте це заклинання використовуючи гніздо 7-го рівня або вище, шкоду збільшується на 2d6 для кожного слоту вище 6 рівня. 
