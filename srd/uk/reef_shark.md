@@ -1,13 +1,13 @@
-name: Reef Shark type: beast cr: .5
+назва: Рифовий ковчег тип: звір cr: .5
 
-# Reef Shark
-_Medium beast, unaligned_
+# Рифові акули
+_Середній звір, неприєднаний_
 
 **Armor Class** 12 (natural armor)    
 **Hit Points** 22 (4d8 + 4)    
 **Speed** 0 ft., swim 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 14 (+2) | 13 (+1) | 13 (+1) | 1 (−5) | 10 (+0) | 4 (−3) |
 
@@ -16,11 +16,11 @@ _Medium beast, unaligned_
 **Languages** --    
 **Challenge** 1/2 (100 XP)
 
-**Pack Tactics.** The shark has advantage on an attack roll against a creature if at least one of the shark's allies is within 5 feet of the creature and the ally isn't incapacitated.    
-**Water Breathing.** The shark can breathe only underwater.
+**Тактики пакета.** Акула має перевагу в атаці, що розколюється на створіння, якщо принаймні один з союзників акул перебуває на протязі 5 футів істоти, і союзник не здатний працювати.    
+**Подихання води.** Акула може дихати тільки під водою.
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage.
+### Дії
+**Біт.** _Атака ближньої зброї:_ +4 до удару, досягає 5-ї цілі, одна мета. _Вразів:_ 6 (1d8 + 2) пошкодження вводу.
 
-### Description
-Smaller than giant sharks and hunter sharks, reef sharks inhabit shallow waters and coral reefs, gathering in small packs to hunt. A full-grown specimen measures 6 to 10 feet long. 
+### Опис
+Швидші за велетенських акул та мисливців, рифові акули жили на мілководдях і коралових рифів, збираючи у невеликих зграях на полювання. Повноцінний зразк довжиною від 6 до 10 футів. 
