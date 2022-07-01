@@ -1,13 +1,13 @@
-name: Swarm of Ravens type: swarm of Tiny beasts cr: .25
+назва: Оточення Круків типу: рій долинних звірів cr: .25
 
-# Swarm of Ravens
-_Medium swarm of Tiny beasts, unaligned_
+# Осот Круків
+_Середній рій крихітних звірів, невирівняний_
 
 **Armor Class** 12    
 **Hit Points** 24 (7d8 − 7)    
 **Speed** 10 ft., fly 50 ft.
 
-| STR    | DEX     | CON    | INT    | WIS     | CHA    |
+| СТР    | ДЕКС    | CON    | ІНТ    | WIS     | CHA    |
 | ------ | ------- | ------ | ------ | ------- | ------ |
 | 6 (−2) | 14 (+2) | 8 (−1) | 3 (−4) | 12 (+1) | 6 (−2) |
 
@@ -18,7 +18,7 @@ _Medium swarm of Tiny beasts, unaligned_
 **Languages** --    
 **Challenge** 1/4 (50 XP)
 
-**Swarm.** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny raven. The swarm can't regain hit points or gain temporary hit points.
+**Стійко.** Тепло може займати простір інших істот і навпаки, і рій може рухатися крізь будь-яке відкриття, достатньо великий, щоб отекти Крука. Оточення не може повернути влучні бали або отримати тимчасові влучання.
 
-### Actions
-**Beaks.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target in the swarm's space. _Hit:_ 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer. 
+### Дії
+**Бики.** _Атака ближньої зброї:_ +4, щоб ударити на 5, ціль у теплому просторі. _Вдач:_ 7 (2d6) пробивання пошкоджень, або 3 (1d6) пробивання шкоди, якщо оскол має половину своїх перших точок або менше. 
