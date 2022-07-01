@@ -1,12 +1,12 @@
-name: Wind Walk level: 6 school: transmutation classes: druid
+назва: Вітряна хода рівень: 6 школа: транмутація класи: druid
 
-# Wind Walk
-_6th-level transmutation_
+# Аеміда
+_6-рівень трансмутації_
 
-**Casting Time:** 1 minute    
-**Range:** 30 feet    
-**Components:** V, S, M (fire and holy water)    
-**Duration:** 8 hours
+**Час Кастингу:** 1 хвилину    
+**Діапазон:** 30 футів    
+**компоненти:** V, S, М (вогонь та свята вода)    
+**тривалість:** години
 
-You and up to ten willing creatures you can see within range assume a gaseous form for the duration, appearing as wisps of cloud. While in this cloud form, a creature has a flying speed of 300 feet and has resistance to damage from nonmagical weapons. The only actions a creature can take in this form are the Dash action or to revert to its normal form. Reverting takes 1 minute, during which time a creature is incapacitated and can't move. Until the spell ends, a creature can revert to cloud form, which also requires the 1-minute transformation.    
-If a creature is in cloud form and flying when the effect ends, the creature descends 60 feet per round for 1 minute until it lands, which it does safely. If it can't land after 1 minute, the creature falls the remaining distance. 
+Ви і до десяти бажаючих істот, які ви можете бачити в радіусі передбачених за певний проміжок часу виступаєте як товсті хмари. В той час як у формі цієї хмари істота має низьку швидкість руху в 100 футів і її опір шкоді немагічній зброї. Єдина дія може вжити в цій формі - це Dash або повернутися до нормальної форми. Відновлення займає 1 хвилину, за цей час істота знаходиться поза межею і не може рухатися. Поки заклинання не закінчується, істота може повернутися до форми хмари, яка також вимагає 1-хвилинної трансформації.    
+Якщо істота перебуває у хмарному режимі і летить після закінчення процесу, істота спускається 60 футів в раунд протягом 1 хвилини, поки вона не приземлиться. Якщо ж він не зможе приземлитись через 1 хвилину, істота потрапить на решту відстані. 
