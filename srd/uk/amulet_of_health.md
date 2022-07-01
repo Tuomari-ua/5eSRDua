@@ -1,6 +1,6 @@
-name: Amulet of Health type: item
+назва: Amulet здоров’я типу: елемент
 
-# Amulet of Health
-_Wondrous item, rare (requires attunement)_
+# Амулет здоров'я
+_Чудотвор, рідкісний (вимагає захоплення)_
 
-Your Constitution score is 19 while you wear this amulet. It has no effect on you if your Constitution is already 19 or higher. 
+Ваша конституція дев'ять, поки ви носите цей амулет. Це не має ніякого впливу на вас, якщо Конституція вже на 19 або вище. 
