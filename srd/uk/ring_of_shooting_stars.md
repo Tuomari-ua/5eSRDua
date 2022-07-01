@@ -1,25 +1,25 @@
-name: Ring of Shooting Stars type: ring
+назва: Кільце Стріляючих Зірків тип: ring
 
-# Ring of Shooting Stars
-_Ring, very rare (requires attunement outdoors at night)_
+# Кільце Зірків Стрілецького
+_Вершка, дуже рідкісна (вимагає розміщення на відкритому повітрі)_
 
-While wearing this ring in dim light or darkness, you can cast **_dancing lights_** and **_light_** from the ring at will. Casting either spell from the ring requires an action.
+Під час затемненого світла та темряви, одягаючись у цей перстень, ви можете транслювати **_танцюючі вогні_** і **_світло_** від кільця за бажанням. Переказ або заклинання від кільця потребує дій.
 
-The ring has 6 charges for the following other properties. The ring regains 1d6 expended charges daily at dawn.
+рінг має 6 зарядів за інші властивості. Кільце відновлює 1 до6 витрат щоденно на світанку.
 
-**Faerie Fire.** You can expend 1 charge as an action to cast **_faerie fire_** from the ring.
+**Faerie Fire.** Ви можете потратити 1 заряд як дію, щоб транслювати **_Жадібно вогню_** від кільця.
 
-**Ball Lightning.** You can expend 2 charges as an action to create one to four 3-foot-diameter spheres of lightning. The more spheres you create, the less powerful each sphere is individually.
+**блискавка з м'ячею.** Ви можете потратити 2 заряди як дію для створення одної з чотирьох чотирьох футів діаметра блискавки. Чим більше сфер, тим менше кожної сфери створюється, тим менше кожної сфери.
 
-Each sphere appears in an unoccupied space you can see within 120 feet of you. The spheres last as long as you concentrate (as if concentrating on a spell), up to 1 minute. Each sphere sheds dim light in a 30-foot radius.
+Кожна сфера з'являється в незайнятому просторі, яку ви можете побачити в 120 футів від вас. Довгі сфери були сконцентровані (якщо ви зосереджуєтесь на правопис), до 1 хвилини. Кожна сфера тьмяно освітлює 30-футовий радіус.
 
-As a bonus action, you can move each sphere up to 30 feet, but no farther than 120 feet away from you. When a creature other than you comes within 5 feet of a sphere, the sphere discharges lightning at that creature and disappears. That creature must make a DC 15 Dexterity saving throw. On a failed save, the creature takes lightning damage based on the number of spheres you created.
+В якості бонусної дії ви можете перемістити кожну сферу вгору на 30 футів, але не вище ніж 120 футів від вас. Коли істота, що не входить у фут 5 футів сфери, сфера стримує блискавку на цю істоту і зникає. Ця істота повинна економити Dexterity 15 років. На невдалому збереженні істота наносить блискавку залежно від кількості створених сфер.
 
-| Spheres | Lightning Damage |
-| ------- | ---------------- |
-| 4       | 2d4              |
-| 3       | 2d6              |
-| 2       | 5d4              |
-| 1       | 4d12             |
+| Сфери | Пошкодження блискавок |
+| ----- | --------------------- |
+| 4     | 2д4                   |
+| 3     | 2д6                   |
+| 2     | 5д4                   |
+| 1     | 4д12                  |
 
-**Shooting Stars.** You can expend 1 to 3 charges as an action. For every charge you expend, you launch a glowing mote of light from the ring at a point you can see within 60 feet of you. Each creature within a 15-foot cube originating from that point is showered in sparks and must make a DC 15 Dexterity saving throw, taking 5d4 fire damage on a failed save, or half as much damage on a successful one.
+**Зірки стрілян.** Ви можете витратити 1 до 3 зарядів як дію. Для кожного заряду ви витрачаєте, від кола ви можете бачити в межах 60 футів світла. Кожна істота в межах 15-футового кубика, що походить з цієї точки, показана в іскрах і має зробити економію Dexterity Dexterity, отримання 5d4 шкоди для вогню за збереженням або ж удвічі більше шкоди від успішного.
