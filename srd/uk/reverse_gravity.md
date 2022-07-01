@@ -1,13 +1,13 @@
-name: Reverse Gravity level: 7 school: transmutation classes: druid sorcerer wizard
+назва: Зворотна гравітація : 7 школа: транмутація класи: druid сортувальник
 
-# Reverse Gravity
-_7th-level transmutation_
+# Зворотня гравітація
+_7-й рівень трансмутації_
 
-**Casting Time:** 1 action    
-**Range:** 100 feet    
-**Components:** V, S, M (a lodestone and iron filings)    
-**Duration:** Concentration, up to 1 minute
+**Час трансляції часу:** 1 дія    
+**Діапазон:** 100 футів    
+**компоненти:** V, S, М (лоестоне та залізне полювання)    
+**тривалість:** й до 1 хвилини
 
-This spell reverses gravity in a 50-foot-radius, 100- foot high cylinder centered on a point within range. All creatures and objects that aren't somehow anchored to the ground in the area fall upward and reach the top of the area when you cast this spell. A creature can make a Dexterity saving throw to grab onto a fixed object it can reach, thus avoiding the fall.    
-If some solid object (such as a ceiling) is encountered in this fall, falling objects and creatures strike it just as they would during a normal downward fall. If an object or creature reaches the top of the area without striking anything, it remains there, oscillating slightly, for the duration.    
-At the end of the duration, affected objects and creatures fall back down. 
+Це заклинання повертає гравітацію у 50-футовому радіусі на 100 футів під високим циліндром, орієнтованим на точку проходу. Усі істоти та об'єкти, які якось не є прибрані на землю в районі падіння вгору і досягають верхівки області після відкидання цього заклинання. Творчість може перетворити на фіксований об'єкт, таким чином уникаючи падіння.    
+Якщо якийсь твердий об'єкт (такий як стеля) зустрічається в цій осінні, падаючі предмети і істоти вдарять по ній так само, як і під час нормального падіння вниз. Якщо об'єкт або істота дістаються верхівки району, не вражаючи нічого, воно залишається там, коливається трохи на тривалість.    
+Наприкінці тривалості повторювані об'єкти і істоти падають вниз. 
