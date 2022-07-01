@@ -1,13 +1,13 @@
-name: Phantom Steed level: 3 school: illusion classes: wizard
+назва: Phantom Steed рівень: 3 школу: ілюзія класів: чарівник
 
-# Phantom Steed
+# Фантом Стід
 
-_3rd-level illusion (ritual)_
+_Ілюзія третього рівня (ритуал)_
 
-**Casting Time:** 1 minute    
-**Range:** 30 feet    
-**Components:** V, S    
-**Duration:** 1 hour
+**Час Кастингу:** 1 хвилину    
+**Діапазон:** 30 футів    
+**компоненти:** V, S    
+**тривалість:** години
 
-A Large quasi-real, horselike creature appears on the ground in an unoccupied space of your choice within range. You decide the creature's appearance, but it is equipped with a saddle, bit, and bridle. Any of the equipment created by the spell vanishes in a puff of smoke if it is carried more than 10 feet away from the steed.    
-For the duration, you or a creature you choose can ride the steed. The creature uses the statistics for a riding horse, except it has a speed of 100 feet and can travel 10 miles in an hour, or 13 miles at a fast pace. When the spell ends, the steed gradually fades, giving the rider 1 minute to dismount. The spell ends if you use an action to dismiss it or if the steed takes any damage.
+Велика квазіреальна істота з горселіками з’являється на землі в незаселеному просторі вашого вибору в межах діапазону. Приймайте рішення про вигляд істоти, але вона оснащена сідлом, м'ячем та мостом. Будь-яке обладнання, створене заклинанням, зникне в видолині диму, якщо воно переносить більше ніж на 10 футів від кого.    
+На протязі довгого терміну ви або істота, яку ви можете скористатися краєвим. Особа використовує статистику для коня на їзді, окрім того, що він має швидкість в 100 футів і може проїхати 10 миль за годину, або 13 миль за швидкими темпами. Коли заклинання закінчується, краї поступово згасають, надаючи вершнику 1 хвилину для демонтажу. Повноваження закінчується, якщо ви використовуєте дію, щоб її відхилити, або якщо тістечко завдає пошкодження.
