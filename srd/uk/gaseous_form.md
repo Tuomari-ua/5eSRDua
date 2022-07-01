@@ -1,13 +1,13 @@
-name: Gaseous Form level: 3 school: transmutation classes: sorcerer warlock wizard
+назва: Gaseous Form level: 3 school: транмутація класі: sorer warlock майстер
 
-# Gaseous Form
-_3rd-level transmutation_
+# Газова форма
+_Трансмутація третього рівня_
 
 **Casting Time:** 1 action    
 **Range:** Touch    
 **Components:** V, S, M (a bit of gauze and a wisp of smoke)    
 **Duration:** Concentration, up to 1 hour
 
-You transform a willing creature you touch, along with everything it's wearing and carrying, into a misty cloud for the duration. The spell ends if the creature drops to 0 hit points. An incorporeal creature isn't affected.    
-While in this form, the target's only method of movement is a flying speed of 10 feet. The target can enter and occupy the space of another creature. The target has resistance to nonmagical damage, and it has advantage on Strength, Dexterity, and Constitution saving throws. The target can pass through small holes, narrow openings, and even mere cracks, though it treats liquids as though they were solid surfaces. The target can't fall and remains hovering in the air even when stunned or otherwise incapacitated.    
-While in the form of a misty cloud, the target can't talk or manipulate objects, and any objects it was carrying or holding can't be dropped, used, or otherwise interacted with. The target can't attack or cast spells.
+Ви трансформуєте готову істоту на дотик, разом з усім, що вона носить і переносить, у туманну хмару на цей час. Лист закінчується, якщо істота падає до 0 влучених балів. Інкорпоративна істота не впливає на неї.    
+Хоча в цій формі, єдиним методом переміщення буде швидкість польоту 10 футів. Ціль може увійти і зайняти простір іншої істоти. Ціль має опір немагічній шкоді, яка має перевагу над силою та збереженням конституції. Ціль може проходити через невеликі дірки, вузькі отвори і навіть крізь щілини, хоча вона трактує рідини, неначе вони були твердими поверхнями. Ціль не може падати і залишається нависає в повітрі, навіть коли приголомшений чи іншим чином недієздатний.    
+у вигляді туманної хмари, ціль не може говорити чи маніпулювати об'єктами, і будь-які об'єкти, які він ніс або не може бути знятий, використовуючися інакше, взаємодіють. Ціль не може атакувати або транслювати заклинання.
