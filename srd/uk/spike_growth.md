@@ -1,12 +1,12 @@
-name: Spike Growth level: 2 school: transmutation classes: druid ranger
+назва: Час зростання Spike рівень: 2 школа: транмутація класи: druid ranger
 
-# Spike Growth
-_2nd-level transmutation_
+# Шипований ріст
+_Трансмутація 2N-рівня_
 
-**Casting Time:** 1 action    
-**Range:** 150 feet    
-**Components:** V, S, M (seven sharp thorns or seven small twigs, each sharpened to a point)    
-**Duration:** Concentration, up to 10 minutes
+**Час кастинг часу:** 1 дія    
+**Діапазон:** 150 футів    
+**компонентів:** V, S, М (сім гострих тернів або сім маленьких гілок, кожні гострі до точки)    
+**тривалість:** концентації, до 10 хвилин
 
-The ground in a 20-foot radius centered on a point within range twists and sprouts hard spikes and thorns. The area becomes difficult terrain for the duration. When a creature moves into or within the area, it takes 2d4 piercing damage for every 5 feet it travels.   
-The transformation of the ground is camouflaged to look natural. Any creature that can't see the area at the time the spell is cast must make a Wisdom (Perception) check against your spell save DC to recognize the terrain as hazardous before entering it. 
+Земля в радіусі 20-футів була зосереджена на точці по діапазону поворотів, колючі шипи і шипи. Територія стає важкою місцевістю протягом тривалого часу. Коли істота рухається на або всередині площі, вона наносить пошкодження на 2 d4 пронизливі на кожні 5 футів, які рухаються.   
+Перетворення землі камультиться для вигляду природним. Будь-яка істота, яка не може бачити область за часом приведення заклинання повинна зробити перевірку мудрості (Сперегрів) проти вашого заклинання зберегти округ Колумбія, щоб розпізнати рельєф як небезпечний перед тим, як увійти. 
