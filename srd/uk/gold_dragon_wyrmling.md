@@ -1,25 +1,25 @@
-name: Gold Dragon Wyrmling type: dragon cr: 3
+назва: Золотий Виверг тип: дракона cr: 3
 
-# Gold Dragon Wyrmling
-_Medium dragon, lawful evil_
+# Золотий Вирмлінг
+_Середній драг, законне зло_
 
-**Armor Class** 17 (natural armor)    
-**Hit Points** 60 (8d8 + 24)    
-**Speed** 30 ft., fly 60 ft., swim 30ft.
+**Клас обладунку** 17 (природна броня)    
+**Бали** 60 (8d8 + 24)    
+**Швидкість** фут. політ 60 фарт, пливемо 30 футів.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 19 (+4) | 14 (+2) | 17 (+3) | 14 (+2) | 11 (+0) | 16 (+3) |
 
-**Saving Throws** Dex +4, Con +5, Wis +2, Cha +5    
-**Skills** Perception +4, Stealth +4    
-**Damage Immunities** fire    
-**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14    
-**Languages** Draconic    
-**Challenge** 3 (700 XP)
+**Збереження жбурлянь** Dex +4, Con +5, Wis +2, Cha +5    
+**Навичків** Perception +4, Крадіжка +4    
+**Пошкодження** вогонь </strong> вогню    
+**Забезпечення** оснащення 10 футів. темп 60 кв. пасивне сприйняття 14    
+мови **мов** драконя    
+**виклик** (700 XP)
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 9 (1d10 + 4) piercing damage.    
-**Breath Weapons (Rechange 5-6).** The dragon uses one of the following breath weapons.     
-**Fire Breath.** The dragon exhales fire in a 15-foot cone. Each creature in the area must make a DC 13 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one.    
-**Weakening Breath.** The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.   
+### Дії
+**Біт.** _Атака ближньої зброї:_ +6 до удару, досягає 5-ї цілі, одна мета. _Удара:_ 9 (1d10 + 4) пробиваючої шкоди.    
+**Вода дихання (повторна зброя 5-6).** Дракон використовує одну з наступних видів зброї дихання.     
+**Вогняний подих.** Дракон видихає вогонь у 15-футовому шибі. Кожна істота в районі повинна зробити будинок 13 врятованих опадів отримання 22 (4d10) шкоди для вогню від зазнає невдачі, або ж вдвічі більше шкоди від успішного.    
+**Слабке дихання.** Дракон видихає газ на 15 футів шину. Кожна істота в цій області має досягти успіху в заощадженні сили DC 13 або мати недоліки в цих дозволах атаки, заснованих на Силі, Проблиски сильності, заощадження енергії на хвилину. Створіння може повторити порятунок в кінці кожного своєї оберту, припинивши вплив на себе при успіху.   
