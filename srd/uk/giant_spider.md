@@ -1,13 +1,13 @@
-name: Giant Spider type: beast cr: 1
+назва: Гігантний Павук тип: звір cr: 1
 
-# Giant Spider
-_Large beast, unaligned_
+# Велетенський павук
+_Великий звір, неприєднаний_
 
 **Armor Class** 14 (natural armor)    
 **Hit Points** 26 (4d10 + 4)    
 **Speed** 30 ft., climb 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 14 (+2) | 16 (+3) | 12 (+1) | 2 (−4) | 11 (+0) | 4 (−3) |
 
@@ -20,9 +20,9 @@ _Large beast, unaligned_
 **Web Sense.** While in contact with a web, the spider knows the exact location of any other creature in contact with the same web.   
 **Web Walker.** The spider ignores movement restrictions caused by webbing.
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one creature. _Hit:_ 7 (1d8 + 3) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 9 (2d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.    
-**Web (Recharge 5–6).** _Ranged Weapon Attack:_ +5 to hit, range 30/60 ft., one creature. _Hit:_ The target is restrained by webbing. As an action, the restrained target can make a DC 12 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).
+### Дії
+**Біт.** _Атака ближньої зброї:_ +5, щоб ударити на нього, дійшов до 5, одна істота. _Вразу:_ 7 (1d8 + 3) пробиваюча шкода, і ціль повинна зробити збереження DC 11 Конституції в, отримання пошкоджень від отрути 9 (2d8) при невдалому збереженні, або ж удвічі більше шкоди від успішного. Якщо шкода від отруєння зменшує ціль до 0 балів то ціль є стабільною, але отруєна 1 годину, навіть після відновлення вразливих точок і паралізовано під час отруєння таким чином.    
+**Веб (перезарядка 5–6).** _Атака тяжкої зброї:_ +5 для удару, діапазон 30/60, одне створіння. _Удара:_ Ціль стримана webbing. В якості дії стримана ціль може зробити перевірку DC 12 сильних, що лопнуть веб-сигнал на успіх. Мережинг також може бути атакований і знищений (АС 10; hp 5; вразливість до заподіяної шкоди; імунітет до блукання, отруєння та психічні шкоди).
 
-### Description
-To snare its prey, a giant spider spins elaborate webs or shoots sticky strands of webbing from its abdomen. Giant spiders are most commonly found underground, making their lairs on ceilings or in dark, web-filled crevices. Such lairs are often festooned with web cocoons holding past victims. 
+### Опис
+Для того, щоб вирвати цю здобич, гігантський павутинник вирішує складні павутини або стріляє наклеєними смугами веб-ресурсів з живота. Гігантські павуки найчастіше знаходять під землею, перетворюючи лігво на стелі, або в темряві, заповнені в Інтернеті крісла. Такі лаїни часто прикрашають веб-косоми, що проходять повз жертв. 
