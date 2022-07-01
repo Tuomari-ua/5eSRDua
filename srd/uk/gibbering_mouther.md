@@ -1,13 +1,13 @@
-name: Gibbering Mouther type: aberration cr: 2
+назва: Мит Гібберінга тип: аберація cr: 2
 
-# Gibbering Mouther
-_Medium aberration, neutral_
+# Гібберинг Мутер
+_Середня аберація, нейтральна_
 
 **Armor Class** 9    
 **Hit Points** 67 (9d8 + 27)    
 **Speed** 10 ft., swim 10 ft.
 
-| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС   | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------ | ------- | ------ | ------- | ------ |
 | 10 (+0) | 8 (−1) | 16 (+3) | 3 (−4) | 10 (+0) | 6 (−2) |
 
@@ -16,10 +16,10 @@ _Medium aberration, neutral_
 **Languages** --    
 **Challenge** 2 (450 XP)
 
-**Aberrant Ground.** The ground in a 10-foot radius around the mouther is doughlike difficult terrain. Each creature that starts its turn in that area must succeed on a DC 10 Strength saving throw or have its speed reduced to 0 until the start of its next turn.    
-**Gibbering.** The mouther babbles incoherently while it can see any creature and isn't incapacitated. Each creature that starts its turn within 20 feet of the mouther and can hear the gibbering must succeed on a DC 10 Wisdom saving throw. On a failure, the creature can't take reactions until the start of its next turn and rolls a d8 to determine what it does during its turn. On a 1 to 4, the creature does nothing. On a 5 or 6, the creature takes no action or bonus action and uses all its movement to move in a randomly determined direction. On a 7 or 8, the creature makes a melee attack against a randomly determined creature within its reach or does nothing if it can't make such an attack.
+**Аберантний град.** Земля в 10-футовому радіусі навколо рота є тісно важкою місцевістю. Кожна істота, яка починає свій поворот у цій області, повинна досягти успіху у здачі потужності DC 10 або пришвидшити її швидкість або зменшити до 0 до початку свого наступного кроку.    
+**Gibbering.** Дитячий миші безмежно, поки він може побачити будь-яку істоту, без змоги вийти. Кожна істота, яка починає свій поворот у межах 20 футів від рота і може почути, що балон має досягти успіху на DC 10 Мудрості зберігання. У разі невдачі, істота не може вживати реакцій, поки не почнеться її наступний поворот і не завершує d8, щоб визначити, що вона робить під час своєї черги. На 1 до 4, істота не робить нічого. На 5 або 6 істота не вимагає дії або бонусу, і використовує весь свій рух для руху в довільно визначеному напрямку. 7 або 8, істота робить напад ближнього бою проти випадково визначеної істоти в її досягненні або нічого не робить, якщо вона не може зробити таку атаку.
 
-### Actions
-**Multiattack.** The gibbering mouther makes one bite attack and, if it can, uses its Blinding Spittle.    
-**Bite.** _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one creature. _Hit:_ 17 (5d6) piercing damage. If the target is Medium or smaller, it must succeed on a DC 10 Strength saving throw or be knocked prone. If the target is killed by this damage, it is absorbed into the mouther.    
-**Blinding Spittle (Recharge 5–6).** The mouther spits a chemical glob at a point it can see within 15 feet of it. The glob explodes in a blinding flash of light on impact. Each creature within 5 feet of the flash must succeed on a DC 13 Dexterity saving throw or be blinded until the end of the mouther's next turn.
+### Дії
+**Мультиатака.** Сміття зробить одну кускову атаку і, якщо вона можна, використовує свій план блимання.    
+**Біт.** _Атака ближнього бою :_ +2, щоб ударити до 5, одна істота. _Вдач:_ 17 (5d6) пробивання пошкоджень. Якщо ціль має бути середньою або меншою, вона повинна бути успішною в заощадженні DC 10 Потужності або бути постукована часткою. Якщо ціль була убита цим пошкодженням, вона була поглинута в мишку.    
+**Пов'язана крила (перезарядка 5–6).** Мит заплющує хімічну маску в точку, вона може бачити на відстані 15 футів. Блискавка вибухає при миготливих спалахах світла на впливі. Кожна істота в межах 5 футів ліхтарика повинна досягти успіху на Dexterity заощадити Dexterity або бути осліплена до кінця наступного повороту.
