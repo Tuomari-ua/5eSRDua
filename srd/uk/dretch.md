@@ -1,13 +1,13 @@
-name: Dretch type: fiend (demon) cr: .25
+назва: Dretch type: fiend (demon) cr: .25
 
-# Dretch
-_Small fiend (demon), chaotic evil_
+# Розтяжка
+_Невеликий кулак (демо), хаотичне зло_
 
-**Armor Class** 11 (natural armor)    
-**Hit Points** 18 (4d6 + 4)    
-**Speed** 20 ft.
+**Клас броні** 11 (природна броня)    
+**Бали** 18 (4d6 + 4)    
+**швидкість** фут.
 
-| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS    | CHA    |
 | ------- | ------- | ------- | ------ | ------ | ------ |
 | 11 (+0) | 11 (+0) | 12 (+1) | 5 (−3) | 8 (−1) | 3 (−4) |
 
@@ -18,8 +18,8 @@ _Small fiend (demon), chaotic evil_
 **Languages** Abyssal, telepathy 60 ft. (works only with creatures that understand Abyssal)    
 **Challenge** 1/4 (50 XP)
 
-### Actions
-**Multiattack.** The dretch makes two attacks: one with its bite and one with its claws.    
-**Bite.** _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 3 (1d6) piercing damage.    
-**Claws.** _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 5 (2d4) slashing damage.    
-**Fetid Cloud (1/Day).** A 10­‐foot radius of disgusting green gas extends out from the dretch. The gas spreads around corners, and its area is lightly obscured. It lasts for 1 minute or until a strong wind disperses it. Any creature that starts its turn in that area must succeed on a DC 11 Constitution saving throw or be poisoned until the start of its next turn. While poisoned in this way, the target can take either an action or a bonus action on its turn, not both, and can't take reactions.
+### Дії
+**Мультиатака.** Дреч робить дві атаки: один з одним, перекусивши його пазухи, а один - його кігті.    
+**Біт.** _Атака ближньої зброї:_ +2, щоб ударити до 5, одна ціль. _Вдач:_ 3 (1d6) наносить шкоду від пробивання    
+**Кістки.** _Атака ближньої зброї:_ +2 і туди, до досягнення 5 миль (одна ціль. _Вдач:_ 5 (2d4) пошкоджуючи шкоду    
+**Fetid Cloud (1/Day).** радіус 12 модів відрази зеленого газу виходить від сну. Газ, що поширюється за кутами, і його площа легко затьмарена. Це триває 1 хвилину або поки сильний вітер не розвіє його. Будь-яка істота, що починає свій поворот у цій області, повинна досягти успіху у процесі збереження конституції DC 11 або бути отруєна до початку її наступного кроку. Під час того, як отруєний таким чином, мета може приймати або якусь дію, або бонус по її черзі, а не обидві, і не може приймати реакції.
