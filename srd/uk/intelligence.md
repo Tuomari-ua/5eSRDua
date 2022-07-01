@@ -1,29 +1,29 @@
-description: Information on the Intelligence ability from the 5th Edition (5e) System Reference Document (SRD)
+опис: Інформація про розвідувальну здатність від 5-ї версії System Reference Document (SRD)
 
-# Intelligence
-Intelligence measures mental acuity, accuracy of recall, and the ability to reason.
+# Інтелект
+Інтелект вимірює психічну гостроту, точність рецесії та здатність міркувати.
 
-## Intelligence Checks
-An Intelligence check comes into play when you need to draw on logic, education, memory, or deductive reasoning. The Arcana, History, Investigation, Nature, and Religion skills reflect aptitude in certain kinds of Intelligence checks.
+## Перевірка інтелекту
+Відстеження інтелекту грає тоді, коли вам потрібно дотримуватися логічних, освіти, пам’яті або дедуктивних міркувань. Аркана, історичність, розслідування, «Нататура» та релігійні навички відображають пристосованість певним видом розвідки.
 
-**Arcana.** Your Intelligence (Arcana) check measures your ability to recall lore about spells, magic items, eldritch symbols, magical traditions, the planes of existence, and the inhabitants of those planes.
+**Аркана.** Перевірка вашої розвідки (Аркана) вимірює вашу здатність згадувати про заклинання, магічні предмети, Ельдричні символи, магічні традиції, літаки життя, жителі цих літаків.
 
-**History.** Your Intelligence (History) check measures your ability to recall lore about historical events, legendary people, ancient kingdoms, past disputes, recent wars, and lost civilizations.
+**Історія.** Ваша перевірка розвідки (історія) вказує на вашу здатність згадати про історичні події, легендарні люди, стародавні королівства, минулі суперечки, останні війни та втратили цивілізації.
 
-**Investigation.** When you look around for clues and make deductions based on those clues, you make an Intelligence (Investigation) check. You might deduce the location of a hidden object, discern from the appearance of a wound what kind of weapon dealt it, or determine the weakest point in a tunnel that could cause it to collapse. Poring through ancient scrolls in search of a hidden fragment of knowledge might also call for an Intelligence (Investigation) check.
+**Слідкування.** Коли ви шукаєте підказки і відраховуєте виходячи з них, ви робите перевірку розвідки (розслідування). Ви можете вивести місце прихованого об'єкта, відлучити від вигляду рани, в якій має згоду зброя, або визначте найслабший момент у тунелі, який може призвести до колапсу. Порування стародавніх сувоїв у пошуку прихованого фрагменту знань також може зажадати перевірки розвідки (слідкування за слідкуванням).
 
-**Nature.** Your Intelligence (Nature) check measures your ability to recall lore about terrain, plants and animals, the weather, and natural cycles.
+**Природа.** Ваша розвідка (природи) перевіряє вашу здатність згадувати про місцевість, рослини й тварини, погоду та природні цикли.
 
-**Religion.** Your Intelligence (Religion) check measures your ability to recall lore about deities, rites and prayers, religious hierarchies, holy symbols, and the practices of secret cults.
+**Релігіон.** Ваша розвідка (Релігіон) перевіряє вашу здатність згадувати про вчинки, обриси та молитви, релігійні ієрархії, святі символи та практики секретних культур.
 
-**Other Intelligence Checks.** The GM might call for an Intelligence check when you try to accomplish tasks like the following:
+**Інші перевірки розвідки.** GM можуть закликати перевірити розвідку, коли ви спробуєте виконати завдання наступним чином:
 
-* Communicate with a creature without using words
-* Estimate the value of a precious item
-* Pull together a disguise to pass as a city guard
-* Forge a document
-* Recall lore about a craft or trade
-* Win a game of skill
+* Спілкування з істотою без використання слів
+* Орієнтовна вартість дорогоцінного товару
+* Затиняйте маскуванням, щоб перейти як міська охорона
+* Викувати документ
+* Повернення сміття про краєвид або торгівлю
+* Виграти гру навичок
 
-## Spellcasting Ability
-Wizards use Intelligence as their spellcasting ability, which helps determine the saving throw DCs of spells they cast.
+## Вміння орфографії
+Чарівники використовують розвідку як можливість їхнього написання мовлення, що допомагає визначити метод "збуту орфографів" для кидання сигналів, які вони вклали.
