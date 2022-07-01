@@ -1,12 +1,12 @@
-name: Contact Other Plane level: 5 school: divination classes: warlock wizard
+назва: Зв'яжіться з іншими літаками рівень: 5 школо: divination класів: майстер warlock
 
-# Contact Other Plane
-_5th-level divination (ritual)_
+# Зв'язатися з іншими літаками
+_П’ять розлучення на 5-му рівні (ритуал)_
 
 **Casting Time:** 1 minute    
 **Range:** Self    
 **Components:** V    
 **Duration:** 1 minute
 
-You mentally contact a demigod, the spirit of a long- dead sage, or some other mysterious entity from another plane. Contacting this extraplanar intelligence can strain or even break your mind. When you cast this spell, make a DC 15 Intelligence saving throw. On a failure, you take 6d6 psychic damage and are insane until you finish a long rest. While insane, you can't take actions, can't understand what other creatures say, can't read, and speak only in gibberish. A **_greater restoration_** spell cast on you ends this effect.    
-On a successful save, you can ask the entity up to five questions. You must ask your questions before the spell ends. The GM answers each question with one word, such as "yes," "no," "maybe," "never," "irrelevant," or "unclear" (if the entity doesn't know the answer to the question). If a one-word answer would be misleading, the GM might instead offer a short phrase as an answer. 
+Ви психічно зв'яжетеся із солоди, із духом довгої мудреці, або з якоюсь таємничою сутністю з іншого плану. Підключення до цього екстрапланетарного інтелекту може пошкодити чи навіть зламати ваш розум. Коли ви транслюєте це заклинання, зробіть розвідку 15 раз заощаджуючою стрілою. Невдовзі ви берете 6d6 психічних пошкоджень і завдаєте неймовірного відпочинку, поки не дійдете повного відпочинку. Ще не згідно, ви не можете вжити заходів, не розумієте, що кажуть інші істоти, що не можна читати і говорити тільки гібридом. А **_більша реставрація_** написана на вас, закінчується цим ефектом.    
+У успішному збереженні ви можете додати об'єкт до п'яти запитань. Ви повинні задати питання, перш ніж заклинання закінчиться. GM відповідає на кожне питання одним словом, такі як "так", "ні", "може бути", "ніколи, ніколи, "невідповідний" або "нерозбірливий" (якщо об'єкт не знає відповіді на питання). Якщо відповідь на одне слово буде оманливим, GM може замість цього запропонувати коротку фразу як відповідь. 
