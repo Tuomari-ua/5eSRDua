@@ -1,8 +1,8 @@
-name: Holy Avenger type: weapon
+назва: Святий Месник тип: зброя
 
-# Holy Avenger
-_Weapon (any sword), legendary (requires attunement by a paladin)_
+# Святий Месник
+_Зброя (будь-який меч), легендарний (вимагає ударів з паладин)_
 
-You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you hit a fiend or an undead with it, that creature takes an extra 2d10 radiant damage.
+Ви отримуєте бонус +3 на атаку та ушкодження зроблені за допомогою цієї чарівної зброї. Коли з ним загинуло або завершується лихоманка, ця істота завдає додаткової 2d10 радіанної шкоди.
 
-While you hold the drawn sword, it creates an aura in a 10-foot radius around you. You and all creatures friendly to you in the aura have advantage on saving throws against spells and other magical effects. If you have 17 or more levels in the paladin class, the radius of the aura increases to 30 feet. 
+Поки цей меч тримається, він створює ауру навколо себе в 10-футовому радіурі. Ви і всі істоти, доброзичливі до вас в аурі, мають перевагу в збереженні квітів проти заклинань та інших магічних ефектів. Якщо у вас 17 або більше рівнів на уроці паладін, радіус аури зросте до 30 футів. 
