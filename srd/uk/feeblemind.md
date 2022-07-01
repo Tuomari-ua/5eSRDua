@@ -1,14 +1,14 @@
-name: Feeblemind level: 8 school: enchantment classes: bard druid warlock wizard
+назва: Висловлення деталей рівень: 8 школа: зачарування класі: Бард druid warlock
 
 # Feeblemind
-_8th-level enchantment_
+_Зачарування 8-го рівня_
 
 **Casting Time:** 1 action    
 **Range:** 150 feet    
 **Components:** V, S, M (a handful of clay, crystal, glass, or mineral spheres)    
 **Duration:** Instantaneous
 
-You blast the mind of a creature that you can see within range, attempting to shatter its intellect and personality. The target takes 4d6 psychic damage and must make an Intelligence saving throw.    
-On a failed save, the creature's Intelligence and Charisma scores become 1. The creature can't cast spells, activate magic items, understand language, or communicate in any intelligible way. The creature can, however, identify its friends, follow them, and even protect them.    
-At the end of every 30 days, the creature can repeat its saving throw against this spell. If it succeeds on its saving throw, the spell ends.    
-The spell can also be ended by **_greater restoration_**, **_heal_**, or **_wish_**. 
+Видобуток розуму істоти, яку можна побачити в межах, намагаючись зруйнувати її інтелект і особистість. Цільова задача завдає 4d6 психічного пошкодження і повинна зробити збережену розвідку.    
+На невдалому збереженні розвідка істоти і показники Харизми стають 1. Ця істота не може транслювати заклинання, активувати магічні предмети, розуміти мову чи говорити будь-яким способом. Однак істота може визначити своїх друзів, слідувати за ними та навіть захищати їх.    
+У кінці кожні 30 днів, істота може повторити свій зберігаючий повтор з цим заклинанням. Якщо це вдасться врятувати рятувальну стрілу, це заклинання закінчується.    
+орфографію також можна завершити **_більшою ставкою відновлення_**, **_лікувати_**, або **_бажаєте_**. 
