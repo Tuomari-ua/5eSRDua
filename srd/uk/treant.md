@@ -1,28 +1,28 @@
-name: Treant type: plant cr: 9
+назва: Предмет тип: рослина cr: 9
 
-# Treant
-_Huge plant, chaotic good_
+# Ент
+_Величезний завод, хаотичні добрі справи_
 
 **Armor Class** 16 (natural armor)   
 **Hit Points** 138 (12d12 + 60)   
 **Speed** 30ft.
 
-| STR     | DEX    | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС   | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------ | ------- | ------- | ------- | ------- |
 | 23 (+6) | 8 (-1) | 21 (+5) | 12 (+1) | 16 (+3) | 12 (+1) |
 
-**Damage Resistances** bludgeoning, piercing   
-**Damage Vulnerabilities** fire   
-**Senses** passive Perception 13   
-**Languages** Common, Druidic, Elvish, Sylvan   
-**Challenge** 9 (5,000 XP)
+**Стійкість до пошкоджень** дублення, пронизання   
+**Пошкоджень уразливостям** вогонь   
+**Сайти** пасивного сприйняття 13   
+**Мови** , оточення, Druidic, Elvish, Sylvan   
+**Виклик** (5 000 XP)
 
-**False Appearance.** While the treant remains motionless, it is indistinguishable from a normal tree.   
-**Siege Monster.** The treant deals double damage to objects and structures.
+**False Appearance.** Хоча політ залишається нерухомим, його не відрізняють від звичайного дерева.   
+**Облоговий Монстр.** Дерево завдає подвійного шкоди об'єктам та будівлям.
 
-### Actions
+### Дії
 
-**Multiattack.** The treant makes two slam attacks.    
-**Slam.** _Melee Weapon Attack:_ +10 to hit, reach 5 ft., one target. _Hit:_ 16 (3d6 + 6) bludgeoning damage.   
-**Rock.** _Ranged Weapon Attack:_ +10 to hit, range 60/180 ft., one target. _Hit:_ 28 (4d10 + 6) bludgeoning damage.   
-**Animate Trees (1/Day).** The treant magically animates one or two trees it can see within 60 feet of it. These trees have the same statistics as a treant, except they have Intelligence and Charisma scores of 1, they can't speak, and they have only the Slam action option. An animated tree acts as an ally of the treant. The tree remains animate for 1 day or until it dies; until the treant dies or is more than 120 feet from the tree; or until the treant takes a bonus action to turn it back into an inanimate tree. The tree then takes root if possible.
+**Багатоатака.** Майстер робить дві нетрі атаки.    
+**Слем.** _Атака ближньої зброї:_ +10 щоб вдарити, досягти 5-ти цілі, одна ціль. _Вражає:_ 16 (3d6 + 6) пошкодження дублювання.   
+**Rock.** _Атака дальньої зброї:_ +10 до удару, діапазон 60/180., одна ціль. _Вражає:_ 28 (4d10 + 6) пошкодження дублювання.   
+**Анімаційні дерева (1/Day).** деревини магічно анімують одну або дві дерева, які можна побачити в межах 60 футів від нього. Ці дерева мають таку ж статистику, як і деревина, за винятком того, що вони мають розвідку і оцінку харизми 1, вони не можуть говорити, і вони мають тільки опцію шолистівки. Анімоване дерево діє як союзник дерева. Дерево залишається анімованим протягом 1 дня або поки воно не вмирає; поки воно не загине або не від дерева понад 120 футів; або поки деревина не принесе потрібну дію, щоб повернути її на інанімоване дерево. Потім дерево стає корінням, якщо це можливо.
