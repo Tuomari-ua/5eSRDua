@@ -1,25 +1,25 @@
-name: Minotaur Skeleton type: undead cr: 2
+назва: Скелет мінотавра тип: некоректний cr: 2
 
-# Minotaur Skeleton
-_Large undead, lawful evil_
+# Скелет Мінотавра
+_Велике безсмертні і законне зло_
 
-**Armor Class** 12 (natural armor)    
-**Hit Points** 67 (9d10 + 18)    
-**Speed** 40 ft.
+**Клас броні** 12 (природна броня)    
+**Бали** 67 (9d10 + 18)    
+**Швидкість** фут.
 
-| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS    | CHA    |
 | ------- | ------- | ------- | ------ | ------ | ------ |
 | 18 (+4) | 11 (+0) | 15 (+2) | 6 (−2) | 8 (−1) | 5 (−3) |
 
-**Damage Vulnerabilities.** bludgeoning    
-**Damage Immunities** poison    
-**Condition Immunities** exhaustion, poisoned    
-**Senses** darkvision 60 ft., passive Perception 9    
-**Languages** understands Abyssal but can't speak    
-**Challenge** 2 (450 XP)
+**Пошкодження слабкості.** дулювання    
+**Шкода від пошкоджень** отрути    
+**Імунітет до** , вичерпання отруєний    
+**Установки** затемнення 60 футів. пасивне сприйняття 9    
+**мов** розуміє Абіссаль, але не може говорити    
+**Виклик** (450 XP)
 
-**Charge.** If the skeleton moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked prone.
+**Заряд.** Якщо скелет буде рухатися щонайменше в 10 футів прямо до цілі і тоді ударяє його з нападом на той же бік, ціль отримує додаткові 9 (2d8) пошкодження від проколу. Якщо ціль є істотою, він має досягнути успіху в DC 14 Заощадженні сили або бути висунутий до 10 футів далеко і постуковану частку.
 
-### Actions
-**Greataxe.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 17 (2d12 + 4) slashing damage.    
-**Gore.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) piercing damage.
+### Дії
+**Чудова сокира.** _Атака ближньої зброї:_ +6 для удару, досягає 5 щитів, одна ціль. _Вдач:_ 17 (2d12 + 4) наносити шкоду    
+**Гор.** _Атака ближньої зброї:_ +6 щоб вдарити, досягти 5-ти цілі, одна ціль. _Вразів:_ 13 (2d8 + 4) наносити пошкодження.
