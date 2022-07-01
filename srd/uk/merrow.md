@@ -1,13 +1,13 @@
-name: Merrow type: monstrosity cr: 2
+назва: Милосердя тип: чудовисько cr: 2
 
-# Merrow
-_Large monstrosity, chaotic evil_
+# Мерроу
+_Велике чудовисько, хаотичне зло_
 
-**Armor Class** 13 (natural armor)    
-**Hit Points** 45 (6d10 + 12)    
-**Speed** 10 ft., swim 40 ft.
+**Клас броні** 13 (природна броня)    
+**Бали** 45 (6d10 + 12)    
+**Швидкість** фут. плавати на 40 футів на годину.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 18 (+4) | 10 (+0) | 15 (+2) | 8 (−1) | 10 (+0) | 9 (−1) |
 
@@ -16,8 +16,8 @@ _Large monstrosity, chaotic evil_
 **Challenge** 2 (450 XP)    
 **Amphibious.** The merrow can breathe air and water.
 
-### Actions
-**Multiattack.** The merrow makes two attacks: one with its bite and one with its claws or harpoon.    
-**Bite.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 8 (1d8 + 4) piercing damage.    
-**Claws.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 9 (2d4 + 4) slashing damage.    
-**Harpoon.** _Melee or _Ranged Weapon Attack:__ +6 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 11 (2d6 + 4) piercing damage. If the target is a Huge or smaller creature, it must succeed on a Strength contest against the merrow or be pulled up to 20 feet toward the merrow.
+### Дії
+**Багатоатака.** Злиття робить дві атаки: один з одним, перекушеним та один з його кігті або гарпуном.    
+**Біт.** _Атака ближнього бою зброї:_ +6 щоб вдарити, досягти 5 щитів, одна ціль. _Вразу:_ 8 (1d8 + 4) проколовлювати пошкодження.    
+**Кігті.** _Атака ближньої зброї:_ +6 щоб вдарити, досягти 5-ти цілі, одна ціль. _Удачі:_ 9 (2d4 + 4) наносить шкоду.    
+**Гарпун.** _Атака ближнього або _Стрільбища Зброї: __ +6, щоб влучити у нього, досягнути 5 футів або діапазон 20/60, однієї цілі. _Удача:_ 11 (2d6 + 4) наносити пошкодження. Якщо ціль є величезною або дрібною істотою, для досягнення успіху потрібно спромогтись сильному проти злиття або витягнути на 20 футів до об'єднання (Брамс).
