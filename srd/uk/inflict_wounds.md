@@ -1,13 +1,13 @@
-name: Inflict Wounds level: 1 school: necromancy classes: cleric
+ім'я: Inflict Wounds рівень: 1 школа: некромантність класи: клерик
 
-# Inflict Wounds
-_1st-level necromancy_
+# Інфліктові раунди
+_базовий рівень некромантності_
 
 **Casting Time:** 1 action    
 **Range:** Touch    
 **Components:** V, S    
 **Duration:** Instantaneous
 
-Make a melee spell attack against a creature you can reach. On a hit, the target takes 3d10 necrotic damage.
+Зробіть напад на зустріч заклинання проти істоти, яку ви можете досягти. У ударі ціль завдає 310 некротичних пошкоджень.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.
+**На вищих рівнях.** Коли ви транслюєте це заклинання використовуючи слот 2-го рівня або вище, збільшення пошкодження на 1d10 для кожного рівня слоту вище 1st.
