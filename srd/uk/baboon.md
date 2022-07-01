@@ -1,21 +1,21 @@
-name: Baboon type: beast cr: 0
+назва: Baboon тип: звір cr: 0
 
-# Baboon
-_Small beast, unaligned_
+# Павіан
+_Малий звір, неприєднаний_
 
-**Armor Class** 12    
-**Hit Points** 3 (1d6)    
-**Speed** 30 ft., climb 30 ft.
+**Клас броні** 12    
+**Очки** 3 (1d6)    
+**швидкість** 30 висоти 30 футів.
 
-| STR    | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР    | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------ | ------- | ------- | ------ | ------- | ------ |
 | 8 (−1) | 14 (+2) | 11 (+0) | 4 (−3) | 12 (+1) | 6 (−2) |
 
-**Senses** passive Perception 11    
-**Languages** --    
-**Challenge** 0 (10 XP)
+**Витрати** пасивне сприйняття 11    
+**Мови** --    
+**виклик** (10 XP)
 
-**Pack Tactics.** The baboon has advantage on an attack roll against a creature if at least one of the baboon's allies is within 5 feet of the creature and the ally isn't incapacitated.
+**Тактики пакета.** бабуон має перевагу на атаці, яка грає проти істоти, якщо принаймні один з союзників бабуїна знаходиться в межах 5 футів істоти, а союзник не є недієздатним.
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +1 to hit, reach 5 ft., one target. _Hit:_ 1 (1d4 − 1) piercing damage. 
+### Дії
+**Біт.** _Атака ближньої зброї:_ +1 до удару, досягає 5-ї цілі, одна мета. _Удара:_ 1 (1d4 - 1) пробна шкода. 
