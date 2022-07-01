@@ -1,15 +1,15 @@
-name: Wall of Thorns level: 6 school: conjuration classes: druid
+назва: Стіна товщин рівень: 6 школа: конджТривалість класів: druid
 
-# Wall of Thorns
-_6th-level conjuration_
+# Стіна тернів
+_Тривалість 6-го рівня_
 
-**Casting Time:** 1 action    
-**Range:** 120 feet    
-**Components:** V, S, M (a handful of thorns)    
-**Duration:** Concentration, up to 10 minutes
+**Час трансляції часу:** 1 дія    
+**Діапазон:** 120 футів    
+**компоненти:** V, S, М (жменька колючок)    
+**Тривалість:** Зосередження, до 10 хвилин
 
-You create a wall of tough, pliable, tangled brush bristling with needle-sharp thorns. The wall appears within range on a solid surface and lasts for the duration. You choose to make the wall up to 60 feet long, 10 feet high, and 5 feet thick or a circle that has a 20-foot diameter and is up to 20 feet high and 5 feet thick. The wall blocks line of sight.    
-When the wall appears, each creature within its area must make a Dexterity saving throw. On a failed save, a creature takes 7d8 piercing damage, or half as much damage on a successful save.    
-A creature can move through the wall, albeit slowly and painfully. For every 1 foot a creature moves through the wall, it must spend 4 feet of movement. Furthermore, the first time a creature enters the wall on a turn or ends its turn there, the creature must make a Dexterity saving throw. It takes 7d8 slashing damage on a failed save, or half as much damage on a successful one.
+Ти створюєш стіну твердих, дотлібних пензлем наїжаками і гострими тернами. Стіна з'являється в діапазоні на суцільній поверхні і триває тривалість. Вам потрібно зробити стіну розміром до 60 футів завдовжки, 10 футів заввишки, і площею 5 футів або коло, що має діаметр 20 футів заввишки і близько 20 футів заввишки і 5 футів. Лінії блокують лінію зору.    
+Коли стіна з’являється, кожна істота всередині його області повинна створити креслення нитки. У разі невдалого збереження істота отримує 7d8 пошкоджень або удвічі більше шкоди від успішного заощадження.    
+Створіння може проходити крізь стіну, хоч і повільно й болісно. Для кожного 1 футу істоти рухається по стіні, вона повинна витратити 4 фути руху. Більше того, вперше істота вступає в стіну по черзі або завершує свою чергу, істота повинна зробити тверезий порятунок. Вона наносить 7d8 шкоду від заощаджень, або ж удвічі більше шкоди за успішний.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, both types of damage increase by 1d8 for each slot level above 6th.
+**На вищих рівнях.** Коли ви кидаєте це заклинання використовуючи гніздо 7-го рівня або вище, збільшено обидва типи пошкодження на 1d8 для кожного слота вище 6 років.
