@@ -1,21 +1,21 @@
-name: Pegasus type: celestial cr: 2
+назва: Пегас тип: небесний cr: 2
 
 # Pegasus
-_Large celestial, chaotic good_
+_Величезний небесний хаотичний товар_
 
 **Armor Class** 12    
 **Hit Points** 59 (7d10 + 21)    
 **Speed** 60 ft., fly 90 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 15 (+2) | 16 (+3) | 10 (+0) | 15 (+2) | 13 (+1) |
 
-**Saving Throws** Dex +4, Wis +4, Cha +3    
-**Skills** Perception +6    
-**Senses** passive Perception 16    
-**Languages** understands Celestial, Common, Elvish, and Sylvan but can't speak    
-**Challenge** 2 (450 XP)
+**Збереження жбурлянь** Dex +4, Wis +4, Cha +3    
+**Навики** Perception +6    
+**Senses** пасивного сприйняття 16    
+**мови** розуміє Пелестіал, Компанія Elvish, і Sylv, але не може розмовляти    
+**Виклик** (450 XP)
 
-### Actions
-**Hooves.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) bludgeoning damage.
+### Дії
+**Хауї.** _Атака ближньої зброї:_ +6 до удару, досягає 5 щитів, одна ціль. _Удара:_ 11 (2d6 + 4) пошкодження дублювання.
