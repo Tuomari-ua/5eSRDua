@@ -1,14 +1,14 @@
 name: Geas level: 5 school: enchantment classes: bard cleric druid paladin wizard
 
-# Geas
-_5th-level enchantment_
+# Гейс
+_Зачарування 5-го рівня_
 
 **Casting Time:** 1 minute    
 **Range:** 60 feet    
 **Components:** V    
 **Duration:** 30 days
 
-You place a magical command on a creature that you can see within range, forcing it to carry out some service or refrain from some action or course of activity as you decide. If the creature can understand you, it must succeed on a Wisdom saving throw or become charmed by you for the duration. While the creature is charmed by you, it takes 5d10 psychic damage each time it acts in a manner directly counter to your instructions, but no more than once each day. A creature that can't understand you is unaffected by the spell.    
-You can issue any command you choose, short of an activity that would result in certain death. Should you issue a suicidal command, the spell ends. You can end the spell early by using an action to dismiss it. A **_remove curse_**, **_greater restoration_**, or **_wish_** spell also ends it.
+Ви розміщуєте магічну команду на істоті, яку можна побачити на відстані, примусового методу, щоб виконати якісь послуги або утримуватися від якоїсь дії або ж курсу активності, як ви вирішуєте. Якщо істота може вас зрозуміти, то вона мусить досягти успіху в економії мудрості або стати зачарованою вами протягом тривалого часу. Тоді як ваша істота зачарована, кожен раз, коли отримуватиме 5d10 психічних збитків, він діє безпосередньо для ваших інструкцій, але не частіше ніж один раз на день. Творчість, яка не може зрозуміти тебе, не вплине на заклинання.    
+Ви можете видати будь-яку команду, яку обрали, але не використовуючи дії, які призведуть до певної смерті. Якщо випустити самогубну команду, заклинання закінчиться. Ви можете завершити заклинання на початку використовуючи дію, щоб скинути його. **_видалити прокляття_**, **_більше відновлення_**, або **_бажано_** заклинання також закінчується.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 7th or 8th level, the duration is 1 year. When you cast this spell using a spell slot of 9th level, the spell lasts until it is ended by one of the spells mentioned above. 
+**На вищих рівнях.** Коли ви кидаєте це заклинання використовуючи слот 7-го або 8-го рівня, тривалість становить 1 рік. Коли ви кладете це заклинання за допомогою заклинання 9-го рівня, заклинання триває до того моменту, поки його не закінчить одним із заклинань, що зазначені вище. 
