@@ -1,20 +1,20 @@
-name: Sphere of Annihilation type: item
+назва: Сфера знищення типу: предмет
 
-# Sphere of Annihilation
-_Wondrous item, legendary_
+# Сфера аннігіляції
+_Несумний предмет, легендарний_
 
-This 2-foot-diameter black sphere is a hole in the multiverse, hovering in space and stabilized by a magical field surrounding it.
+Ця чорна сфера діаметра має 2 фути - це діра у мультисередовищі, що коливається в просторі, і стабілізується магічним полем, що його оточує.
 
-The sphere obliterates all matter it passes through and all matter that passes through it. Artifacts are the exception. Unless an artifact is susceptible to damage from a **sphere of annihilation**, it passes through the sphere unscathed. Anything else that touches the sphere but isn't wholly engulfed and obliterated by it takes 4d10 force damage.
+Уся сфера знищує матерію, яка проходить крізь неї. Артефакти - це виняток. Якщо артефакт не вразливий до пошкодження від **сфери знищення**, це переходить через сферу непошкодженої сфери. Все, що торкається сфери, але не зовсім поглинає та не знищується нею завдає 4d10 пошкоджень силою.
 
-The sphere is stationary until someone controls it. If you are within 60 feet of an uncontrolled sphere, you can use an action to make a DC 25 Intelligence (Arcana) check. On a success, the sphere levitates in one direction of your choice, up to a number of feet equal to 5 × your Intelligence modifier (minimum 5 feet). On a failure, the sphere moves 10 feet toward you. A creature whose space the sphere enters must succeed on a DC 13 Dexterity saving throw or be touched by it, taking 4d10 force damage.
+Спосіб є нерухомим, доки хтось його не керуватиме. Якщо ви на відстані 60 футів неконтрольованої сфери, ви можете використати дію, щоб зробити перевірку розвідки DC 25 (Арканал). За успіхом, сфера піднята в одному напрямку вибору, до ряду футів, що дорівнює 5 × ваш модифікатор розвідки (мінімум 5 футів). На поразці сфера рухається на відстані 10 футів до вас. Творчість, місце якої входить у сферу — має досягти успіху на зекономленні Dexterity DC 13 чи її торкнутися, взявши до уваги 4d10 силових пошкоджень.
 
-If you attempt to control a sphere that is under another creature's control, you make an Intelligence (Arcana) check contested by the other creature's Intelligence (Arcana) check. The winner of the contest gains control of the sphere and can levitate it as normal.
+Якщо ви намагатиметесь контролювати сферу, що знаходиться під контролем іншої істоти, ви перевірите розвідку (Арканал), оспорювану контролем розвідки іншої істоти (Аркана). Переможець конкурсу отримує контроль над сферою і може винести його як нормально.
 
-If the sphere comes into contact with a planar portal, such as that created by the **_gate_** spell, or an extradimensional space, such as that within a **portable hole**, the GM determines randomly what happens, using the following table.
+Якщо сфера вступить в контакт з планарним порталом, такі, що створені **_ворота_** орфографії, або екстрадиційний простір, наприклад, в межах **портативної діри**, GM навмання визначає, що відбувається, використовуючи наступну таблицю.
 
-| d100  | Result                                                                                                                             |
-| ----- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| 01-50 | The sphere is destroyed.                                                                                                           |
-| 51-85 | The sphere moves through the portal or into the extradimensional space.                                                            |
-| 86-00 | A spatial rift sends each creature and object within 180 feet of the sphere, including the sphere, to a random plane of existence. |
+| д100  | Результат                                                                                                                    |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------- |
+| 01-50 | Сфера знищена.                                                                                                               |
+| 51-85 | Сфера рухається крізь портал або в екстрадиментальний простір.                                                               |
+| 86-00 | Просторова розрив направляє кожну істоту і об'єкт у межах 180 футів сфери, включаючи сферу, до випадкового літака існування. |
