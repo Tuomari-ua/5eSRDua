@@ -1,13 +1,13 @@
-name: Ghoul type: undead cr: 1
+назва: Ghoul тип: немертвий cr: 1
 
 # Ghoul
-_Medium undead, chaotic evil_
+_Середні мертві, хаотичне зло_
 
 **Armor Class** 12    
 **Hit Points** 22 (5d8)    
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 13 (+1) | 15 (+2) | 10 (+0) | 7 (−2) | 10 (+0) | 6 (−2) |
 
@@ -17,6 +17,6 @@ _Medium undead, chaotic evil_
 **Languages** Common    
 **Challenge** 1 (200 XP)
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one creature. _Hit:_ 9 (2d6 + 2) piercing damage.    
-**Claws.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (2d4 + 2) slashing damage. If the target is a creature other than an elf or undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+### Дії
+**Біт.** _Атака ближньої зброї:_ +2, щоб ударити, досягне 5-го протання, одна істота. _Вдач:_ 9 (2d6 + 2) пробна шкода.    
+**Кігті.** _Атака ближньої зброї:_ +4 щоб вдарити, досягти 5-ти цілі, одна ціль. _Удачі:_ 7 (2d4 + 2) пошкодження. Якщо ця ціль є істотою, відмінною від ельфа або немертвих, це має досягти успіху в збереженні Конституції DC 10 хвилини, або бути паралізованим. Ціль може повторювати накопичення в кінці кожної своєї черги, закінчуючи вплив на себе на успіх.
