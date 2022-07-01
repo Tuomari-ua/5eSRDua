@@ -1,23 +1,23 @@
-name: Basilisk type: monstrosity cr: 3
+назва: Базиліск тип: монстроз cr: 3
 
-# Basilisk
+# Василіск
 _Medium monstrosity, unaligned_    
 **Armor Class** 15 (natural armor)    
 **Hit Points** 52 (8d8 + 16)    
 **Speed** 20 ft.
 
-| STR     | DEX    | CON     | INT    | WIS    | CHA    |
+| СТР     | ДЕКС   | CON     | ІНТ    | WIS    | CHA    |
 | ------- | ------ | ------- | ------ | ------ | ------ |
 | 16 (+3) | 8 (-1) | 15 (+2) | 2 (-4) | 8 (-1) | 7 (-2) |
 
 
-**Senses** darkvision 60 ft., passive Perception 9    
-**Languages** --    
-**Challenge** 3 (700 XP)
+**Способи** затемнення 60, пасивний перехоплення 9    
+**Мови** --    
+виклик format@@**** (700 ОЗП)
 
-**Petrifying Gaze.** If a creature starts its turn within 30 feet of the basilisk and the two of them can see each other, the basilisk can force the creature to make a DC 12 Constitution saving throw if the basilisk isn't incapacitated. On a failed save, the creature magically begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified until freed by the greater restoration spell or other magic.    
-A creature that isn't surprised can avert its eyes to avoid the saving throw at the start of its turn. If it does so, it can't see the basilisk until the start of its next turn, when it can avert its eyes again.    
-If it looks at the basilisk in the meantime, it must immediately make the save. If the basilisk sees its reflection within 30 feet of it in bright light, it mistakes itself for a rival and targets itself with its gaze.
+**Заява Газа.** Якщо істота починається з повороту в 30 футів базиліска і вони можуть бачити один одного, basilisk може змусити істоту зробити економку Конституції DC 12, якщо базиліск не недієздатний. На невдалому збереженні істота магічним чином починає повертатися до каменю і стримана. Лицьовувати при зберіганні на кінець наступного кроку. Під час успіху ефект закінчується. Що стосується невдачі, то істота не затьмарена допоки не звільняється від більшого заклинання чи іншого работу.    
+Дивна істота, яка не здивована, може відвернути очі, щоб не зашкодити прискоренню на початку своєї черги. Якщо вона робить так, то не бачить базиліска аж до початку наступної черги.    
+Якщо він подивиться на basilisk тим часом, він повинен негайно заощадити. Якщо базиліск побачить її відображення в межах 30 футів від яскравого світла, вона помиляє себе за суперника та спрямована на себе своїм поглядом.
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) piercing damage plus 7 (2d6) poison damage.
+### Дії
+**Біт.** _Атака ближньої зброї:_ +5 до удару, досягає 5-ї цілі, одна мета. _Вразу:_ 10 (2d6 + 3) наносити пошкодження отрути плюс 7 (2d6) отруту.
