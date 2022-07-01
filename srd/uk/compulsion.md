@@ -1,12 +1,12 @@
-name: Compulsion level: 4 school: enchantment classes: bard
+назва: Комп'ютер рівень: 4 школа: зачарування класів: Бард
 
-# Compulsion
-_4th-level enchantment_
+# Тяжкість
+_Зачарування четвертого рівня_
 
 **Casting Time:** 1 action    
 **Range:** 30 feet    
 **Components:** V, S    
 **Duration:** Concentration, up to 1 minute
 
-Creatures of your choice that you can see within range and that can hear you must make a Wisdom saving throw. A target automatically succeeds on this saving throw if it can't be charmed. On a failed save, a target is affected by this spell. Until the spell ends, you can use a bonus action on each of your turns to designate a direction that is horizontal to you. Each affected target must use as much of its movement as possible to move in that direction on its next turn. It can take its action before it moves. After moving in this way, it can make another Wisdom saving to try to end the effect.    
-A target isn't compelled to move into an obviously deadly hazard, such as a fire or pit, but it will provoke opportunity attacks to move in the designated direction.
+Істоти вибору, які можна побачити в межах діапазону, і які можуть чути, що потрібно зробити мудрість збереженням стріл. Ціль автоматично перейшла на шляху збереження, якщо її не можна зачарувати. На невдалому збереженні на це заклинання впливає ціль. Доки заклинання не завершується, використання бонусної дії на кожному з ваших черг для визначення напрямку, який буде горизонтальним для вас. Кожна пошкоджена ціль повинна використовувати якомога більше свого руху, щоб рухатися в цьому напрямку на його наступному кроці. Вона може вжити своїх заходів, перш ніж рухатися. Після переходу таким чином, це може зробити ще одне заощадження мудрості, щоб закінчити ефект.    
+Ціль А не виштовхується до смертельної небезпеки, такі як вогонь чи апа, але це спровокує сприятливі атаки рухатися в визначеному напрямку.
