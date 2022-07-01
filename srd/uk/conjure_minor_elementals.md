@@ -1,22 +1,22 @@
-name: Conjure Minor Elementals level: 4 school: conjuration classes: druid wizard
+назва: Термінові елементи рівня: 4 школа: конджТривалість класів: майстер druid
 
-# Conjure Minor Elementals
-_4th-level conjuration_
+# Середні Елементи Кон'юра
+_Тривалість четвертого рівня_
 
-**Casting Time:** 1 minute    
-**Range:** 90 feet    
-**Components:** V, S    
-**Duration:** Concentration, up to 1 hour
+**Час Кастингу:** 1 хвилину    
+**Діапазон:** 90 футів    
+**компоненти:** V, S    
+дублювання**тривалість:** концентрування, до 1 години
 
-You summon elementals that appear in unoccupied spaces that you can see within range. You choose one the following options for what appears:
+Ви прикликаєте елементи, які з'являються у незайнятих областях, які можна побачити в межах діапазону. Ви обираєте один з наступних варіантів, які з'являються:
 
-* One elemental of challenge rating 2 or lower
-* Two elementals of challenge rating 1 or lower
-* Four elementals of challenge rating 1/2 or lower
-* Eight elementals of challenge rating 1/4 or lower.
+* Один елемент рейтингу виклику 2 або нижче
+* Два елементи оскарження рейтингу 1 або нижче
+* Чотири елементи виклику рейтингу 1/2 або нижче
+* Вісім елементів оскарження рейтингу 1/4 або нижче.
 
-An elemental summoned by this spell disappears when it drops to 0 hit points or when the spell ends.    
-The summoned creatures are friendly to you and your companions. Roll initiative for the summoned creatures as a group, which has its own turns. They obey any verbal commands that you issue to them (no action required by you). If you don't issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions.    
-The GM has the creatures' statistics.
+Одинарний заклинання під час згасання, коли воно падає до 0 хітів або коли заклинання закінчуються.    
+Прикликані істоти дружні до вас і ваших приятелів. Стало ініціативу щодо викликових істот як групи, яка має свій черг. Вони слухаються будь-яких словесних команд, котрі ви видаєте перед ними (ніяких дій, які вам потрібні). Якщо ви не створюватимете на них жодних команд, вони захищаються від ворожих істот, але в іншому випадку не вживати жодних дій.    
+GM містить статистику істот.
 
-**At Higher Levels.** When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 6th-level slot and three times as many with an 8th-level slot. 
+**На вищих рівнях.** Коли ви кидаєте це заклинання за допомогою певних слотів вищого рівня, ви обираєте одну з наведених вище варіантів, і більше істот з'являються у два рази більше з слотом 6-го рівня і в три рази більше з слотом на 8-го рівня. 
