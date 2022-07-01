@@ -1,29 +1,29 @@
-name: Feather Token type: item
+назва: Токен передавання тип: елемент
 
-# Feather Token
-_Wondrous item, rare_
+# Токен Пірування
+_Один предмет, рідкісний_
 
-This tiny object looks like a feather. Different types of feather tokens exist, each with a different single-use effect. The GM chooses the kind of token or determines it randomly.
+Цей крихітний об'єкт виглядає як пера. Існує різні типи токенів пера, кожен з яких має різний одно-застосований ефект. GM вибирає такий маркер або визначає його випадково.
 
-| d100  | Feather Token |
-| ----- | ------------- |
-| 01-20 | Anchor        |
-| 21-35 | Bird          |
-| 36-50 | Fan           |
-| 51-65 | Swan boat     |
-| 66-90 | Tree          |
-| 91-00 | Whip          |
+| д100  | Токен Пірування |
+| ----- | --------------- |
+| 01-20 | Якір            |
+| 21-35 | Птахи           |
+| 36-50 | Віяло           |
+| 51-65 | Лебединий човен |
+| 66-90 | Дерево          |
+| 91-00 | Батіг           |
 
-**Anchor.** You can use an action to touch the token to a boat or ship. For the next 24 hours, the vessel can't be moved by any means. Touching the token to the vessel again ends the effect. When the effect ends, the token disappears.
+**Прив’язка.** Ви можете використати дію, щоб доторкнутися до токена до човна або корабля. Протягом наступних 24 годин, судину не можна переміщуватися жодним способом. Доторкнувшись жетона до судини, знову закінчується ефект. Коли ефект закінчується, токен зникає.
 
-**Bird.** You can use an action to toss the token 5 feet into the air. The token disappears and an enormous, multicolored bird takes its place. The bird has the statistics of a roc, but it obeys your simple commands and can't attack. It can carry up to 500 pounds while flying at its maximum speed (16 miles an hour for a maximum of 144 miles per day, with a one-hour rest for every 3 hours of flying), or 1,000 pounds at half that speed. The bird disappears after flying its maximum distance for a day or if it drops to 0 hit points. You can dismiss the bird as an action.
+**Птаха.** Можна використати дію, щоб кинути маркер на 5 футів у повітря. Токен зникає і виявляється величезним, багатокольорова пташка. Птах має статистику скелі, але вона обходиться простими командами і не може атакувати. Він може здійснити до 500 фунтів при досягненні максимальної швидкості (16 миль на годину максимум 144 миль на день, з кожною годиною до 3 годин польоту) або з 1000 фунтів з половиною швидкістю. Птах зникає після польоту на максимальну відстань протягом дня або при опусканні до 0 балів. Ви можете звільнити пташку як дію.
 
-**Fan.** If you are on a boat or ship, you can use an action to toss the token up to 10 feet in the air. The token disappears, and a giant flapping fan takes its place. The fan floats and creates a wind strong enough to fill the sails of one ship, increasing its speed by 5 miles per hour for 8 hours. You can dismiss the fan as an action.
+**Фан.** Якщо ви знаходитесь у човні або кораблі, ви можете використати дію, щоб зняти маркер на глибині 10 футів над землею. Токен зникає, а гігантський миготіння займе своє місце. Віяло літає і створює вітер достатньо сильний, щоб заповнити вітрила одного корабля, збільшує швидкість на 5 миль на годину на 8 годин. Ви можете відхилити фанат як дію.
 
-**Swan Boat.** You can use an action to touch the token to a body of water at least 60 feet in diameter. The token disappears, and a 50-foot-long, 20-foot- wide boat shaped like a swan takes its place. The boat is self-propelled and moves across water at a speed of 6 miles per hour. You can use an action while on the boat to command it to move or to turn up to 90 degrees. The boat can carry up to thirty-two Medium or smaller creatures. A Large creature counts as four Medium creatures, while a Huge creature counts as nine. The boat remains for 24 hours and then disappears. You can dismiss the boat as an action.
+**Свон Чат.** Ви можете використати дію, щоб торкнутися токена до тіла води об 60 футів у діаметрі. Токен зникає, і на 50 футів заввишки 20 ніг - широкий човен, як лебідь займається своїм місцем. Човен самотужки і рухається по воді зі швидкістю 6 миль на годину. Ви можете використати дію на човні, щоб змусити його рухатись або включити до 90 градусів. Човен може носити до тридцяти двох середніх або менших істот. Велика істота вважається чотирма середніми істотами, в той час як велика істота вважається дев'ятою. Човен залишається на 24 години, а потім зникає. Ви можете відхилити човна як дію.
 
-**Tree.** You must be outdoors to use this token. You can use an action to touch it to an unoccupied space on the ground. The token disappears, and in its place a nonmagical oak tree springs into existence. The tree is 60 feet tall and has a 5-foot-diameter trunk, and its branches at the top spread out in a 20-foot radius.
+**Дерево,** Ви повинні бути на вулиці, щоб скористатися цим токеном. Ви можете використати дію, щоб доторкнутися до незадовільного місця на землі. Токен зникає, а на ньому стоять немагічні дубові пружини в існуванні. Дерево на 60 футів заввишки і має 5-футовий діаметр стовбур і його гілки з усього верху, що простягаються по радіусу 20 футів.
 
-**Whip.** You can use an action to throw the token to a point within 10 feet of you. The token disappears, and a floating whip takes its place. You can then use a bonus action to make a melee spell attack against a creature within 10 feet of the whip, with an attack bonus of +9. On a hit, the target takes 1d6 + 5 force damage.
+**Батіг.** Ви можете використати дію, щоб перенести маркер на точку в межах 10 футів від вас. Токен зникає, і плаваючий батог займає своє місце. Потім ви можете використати додаткові дії, щоб зробити тиск ближнього бою проти істоти в межах 10 футів від батога, з бонусом атаки +9. При ударі ціль завдає 1d6 + 5 пошкоджень силою.
 
-As a bonus action on your turn, you can direct the whip to fly up to 20 feet and repeat the attack against a creature within 10 feet of it. The whip disappears after 1 hour, when you use an action to dismiss it, or when you are incapacitated or die.
+Як бонусна дія на вашій черзі, ви можете направити батога, щоб летіти до 20 футів і повторити атаку проти істоти на відстані їх 10 футів. Хитп зникає через 1 годину, коли ви використовуєте дію, щоб звільнити його, або коли ви недієздатні або помри.
