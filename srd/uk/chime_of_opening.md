@@ -1,8 +1,8 @@
-name: Chime of Opening type: item
+назва: Графік відкриття типу: елемент
 
-# Chime of Opening
-_Wondrous item, rare_
+# Чем дебюту
+_Один предмет, рідкісний_
 
-This hollow metal tube measures about 1 foot long and weighs 1 pound. You can strike it as an action, pointing it at an object within 120 feet of you that can be opened, such as a door, lid, or lock. The chime issues a clear tone, and one lock or latch on the object opens unless the sound can't reach the object. If no locks or latches remain, the object itself opens.
+Ця металева труба вимірюється приблизно на 1 фут і важить 1 фунт. Ви можете вразити це як дію, вказівкою на об'єкт знаходиться в межах 120 футів від вас, що можуть бути відкриті, такі як двері, повістка чи замок. Проблеми з чітким тоном, а також один замок, або блокування об'єкта відкриються, якщо звук не може дістатися до об'єкта. Якщо жодні замки або затримки не залишилися, сам об'єкт не відкривається.
 
-The chime can be used ten times. After the tenth time, it cracks and becomes useless. 
+Шима можна використовувати десять разів. Після десятого часу він тріпочуться і стає непотрібним. 
