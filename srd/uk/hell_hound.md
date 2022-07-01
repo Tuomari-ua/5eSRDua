@@ -1,13 +1,13 @@
-name: Hell Hound type: fiend cr: 3
+назва: Hell Hound type: fiend cr: 3
 
-# Hell Hound
-_Medium fiend, lawful evil_
+# Пекло собака
+_Середні кулаки, законне зло_
 
-**Armor Class** 15 (natural armor)    
-**Hit Points** 45 (7d8 + 14)    
-**Speed** 50 ft.
+**Клас броні** 15 (природна броня)    
+**Бали** 45 (7d8 + 14)    
+**Швидкість** фут.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 17 (+3) | 12 (+1) | 14 (+2) | 6 (−2) | 13 (+1) | 6 (−2) |
 
@@ -17,9 +17,9 @@ _Medium fiend, lawful evil_
 **Languages** understands Infernal but can't speak it    
 **Challenge** 3 (700 XP)
 
-**Keen Hearing and Smell.** The hound has advantage on Wisdom (Perception) checks that rely on hearing or smell.    
-**Pack Tactics.** The hound has advantage on an attack roll against a creature if at least one of the hound's allies is within 5 feet of the creature and the ally isn't incapacitated.
+**Keen Hearing і Smell.** Зграя використовує в Wisdom (Perception) перевірки, які покладаються на слух або запах.    
+**Тактики з пакету.** собака має перевагу на атаку, що грає проти істоти, якщо принаймні один з союзників гонка знаходиться на протязі 5 футів істоти, а союзник не недієздатний.
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) piercing damage plus 7 (2d6) fire damage.    
-**Fire Breath (Recharge 5–6).** The hound exhales fire in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one.
+### Дії
+**Біт.** _Атака ближньої зброї:_ +5 до удару, досягає 5-ї цілі, одна мета. _Вдач:_ 7 (1d8 + 3) пошкодження від пробивання плюс 7 (2d6) пошкодження.    
+**Вогняне дихання (зарядку 5–6).** Каунд видихає вогонь в 15-футовій шині. Кожна істота в цій області має зробити зберігання Dexter DC 12, приймаючи 21 (6d6) шкоду для вогню від збою збереження, або вдвічі більше шкоди від успішного.
