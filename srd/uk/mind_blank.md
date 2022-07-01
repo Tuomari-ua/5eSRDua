@@ -1,11 +1,11 @@
-name: Mind Blank level: 8 school: abjuration classes: bard wizard
+назва: Mind Blank рівень: 8 школа: abjuration класів: високий майстер
 
-# Mind Blank
-_8th-level abjuration_
+# Розумний пробіл
+_Реакція 8-го рівня_
 
 **Casting Time:** 1 action    
 **Range:** Touch    
 **Components:** V, S    
 **Duration:** 24 hours
 
-Until the spell ends, one willing creature you touch is immune to psychic damage, any effect that would sense its emotions or read its thoughts, divination spells, and the charmed condition. The spell even **_foils_** wish spells and spells or effects of similar power used to affect the target's mind or to gain information about the target. 
+Поки заклинання не закінчиться, достатньо істоти, які ви торкнетесь, не піддаються психічному пошкодженню, будь-який ефект, який буде відчувати свої емоції або читати свої думки, божественні заклинання і зачаровані умови. Орфографію **__** бажають орфографії і орфографії або ефекту подібної потужності, що використовується для впливу на розум цілі, або отримання інформації про ціль. 
