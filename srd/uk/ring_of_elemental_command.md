@@ -1,40 +1,40 @@
-name: Ring of Elemental Command type: ring
+назва: Кільце Елементарного Команди тип: кільце
 
-# Ring of Elemental Command
-_Ring, legendary (requires attunement)_
+# Кільце Елементального Командування
+_Надмірний кільце, легендарний (вимагає відвідування)_
 
-This ring is linked to one of the four Elemental Planes. The GM chooses or randomly determines the linked plane.
+Це кільце пов'язане з одним з чотирьох плану елементів. GM обирає або випадковим чином визначає пов'язаний літак.
 
-While wearing this ring, you have advantage on attack rolls against elementals from the linked plane, and they have disadvantage on attack rolls against you. In addition, you have access to properties based on the linked plane.
+Носячи це кільце, ви маєте перевагу в атаці кидатися від елементах з пов'язаного літака, і вони мають користь від нападу проти вас. Крім того, у вас є доступ до властивостей на основі пов'язаного літака.
 
-The ring has 5 charges. It regains 1d4 + 1 expended charges daily at dawn. Spells cast from the ring have a save DC of 17.
+Кільце має 5 зарядів. Повертає знову 1d4 + 1 щоденні витрати на світанку. орфографічні виводи з кільця мають DC з заощадити 17.
 
-**Ring of Air Elemental Command.** You can expend 2 of the ring's charges to cast **_dominate monster_** on an air elemental. In addition, when you fall, you descend 60 feet per round and take no damage from falling. You can also speak and understand Auran.
+**Кільце Повітряних елементів.** Ви можете витратити 2 звинувачень на кидання **_домінувати монстром_** на елементі повітря. Крім того, коли ви впадете, спускаєтесь 60 футів за раунд та не шкодить впадають. Ви також можете говорити і розуміти Аурана.
 
-If you help slay an air elemental while attuned to the ring, you gain access to the following additional properties:
+Якщо ви допоможете вбити елемент повітря в режимі обручки, ви отримаєте доступ до наступних додаткових властивостей:
 
-* You have resistance to lightning damage.
-* You have a flying speed equal to your walking speed and can hover.
+* Є опір удару блискавки.
+* Швидкість польоту дорівнює швидкості ваших ходів і може зависати.
 * You can cast the following spells from the ring, expending the necessary number of charges: **_chain lightning_** (3 charges), **_gust of wind_** (2 charges), or **_wind wall_** (1 charge).
 
-**Ring of Earth Elemental Command.** You can expend 2 of the ring's charges to cast **_dominate monster_** on an earth elemental. In addition, you can move in difficult terrain that is composed of rubble, rocks, or dirt as if it were normal terrain. You can also speak and understand Terran.
+**Кільце елементної командування Землі.** Ви можете витратити 2 звинувачень на кидання **_домінувати монстра_** на землі елемент. Крім того, ви можете рухатися зі складною місцевістю, яка складається із перетермінь, каменів чи бруду, неначе це було нормальним рельєфом. Ви також можете говорити і розуміти територію.
 
-If you help slay an earth elemental while attuned to the ring, you gain access to the following additional properties:
+Якщо ви вб'єте землю елементом під час обручки, ви отримаєте доступ до наступних додаткових властивостей:
 
-* You have resistance to acid damage.
-* You can move through solid earth or rock as if those areas were difficult terrain. If you end your turn there, you are shunted out to the nearest unoccupied space you last occupied.
+* У вас є стійкість до кислотного пошкодження.
+* Ви можете проїхати крізь тверду землю чи скелю, ніби ці ділянки є важкими ґрунтами. Якщо ви закінчите тут свою чергу, вас буде закрито до найближчого незайнятого простору, який ви останній захопили.
 * You can cast the following spells from the ring, expending the necessary number of charges: **_stone shape_** (2 charges), **_stoneskin_** (3 charges), or **_wall of stone_** (3 charges).
 
-**Ring of Fire Elemental Command.** You can expend 2 of the ring's charges to cast **_dominate monster_** on a fire elemental. In addition, you have resistance to fire damage. You can also speak and understand Ignan.
+**Кільце Вогняного Елементу.** Ви можете витратити 2 звинувачень на кидання **_домінувати монстра_** на вогняний елемент. Крім того, є опір вогню пошкоджень. Ви також можете говорити і розуміти Ігнана.
 
-If you help slay a fire elemental while attuned to the ring, you gain access to the following additional properties:
+Якщо ви допоможете вбити пожежний елемент, під час обручки, ви отримаєте доступ до наступних додаткових властивостей:
 
-* You are immune to fire damage.
-* You can cast the following spells from the ring, expending the necessary number of charges: **_burning hands_** (1 charge), **_fireball_** (2 charges), and **_wall of fire_** (3 charges).
+* У тебе імунітет до нанесення пошкоджень.
+* Ви можете відправити наступні заклинання з кільця, витрата необхідної кількості зарядів: **_світлих рук_** (1 заряд), **_вогняний м'яч_** (2 заряди), і **_стіною вогню_** (3 заряд).
 
-**Ring of Water Elemental Command.** You can expend 2 of the ring's charges to cast dominate monster on a water elemental. In addition, you can stand on and walk across liquid surfaces as if they were solid ground. You can also speak and understand Aquan.
+**Кільце Команди Водно-елементу.** Ви можете витратити 2 звинувачення у звинуваченні монстра на пролитий по елементі води. Крім того, ви можете стояти далі і ходити через рідкі поверхні, наче вони були твердою землею. Ви також можете говорити і розуміти Акван.
 
-If you help slay a water elemental while attuned to the ring, you gain access to the following additional properties:
+Якщо ви допоможете вбити водяні елементи у воді під час обручки, ви отримаєте доступ до наступних додаткових властивостей:
 
-* You can breathe underwater and have a swimming speed equal to your walking speed.
-* You can cast the following spells from the ring, expending the necessary number of charges: **_create or destroy water_** (1 charge), **_control water_** (3 charges), **_ice storm_** (2 charges), or **_wall of ice_** (3 charges). 
+* Ви можете дихати під водою, і швидкість плавання дорівнює вашій швидкості ходу.
+* Ви можете відправити наступні заклинання з кільця, витрата необхідної кількості зарядів: **_створити або знищити воду_** (1 заряд), **_control вода_** (3 заряди), **_буря_** (2 заряди), або **_стіни льоду_** (3 витрати). 
