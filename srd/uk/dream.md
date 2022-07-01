@@ -1,14 +1,14 @@
-name: Dream level: 5 school: illusion classes: bard warlock wizard
+ім'я: мрія рівень: 5 школа: ілюзія класі: жорсткий варп майстер
 
-# Dream
-_5th-level illusion_
+# Сновидіння
+_Ілюзія 5-го рівня_
 
-**Casting Time:** 1 minute    
-**Range:** Special    
-**Components:** V, S, M (a handful of sand, a dab of ink, and a writing quill plucked from a sleeping bird)    
-**Duration:** 8 hours
+**Кастинг часу:** 1 хвилина    
+**Діапазон:** Спеціальний    
+**компоненти:** V, S, М (кілька піску, тис. чорних, і комірка виривається спальним птахом)    
+**тривалість:** години
 
-This spell shapes a creature's dreams. Choose a creature known to you as the target of this spell. The target must be on the same plane of existence as you. Creatures that don't sleep, such as elves, can't be contacted by this spell. You, or a willing creature you touch, enters a trance state, acting as a messenger. While in the trance, the messenger is aware of his or her surroundings, but can't take actions or move.    
-If the target is asleep, the messenger appears in the target's dreams and can converse with the target as long as it remains asleep, through the duration of the spell. The messenger can also shape the environment of the dream, creating landscapes, objects, and other images. The messenger can emerge from the trance at any time, ending the effect of the spell early. The target recalls the dream perfectly upon waking. If the target is awake when you cast the spell, the messenger knows it, and can either end the trance (and the spell) or wait for the target to fall asleep, at which point the messenger appears in the target's dreams.    
-You can make the messenger appear monstrous and terrifying to the target. If you do, the messenger can deliver a message of no more than ten words and then the target must make a Wisdom saving throw. On a failed save, echoes of the phantasmal monstrosity spawn a nightmare that lasts the duration of the target's sleep and prevents the target from gaining any benefit from that rest. In addition, when the target wakes up, it takes 3d6 psychic damage.    
-If you have a body part, lock of hair, clipping from a nail, or similar portion of the target's body, the target makes its saving throw with disadvantage.
+Це заклинання формує мрії істоти. Оберіть істоту, відому вам як мішенню цього заклинання. Ціль має існувати на тому ж літаку, що й ти. Твори що не сплять, такі як ельфи, не можуть зв'язатися з цим заклинанням. Ви або ж холдке створіння, з яким ви зв'язуєтеся, вступаєте у трансний стан, який виступає як посланець. У той час як в дорозі месенджер знає про своє оточення, але не може вчинити дії чи рухатися.    
+Якщо ціль спить, метушник з'являється в мріях мети і може протиставити ціль до тих пір, поки вона залишається сном, у тривалості заклинання вона знову триває. Посланець також може формувати середовище мрії, створювати пейзажі, об'єкти та інші зображення. Посланець може вийти з трансу в будь-який момент, що завершить ефект заклинання раніше. Ціль ідеально нагадує мрію при пробудженні. Якщо ціль не спить, то месенджер знає це і може або закінчитися трансом (і орфом) або чекати, коли ціль засинає, в який момент посильний з'являється в мріях мети.    
+Можеш зробити посланця величезним та жахливим до цілі. Якщо це так, то посильний може доставити не більше десяти слів, а мета - зробити рятівну мусову лінію мудрості. На помилковому збереженні, Відгомони фантастичної чудовиськи породжують кошмар, який триває тривалість сну цілі і заважає цілі отримати будь-яку користь від цієї решти. Крім того, коли ціль прокидається, то вона завдає шкоди 3d6 психічного розладу.    
+Якщо у вас є частина тіла, зачервів, прорізається з нігті, або подібна частина тіла цілі, мета робить її рятівними потоками з невигідним недоліком.
