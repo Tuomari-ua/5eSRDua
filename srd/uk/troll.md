@@ -1,26 +1,26 @@
-name: Troll type: giant cr: 5
+назва: Троль тип: гігантський cr: 5
 
 # Troll
-_Large giant, chaotic evil_
+_Велике гігантське хаотичне лихо_
 
-**Armor Class** 15 (natural armor)    
-**Hit Points** 84 (8d10 + 40)    
-**Speed** 30 ft.
+**Клас броні** </strong> 15 (природна броня)    
+**Очки** 84 (8d10 + 40)    
+**Швидкість** фут.
 
-| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS    | CHA    |
 | ------- | ------- | ------- | ------ | ------ | ------ |
 | 18 (+4) | 13 (+1) | 20 (+5) | 7 (-2) | 9 (-1) | 7 (-2) |
 
-**Skills** Perception +2   
-**Senses** darkvision 60 ft., passive Perception 12    
-**Languages** Giant    
-**Challenge** 5 (1,800 XP)
+**Навичка** Перехоплення +2   
+**Способи** затемнення 60 футів. пасивне сприйняття 12    
+**Мови **,** Гігант    
+**виклик** (1,800 XP)</p>
 
-**Keen Smell.** The troll has advantage on Wisdom (Perception) checks that rely on smell.    
-**Regeneration.** The troll regains 10 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.
+**Кін Смол.** Троль має перевагу в мудрості (виключенні) перевірки, які покладаються на запах.    
+**Регенерація.** Троль відновлює 10 очків на початку своєї черги. Якщо троль завдасть кислоти чи пошкодження, ця риса не функціонує на початку наступного троля наступного повороту. Тролі помре, тільки якщо розпочнеться поверх, з нульовими точками ударів і не відновлюється.
 
-### Actions
+### Дії
 
-**Multiattack.** The troll makes three attacks: one with its bite and two with its claws.   
-**Bite.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 7 (1d6 + 4) piercing damage.   
-**Claw.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) slashing damage.
+**Мультиатака.** Троль робить три атаки: один за допомогою кубіння та два його кігті.   
+**Біт.** _Атака ближнього бою зброї:_ +7 щоб вдарити, сягнути 5 літер, одна ціль. _Hit:_ 7 (1d6 + 4) piercing damage.   
+**Claw.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Вразів:_ 11 (2d6 + 4) пошкодження.
