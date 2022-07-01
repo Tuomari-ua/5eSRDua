@@ -1,13 +1,13 @@
-name: Crocodile type: beast cr: .5
+назва: Крокодил тип: звір cr: .5
 
-# Crocodile
-_Large beast, unaligned_
+# Крокодил
+_Великий звір, неприєднаний_
 
-**Armor Class** 12 (natural armor)    
-**Hit Points** 19 (3d10 + 3)    
-**Speed** 20 ft., swim 30 ft.
+**Клас броні** 12 (природна броня)    
+**Бали** 19 (3d10 + 3)    
+**Швидкість** фут. плавати на висоті 30 футів.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 15 (+2) | 10 (+0) | 13 (+1) | 2 (−4) | 10 (+0) | 5 (−3) |
 
@@ -16,7 +16,7 @@ _Large beast, unaligned_
 **Languages** --    
 **Challenge** 1/2 (100 XP)
 
-**Hold Breath.** The crocodile can hold its breath for 15 minutes.
+**Тримати дух.** Крокодил може вдихнути на 15 хвилин.
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 7 (1d10 + 2) piercing damage, and the target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the crocodile can't bite another target.
+### Дії
+**Біт.** _Атака ближньої зброї:_ +4, досягнувши 5, одну істоту. _Вдач:_ 7 (1d10 + 2) пробиваюча шкода, а ціль завойована (escape DC 12). Доки це жалем не буде кінця, ціль не буде обмежена, а крокодил не може окусити іншу ціль.
