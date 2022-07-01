@@ -1,19 +1,19 @@
-name: Control Water level: 4 school: transmutation classes: cleric druid wizard
+назва: Контролюйте рівень води : 4 навчання : транмутація класів: священно druid майстер
 
-# Control Water
-_4th-level transmutation_
+# Контроль води
+_4-та трансмутація_
 
-**Casting Time:** 1 action    
-**Range:** 300 feet    
-**Components:** V, S, M (a drop of water and a pinch of dust)    
-**Duration:** Concentration, up to 10 minutes
+**Час Кастинг часу:** 1 дія    
+**Діапазон:** 300 футів    
+**компоненти:** V, S, М (падіння води і рожевого пилу)    
+**тривалість:** секунди, до 10 хвилин
 
-Until the spell ends, you control any freestanding water inside an area you choose that is a cube up to 100 feet on a side. You can choose from any of the following effects when you cast this spell. As an action on your turn, you can repeat the same effect or choose a different one.    
-**Flood.** You cause the water level of all standing water in the area to rise by as much as 20 feet. If the area includes a shore, the flooding water spills over onto dry land.    
-If you choose an area in a large body of water, you instead create a 20-foot tall wave that travels from one side of the area to the other and then crashes down. Any Huge or smaller vehicles in the wave's path are carried with it to the other side. Any Huge or smaller vehicles struck by the wave have a 25 percent chance of capsizing.    
-The water level remains elevated until the spell ends or you choose a different effect. If this effect produced a wave, the wave repeats on the start of your next turn while the flood effect lasts.    
-**Part Water.** You cause water in the area to move apart and create a trench. The trench extends across the spell's area, and the separated water forms a wall to either side. The trench remains until the spell ends or you choose a different effect. The water then slowly fills in the trench over the course of the next round until the normal water level is restored.    
-**Redirect Flow.** You cause flowing water in the area to move in a direction you choose, even if the water has to flow over obstacles, up walls, or in other unlikely directions. The water in the area moves as you direct it, but once it moves beyond the spell's area, it resumes its flow based on the terrain conditions. The water continues to move in the direction you chose until the spell ends or you choose a different effect.    
-**Whirlpool.** This effect requires a body of water at least 50 feet square and 25 feet deep. You cause a whirlpool to form in the center of the area. The whirlpool forms a vortex that is 5 feet wide at the base, up to 50 feet wide at the top, and 25 feet tall. Any creature or object in the water and within 25 feet of the vortex is pulled 10 feet toward it. A creature can swim away from the vortex by making a Strength (Athletics) check against your spell save DC.    
-When a creature enters the vortex for the first time on a turn or starts its turn there, it must make a Strength saving throw. On a failed save, the creature takes 2d8 bludgeoning damage and is caught in the vortex until the spell ends. On a successful save, the creature takes half damage, and isn't caught in the vortex. A creature caught in the vortex can use its action to try to swim away from the vortex as described above, but has disadvantage on the Strength (Athletics) check to do so.    
-The first time each turn that an object enters the vortex, the object takes 2d8 bludgeoning damage; this damage occurs each round it remains in the vortex. 
+До того, як заклинання закінчується, ви контролюєте будь-яку вільну воду всередині обраної вами області, що буде кубом до 100 футів збоку. Ви можете вибрати будь-який з наступних ефектів, коли ви кидаєте це заклинання. Як дія на свою чергу, ви можете повторити той же ефект або вибрати інший.    
+**обсягу.** Ви спричиняєте зростання води на цілих 20 футів. Якщо площа включає берег, потоп води переливається на суходіл.    
+Якщо ви виберете площу в великому тілі води, натомість створити висоту на 20 футів, яка подорожує з однієї сторони площа до іншої, а потім розбивається вниз. Будь-які великі або менші транспортні засоби на шляху хвилі переносяться з ними аж до іншого боку. Будь-які великі або менші транспортні засоби, які вдарили на хвилю, мають шанс у 25 відсотках розміру їх розміру.    
+Рівень води залишається підвищеним до закінчення заклинання або ви оберете інший ефект. Якщо цей ефект утворив хвилю, хвиля повториться на початку вашого наступного кроку, поки триває повінь.    
+**частина води.** У районі ви висуваєте воду з району і створюєте тренд. Окоп поширюється по розрізі правопису та відокремлена вода утворює стінку з обох сторін. Досить існувати траншей, поки заклинання не закінчиться, або ви оберете інший ефект. Вода потім повільно заповнює окопи протягом наступного раунду, поки не відновиться нормальний рівень води.    
+**Поплавити переспрямування.** Ви викликаєте потік води в області для руху в обраному напрямку, навіть якщо вода має протікати через перешкоди, стіни або в інших малоймовірних напрямках. Вода в районі рухається, як тільки вона рухається за межі області заклинання, він відновлює свій потік залежно від умов зору. Вода продовжує рухатися в напрямку, який ви обрали, поки не завершується заклинання або ви обираєте інший ефект.    
+**Вірус.** Цей ефект вимагає тіла води щонайменше 50 футів квадратної та 25 футів глибокої. Ви заставляєте вихрові сформувати центральну площу. У вихорі утворюється 5 футів завширшки по основі, вгору до 50 футів заввишки і 25 футів у висоту. Будь-яка істота чи об'єкт у воді і в межах 25 футів вихрові тягнуть до неї 10 футів. Творця може плисти подалі від вихру, роблячи перевірку сили (атлетики) проти вашого заклинання збереження.    
+коли істота вступає в вихору вперше по повороту або починає свою чергу там, це має зробити Панель економії електронів. На невдалому збереженні істота отримує 2d8 пошкодження дублювання і потрапляє у вихору до тих пір, поки заклинання не закінчиться. При вдалому збереженні істота завдає шкоди наполовину шкоди, і вона не потрапляє у вихор. Вихожа істота може використовувати свою дію, щоб спробувати відпливти від вихру, як описане вище, але має недолік щодо сильності (атлетики) відзначити це.    
+У перший раз кожен раз, коли об’єкт вступає у вихор, об'єкт приймає пошкодження на 2d8 душок; це шкода виникає в кожному раунді залишається в виводі. 
