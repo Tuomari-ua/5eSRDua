@@ -1,14 +1,14 @@
-name: Plant Growth level: 3 school: transmutation classes: bard druid ranger
+назва: Рівень зростання рослини : 3 школа: транмутація класи: жорстка druid ranger
 
-# Plant Growth
-_3rd-level transmutation_
+# Зростання рослин
+_Трансмутація третього рівня_
 
-**Casting Time:** 1 action or 8 hours    
-**Range:** 150 feet    
-**Components:** V, S    
-**Duration:** Instantaneous
+**транслюючий час:** 1 дія або 8 годин    
+**Діапазон:** 150 футів    
+**Компоненти:** V, S    
+**тривалість:** миттєві
 
-This spell channels vitality into plants within a specific area. There are two possible uses for the spell, granting either immediate or long-term benefits.    
-If you cast this spell using 1 action, choose a point within range. All normal plants in a 100-foot radius centered on that point become thick and overgrown. A creature moving through the area must spend 4 feet of movement for every 1 foot it moves.    
-You can exclude one or more areas of any size within the spell's area from being affected.    
-If you cast this spell over 8 hours, you enrich the land. All plants in a half-mile radius centered on a point within range become enriched for 1 year. The plants yield twice the normal amount of food when harvested. 
+Це заклинання життєвих каналів на рослини у конкретній області. Існує два можливі використання для заклинання, надаючи негайні чи довгострокові переваги.    
+Якщо ви транслюєте це заклинання використовуючи одну дію, виберіть точку в межах діапазону. Усі нормальні рослини із радіусом в 100 футів, зосереджені на цій точці, стають товстими та переповненими. Природа, що рухається в цій галузі, має витрачати 4 фути руху на кожний 1 фут.    
+неможливо виключити одну або кілька областей будь-якого розміру в області заклинання після впливу.    
+Якщо ви кидаєте це заклинання понад 8 годин, ви збагачуєте землю. Усі рослини у радіусі половинки милі зосереджені в точці за проміжок часу збагачуються на 1 рік. Після збору врожаю рослини вдвічі більше їжі. 
