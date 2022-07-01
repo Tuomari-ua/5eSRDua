@@ -1,13 +1,13 @@
-name: Acolyte type: humanoid (any race) cr: .25
+назва: Acolyte type: humanoid (any race) cr: .25
 
 # Acolyte
-_Medium humanoid (any race), any alignment_
+_Середня гуманоїда (будь-яке не), будь-яке вирівнювання_
 
 **Armor Class** 10    
 **Hit Points** 9 (2d8)    
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 14 (+2) | 11 (+0) |
 
@@ -16,12 +16,12 @@ _Medium humanoid (any race), any alignment_
 **Languages** any one language (usually Common)    
 **Challenge** 1/4 (50 XP)
 
-**Spellcasting.** The acolyte is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The acolyte has following cleric spells prepared:    
+**Орфографія орфографії.** Аколіта – гравець на 11-му рівні. Його здатність заклинання є мудрістю (заклинання 12 фунтів, +4, щоб вразити заклинання атаки). The acolyte has following cleric spells prepared:    
 Cantrips (at will): **_light, sacred flame, thaumaturgy_**    
 1st level (3 slots): **_bless, cure wounds, sanctuary_**
 
-### Actions
-**Club.** _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 2 (1d4) bludgeoning damage.
+### Дії
+**Клик.** _Атака ближньої зброї:_ +2 до удару, досягає 5 щитів, одна ціль. _Удару:_ 2 (1d4) пошкодження дублювання.
 
-### Description
-Acolytes are junior members of a clergy, usually answerable to a priest. They perform a variety of functions in a temple and are granted minor spellcasting power by their deities. 
+### Опис
+Аколіти - молодші члени духовенства, зазвичай дають відповідь на священика. Вони виконують різні функції у храмі і отримують незначні правомірні особливості у своїх божествах. 
