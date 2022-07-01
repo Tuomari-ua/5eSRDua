@@ -1,6 +1,6 @@
-name: Manual of Quickness of Action type: item
+назва: Ручна швидкість дії : елемент
 
-# Manual of Quickness of Action
-_Wondrous item, very rare_
+# Керівництво Швидкості Дії
+_Чудові речі - дуже рідкісні_
 
-This book contains coordination and balance exercises, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Dexterity score increases by 2, as does your maximum for that score. The manual then loses its magic, but regains it in a century. 
+Ця книга містить обчислювальні вправи та баланс, а її слова заряджаються магією. Якщо ви витратите 48 годин протягом 6-ти днів, або менше вивчаєте вміст книги та практикуєте його рекомендації, ваш рахунок Dexterity збільшується на 2, так як ваш максимум за цей рахунок. Підручник потім втрачає свою магію, але відновлює її за століття. 
