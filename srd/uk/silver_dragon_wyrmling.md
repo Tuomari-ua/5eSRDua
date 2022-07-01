@@ -1,25 +1,25 @@
-name: Silver Dragon Wyrmling type: dragon cr: 2
+назва: Срібний Виверг тип: дракона cr: 2
 
-# Silver Dragon Wyrmling
-_Medium dragon, lawful good_
+# Срібний Вирмлінг Дракона
+_Середній драг, законний товар_
 
-**Armor Class** 17 (natural armor)    
-**Hit Points** 45 (6d8 + 18)    
-**Speed** 30 ft., fly 60 ft.
+**Клас обладунку** 17 (природна броня)    
+**Бали** 45 (6d8 + 18)    
+**Швидкість** фут. політ 60 футів.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
 
-**Saving Throws** Dex +2, Con +5, Wis +2, Cha +4    
-**Skills** Perception +4, Stealth +2    
-**Damage Immunities** cold    
-**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14    
-**Languages** Draconic    
-**Challenge** 2 (450 XP)
+**Збереження жбурлянь** Dex +2, Con +5, Wis +2, Cha +4    
+**Навичків** Perception +4, Крадіжка +2    
+**Пошкодження** холодно    
+**Забезпечення** оснащення 10 футів. темп 60 кв. пасивне сприйняття 14    
+мови **мов** драконя    
+**виклику** (450 XP)
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 9 (1d10 + 4) piercing damage.    
-**Breath Weapons (Recharge 5–6).** The dragon uses one of the following breath weapons.    
-**Cold Breath.** The dragon exhales an icy blast in a 15-foot cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.    
-**Paralyzing Breath.** The dragon exhales paralyzing gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+### Дії
+**Біт.** _Атака ближньої зброї:_ +6 до удару, досягає 5-ї цілі, одна мета. _Вражає:_ 9 (1d10 + 4) колюча шкода.    
+**Одихання зброї (Поповнення 5-6).** Дракон використовує одну з наступних озброєнь дихання.    
+**Холодне дихання.** Дракон вражає крижаний вибух на 15-футовій шишці. Кожна істота в цій області повинна зробити економію Конституції DC 13 отримання 18 (4d8) холодної шкоди при невдалому збереженні, або ж вдвічі більше шкоди від успішного.    
+**обертає подих.** Дракон видихає паралізуючий газ в 15 футів конуса. Кожна істота в цьому районі повинна бути успішною протягом 1 хвилини збереженням Конституції DC. Створіння може повторити порятунок в кінці кожного своєї оберту, припинивши вплив на себе при успіху.
