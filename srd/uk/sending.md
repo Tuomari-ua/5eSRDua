@@ -1,12 +1,12 @@
-name: Sending level: 3 school: evocation classes: bard cleric wizard
+назва: Надсилання рівень: 3 школу: евокація класів: Бард священний
 
-# Sending
-_3rd-level evocation_
+# Надсилання
+_Евокація на третьому рівні_
 
-**Casting Time:** 1 action    
-**Range:** Unlimited    
-**Components:** V, S, M (a short piece of fine copper wire)    
-**Duration:** 1 round
+**Час трансляції :** 1 дія    
+**Діапазон:** Необмежено    
+**Компоненти:** V, S, М (короткий шматок тонкого модового дроту)    
+**тривалість:** круглі
 
-You send a short message of twenty-five words or less to a creature with which you are familiar. The creature hears the message in its mind, recognizes you as the sender if it knows you, and can answer in a like manner immediately. The spell enables creatures with Intelligence scores of at least 1 to understand the meaning of your message.    
-You can send the message across any distance and even to other planes of existence, but if the target is on a different plane than you, there is a 5 percent chance that the message doesn't arrive. 
+Ви послали коротке повідомлення про двадцять п'ять слів або менше істоти, з якою ви знайомі. Ця істота чує повідомлення в своєму мозку, розпізнає вас як відправника, якщо вона знає вас, і може відвідповідати таким чином, як зараз. Письмо дозволяє істотам з оцінками інтелекту хоча б 1 розуміти значення вашого повідомлення.    
+Ви можете надіслати повідомлення на будь-яку відстань і навіть до інших площин існування, але якщо ціль знаходиться в іншому літаку, ніж у вас, існує шанс у 5 відсотках, що повідомлення не прийде. 
