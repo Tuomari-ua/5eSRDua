@@ -1,23 +1,23 @@
-name: Gnoll type: humanoid (gnoll) cr: .5
+назва: Гнолл тип: humanoid (gnoll) cr: .5
 
-# Gnoll
-_Medium humanoid (gnoll), chaotic evil_
+# Гнолл
+_Середнє гуманоїда (блиски), хаотичне зло_
 
 **Armor Class** 15 (hide armor, shield)    
 **Hit Points** 22 (5d8)    
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 14 (+2) | 12 (+1) | 11 (+0) | 6 (−2) | 10 (+0) | 7 (−2) |
 
-**Senses** darkvision 60 ft., passive Perception 10    
-**Languages** Gnoll    
-**Challenge** 1/2 (100 XP)
+**Способи** затемнення 60, пасивний перехоплення 10    
+**Мови** Gnoll    
+**виклик** </strong>/2 (100 XP)
 
-**Rampage.** When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.
+**Rampage.** Коли Гнолл зменшує істоту до 0 ударів по точках з атакою ближнього бою, гнол може виконати додаткові дії, щоб рухатись вгору до половини швидкості та зробити кусаючу атаку.
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 4 (1d4 + 2) piercing damage.    
-**Spear.** _Melee_ or _Ranged Weapon Attack:_ +4 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.    
-**Longbow.** _Ranged Weapon Attack:_ +3 to hit, range 150/600 ft., one target. _Hit:_ 5 (1d8 + 1) piercing damage.
+### Дії
+**Біт.** _Атака ближньої зброї:_ +4, досягнувши 5, одну істоту. _Вдач:_ 4 (1d4 + 2) пробна шкода.    
+Спис**.** _Атака ближнього_ або _Від дальньої зброї :_ + 4, щоб вдарити, сягнути 5 футів. або ж нуль 20/60, однієї цілі. _Hit:_ 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.    
+**Longbow.** _Ranged Weapon Attack:_ +3 to hit, range 150/600 ft., one target. _Вразів:_ 5 (1d8 + 1) пошкодження від проколу.
