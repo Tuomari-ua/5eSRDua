@@ -1,13 +1,13 @@
-name: Swarm of Insects type: swarm of Tiny beasts cr: .5
+назва: Оточення інсекцій тип: оточення долинних звірів cr: .5
 
-# Swarm of Insects
-_Medium swarm of Tiny beasts, unaligned_
+# Оточення комах
+_Середній рій крихітних звірів, невирівняний_
 
-**Armor Class** 12 (natural armor)    
-**Hit Points** 22 (5d8)    
-**Speed** 20 ft., climb 20 ft.
+**Клас броні** 12 (природна броня)    
+**Бали** 22 (5d8)    
+**Швидкість** метри, підйом 20 футів.
 
-| STR    | DEX     | CON     | INT    | WIS    | CHA    |
+| СТР    | ДЕКС    | CON     | ІНТ    | WIS    | CHA    |
 | ------ | ------- | ------- | ------ | ------ | ------ |
 | 3 (−4) | 13 (+1) | 10 (+0) | 1 (−5) | 7 (−2) | 1 (−5) |
 
@@ -17,7 +17,7 @@ _Medium swarm of Tiny beasts, unaligned_
 **Languages** --    
 **Challenge** 1/2 (100 XP)
 
-**Swarm.** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can't regain hit points or gain temporary hit points.
+**Стійко.** Тепло може займати простір інших істот і навпаки, і рій може рухатися по будь-якому відкритті достатньо великому для крихітної комахи. Оточення не може повернути влучні бали або отримати тимчасові влучання.
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +3 to hit, reach 0 ft., one target in the swarm's space. _Hit:_ 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer. 
+### Дії
+**Біт.** _Атака ближньої зброї:_ +3 до удару, досягає 0 ft., одна мета у просторі Гріна. _Вразу:_ 10 (4d4) наносить шкоду або 5-(2d4) пробиваючи шкоду, якщо рій має половину своїх відвіданих точок або менше. 
