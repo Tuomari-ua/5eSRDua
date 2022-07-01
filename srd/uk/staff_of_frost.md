@@ -1,10 +1,10 @@
-name: Staff of Frost type: staff
+назва: Персонал у Морозі тип: персонал
 
-# Staff of Frost
-_Staff, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)_
+# Персонал Морозки
+_Персонал, дуже рідкісний (вимагає залучення від дротика, чаклуна, вар, чи чарівнику)_
 
-You have resistance to cold damage while you hold this staff.
+Якщо ти не заподіюєш, ти не відмовляєшся від холодної шкоди, ти тримаєш цього персоналу.
 
-The staff has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC: **_cone of cold_** (5 charges), **_fog cloud_** (1 charge), **_ice storm_** (4 charges), or **_wall of ice_** (4 charges).
+Персонал має 10 зарядів. Утримуючи це, ви можете використовувати дію для витрат 1 або більше його зарядів, щоб відкинути з нього один із наступних орфонів, використовуючи заклинання зберегти DC: **_монус холодного_** (5 заряджень), **_туманна хмара_** (1 заряд), **_буря_** (4 витрати), або **_стіни льоду_** (4 витрати).
 
-The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff turns to water and is destroyed. 
+Співробітник відновить на світанку 1d6 + 4 витрати, витрачені на світанок. Якщо ви витягнете останній заряд, покладіть d20. Одразу персонал перетворюється на воду і знищується. 
