@@ -1,24 +1,24 @@
-description: Rules for different coin types from the 5th Edition (5e) SRD (System Reference Document).
+опис: Правила для різних типів монет з 5-ї версії (5e) SRD (Документація з Системної Документації).
 
-# Coins
-Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp).
+# Монети
+Звичайні монети надходять в кілька різних знаменників залежно від відносної вартості металу, з якого вони виготовляються. Три найпоширеніші монети - це золотий шматочок (у скопі), срібний шматок (sp) та мідний шматочок (cp).
 
-With one gold piece, a character can buy a bedroll, 50 feet of good rope, or a goat. A skilled (but not exceptional) artisan can earn one gold piece a day. The gold piece is the standard unit of measure for wealth, even if the coin itself is not commonly used. When merchants discuss deals that involve goods or services worth hundreds or thousands of gold pieces, the transactions don't usually involve the exchange of individual coins. Rather, the gold piece is a standard measure of value, and the actual exchange is in gold bars, letters of credit, or valuable goods.
+Один золотий шматочок - персонаж може купити ліжко, 50 футів хорошої мотузки або козла. Досвідчений (але не винятковий) артефакт заробляє одну золоту на день. Золотий кусок є стандартною одиницею вимірювання багатства, навіть якщо сама монета не використовується загалом. Коли торговці обговорюють угоди, в яких залучені товари та послуги вартістю сотень і тисяч золотих шматочок, операції зазвичай не включають в себе обмін окремими монетами. Скоріше, золотий шматочок - це стандартний показник вартості, а фактичний обмін - у золотих смугах, буквах кредитних або цінних товарах.
 
-One gold piece is worth ten silver pieces, the most prevalent coin among commoners. A silver piece buys a laborer's work for half a day, a flask of lamp oil, or a night's rest in a poor inn.
+Один золотий шматочок вартий десяти срібних шматочків, найпоширеніших монет серед спільнотців. Срібна труба купує робітника на півдня, флеску лампочки чи нічне відпочинку в бідному готелі.
 
-One silver piece is worth ten copper pieces, which are common among laborers and beggars. A single copper piece buys a candle, a torch, or a piece of chalk.
+Один срібний шматок коштує десять мідяних шматочків, поширених серед робітників і жебраків. Один мідь купує свічку, смолоскип або шматок крейди.
 
-In addition, unusual coins made of other precious metals sometimes appear in treasure hoards. The electrum piece (ep) and the platinum piece (pp) originate from fallen empires and lost kingdoms, and they sometimes arouse suspicion and skepticism when used in transactions. An electrum piece is worth five silver pieces, and a platinum piece is worth ten gold pieces.
+Крім того, незвичайні монети виготовляються з інших коштовних металів, іноді зустрічаються в скарбниці. Електроелемент (єп) і частинка тарілки (про) береться від упалих імперій і втрачених королівств, і іноді вони викликають підозру та скептицизм при виконанні в операціях. Електронний шматок коштує 5 срібних частин, а на тарілку вартістю 10 золотих кусків.
 
-A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.
+Стандартна монета важить третину викиду. Отож 50 монет важить фунт.
 
-**Standard Exchange Rates**
+**Стандартні курси обміну**
 
-| Coin          | CP    | SP   | EP   | GP    | PP      |
+| Монета        | КТ    | СР   | ЕП   | ЗП    | PP      |
 | ------------- | ----- | ---- | ---- | ----- | ------- |
-| Copper (cp)   | 1     | 1/10 | 1/50 | 1/100 | 1/1,000 |
-| Silver (sp)   | 10    | 1    | 1/5  | 1/10  | 1/100   |
-| Electrum (ep) | 50    | 5    | 1    | 1/2   | 1/20    |
-| Gold (gp)     | 100   | 10   | 2    | 1     | 1/10    |
+| Мідь (cp)     | 1     | 1/10 | 1/50 | 1/100 | 1/1,000 |
+| Срібло (sp)   | 10    | 1    | 1/5  | 1/10  | 1/100   |
+| Електрум (єп) | 50    | 5    | 1    | 1/2   | 1/20    |
+| Золото (gp)   | 100   | 10   | 2    | 1     | 1/10    |
 | Platinum (pp) | 1,000 | 100  | 20   | 10    | 1       |
