@@ -1,16 +1,16 @@
-description: Rules and examples of feats from the 5th Edition (5e) SRD (System Reference Document).
+опис: правила та приклади функцій з 5-ї версії (5e) SRD (Документація з Системної Документації).
 
-# Feats
-A feat represents a talent or an area of expertise that gives a character special capabilities. It embodies training, experience, and abilities beyond what a class provides.
+# Пшениці
+Бенкет являє собою талант або сферу досвіду, що дає особливі можливості персонажу. Це втілює навчання, досвід та можливості за межі того, що надає клас.
 
-At certain levels, your class gives you the Ability Score Improvement feature. Using the optional feats rule, you can forgo taking that feature to take a feat of your choice instead. You can take each feat only once, unless the feat's description says otherwise.
+У деяких рівнях ваш клас пропонує функцію поліпшення особистості. Використовуючи обов'язкове правило функцій, ви можете спробувати цю функцію, щоб натомість подбати про свій вибір. Від кожного пірсу можна взяти лише один раз, якщо не буде описано пір'я в іншому.
 
-You must meet any prerequisite specified in a feat to take that feat. If you ever lose a feat's prerequisite, you can't use that feat until you regain the prerequisite. For example, the Grappler feat requires you to have a Strength of 13 or higher. If your Strength is reduced below 13 somehow--perhaps by a withering curse--you can't benefit from the Grappler feat until your Strength is restored.
+Ви повинні зустрітися з будь-якою передумовою вимогу, щоб зробити цей подвиг. Якщо ви коли-небудь втрачаєте передумови пір'я, ви не можете використовувати це подання, поки не відновите передумову. Наприклад, плата по графіку вимагає, щоб у вас було сильність у 13 і вище. Якщо ваша Сила буде знижена нижче 13 років - можливо, за широким прокляттям - ви не можете отримати вигоду від властивості графів до тих пір, поки ваша сила не буде відновлена.
 
-## Grappler
-**Prerequisite:** Strength 13 or higher
+## Граплер
+**Вимірювання:** Рівень 13 або вище
 
-You've developed the skills necessary to hold your own in close-quarters grappling. You gain the following benefits:
+Ви розвинули навички, необхідні для власного володіння, у планувальниках одягу. Ви отримуєте такі переваги:
 
-* You have advantage on attack rolls against a creature you are grappling.
-* You can use your action to try to pin a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends.
+* Ви маєте перевагу над атакою кидання проти істоти, яку ви пересаджуєте.
+* Ви можете використати свою дію, щоб спробувати закріпити істоту у вас виноград. Для цього зробіть ще одну перевірку фальшивого. Якщо вам це вдасться, ви і істота обоє стримані, до кінця.
