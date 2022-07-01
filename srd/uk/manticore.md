@@ -1,24 +1,24 @@
-name: Manticore type: monstrosity cr: 3
+назва: Manticore тип: чудовисько cr: 3
 
 # Manticore
-_Large monstrosity, lawful evil_
+_Велике чудовисько, законне зло_
 
-**Armor Class** 14 (natural armor)    
-**Hit Points** 68 (8d10 + 24)    
-**Speed** 30 ft., fly 50 ft.
+**Клас броні** 14 (природна броня)    
+**Бали** 68 (d10 + 24)    
+**Швидкість** фут. політ 50 футів.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 17 (+3) | 16 (+3) | 17 (+3) | 7 (−2) | 12 (+1) | 8 (−1) |
 
-**Senses** darkvision 60 ft., passive Perception 11    
-**Languages** Common    
-**Challenge** 3 (700 XP)
+**Способи** затемнення 60, пасивний перехоплення 11    
+**Мови** Загальних    
+Завданняformat@@**** (700 ОЗП)
 
-**Tail Spike Regrowth.** The manticore has twenty-four tail spikes. Used spikes regrow when the manticore finishes a long rest.
+**Шип духів вітрил.** Мантикура має двадцять чотири хвостові шипи. Використовується шипи відроджуються, коли мантикора закінчує тривалі відпочинки.
 
-### Actions
-**Multiattack.** The manticore makes three attacks: one with its bite and two with its claws or three with its tail spikes.    
-**Bite.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) piercing damage.    
-**Claw.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) slashing damage.    
-**Tail Spike.** _Ranged Weapon Attack:_ +5 to hit, range 100/200 ft., one target. _Hit:_ 7 (1d8 + 3) piercing damage.
+### Дії
+**Мультиатака.** Мантикора робить три напади: один з перекушеним та два з кігтями, чи три з шипами хвоста.    
+**Біт.** _Атака ближнього бою зброї:_ +5 до удару, досягає 5 щитів, одна ціль. _Hit:_ 7 (1d8 + 3) piercing damage.    
+**Claw.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Вражає:_ 6 (1d6 + 3) і 3). Пошкодження    
+**Контроль Spike.** _Атака від дальньої зброї:_ +5, щоб вдарити, 100/200 цита, одна ціль. _Вразів:_ 7 (1d8 + 3) наносити пошкодження.
