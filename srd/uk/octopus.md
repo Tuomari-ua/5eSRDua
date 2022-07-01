@@ -1,13 +1,13 @@
-name: Octopus type: beast cr: 0
+назва: Восьминіг тип: найкращий кр: 0
 
-# Octopus
-_Small beast, unaligned_
+# Восьминіг
+_Малий звір, неприєднаний_
 
-**Armor Class** 12    
-**Hit Points** 3 (1d6)    
-**Speed** 5 ft., swim 30 ft.
+**Клас броні** 12    
+**Очки** 3 (1d6)    
+**швидкість** ft., плисти 30 футів.
 
-| STR    | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР    | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------ | ------- | ------- | ------ | ------- | ------ |
 | 4 (−3) | 15 (+2) | 11 (+0) | 3 (−4) | 10 (+0) | 4 (−3) |
 
@@ -16,10 +16,10 @@ _Small beast, unaligned_
 **Languages** --    
 **Challenge** 0 (10 XP)
 
-**Hold Breath.** While out of water, the octopus can hold its breath for 30 minutes.    
-**Underwater Camouflage.** The octopus has advantage on Dexterity (Stealth) checks made while underwater.    
-**Water Breathing.** The octopus can breathe only underwater.
+**Тримайте дихання.** Якщо поза водою, восьминіг може вдихнути протягом 30 хвилин.    
+**Підводний Камуфляж під водою.** восьминога має перевагу в перевірках Dexterity (Stealth) під водою.    
+**Споживання води.** Водоспаду може дихати єдиним під водою.
 
-### Actions
-**Tentacles.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 1 bludgeoning damage, and the target is grappled (escape DC 10). Until this grapple ends, the octopus can't use its tentacles on another target.    
-**Ink Cloud (Recharges after a Short or Long Rest).** A 5-foot-radius cloud of ink extends all around the octopus if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the Dash action as a bonus action. 
+### Дії
+**Зубці.** _Атака ближньої зброї:_ +4, щоб ударити по 5, одна ціль. _Вразів:_ 1 дублювання пошкодження, а мета запланована (escape DC 10). Доки це не закінчаться громіздкою, восьминіг не зможе використати свої щупальці за іншою.    
+**Ink Cloud (перевантаження після короткого або довгого відновлення).** Хмара 5-футового радіусу продовжується між восьминіком, якщо під водою. Площа сильно затьмарена протягом 1 хвилини, хоча істотний струм може розсіяти чорнило. Після видачі чорнил, восьминога може використати цю дію як бонусні дії. 
