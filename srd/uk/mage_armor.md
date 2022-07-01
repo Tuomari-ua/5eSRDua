@@ -1,11 +1,11 @@
-name: Mage Armor level: 1 school: abjuration classes: sorcerer wizard
+назва: Магічний обладунок рівень: 1 школу: abjuration класів: частер
 
 # Mage Armor
-_1st-level abjuration_
+_Однорівнева тривалість_
 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S, M (a piece of cured leather)    
-**Duration:** 8 hours
+**Час трансляції :** 1 дія    
+**Діапазон:** Торкніться    
+**компоненти:** V, S, М (шматок викрученого списку)    
+**тривалість:** 8 годин
 
-You touch a willing creature who isn't wearing armor, and a protective magical force surrounds it until the spell ends. The target's base AC becomes 13 + its Dexterity modifier. The spell ends if the target dons armor or if you dismiss the spell as an action. 
+Ви торкаєтеся охоченої істоти, яка не носить обладунок, і захисна магічна сила оточує його, поки не закінчиться заклинання . Базовий показник цілі стає на 13 + його модифікатор Dexterity. Лист завершує, якщо цільова зброя або якщо ви відкинете заклинання як дію. 
