@@ -1,13 +1,13 @@
-name: Giant Hyena type: beast cr: 1
+назва: Гієна тип: звірина cr: 1
 
-# Giant Hyena
-_Large beast, unaligned_
+# Велика Гієна
+_Великий звір, неприєднаний_
 
 **Armor Class** 12    
 **Hit Points** 45 (6d10 + 12)    
 **Speed** 50 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 16 (+3) | 14 (+2) | 14 (+2) | 2 (−4) | 12 (+1) | 7 (−2) |
 
@@ -16,7 +16,7 @@ _Large beast, unaligned_
 **Languages** --    
 **Challenge** 1 (200 XP)
 
-**Rampage.** When the hyena reduces a creature to 0 hit points with a melee attack on its turn, the hyena can take a bonus action to move up to half its speed and make a bite attack.
+**Rampage.** Коли гієна зменшує істоту до 0 ударів за допомогою атаки ближнього бою, гієна може виконувати бонусні дії, щоб рухатися вгору до половини швидкості та зробити кубічну атаку.
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) piercing damage. 
+### Дії
+**Біт.** _Атака ближньої зброї:_ +5 до удару, досягає 5-ї цілі, одна мета. _Вразів:_ 10 (2d6 + 3) наносити пошкодження. 
