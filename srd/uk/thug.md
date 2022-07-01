@@ -1,27 +1,27 @@
-name: Thug type: humanoid (any race) cr: .5
+назва: Thug type: humanoid (any race) cr: .5
 
 # Thug
-_Medium humanoid (any race), any non-good alignment_
+_Середня гуманоїда (будь-яке негарне вирівнювання_
 
 **Armor Class** 11 (leather armor)    
 **Hit Points** 32 (5d8 + 10)    
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 15 (+2) | 11 (+0) | 14 (+2) | 10 (+0) | 10 (+0) | 11 (+0) |
 
-**Skills** Intimidation +2    
-**Senses** passive Perception 10    
-**Languages** any one language (usually Common)    
-**Challenge** 1/2 (100 XP)
+**Вміння** Інтермідація +2    
+**Senses** пасивного Перехоплення 10    
+**Мови** будь-якої мови (зазвичай Common)    
+**Виклик** 1/2 (100 XP)
 
-**Pack Tactics.** The thug has advantage on an attack roll against a creature if at least one of the thug's allies is within 5 feet of the creature and the ally isn't incapacitated.
+**Тактики пакета.** Зрив має перевагу в атаці, яка грає проти істоти, якщо принаймні один з союзників злодія знаходиться на протязі 5 футів істоти, і союзник не недієздатний.
 
-### Actions
-**Multiattack.** The thug makes two melee attacks.    
-**Mace.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 5 (1d6 + 2) bludgeoning damage.    
-**Heavy Crossbow.** _Ranged Weapon Attack:_ +2 to hit, range 100/400 ft., one target. _Hit:_ 5 (1d10) piercing damage.
+### Дії
+**Мультиатака.** Зрив викликує дві атаки в ближньому боці    
+**Mac.** _Атака ближньої зброї:_ +4, щоб вдарити в 5, одну істоту. _Удара:_ 5 (1d6 + 2) пошкодження дублювання.    
+**Важкий Арбалет.** _Атака дальньої зброї:_ +2 до влучання, 100/400 досягнення однієї мети. _Вразів:_ 5 (1d10) пробиваючої шкоди.
 
-### Description
-Thugs are ruthless enforcers skilled at intimidation and violence. They work for money and have few scruples. 
+### Опис
+Thugs - це безжальні примусові вимоги, які вміли залякувати та насильство. Вони працюють за гроші і мають мало сухребетів. 
