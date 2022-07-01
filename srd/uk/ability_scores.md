@@ -1,39 +1,39 @@
-description: Ability descriptions and modifier rules from the 5th Edition (5e) System Reference Document (SRD)
+опис: Опис здібностей і правила модифікаторів від 5-ї версії System Reference Document (SRD)
 
-# Ability Scores
-Six abilities provide a quick description of every creature's physical and mental characteristics:
+# Результати здібностей
+Шість здібностей забезпечують швидке уявлення про фізичні і психічні характеристики:
 
-* **Strength**, measuring physical power
-* **Dexterity**, measuring agility
-* **Constitution**, measuring endurance
-* **Intelligence**, measuring reasoning and memory
-* **Wisdom**, measuring perception and insight
-* **Charisma**, measuring force of personality
+* **Сила**, вимірювання фізичної потужності
+* **Dexterity**, вимірювання гнучкості
+* **Конституція**, вимірювання витривалості
+* **Розвідка**, міркування і пам'ять
+* **Мудрість**, вимірювання сприйняття та розуміння
+* **Харизма**, вимірювання сили особистості
 
-Is a character muscle-bound and insightful? Brilliant and charming? Nimble and hardy? Ability scores define these qualities--a creature's assets as well as weaknesses. The three main rolls of the game--the ability check, the saving throw, and the attack roll--rely on the six ability scores. The book's introduction describes the basic rule behind these rolls: roll a d20, add an ability modifier derived from one of the six ability scores, and compare the total to a target number.
+Чи персонажа пов'язана з м'язами і зрозуміла? Діамант і чарівність? Нестерпно і важко? Можливість визначати ці якості - активи істоти, а також слабкі сторони. Три основні кидання гри - тест на заощадження, кількість випробувань, і кількість атак - покладаються на шість балів у здібності. У цій книзі вступ описує базове правило, що стоїть за цими ролами: рол 20, додати модифікатор можливості, що виник з одного з балів 6 здібностей, та порівняти загальну суму до цільового числа.
 
-## Ability Scores and Modifiers
-Each of a creature's abilities has a score, a number that defines the magnitude of that ability. An ability score is not just a measure of innate capabilities, but also encompasses a creature's training and competence in activities related to that ability.
+## Здатність ядер і модифікаторів
+Кожна з здібностей істоти має певну партитуру, число визначає величину цієї можливості. Уміння — це не лише міра вроджених здібностей, але й охоплює навчання істоти та компетентність у діяльності, пов'язаній з такими здібностями.
 
-A score of 10 or 11 is the normal human average, but adventurers and many monsters are a cut above average in most abilities. A score of 18 is the highest that a person usually reaches. Adventurers can have scores as high as 20, and monsters and divine beings can have scores as high as 30.
+Оцінка від 10 до 11 - це нормальний середній показник у людини, але шукачі пригод і багато монстрів є порізаними вище середнього показника в більшості здібностей. 18-ий бал - це найвищий показник, до якого зазвичай досягає. Користувачі пригод можуть оцінити до 20, а монстри і божественні істоти можуть мати бали до 30.
 
-Each ability also has a modifier, derived from the score and ranging from -5 (for an ability score of 1) to +10 (for a score of 30). The Ability Scores and Modifiers table notes the ability modifiers for the range of possible ability scores, from 1 to 30.
+Кожна здатність також має свої модифікатори, Виходить з рахунку і коливається від -5 (для результату від 1) до +10 (для результату 30). Здатність шокерам і модифікаторам зазначає позицію модифікатора для діапазону можливих очок здатності, від 1 до 30.
 
-| Score | Modifier |
-| ----- |:--------:|
-| 1     |    -5    |
-| 2-3   |    -4    |
-| 4-5   |    -3    |
-| 6-7   |    -2    |
-| 8-9   |    -1    |
-| 10-11 |    +0    |
-| 12-13 |    +1    |
-| 14-15 |    +2    |
-| 16-17 |    +3    |
-| 18-19 |    +4    |
-| 20-21 |    +5    |
-| 22-23 |    +6    |
-| 24-25 |    +7    |
-| 26-27 |    +8    |
-| 28-29 |    +9    |
-| 30    |   +10    |
+| Рахунок | Modifier |
+| ------- |:--------:|
+| 1       |    -5    |
+| 2-3     |    -4    |
+| 4-5     |    -3    |
+| 6-7     |    -2    |
+| 8-9     |    -1    |
+| 10-11   |    +0    |
+| 12-13   |    +1    |
+| 14-15   |    +2    |
+| 16-17   |    +3    |
+| 18-19   |    +4    |
+| 20-21   |    +5    |
+| 22-23   |    +6    |
+| 24-25   |    +7    |
+| 26-27   |    +8    |
+| 28-29   |    +9    |
+| 30      |   +10    |
