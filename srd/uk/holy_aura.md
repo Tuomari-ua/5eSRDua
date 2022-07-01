@@ -1,11 +1,11 @@
-name: Holy Aura level: 8 school: abjuration classes: cleric
+назва: Священна Аура рівень: 8 школа: abjuration класів: священнослужителя
 
 # Holy Aura
-_8th-level abjuration_
+_Реакція 8-го рівня_
 
-**Casting Time:** 1 action    
-**Range:** Self    
-**Components:** V, S, M (a tiny reliquary worth at least 1,000 gp containing a sacred relic, such as a scrap of cloth from a saint's robe or a piece of parchment from a religious text)    
-**Duration:** Concentration, up to 1 minute
+**Кастинг часу:** 1 дія    
+**Діапазон:** Самостій    
+**компоненти:** V, S, М (мінімальна рельєфна вартість, щонайменше 1, 00 виділення, що містить священний реліквію, такі, як обгортка тканини з сукні святих або пергамент з релігійного тексту)    
+**Тривалість:** Концентрація, до 1 хвилини
 
-Divine light washes out from you and coalesces in a soft radiance in a 30-foot radius around you. Creatures of your choice in that radius when you cast this spell shed dim light in a 5-foot radius and have advantage on all saving throws, and other creatures have disadvantage on attack rolls against them until the spell ends. In addition, when a fiend or an undead hits an affected creature with a melee attack, the aura flashes with brilliant light. The attacker must succeed on a Constitution saving throw or be blinded until the spell ends. 
+Світло окидає вас і лунає в м'яке випромінювання оточує вас від 30 футів. Творіння вашого вибору в цьому радіусі, коли ви кидаєте світло від заклинання проливали на 5 футів і маєте перевагу від використання всіх кутів, і інші істоти не протистоять атаці супоти проти них, поки заклинання не закінчиться. Крім того, коли бойовий або немертвий вдаряється в інфіковану істоту з атакою ближнього бою, аура спалахує з блискучим світлом. Нападник повинен досягти успіху в збереженні Конституції, або бути засліплений до закінчення заклинання. 
