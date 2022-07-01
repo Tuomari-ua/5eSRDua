@@ -1,12 +1,12 @@
-name: Passwall level: 5 school: transmutation classes: wizard
+назва: Пароль рівень: 5 школа: передача класи: майстер
 
-# Passwall
-_5th-level transmutation_
+# Песселл
+_Ретрансмутація 5-го рівня_
 
-**Casting Time:** 1 action    
-**Range:** 30 feet    
-**Components:** V, S, M (a pinch of sesame seeds)    
-**Duration:** 1 hour
+**Час трансляції :** 1 дія    
+**Діапазон:** 30 футів    
+**компоненти:** V, S, М (згладжування насіння)    
+**тривалість:** години
 
-A passage appears at a point of your choice that you can see on a wooden, plaster, or stone surface (such as a wall, a ceiling, or a floor) within range, and lasts for the duration. You choose the opening's dimensions: up to 5 feet wide, 8 feet tall, and 20 feet deep. The passage creates no instability in a structure surrounding it.    
-When the opening disappears, any creatures or objects still in the passage created by the spell are safely ejected to an unoccupied space nearest to the surface on which you cast the spell.
+Цей уривок з'являється в момент вашого вибору, який ви можете побачити на деревині, штукатурка, або кам'яна поверхня (наприклад, стіна, стеля або підлога) в радіусі дії і триває тривалість. Ви вибираєте розміри відкриття: до 5 футів у ширину, 8 футів в висоту, а також глибину 20 футів. Цей уривок не створює нестабільності в структурі, що її оточує.    
+При вимиканні відкриття, будь-які істоти або об'єкти, які досі в проході, створені заклинання - надійно викинуті до незаживаного простору, найближчого до поверхні, на якій ви кидаєте заклинання .
