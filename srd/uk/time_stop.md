@@ -1,12 +1,12 @@
-name: Time Stop level: 9 school: transmutation classes: sorcerer wizard
+назва: Крап часу рівень: 9 школа: транмутація класи: частр майстер
 
-# Time Stop
-_9th-level transmutation_
+# Час зупинки
+_Демонстрація 9-го рівня_
 
 **Casting Time:** 1 action    
 **Range:** Self    
 **Components:** V    
 **Duration:** Instantaneous
 
-You briefly stop the flow of time for everyone but yourself. No time passes for other creatures, while you take 1d4 + 1 turns in a row, during which you can use actions and move as normal.    
-This spell ends if one of the actions you use during this period, or any effects that you create during this period, affects a creature other than you or an object being worn or carried by someone other than you. In addition, the spell ends if you move to a place more than 1,000 feet from the location where you cast it. 
+Ти коротко зупиниш рух часу для всіх, крім себе. Без часу переходить для інших істот, в той час як ви берете 1d4 + 1 за ряд під час чого можна використовувати дії та рухатися як нормально.    
+Ця заклинання закінчується, якщо одна з дій, які ви використовуєте в цей період, або ефекти, які ви створюєте протягом цього періоду, впливає на істоту, яка не на вас, або об'єкт, який носяться чи переноситься кимось іншим, ніж ви. Крім того, заклинання закінчиться, якщо ви переміститесь на місце, де його кидаєте більш ніж на 1 000 футів. 
