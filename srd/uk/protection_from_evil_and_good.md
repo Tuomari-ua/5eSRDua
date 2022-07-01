@@ -1,12 +1,12 @@
-name: Protection from Evil and Good level: 1 school: abjuration classes: cleric paladin warlock wizard
+назва: Захист від Злого та Хорошого рівень: 1 школа: abjuration класів: cler paladin warlock
 
-# Protection from Evil and Good
-_1st-level abjuration_
+# Захист від зла і хорошого
+_Однорівнева тривалість_
 
 **Casting Time:** 1 action    
 **Range:** Touch    
 **Components:** V, S, M (holy water or powdered silver and iron, which the spell consumes)    
 **Duration:** Concentration up to 10 minutes
 
-Until the spell ends, one willing creature you touch is protected against certain types of creatures: aberrations, celestials, elementals, fey, fiends, and undead.    
-The protection grants several benefits. Creatures of those types have disadvantage on attack rolls against the target. The target also can't be charmed, frightened, or possessed by them. If the target is already charmed, frightened, or possessed by such a creature, the target has advantage on any new saving throw against the relevant effect.
+Поки заклинання не завершується, один охоче істота, що доходить до вас, захищена від певних типів істот: аберації, нецензури, елементи, подвиги, люті, немертві.    
+Захист надає кілька переваг. Істоти цих типів не мають переваги від нападу проти мети. Ціль також не може бути зачарована, злякається і володіє ними. Якщо ціль вже зачарована, злякається або володіє такою істотою, мета має перевагу будь-яким новим заощадженням, пов'язуючи відповідний ефект.
