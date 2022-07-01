@@ -1,13 +1,13 @@
-name: Bearded Devil type: fiend (devil) cr: 3
+назва: Терміновий диявол тип: fiend (devil) cr: 3
 
-# Bearded Devil
-_Medium fiend (devil), lawful evil_
+# Бородський диявол
+_Середній диявол), законне зло_
 
-**Armor Class** 13 (natural armor)    
-**Hit Points** 52 (8d8 + 16)    
-**Speed** 30 ft.
+**Клас броні** 13 (природна броня)    
+**Бали** 52 (8d8 + 16)    
+**Швидкість** фут.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA     |
 | ------- | ------- | ------- | ------ | ------- | ------- |
 | 16 (+3) | 15 (+2) | 15 (+2) | 9 (−1) | 11 (+0) | 11 (+0) |
 
@@ -23,7 +23,7 @@ _Medium fiend (devil), lawful evil_
 **Magic Resistance.** The devil has advantage on saving throws against spells and other magical effects.    
 **Steadfast.** The devil can't be frightened while it can see an allied creature within 30 feet of it.
 
-### Actions
-**Multiattack.** The devil makes two attacks: one with its beard and one with its glaive.    
-**Beard.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one creature. _Hit:_ 6 (1d8 + 2) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. While poisoned in this way, the target can't regain hit points. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.    
-**Glaive.** _Melee Weapon Attack:_ +5 to hit, reach 10 ft., one target. _Hit:_ 8 (1d10 + 3) slashing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 12 Constitution saving throw or lose 5 (1d10) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 5 (1d10). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.
+### Дії
+**Мультиатака.** Диявол робить дві атаки: один з його бородою та один з його відразу.    
+**Бороди.** _Атака Міле Зброя:_ +5 щоб ударити, в одній істоті дійде до 5-го року, одна істота. _Вразів:_ 6 (1d8 + 2) проколювання пошкоджень, і ціль має бути досягнутою в розмірі скидання до Конституції DC 12 хвилин або буде отруєна 1 хвилину. У той час як отруєний способом, ціль не може повернути бали. Ціль може повторювати накопичення в кінці кожної своєї черги, закінчуючи вплив на себе на успіх.    
+**Облиск.** _Атака важкої зброї:_ +5, щоб вдарити, досягти 10-ти, однієї цілі. _Вітаємо:_ 8 (1d10 + 3) удар пошкодження. Якщо мета є істотою, що не є мертвою або конструкцією, він має досягти успіху в збереженні Конституції DC 12 або втратити 5 (1d10) вдарили пункти на початку кожного повороту через пекельний рану. Кожен раз, коли диявол потрапляє в поранену ціль з цією атакою, шкода, завдана раною, збільшується на 5 (1д10). Будь-яка істота може вжити заходів для того, щоб прискорити рану з успішною мудрістю DC 12 (з медициною). Рана також закривається, якщо ціль отримує магічне лікування.
