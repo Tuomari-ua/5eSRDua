@@ -1,6 +1,6 @@
-name: Ring of Telekinesis type: ring
+ім'я: Telekinesis type: ring
 
-# Ring of Telekinesis
-_Ring, very rare (requires attunement)_
+# Кільце Телекінезу
+_Кільце, дуже рідкісний (вимагає залучення)_
 
-While wearing this ring, you can cast the **_telekinesis_** spell at will, but you can target only objects that aren't being worn or carried. 
+Під час одягу цього кільця, ви можете кинути **_телекінез_** заклинання буде, але націлені на об'єкти, не надягають на предмети, які не носяться або доставляються. 
