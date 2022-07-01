@@ -1,11 +1,11 @@
-name: True Seeing level: 6 school: divination classes: bard cleric sorcerer warlock wizard
+назва: Істинна перевірка рівень: 6 школа: divination класі: двор клер: сортувальник warlock
 
-# True Seeing
-_6th-level divination_
+# Істинна орієнтація
+_Розщеплення 6-го рівня_
 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S, M (an ointment for the eyes that costs 25 gp; is made from mushroom powder, saffron, and fat; and is consumed by the spell)    
-**Duration:** 1 hour
+**Час трансляції :** 1 дія    
+**Діапазон:** Торкніться    
+**компоненти:** V, S, М (масло для очей, що коштує 25 пікселів; з грибного пороху, шафрану і товстий; споживається заклинанням)    
+**год:** години
 
-This spell gives the willing creature you touch the ability to see things as they actually are. For the duration, the creature has truesight, notices secret doors hidden by magic, and can see into the Ethereal Plane, all out to a range of 120 feet. 
+Ця заклинання дає бажаним істотам вміння бачити речі насправді. На цей час істота має правдивість, в області таємних дверей, захованих магією, і це можна побачити в Плані Євросоюзу, що налічує 120 футів. 
