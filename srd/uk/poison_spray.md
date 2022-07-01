@@ -1,12 +1,12 @@
-name: Poison Spray level: 0 school: conjuration classes: druid sorcerer warlock wizard
+назва: Візуальний Спрей рівень: 0 школа: conjuration класі: druid sorer warlock
 
-# Poison Spray
-_Conjuration cantrip_
+# Отруйний Спрей
+_Конджонтрофей_
 
-**Casting Time:** 1 action    
-**Range:** 10 feet    
-**Components:** V, S    
-**Duration:** Instantaneous
+**Час трансляції часу:** 1 дія    
+**Діапазон:** 10 футів    
+**компоненти:** V, S    
+**тривалість:** миттєві
 
-You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution saving throw or take 1d12 poison damage.    
-This spell's damage increases by 1d12 when you reach 5th level (2d12), 11th level (3d12), and 17th level (4d12).
+Покладіть руку на істоту, яку можна побачити в межах діапазону, і запроектуйте план шкідливого газу з пальми. Ця істота повинна досягти успіху в процесі заощадження конституції або набрати 1-12 отруйних пошкоджень.    
+Пошкодження цього заклинання збільшуються на 1d12, коли ви досягнете 5-го рівня (2d12), 11-го рівня (3d12) та 17-го рівня (4d12).
