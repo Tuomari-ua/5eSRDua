@@ -1,6 +1,6 @@
-name: Brazier of Commanding Fire Elementals type: item
+назва: Брать вогневих елементів типу: елемент
 
-# Brazier of Commanding Fire Elementals
-_Wondrous item, rare_
+# Бразильська частина командуючих пожежних елементів
+_Один предмет, рідкісний_
 
-While a fire burns in this brass brazier, you can use an action to speak the brazier's command word and summon a fire elemental, as if you had cast the **_conjure elemental_** spell. The brazier can't be used this way again until the next dawn. The brazier weighs 5 pounds. 
+Поки вогонь палає в цьому міді брейзером, ви можете використати дію, щоб говорити слово Баціаня і викликати вогнище елементне, як якщо ви кинули параметр **__ елементу_</strong> орфографію. Божевільний не може бути використаний знову до наступного світанку. Божевільний важить 5 фунтів. </p> 
