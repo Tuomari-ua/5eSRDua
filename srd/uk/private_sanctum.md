@@ -1,23 +1,23 @@
-name: Private Sanctum level: 4 school: abjuration classes: wizard
+назва: Приватний Санктум рівень: 4 школа: abjuration класів: майстер
 
-# Private Sanctum
-_4th-level abjuration_
+# Приватний Святилище
+_Тривалість четвертого рівня_
 
-**Casting Time:** 10 minutes   
-**Range:** 120 feet    
-**Components:** V, S, M (a thin sheet of lead, a piece of opaque glass, a wad of cotton or cloth, and powdered chrysolite)   
-**Duration:** 24 hours
+**Час трансляції :** 10 хвилин   
+**Діапазон:** 120 футів    
+**компоненти:** V, S, М (тонкий шматок свинцю, шматок непрозорого скла, плащ бавовни або тканини, і порошок тризоліту   
+**тривалість:** 24 години
 
-You make an area within range magically secure. The area is a cube that can be as small as 5 feet to as large as 100 feet on each side. The spell lasts for the duration or until you use an action to dismiss it.    
-When you cast the spell, you decide what sort of security the spell provides, choosing any or all of the following properties:
+Ви створюєте площу в радіусі магічним захистом. Площа - це кубик, який може бути як мінімум 5 футів завбільшки, приблизно 100 футів з кожної сторони. Тривалість заклинання триває або доки ви не застосуєте дію, щоб відхилити її.    
+Коли ви кидаєте заклинання вирішуєте, яка гарантія надходить заклинання чи обирає будь-які або всі наступні властивості:
 
-* Sound can't pass through the barrier at the edge of the warded area.
-* The barrier of the warded area appears dark and foggy, preventing vision (including darkvision) through it.
-* Sensors created by divination spells can't appear inside the protected area or pass through the barrier at its perimeter.
-* Creatures in the area can't be targeted by divination spells.
-* Nothing can teleport into or out of the warded area.
-* Planar travel is blocked within the warded area.
+* Звук не може пройти через бар'єр на краю області.
+* Бар’єр попередженої області видається темним і туманним, запобігаючи зору (включаючи темним баченням) через нього.
+* Сенсори, створені адвокатами, не можуть з'являтися всередині захищеної області або проходити через бар'єр на периметр.
+* Істоти з цього району не можна орієнтуватися на ворожнечі.
+* Ніщо не може переміщуватися в або за межами попередженої зони.
+* Планарні подорожі заблоковано в межах попередженої зони.
 
-Casting this spell on the same spot every day for a year makes this effect permanent.
+Перетворення цього заклинання на ту ж саму ділянку кожного дня робить цей ефект постійним.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, you can increase the size of the cube by 100 feet for each slot level beyond 4th. Thus you could protect a cube that can be up to 200 feet on one side by using a spell slot of 5th level. 
+**На вищих рівнях.** Коли ви кидаєте це заклинання використовуючи гніздо 5-го рівня або вище, ви можете збільшити розмір куба на 100 футів для кожного слоту понад 4. Таким чином, ви можете захистити куб, який може бути до 200 футів з одного боку, використовуючи заклинання 5-го рівня. 
