@@ -1,11 +1,11 @@
-name: Shillelagh level: 0 school: transmutation classes: druid
+назва: Shillelagh рівень: 0 школа: транмутація класи: druid
 
 # Shillelagh
-_Transmutation cantrip_
+_Трансмутація_
 
 **Casting Time:** 1 bonus action    
 **Range:** Touch    
 **Components:** V, S, M (mistletoe, a shamrock leaf, and a club or quarterstaff)    
 **Duration:** 1 minute
 
-The wood of a club or quarterstaff you are holding is imbued with nature's power. For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon's damage die becomes a d8. The weapon also becomes magical, if it isn't already. The spell ends if you cast it again or if you let go of the weapon. 
+З дерев'яного клубу або з каменярнями, які ви тримаєте, переплетені з природною силою. На протязі всього часу, ви можете використовувати свої сили кидання замість сили для атаки і ушкодження нападів ближнього бою, використовуючи цю зброю, і смерть від зброї перетворюється на 8. Зброя також стає магічною, якщо вона ще не є. Лист закінчується, якщо ви перекинули його знову, або якщо ви відпустили зброю. 
