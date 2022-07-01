@@ -1,43 +1,43 @@
-name: Tarrasque type: monstrosity cr: 30
+назва: Tarrasque тип: чудовисько cr: 30
 
-# Tarrasque
-_Gargantuan monstrosity (titan), unaligned_
+# Тарраск
+_Гаргантуйський пам'ятник (титан), не вирівнюючи_
 
 **Armor Class** 25 (natural armor)   
 **Hit Points** 676 (33d20 + 330)   
 **Speed** 40ft
 
-| STR      | DEX     | CON      | INT    | WIS     | CHA     |
+| СТР      | ДЕКС    | CON      | ІНТ    | WIS     | CHA     |
 | -------- | ------- | -------- | ------ | ------- | ------- |
 | 30 (+10) | 11 (+0) | 30 (+10) | 3 (-4) | 11 (+0) | 11 (+0) |
 
-**Saving Throws** Int +5, Wis +9, Cha +9   
-**Damage Immunities** fire, poison; bludgeoning, piercing, and slashing from nonmagical attacks   
-**Condition Immunities** charmed, frightened, paralyzed, poisoned   
-**Senses** blindsight 120ft., passive Perception 10   
-**Languages** -   
-**Challenge** 30 (155,000 XP)
+**Збереження рядків** Int +5, Wis +9, Cha +9   
+**Шкода боєприпасами** постріл, отрута; bludgeoning, проколювання і різання з немагічних атак   
+**Імунітети** charmed, лякані, паралізовані, отруєний   
+**Забезпечення** осліплення 120фут. пасивне сприйняття 10   
+**мов** -   
+**Змагання** 30 (155,000 XP)
 
-**Legendary Resistance (3/Day).** If the tarrasque fails a saving throw, it can choose to succeed instead.   
-**Magic Resistance.** The tarrasque has advantage on saving throws against spells and other magical effects.   
-**Reflective Carapace.** Any time the tarrasque is targeted by a **_magic missle_** spell, a line spell, or a spell that requires a ranged attack roll, roll a d6. On a 1 to 5, the tarrasque is unaffected. On a 6, the tarrasque is unaffected, and the effect is reflected back at the caster as though it originated from the tarrasque, turning the caster into the target.   
-**Siege Monster.** The tarrasque deals double damage to objects and structures.
+**Легендарна Стійкість (3/днів).** Якщо тараска не зможе заощадити ряд, натомість вона може обрати успіх.   
+**Магічний Стійкість до** . Загартування має перевагу над збереженням орфорів та іншими магічними ефектами.   
+**Відбивна Карапація.** У будь-який час яка тараска вказана **_магічна ракета_** заклинання, лінійний заклинання або заклинання що потребують коливання дальньої атаки, випаде d6. На 1 до 5 тараска не впливає. 6 ярраску не впливає, а ефект відображається на майстерню так, ніби він походить від тараска, перетворення пасхалки в ціль.   
+**Облоговий Монстр.** Заразка наносить подвійне пошкодження об’єктам і будівлям.
 
-### Actions
+### Дії
 
-**Multiattack.** The tarrasque can use its Frightful Presence. It then makes five attacks: one with its bite, two with its claws, one with its horns, and one with its tail. It can use its Swallow instead of its bite.   
-**Bite.** _Melee Weapon Attack:_ +19 to hit, reach 10 ft., one target. _Hit:_ 36 (4d12 + 10) piercing damage. If the target is a creature, it is grappled (escape DC 20). Until this grapple ends, the target is restrained, and the tarrasque can't bite another target.   
-**Claw.** _Melee Weapon Attack:_ +19 to hit, reach 15ft., one target. _Hit:_ 28 (4d8 + 10) slashing damage.   
-**Horns.** _Melee Weapon Attack:_ +19 to hit, reach 10ft., one target. _Hit:_ 32 (4d10 + 10) piercing damage.   
-**Tail.** _Melee Weapon Attack:_ +19 to hit, reach 20ft., one target. _Hit:_ 24 (4d6 + 10) bludgeoning damage. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be knocked prone.   
-**Frightful Presence.** Each creature of the tarrasque's choice within 120 feet of it and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the tarrasque is within line of sight, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the tarrasque's Frightful Presence for the next 24 hours.   
-**Swallow.** The tarrasque makes one bite attack against a Large or smaller creature it is grappling. If the attack hits, the target takes the bite's damage, the target is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the tarrasque, and it takes 56 (16d6) acid damage at the start of each of the tarrasque's turns.    
-If the tarrasque takes 60 damage or more on a single turn from a creature inside it, the tarrasque must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the tarrasque. If the tarrasque dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 30 feet of movement, exiting prone.
+**Мультиатака.** Тарраска може використати її Хибну присутність. Потім вона робить п'ять атак: один з одним, два з його кігтями, один з рогами, і один зі своїм хвостом. Воно може використовувати його ковзання замість його біта.   
+**Біт.** _Атака ближньої зброї:_ +19, щоб вдарити її, досягнути 10-ти, одну ціль. _Вдач:_ 36 (4d12 + 10) пробивання пошкоджень. Якщо ціль це істота, вона зачепилася (втеча DN 20). Доки це захоплення не буде завершено, ціль буде обмежена, а тараска не зможе кусати іншу ціль.   
+**клеп.** _Атака важкої зброї:_ +19 щоб вдарити, сягнути 15ft., одну ціль. _Hit:_ 28 (4d8 + 10) slashing damage.   
+**Horns.** _Melee Weapon Attack:_ +19 to hit, reach 10ft., one target. _Вдач:_ 32 (4d10 + 10) пробивної шкоди.   
+**Тел.** _Атака ближньої зброї:_ +19, щоб вдарити в 20фт, одна ціль. _Удара:_ 24 (4d6 + 10) пошкодження дублювання. Якщо мета це створення, вона має досягти успіху в збереженні DC 20 або бути постукованою часткою.   
+**Яскрава присутність.** Кожна істота вибору тараска, що знаходиться на відстані 120 футів від нього і усвідомлює, що вона повинна досягти успіху в мудрості DC 17 Мудрості збуту або ж зав'язує страху на 1 хвилину. Створіння може повторити зберіг, що йде в кінці кожного зі своїх черг, з недоліком того, що тараска перебуває в межах виразу, припинивши вплив на себе на успіх. Якщо кинути кинути збереження істоти буде успішним або ефект закінчиться, істота незахищена від світлого натиску на наступні 24 години.   
+**Swallow.** Запас викликає напад на велику або меншу істоту, яку він переслідує. Якщо атака влучає, ціль зашкодить бітам, ціль поглинається, і нищення жалюзі закінчуються. Поки ковтнути, істота засліплена і стримана, вона має загалом прикриття від атак та інших наслідків поза тарасками, і він використовує 56 (16d6) кислотних ушкоджень при запуску кожного повороту тараска.    
+якщо тараска принесе в один поворот 60 пошкоджень або більше шкоди з одного повороту істоти, що знаходиться всередині неї, тараска повинна досягти успіху в Конституції DC 20 року, якщо вона закінчить це, або відновить всі ковтаємні істоти, які впадають в простір в межах 10 футів від тараска. Якщо буде помирає тараска, ковтаюча істота більше не обмежується нею і може текти з трупу, використовуючи 30 футів руху, вийшовши з кори.
 
-### Legendary Actions
+### Легендарні дії
 
-The tarrasque can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The tarrasque regains spent legendary actions at the start of its turn.
+Тараски можуть взяти 3 легендарні дії, вибираючи варіанти нижче. Тільки один легендарний параметр може бути використаний в той час і тільки на кінці черги іншої істоти. tarrasque вважає, що виконали легендарні дії на початку свого кроку.
 
-**Attack.** The tarrasque makes one claw attack or tail attack.    
-**Move.** The tarrasque moves up to half its speed.    
-**Chomp (Costs 2 Actions).** The tarrasque makes one bite attack or uses its Swallow. 
+**Атака.** Фараска робить одну кісточку атакою або атакою хвостів.    
+**Рух.** Тарраска рухається вгору до половини своєї швидкості.    
+**Chomp (Costs 2 Actions).** tarrasque наносить одну ударну атаку або використовує її Swallow. 
