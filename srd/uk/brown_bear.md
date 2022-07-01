@@ -1,13 +1,13 @@
-name: Brown Bear type: beast cr: 1
+назва: Коричневий ведмідь тип: звір cr: 1
 
-# Brown Bear
-_Large beast, unaligned_
+# Коричневий ведмідь
+_Великий звір, неприєднаний_
 
-**Armor Class** 11 (natural armor)    
-**Hit Points** 34 (4d10 + 12)    
-**Speed** 40 ft., climb 30 ft.
+**Клас броні** 11 (природна броня)    
+**Бали** 34 (4d10 + 12)    
+**Швидкість** фут. сходиться на 30 футів.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 19 (+4) | 10 (+0) | 16 (+3) | 2 (−4) | 13 (+1) | 7 (−2) |
 
@@ -16,9 +16,9 @@ _Large beast, unaligned_
 **Languages** --    
 **Challenge** 1 (200 XP)
 
-**Keen Smell.** The bear has advantage on Wisdom (Perception) checks that rely on smell.
+**Keen Smell.** Ведмідь має перевагу в Wisdom (Perception) перевіряє, чи покладаються на запах.
 
-### Actions
-**Multiattack.** The bear makes two attacks: one with its bite and one with its claws.    
-**Bite.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 8 (1d8 + 4) piercing damage.    
-**Claws.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) slashing damage.
+### Дії
+**Мультиатака.** Ведмідь робить дві атаки: один за допомогою кусання та його кігті.    
+**Біт.** _Атака ближнього бою зброї:_ +5 до удару, досягає 5 щитів, одна ціль. _Вразу:_ 8 (1d8 + 4) проколовлювати пошкодження.    
+**Кігті.** _Атака ближньої зброї:_ +5, щоб вдарити в нього, досягти 5-ї цілі, одну ціль. _Вразів:_ 11 (2d6 + 4) пошкодження.
