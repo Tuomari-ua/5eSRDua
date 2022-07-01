@@ -1,13 +1,13 @@
-name: Entangle level: 1 school: conjuration classes: druid
+назва: Entangle рівень: 1 школа: conjuration класи: druid
 
-# Entangle
-_1st-level conjuration_
+# Ентангл
+_Однорівнева тривалість_
 
 **Casting Time:** 1 action    
 **Range:** 90 feet    
 **Components:** V, S    
 **Duration:** Concentration, up to 1 minute
 
-Grasping weeds and vines sprout from the ground in a 20-foot square starting from a point within range. For the duration, these plants turn the ground in the area into difficult terrain.    
-A creature in the area when you cast the spell must succeed on a Strength saving throw or be restrained by the entangling plants until the spell ends. A creature restrained by the plants can use its action to make a Strength check against your spell save DC. On a success, it frees itself.    
+Графуючи бур'яни і лози випливають із землі на 20-футовому квадраті. На довший час ці рослини перетворюють землю на складну місцевість.    
+Створіння в районі, коли ви кинули заклинання повинне досягти успіху в процесі кидання сили або бути обмеженим засобом входу у рослини, поки заклинання не закінчиться. Рослини можуть використовувати свої дії для перевірки потужності від вашого правопису до нерішучого. On a success, it frees itself.    
 When the spell ends, the conjured plants wilt away. 
