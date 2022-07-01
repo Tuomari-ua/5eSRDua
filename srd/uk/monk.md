@@ -1,169 +1,169 @@
-description: Rules and information for the Monk class from the 5th Edition (5e) SRD (System Reference Document).
+опис: Правила та інформація для класу Monk з 5-ї версії (5e) SRD (Документація з Системної Документації).
 
-# The Monk
-| Level | Proficiency Bonus | Martial Arts | Ki Points | Unarmored Movement | Features                                         |
-| ----- | ----------------- | ------------ | --------- | ------------------ | ------------------------------------------------ |
-| 1st   | +2                | 1d4          | -         | -                  | Unarmored Defense, Martial Arts                  |
-| 2nd   | +2                | 1d4          | 2         | +10 ft.            | Ki, Unarmored Movement                           |
-| 3rd   | +2                | 1d4          | 3         | +10 ft.            | Monastic Tradition, Deflect Missiles             |
-| 4th   | +2                | 1d4          | 4         | +10 ft.            | Ability Score Improvement, Slow Fall             |
-| 5th   | +3                | 1d6          | 5         | +10 ft.            | Extra Attack, Stunning Strike                    |
-| 6th   | +3                | 1d6          | 6         | +15 ft.            | Ki-Empowered Strikes, Monastic Tradition feature |
-| 7th   | +3                | 1d6          | 7         | +15 ft.            | Evasion, Stillness of Mind                       |
-| 8th   | +3                | 1d6          | 8         | +15 ft.            | Ability Score Improvement                        |
-| 9th   | +4                | 1d6          | 9         | +15 ft.            | Unarmored Movement improvement                   |
-| 10th  | +4                | 1d6          | 10        | +20 ft.            | Purity of Body                                   |
-| 11th  | +4                | 1d8          | 11        | +20 ft.            | Monastic Tradition feature                       |
-| 12th  | +4                | 1d8          | 12        | +20 ft.            | Ability Score Improvement                        |
-| 13th  | +5                | 1d8          | 13        | +20 ft.            | Tongue of the Sun and Moon                       |
-| 14th  | +5                | 1d8          | 14        | +25 ft.            | Diamond Soul                                     |
-| 15th  | +5                | 1d8          | 15        | +25 ft.            | Timeless Body                                    |
-| 16th  | +5                | 1d8          | 16        | +25 ft.            | Ability Score Improvement                        |
-| 17th  | +6                | 1d10         | 17        | +25 ft.            | Monastic Tradition feature                       |
-| 18th  | +6                | 1d10         | 18        | +30 ft.            | Empty Body                                       |
-| 19th  | +6                | 1d10         | 19        | +30 ft.            | Ability Score Improvement                        |
-| 20th  | +6                | 1d10         | 20        | +30 ft.            | Perfect Self                                     |
+# Монах
+| Рівень    | Бонус здібностей | Бойові мистецтва | Кі Точки | Неброньований рух | Особливості                                |
+| --------- | ---------------- | ---------------- | -------- | ----------------- | ------------------------------------------ |
+| Перший    | +2               | 1д4              | -        | -                 | Неброньований Захис, бойові мистецтва      |
+| Друге     | +2               | 1д4              | 2        | +10 футів.        | Кі Неброненосний рух                       |
+| Третє     | +2               | 1д4              | 3        | +10 футів.        | Черга монастирства, Відхилення Ракет       |
+| Четвертий | +2               | 1д4              | 4        | +10 футів.        | Покращення чки швидкості, повільне падіння |
+| П'ятий    | +3               | 1д6              | 5        | +10 футів.        | Додаткова атака, приголомшливий Удар       |
+| 6-е       | +3               | 1д6              | 6        | +15 фут.          | підсилені страйки, функція монастиря       |
+| 7-е       | +3               | 1д6              | 7        | +15 фут.          | Евасіон, стильність розуму                 |
+| 8-е       | +3               | 1д6              | 8        | +15 фут.          | Покращення рівня здібностей                |
+| 9-е       | +4               | 1д6              | 9        | +15 фут.          | Неброньоване покращення руху               |
+| 10-е      | +4               | 1д6              | 10       | +20 футів.        | Теплота тіла                               |
+| 11-е      | +4               | 1д8              | 11       | +20 футів.        | Функція Monastic Tradition                 |
+| 12-е      | +4               | 1д8              | 12       | +20 футів.        | Покращення рівня здібностей                |
+| 13-е      | +5               | 1д8              | 13       | +20 футів.        | Язик Сонця і Місяця                        |
+| 14-е      | +5               | 1д8              | 14       | +25 футів.        | Алмазна душа                               |
+| 15-е      | +5               | 1д8              | 15       | +25 футів.        | Поновлений Корпус                          |
+| 16-е      | +5               | 1д8              | 16       | +25 футів.        | Покращення рівня здібностей                |
+| 17-е      | +6               | 1д10             | 17       | +25 футів.        | Функція Monastic Tradition                 |
+| 18-е      | +6               | 1д10             | 18       | +30 футів.        | Порожнє тіло                               |
+| 19-е      | +6               | 1д10             | 19       | +30 футів.        | Покращення рівня здібностей                |
+| 20-е      | +6               | 1д10             | 20       | +30 футів.        | Ідеальний себе                             |
 
-## Class Features
-As a monk, you gain the following class features.
+## Характеристики класу
+Як монах, ви отримаєте наступні функції класу.
 
-### Hit Points
-**Hit Dice:** 1d8 per monk level  
-**Hit Points at 1st Level:** 8 + your Constitution modifier  
-**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per monk level after 1st
+### Хіт точок
+**Здоровий ефект:** 1d8 на рівень монка  
+**Бали на 1-му рівень:** 8 + модифікатор вашої Конституції  
+**влучань з вищих рівнів:** 1d8 (або 5) + модифікатор конституції за монал після 1 рівня
 
-### Proficiencies
+### Політики
 **Armor:** None  
 **Weapons:** Simple weapons, shortswords  
 **Tools:** Choose one type of artisan's tools or one musical instrument  
 **Saving Throws:** Strength, Dexterity  
 **Skills:** Choose two from Acrobatics, Athletics, History, Insight, Religion, and Stealth
 
-### Equipment
-You start with the following equipment, in addition to the equipment granted by your background:
+### Устаткування
+Ви починаєте з наступного обладнання, на додаток до обладнання, яке надає ваш фон:
 
-* (a) a shortsword or (b) any simple weapon
-* (a) a dungeoneer’s pack or (b) an explorer’s pack
-* 10 darts
+* (a) короткий меч або (б) будь-яка проста зброя
+* (a) пакет темонстра або (b) дослідник
+* 10 дартс
 
-### Unarmored Defense
+### Неброньований Захист
 - - -
-Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Wisdom modifier.
+Починаючи з 1-го рівня, поки ви без броні і не володієте щитом, ваш AC дорівнює 10 + ваш модифікатор Dexterity + ваш Модифікатор мудрості + ваш Модифікатор мудрості.
 
-### Martial Arts
+### Бойові мистецтва
 - - -
-At 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are shortswords and any simple melee weapons that don’t have the two-handed or heavy property. You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armor or wielding a shield:
+По-перше, ваша практика бойових мистецтв дає вам оволодіння стилями, які використовують збройні страйки та монахи для зброї, які є короткими мечами та будь-якою простою зброєю, які не мають ані дворучної чи важкої властивості. Ви отримуєте переваги, коли ви без зброї, або маєте тільки монастирську зброю, і ви не носите броню або маєте щит:
 
-* You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.
-* You can roll a d4 in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.
-* When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn.
+* Ви можете використовувати Dexterity замість сили для атаки і пошкодження нападів ваших беззбройних ударів і зброї монархії.
+* Ви можете повернути d4 замість нормального пошкодження вашого беззбройного удару або монацької зброї. Ця смерть змінюється під час того, як ви отримуєте рівні чень, як показано в колонці буксирних мистецтв в монах.
+* Коли ви використовуєте атаку з неозброєним страйком або монашкою на вашій черзі, ви можете зробити один беззбройний удар в якості бонусної дії. Наприклад, якщо ви вживатимете дію про атаку і атакуєте з чвертью, ви можете зробити миттєвий удар у вигляді бонусної дії, якщо ви ще не скористалися бонусною дією цього повороту.
 
-Certain monasteries use specialized forms of the monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama). Whatever name you use for a monk weapon, you can use the game statistics provided for the weapon.
+Певні монастирі використовують спеціалізовані форми монарної зброї. Наприклад, ви можете скористатись клубом, що складається з двох довжин дерева, з'єднаних коротким ланцюжком (так званий nunchaku) або серповим з коротшим, Глядач леза (називається кама). Яке ж ім'я ви використовуєте для маскної зброї, ви можете використати ігрову статистику, що надана для зброї.
 
-### Ki
+### Кі
 - - -
-Starting at 2nd level, your training allows you to harness the mystic energy of ki. Your access to this energy is represented by a number of ki points. Your monk level determines the number of points you have, as shown in the Ki Points column of the Monk table.   
-You can spend these points to fuel various ki features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind. You learn more ki features as you gain levels in this class.   
-When you spend a ki point, it is unavailable until you finish a short or long rest, at the end of which you draw all of your expended ki back into yourself. You must spend at least 30 minutes of the rest meditating to regain your ki points.   
-Some of your ki features require your target to make a saving throw to resist the feature’s effects. The saving throw DC is calculated as follows:
+Починаючи з 2-го рівня, ваше навчання дозволяє використовувати містичну енергію кішок. Ваш доступ до цієї енергії представлений рядом кіоскових точок. Ваш рівень монаха визначає кількість балів, які у вас є, як це показано в колонці "Монка-точки".   
+Ви можете витратити ці бали на паливо різних ki функцій. Ви починаєте знати три такі особливості: Пуррі від ударів, захист пацієнтів і крок вітрів. Ви навчаєтесь більше функцій ki ви отримуєте рівні в цьому класі.   
+Коли ви витрачаєте точку, вона стане недоступною до завершення короткого або довгого відпочинку, в кінці, де ви малюєте всіх витоканих паськів назад у себе. Ви повинні витратити не менше 30 хвилин свого часу, щоб знову відновити очки коса.   
+Для створення заощаджувань, замість ефектів функції потрібна Ваша ціль. Заощадження DC розраховується наступним чином:
 
-> Ki save DC = 8 + your proficiency bonus + your Wisdom modifier
+> Ki save DC = 8 + бонус здібностей + ваш модифікатор Мудрості
 
-#### Flurry of Blows
-Immediately after you take the Attack action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action.
+#### Шквал ударів
+Одразу після того, як ви втримаєте дії Атаки на вашому розрахунку, ви можете витратити 1 очко в якості бонусних ударів.
 
-#### Patient Defense
-You can spend 1 ki point to take the Dodge action as a bonus action on your turn.
+#### Захист пацієнтів
+Ви можете витратити 1 очко щоб вжити заходів Додж як бонус на повороті.
 
-#### Step of the Wind
-You can spend 1 ki point to take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn.
+#### Крок вітру
+Ви можете витратити 1 очко щоб взяти участь в знешкодженні або знешкодженні в якості бонусної дії на ваш хід, і ваша відстань стрибка подвоюється на чергу.
 
-### Unarmored Movement
+### Неброньований рух
 - - -
-Starting at 2nd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain monk levels, as shown in the Monk table.   
-At 9th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move.
+Починаючи на 2-му рівні, ваша швидкість збільшується на 10 футів, поки ви не носите обладунок або не володієте щитом. Цей бонус збільшується, коли ви досягаєте певного рівня монків, як показано в таблиці монах.   
+на 9-му рівні, ви отримуєте здатність рухатися по вертикальній поверхні і поруч з рідинами на ходу, не зазнаючи падіння під час руху.
 
-### Monastic Tradition
+### Монастирська традиція
 - - -
-When you reach 3rd level, you commit yourself to a monastic tradition: the Way of the Open Hand, the Way of Shadow, or the Way of the Four Elements, all detailed at the end of the class description. Your tradition grants you features at 3rd level and again at 6th, 11th, and 17th level.
+Коли ви досягаєте 3-го рівня, ви фіксуєте себе на монастичній традиції: шлях Відкритої смуги, Шлях Тіні або шлях чотирьох елементів, все детально описує опис класу. Ваша традиція надає вам особливості на третьому рівні і знову на шостому та одинадцятому рівні.
 
-### Deflect Missiles
+### Відхилити ракети
 - - -
-Starting at 3rd level, you can use your reaction to deflect or catch the missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1d10 + your Dexterity modifier + your monk level.  
-If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 ki point to make a ranged attack with the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack, which has a normal range of 20 feet and a long range of 60 feet.
+Починаючи з 3-го рівня, ви можете використовувати свою реакцію, щоб відхилити або зловити ракету, коли вас атакує зброя далекого бою. Коли ви це зробите, то завдану шкоду, яку ви отримуєте від атаки, буде зменшено на 1d10 + модифікатор вашого надмірності + ваш рівень ченця.  
+Якщо ви зменшите пошкодження до 0, ви можете зловити ракету, якщо вона досить мала, щоб триматися в одній руці, і мати хоча б одну руку безкоштовно. Якщо ви впіймаєте ракету таким чином, ви можете витратити 1 очко щоб зробити далекобійний напад зі зброєю або шматком боєприпасів, які тільки що спіймали, як частина тієї ж реакції. Ви здійснюєте атаку з здібностями, незалежно від ваших збройних здібностей, і ракета рахує у вигляді монастирської зброї для атаки, який має нормальну відстань в 20 футів і велику відстань в 60 футів.
 
-### Ability Score Improvement
+### Покращення рівня здібностей
 - - -
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+Коли ви досягнете 4-го рівня, і знову на 8-му, 12-му, 16-тому та 19-му рівні, ви можете збільшити один бал ваших опцій на 2 або збільшити кількість 2-х здібностей на ваш вибір на 1. Як нормально, ви не можете збільшити бал здатності вище 20 за допомогою цієї функції.
 
-### Slow Fall
+### Повільне падіння
 - - -
-Beginning at 4th level, you can use your reaction when you fall to reduce any falling damage you take by an amount equal to five times your monk level.
+Початок на четвертому рівні, ви можете використати свою реакцію, якщо ви захочете зменшити будь яку уражену шкоду, яку ви отримаєте на суму в п'ять разів більше вашого монаку.
 
-### Extra Attack
+### Додаткова атака
 - - -
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+Починаючи з 5-го рівня, ви можете атакувати двічі, а не один раз, коли ви будете приймати атаку на вашому кроці.
 
-### Stunning Strike
+### Смертельний удар
 - - -
-Starting at 5th level, you can interfere with the flow of ki in an opponent’s body. When you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be stunned until the end of your next turn.
+Починаючи з 5-го рівня, ви можете втручатися в потік кі-от у тілі опонента. Коли ви влучили в іншу істоту з атакою на зброю ближнього бою, ви можете витратити 1 кока-бал щоб спробувати приголомшливий удар. Ціль повинна досягти успіху в процесі збереження конституції або бути приголомшена до кінця вашого наступного кроку.
 
-### Ki-Empowered Strikes
+### підсилені удари
 - - -
-Starting at 6th level, your unarmed strikes count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+Починаючи з 6-го рівня, ваші однозбройні удари вважаються чарівними з метою подолання опору і імунітету до немагічних нападів і збитків.
 
-### Evasion
+### Евазія
 - - -
-At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon’s lightning breath or a fireball spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+На 7-му рівні ваша інстинктивна справах дозволяє уникнути способу впливу на територію, такі, як дихання блакитного дракона або вогняна куля. Якщо ви зазнаєте ефекту, який дозволяє зробити розподіл жахливості, щоб зібрати лише половину шкоди, наносять не шкоди, якщо тобі вдається завдати удару по рятівнику, а лише наполовину шкоди, якщо Ви зазнаєте невдачі.
 
-### Stillness of Mind
+### Сила розуму
 - - -
-Starting at 7th level, you can use your action to end one effect on yourself that is causing you to be charmed or frightened.
+Починаючи з 7-го рівня, ви можете використовувати свою дію, щоб припинити один вплив на себе, що змушує вас бути чарівними або переляканими.
 
-### Purity of Body
+### Теплота тіла
 - - -
-At 10th level, your mastery of the ki flowing through you makes you immune to disease and poison.
+На 10-му рівні, ваше оволодіння кілками, що проходить через вас, дає ваш імунітет до хвороби та отрути.
 
-### Tongue of the Sun and Moon
+### Язик Сонця і Місяця
 - - -
-Starting at 13th level, you learn to touch the ki of other minds so that you understand all spoken languages. Moreover, any creature that can understand a language can understand what you say.
+Починаючи з 13-го рівня, ви вчитеся торкатися кішки інших умів, щоб розуміти всі розмовні мови. Більше того, будь-яка істота, яка може зрозуміти мову, може зрозуміти, що ви кажете.
 
-### Diamond Soul
+### Алмазна душа
 - - -
-Beginning at 14th level, your mastery of ki grants you proficiency in all saving throws. Additionally, whenever you make a saving throw and fail, you can spend 1 ki point to reroll it and take the second result.
+Починаючи з 14-го рівня, ваше оволодіння козами дає вам досвід у всіх носіїв заощадження. Крім того, щоразу, коли ви робите накопичення і поразки, ви можете витратити 1 кіл-точку, щоб попередити його і знайти другий результат.
 
-### Timeless Body
+### Поновлений Корпус
 - - -
-At 15th level, your ki sustains you so that you suffer none of the frailty of old age, and you can’t be aged magically. You can still die of old age, however. In addition, you no longer need food or water.
+На 15-му рівні ваша кішка підтримує вас таким чином, що ви не страждаєте ні від шахрайства старості, ні до чого старого, ні до чого тобі не можна було старіти магічно. Однак ти все ще можеш померти від старості. Крім того, вам більше не потрібна їжа або вода.
 
-### Empty Body
+### Порожнє тіло
 - - -
-Beginning at 18th level, you can use your action to spend 4 ki points to become invisible for 1 minute. During that time, you also have resistance to all damage but force damage. Additionally, you can spend 8 ki points to cast the **astral projection** spell, without needing material components. When you do so, you can’t take any other creatures with you.
+Починаючи з 18-го рівня, ви можете використати свої дії, щоб витратити 4 очки, щоб стати невидимими протягом 1 хвилини. За цей час ви також відчуваєте опір до всіх пошкоджень, але шкоди по силі. Крім того, ви можете витратити 8 ki точок для перетворення **астрональної проекції** орфографії, не потребуючи матеріальних компонентів. Коли ви це робите, ви не можете взяти з собою інших істот.
 
-### Perfect Self
+### Ідеальний себе
 - - -
-At 20th level, when you roll for initiative and have no ki points remaining, you regain 4 ki points.
+На 20-му рівні, коли ви доходите до ініціативи і не залишите жодної точки на коді, ви знову отримаєте 4 колоди.
 
-## Monastic Traditions
-Three traditions of monastic pursuit are common in the monasteries scattered across the multiverse. Most monasteries practice one tradition exclusively, but a few honor the three traditions and instruct each monk according to his or her aptitude and interest. All three traditions rely on the same basic techniques, diverging as the student grows more adept. Thus, a monk need choose a tradition only upon reaching 3rd level.
+## Монастирські традиції
+Три традиції монастичного погону є поширеними в монастирях, розкидані по мульсвіту. Більшість монастирів практикують одну традицію винятково, але кілька вшановують три традиції і навчають кожного монаха відповідно до її наслідування і інтересів. Усі три традиції покладаються на ті ж основні техніки, які розходяться, коли учень більше вміщає. Таким чином, ченцю потрібно обрати традицію лише при досягненні третього рівня.
 
-### Way of the Open Hand
+### Шлях відкритої руки
 - - -
-Monks of the Way of the Open Hand are the ultimate masters of martial arts combat, whether armed or unarmed. They learn techniques to push and trip their opponents, manipulate ki to heal damage to their bodies, and practice advanced meditation that can protect them from harm.
+Монки Шляху Відкритих Рук є головними господарями бойової боротьби, будь то озброєні чи беззбройні. Вони вчаться розробляти методики, щоб підштовхнути та подати життя опонентам, маніпулювати коями, щоб лікувати шкоду їх тілам, і практикуйте розширені медитації, які можуть захистити їх від шкоди.
 
-#### Open Hand Technique
-Starting when you choose this tradition at 3rd level, you can manipulate your enemy's ki when you harness your own. Whenever you hit a creature with one of the attacks granted by your Flurry of Blows, you can impose one of the following effects on that target:
+#### Відкритий технік рук
+Починаючи коли ви обираєте цю традицію на третьому рівні, ви можете маніпулювати колючкою ворога, коли зустрічаєте власну користь. Кожен раз, коли ви вдаряєте істоту з однією з атак, наданих ваш Flurry Blows, ви можете встановити один з таких ефектів на це:
 
-* It must succeed on a Dexterity saving throw or be knocked prone.
-* It must make a Strength saving throw. If it fails, you can push it up to 15 feet away from you.
-* It can’t take reactions until the end of your next turn.
+* Це має досягти успіху у прискоренні накопичувача або стисненої королі.
+* Треба робити зберігання міцності. Якщо вона зазнає невдачі, її можна відштовхнути до 15 футів.
+* Вона не може вживати реакцій до кінця вашого наступного кроку.
 
-#### Wholeness of Body
-At 6th level, you gain the ability to heal yourself. As an action, you can regain hit points equal to three times your monk level. You must finish a long rest before you can use this feature again.
+#### Китість тіла
+На шостому рівні ти можеш зцілити себе. В якості дії ви можете повернути точки, що дорівнюють трьом рівнем монаха. Ви повинні закінчити довге відпочинку, перш ніж ви зможете використовувати цю функцію знову.
 
-#### Tranquility
-Beginning at 11th level, you can enter a special meditation that surrounds you with an aura of peace. At the end of a long rest, you gain the effect of a **sanctuary** spell that lasts until the start of your next long rest (the spell can end early as normal). The saving throw DC for the spell equals 8 + your Wisdom modifier + your proficiency bonus.
+#### Транквіліті
+Починаючи з 11-го рівня, можна ввести спеціальну медитацію, яка оточує вас з аурою миру. Наприкінці довгого відпочинку, ви отримуєте ефект **святилища** , яка триває до початку наступного довгого відпочинку (заклинання може закінчитися раніше як нормальне). Лускати DC для заклинання дорівнює 8 + ваша модифікація Мудрості + ваш бонус досконалості.
 
-#### Quivering Palm
-At 17th level, you gain the ability to set up lethal vibrations in someone’s body. When you hit a creature with an unarmed strike, you can spend 3 ki points to start these imperceptible vibrations, which last for a number of days equal to your monk level. The vibrations are harmless unless you use your action to end them. To do so, you and the target must be on the same plane of existence. When you use this action, the creature must make a Constitution saving throw. If it fails, it is reduced to 0 hit points. If it succeeds, it takes 10d10 necrotic damage.   
-You can have only one creature under the effect of this feature at a time. You can choose to end the vibrations harmlessly without using an action.
+#### Квіферинг Пальм
+На 17 рівні ви отримуєте можливість створювати смертельні вібрації у чиємусь тілі. Коли у вас є істота з беззбройним ударом, ви можете витратити 3 очки на те, щоб розпочати такі незрівнянні вібрації, що останнього разу протягом декількох днів дорівнює вашому монацькому рівні. Вібрації є нешкідливими, якщо не використовувати свою дію для їх припинення. Для цього ви і ціль повинні бути в одному і тому ж просторі існування. Коли ви використовуєте цю дію, творіння має зробити економію конституції. Якщо він зазнає невдачі, він зведений до 0 балів. Якщо це вдасться, це нашкодить 10d10 некротичних пошкоджень.   
+Ви можете отримати лише одну істоту під дією цієї функції одночасно. Ви можете нешкідливо завершити вібрації.
