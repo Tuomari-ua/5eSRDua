@@ -1,6 +1,6 @@
-name: Ring of Three Wishes type: ring
+назва: Кільце трьох побажань вводу: ring
 
-# Ring of Three Wishes
-_Ring, legendary_
+# Кільце трьох побажань
+_Кільце, легенда_
 
-While wearing this ring, you can use an action to expend 1 of its 3 charges to cast the **_wish_** spell from it. The ring becomes nonmagical when you use the last charge. 
+Під час цього обручки, ви можете використати дію, щоб потратити 1 зі своїх 3-ох платежів, щоб відправити **_бажаєте_** орфографію. Кільце стає немагічним, коли ви використовуєте останній заряд. 
