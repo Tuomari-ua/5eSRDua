@@ -1,13 +1,13 @@
-name: Violet Fungus type: plant cr: .25
+назва: Violet Fungus тип: садити cr: .25
 
 # Violet Fungus
-_Medium plant, unaligned_
+_Середній завод, не вирівняний_
 
 **Armor Class** 5    
 **Hit Points** 18 (4d8)    
 **Speed** 5 ft.
 
-| STR    | DEX    | CON     | INT    | WIS    | CHA    |
+| СТР    | ДЕКС   | CON     | ІНТ    | WIS    | CHA    |
 | ------ | ------ | ------- | ------ | ------ | ------ |
 | 3 (−4) | 1 (−5) | 10 (+0) | 1 (−5) | 3 (−4) | 1 (−5) |
 
@@ -16,7 +16,7 @@ _Medium plant, unaligned_
 **Languages** --    
 **Challenge** 1/4 (50 XP)
 
-**False Appearance.** While the violet fungus remains motionless, it is indistinguishable from an ordinary fungus.
+**Помилковий вигляд.** Хоча фіолетовий грибок залишається нерухомим, його не відрізняють від звичайного грибу.
 
-### Actions
-**Multiattack.** The fungus makes 1d4 Rotting Touch attacks. **Rotting Touch.** _Melee Weapon Attack:_ +2 to hit, reach 10 ft., one creature. _Hit:_ 4 (1d8) necrotic damage.
+### Дії
+**Багатоатака.** Грибок зробив 1d4 тап обертань Touch 1d4. **Обертаючий Тук.** _Атака ближньої зброї:_ +2, досягаючи 10, однієї істоти. _Удача:_ 4 (1d8) некротична шкода.
