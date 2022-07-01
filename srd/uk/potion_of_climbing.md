@@ -1,6 +1,6 @@
-name: Potion of Climbing type: potion
+назва: Сходження скелетом тип: зілля
 
-# Potion of Climbing
-_Potion, common_
+# Зілля скелі
+_Зілля_
 
-When you drink this potion, you gain a climbing speed equal to your walking speed for 1 hour. During this time, you have advantage on Strength (Athletics) checks you make to climb. The potion is separated into brown, silver, and gray layers resembling bands of stone. Shaking the bottle fails to mix the colors. 
+Коли ви п'єте це зілля, ви отримуєте швидкість сходження, яка дорівнює швидкості прогулянки протягом 1 години. За цей час ви маєте перевагу над сильними (афіцими) шарами, які ви самі зробили, щоб лізти. Зілля розділено коричневим, сріблом і сірими шарами нагадують смуги каменю. Струшування пляшки не змішує кольори. 
