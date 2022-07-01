@@ -1,10 +1,10 @@
-name: Ring of Mind Shielding type: ring
+назва: Кільце Mind Shielding type: ring
 
-# Ring of Mind Shielding
-_Ring, uncommon (requires attunement)_
+# Кільце розуму щитів
+_Рідкісний, (вимагає залучення)_
 
-While wearing this ring, you are immune to magic that allows other creatures to read your thoughts, determine whether you are lying, know your alignment, or know your creature type. Creatures can telepathically communicate with you only if you allow it.
+Носячи цього кільця, ви незахищені від магії, що дозволяє іншим істотам читати ваші думки, визначте, чи ви брешете, знати своє вирівнювання або знати свій тип істоти. Істоти можуть переміщуватися з вами тільки за наявності дозволу.
 
-You can use an action to cause the ring to become invisible until you use another action to make it visible, until you remove the ring, or until you die.
+Ви можете використовувати дію, щоб кільце стало невидимим, доки не використаєте іншу дію, щоб зробити її видимою. поки ви не видалите кільце, або поки не помрете.
 
-If you die while wearing the ring, your soul enters it, unless it already houses a soul. You can remain in the ring or depart for the afterlife. As long as your soul is in the ring, you can telepathically communicate with any creature wearing it. A wearer can't prevent this telepathic communication. 
+Якщо ви помрете під час перстеника, ваша душа увійшла в неї, якщо вона вже не має душі. Ви можете жити у перлині або виходити за загробне життя. Доки ваша душа знаходиться в кільці, ви можете телепально спілкуватись з будь-якою істотою, що носить її. Приносій не може запобігти цьому телепатичному спілкуванню. 
