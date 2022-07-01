@@ -1,37 +1,37 @@
-description: Rules and information for the Elf race from the 5th Edition (5e) SRD (System Reference Document).
+опис: Правила та інформація для гонки Ельфа з 5-ї версії (5e) SRD (Документація з Системної Документації).
 
-# Elf
-## Elf Traits
+# Ельфи
+## Ельфи риси
 - - -
-Your elf character has a variety of natural abilities, the result of thousands of years of elven refinement.
+Ваш персонаж ельфа має різноманітні природні здібності, результат тисячі років ураженого виплавлення.
 
-**Ability Score Increase.** Your Dexterity score increases by 2.
+**Оцінка здібностей збільшується.** Збільшується очки вашого Dexterity на 2.
 
-**Age.** Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old.
+**Вік.** Хоча ельфи досягають фізичної зрілості приблизно в той же вік, що і люди, літнє розуміння дорослої людини виходить за рамки фізичного зростання, щоб охопити світовий досвід. Ельф, як правило, стверджує, що дорослі та дорослі назви у віці до 100 років і можуть жити до 750 років.
 
-**Alignment.** Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others’ freedom as well as their own, and they are more often good than not. The drow are an exception; their exile has made them vicious and dangerous. Drow are more often evil than not.
+**Вирівнювання.** Ельфи люблять свободу, різновиди та самовираження, тому вони сильно схиляються до ніжніших аспектів хаосу. Вони цінують і захищають свободу інших людей, а також їх власні, і вони частіше хороші, ніж ні. Ретеля — це виняток, їхній вигнанець зробив їх злісними та небезпечними. Сукня частіше зла, ніж ні.
 
-**Size.** Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium.
+**Розмір.** Збільшити відстань від 5 до 6 футів вище і є тонкі будівлі. Ваш розмір є медичним.
 
-**Speed.** Your base walking speed is 30 feet.
+**Швидкість.** Ваша базова швидкість ходьби становить 30 футів.
 
-**Darkvision.** Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+**Даркзін** Застосовується до сутінкових лісів та нічного неба, ви маєте чудове бачення в темних і тьмяних умовах. Ви можете бачити в тьмяному світлі 60 футів від вас, як якщо б було яскраве світло, а в пітьмі наче було тьмяне світло. Ви не можете розрізняти колір у темряві, лише відтінки сірого кольору.
 
-**Keen Senses.** You have proficiency in the Perception skill.
+**Keen Senses.** У вас майстерність в навичці винятку.
 
-**Fey Ancestry.** You have advantage on saving throws against being charmed, and magic can’t put you to sleep.
+**Фей Анстетрі.** Ви маєте перевагу в збереженні квітів проти зачарованих квітів і магії не можуть успати.
 
-**Trance.** Elves don’t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
+**Транс.** Єві не потрібно спати. Натомість вони глибоко розмірковують, залишаючись семножими, протягом 4 годин на день. (Загальне слово для такої медитації - "транс.") Щодо міркування - то ви можете мити за модою - це рефлексичні мрії - це насправді уявні фізичні вправи, що ставали рефлексичними крізь роки практики. Після того, як ми зупинились на цьому шляху, ви отримуєте таку ж вигоду, яку людина вживає від 8 годин сну.
 
-**Languages.** You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.
+**Мови** Можете говорити, читати і писати Загальні і Елвісти. Елвіш є рідким, з тонкими намірами і складною граматикою. Ельфійська література багата і різноманітна, їх пісні та вірші відомі серед інших рас. Багато смуг вивчає свою мову, щоб додати Ельвійські балади до своїх репертуарів.
 
-## High Elf
-As a high elf, you have a keen mind and a mastery of at least the basics of magic. In many fantasy gaming worlds, there are two kinds of high elves. One type is haughty and reclusive, believing themselves to be superior to non-elves and even other elves. The other type is more common and more friendly, and often encountered among humans and other races.
+## Високий ельф
+Як високий ельф, у вас є гостре серце та майстерність примх магії. У багатьох мешканцях ігрових світах фантазій досить високі віки. Один тип є гордовитим і непокірним, вважаючи себе перевагою неельфів і навіть інших ельфів. Інший тип більш зручний і поширений, і часто зустрічається серед людей та інших рас.
 
-**Ability Score Increase.** Your Intelligence score increases by 1.
+**Оцінка здібностей зростає.** Вартість вашої розвідки збільшується на 1.
 
-**Elf Weapon Training.** You have proficiency with the longsword, shortsword, shortbow, and longbow.
+**Накопичення зброї Ельфа.** У вас є досвідченість з довгим мечем, коротким та довгим луком.
 
-**Cantrip.** You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.
+**Cantrip.** Ви знаєте, що на ваш вибір можна здійснити з чергового заклинання майстра. Інтелект - це здатність орфографії за неї.
 
-**Extra Language.** You can speak, read, and write one extra language of your choice.
+**Додаткова мова.** Ви можете говорити.
