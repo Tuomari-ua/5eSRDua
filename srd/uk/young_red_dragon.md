@@ -1,25 +1,25 @@
-name: Young Red Dragon type: dragon cr: 10
+назва: Молодий Червоний Дракон тип: дракона cr: 10
 
-# Young Red Dragon
-_Large dragon, chaotic evil_
+# Молодий Червоний Дракон
+_Великий дракон, хаотичне зло_
 
-**Armor Class** 18 (natural armor)    
-**Hit Points** 178 (17d10 + 85)    
-**Speed** 40 ft., climb 40 ft., fly 80 ft.
+**Клас обладунку** 18 (природна броня)    
+**Очки** 178 (17d10 + 85)    
+**швидкість** фут. підніматись на 40 фарт, літакоть 80 футів.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
 
-**Saving Throws** Dex +4, Con +9, Wis +4, Cha +8    
-**Skills** Perception +8, Stealth +4    
-**Damage Immunities** fire    
-**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18    
-**Languages** Common, Draconic    
-**Challenge** 10 (5,900 XP)
+**Збереження кишені** Dex +4, Con +9, Wis +4, Cha +8    
+**Навичків** Perception +8, Крадіжка +4    
+**Пошкодження** вогонь </strong> вогню    
+**Забезпечення** оснащення 30 футів. темп бачення 120 футів. пасивне сприйняття 18    
+мов **Мов,** оточує, дракони    
+**виклику** 10 (5,900 XP)
 
-### Actions
-**Multiattack.** The dragon makes three attacks: one with its bite and two with its claws.    
-**Bite.** _Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Hit:_ 17 (2d10 + 6) piercing damage plus 3 (1d6) fire damage.    
-**Claw.** _Melee Weapon Attack:_ +10 to hit, reach 5 ft., one target. _Hit:_ 13 (2d6 + 6) slashing damage.    
-**Fire Breath (Recharge 5–6).** The dragon exhales fire in a 30‐foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 56 (16d6) fire damage on a failed save, or half as much damage on a successful one.
+### Дії
+**Мультиатака.** Дракон робить три атаки: один з одним, перекусивши та два з його кігтями.    
+**Біт.** _Атака ближньої зброї:_ +10 до удару, досягає 10 щитів, одна ціль. _Hit:_ 17 (2d10 + 6) piercing damage plus 3 (1d6) fire damage.    
+**Claw.** _Melee Weapon Attack:_ +10 to hit, reach 5 ft., one target. _Вдар:_ 13 (2d6 + 6) наносить шкоду.    
+**Вогняне дихання (повторне заряджання 5–6).** Дракон демонструє вогонь в 30-метровій шишці. Кожна істота в цій зоні повинна зробити Dexterity 17 струму спасіння, отримання шкоди 56 (16d6) вогонь по зазнає невдачі заощадження, або ж половину шкоди від успішного.
