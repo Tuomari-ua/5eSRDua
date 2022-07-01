@@ -1,13 +1,13 @@
-name: Salamander type: elemental cr: 5
+назва: Саламандр тип: елемент cr: 5
 
 # Salamander
-_Large elemental, neutral evil_
+_Велике елементарне, нейтральне зло_
 
-**Armor Class** 15 (natural armor)    
-**Hit Points** 90 (12d10 + 24)    
-**Speed** 30 ft.
+**Клас обладунку** </strong> 15 (природна броня)    
+**Бали** 90 (12d10 + 24)    
+**Швидкість** фут.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 14 (+2) | 15 (+2) | 11 (+0) | 10 (+0) | 12 (+1) |
 
@@ -18,10 +18,10 @@ _Large elemental, neutral evil_
 **Languages** Ignan    
 **Challenge** 5 (1,800 XP)
 
-**Heated Body.** A creature that touches the salamander or hits it with a melee attack while within 5 feet of it takes 7 (2d6) fire damage.    
-**Heated Weapons.** Any metal melee weapon the salamander wields deals an extra 3 (1d6) fire damage on a hit (included in the attack).
+**Отепло.** істота, яка торкається саламандри або вдаряється в атаці ближнього бою, а в межах 5 футів від неї завдає 7 (2d6) пожежної шкоди.    
+**Отерена зброя.** Будь-яка металева зброя, яку саламандра завдає додатково 3 (1d6) пошкодження по удару (включена в атаку).
 
-### Actions
+### Дії
 **Multiattack.** The salamander makes two attacks: one with its spear and one with its tail.    
-**Spear.** _Melee or _Ranged Weapon Attack:__ +7 to hit, reach 5 ft. or range 20 ft./60 ft., one target. _Hit:_ 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.    
-**Tail.** _Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target. _Hit:_ 11 (2d6 + 4) bludgeoning damage plus 7 (2d6) fire damage, and the target is grappled (escape DC 14). Until this grapple ends, the target is restrained, the salamander can automatically hit the target with its tail, and the salamander can't make tail attacks against other targets.
+**Spear.** _Melee or _Ranged Weapon Attack:__ +7 to hit, reach 5 ft. or range 20 ft./60 ft., one target. _Удача:_ 11 (2d6 + 4) пробивної шкоди, або 13 (2d8 + 4) пробираючий пошкодження при використанні двома руками, щоб зробити атаку ближнього бою, плюс 3 (1d6) завдавання.    
+**зворотній бік.** _Атака ближньої зброї:_ +7 для удару, досягає 10 щитів, одна ціль. _Вразу:_ 11 (2d6 + 4) пошкодження дубої плюс 7 (2d6) пошкодження вогню, а ціль зачепилася (втеча DC 14). Доки це розірване кінця, ціль буде обмежена, саламандр може автоматично бити ціль за допомогою хвоста, і саламандра не може здійснити атак на інші цілі.
