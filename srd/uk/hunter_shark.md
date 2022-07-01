@@ -1,13 +1,13 @@
-name: Hunter Shark type: beast cr: 2
+назва: Shark тип: звір cr: 2
 
-# Hunter Shark
-_Large beast, unaligned_
+# Акула Гантера
+_Великий звір, неприєднаний_
 
-**Armor Class** 12 (natural armor)    
-**Hit Points** 45 (6d10 + 12)    
-**Speed** 0 ft., swim 40 ft.
+**Клас броні** 12 (природна броня)    
+**Бали** 45 (6d10 + 12)    
+**Швидкість** фут. плавати на 40 футів на годину.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 18 (+4) | 13 (+1) | 15 (+2) | 1 (−5) | 10 (+0) | 4 (−3) |
 
@@ -16,11 +16,11 @@ _Large beast, unaligned_
 **Languages** --    
 **Challenge** 2 (450 XP)
 
-**Blood Frenzy.** The shark has advantage on melee attack rolls against any creature that doesn't have all its hit points.    
-**Water Breathing.** The shark can breathe only underwater.
+**Французька кров.** Акула скористатися на атаці ближнього бою обертається проти будь-якої істоти, яка не має всіх ударів.    
+**Подихання води.** Акула може дихати тільки під водою.
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) piercing damage.
+### Дії
+**Біт.** _Атака ближньої зброї:_ +6 до удару, досягає 5-ї цілі, одна мета. _Вразів:_ 13 (2d8 + 4) наносити пошкодження.
 
-### Description
-Smaller than a giant shark but larger and fiercer than a reef shark, a hunter shark haunts deep waters. It usually hunts alone, but multiple hunter sharks might feed in the same area. A fully grown hunter shark is 15 to 20 feet long. 
+### Опис
+Чим менша за велетенську акулу, але більша й лютіша, ніж рифова акула, тим розлюченою акула, що мисливча Акула переслідує глибоку воду. Зазвичай полювання на самого себе, але кілька мисливців можуть годувати в одній місцевості. Цілком вирощена мисливська акула завдовжки від 15 до 20 футів. 
