@@ -1,13 +1,13 @@
-name: Pit Fiend type: fiend (devil) cr: 20
+назва: Надіслати Pit Fiend type: fiend (devil) cr: 20
 
 # Pit Fiend
-_Large fiend (devil), lawful evil_
+_Великий диявол, законне зло_
 
-**Armor Class** 19 (natural armor)    
-**Hit Points** 300 (24d10 + 168)    
-**Speed** 30 ft., fly 60 ft.
+**Клас броні** 19 (природна броня)    
+**Бали** 300 (24d10 + 168)    
+**Швидкість** фут. політ 60 футів.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 26 (+8) | 14 (+2) | 24 (+7) | 22 (+6) | 18 (+4) | 24 (+7) |
 
@@ -19,14 +19,14 @@ _Large fiend (devil), lawful evil_
 **Languages** Infernal, telepathy 120 ft.    
 **Challenge** 20 (25,000 XP)
 
-**Fear Aura.** Any creature hostile to the pit fiend that starts its turn within 20 feet of the pit fiend must make a DC 21 Wisdom saving throw, unless the pit fiend is incapacitated. On a failed save, the creature is frightened until the start of its next turn. If a creature's saving throw is successful, the creature is immune to the pit fiend's Fear Aura for the next 24 hours.    
-**Magic Resistance.** The pit fiend has advantage on saving throws against spells and other magical effects.    
-**Magic Weapons.** The pit fiend's weapon attacks are magical. **Innate Spellcasting.** The pit fiend's spellcasting ability is Charisma (spell save DC 21). The pit fiend can innately cast the following spells, requiring no material components:   
-At will: **_detect magic, fireball 3/day each: hold monster, wall of fire_**
+**Страх Аури.** Будь-яка істота вороже ставиться до підробки, яка починає свою чергу на відстані в 20 футів над кулаками, повинна зробити DC 21 мудрість заощадити ряд, хіба що файловий вузол не конденсований. При невдалому збереженні істота злякається до початку його наступного кроку. Якщо ефект збереження істоти буде успішним, істота незахищена від страху філіпця на наступні 24 години.    
+**Магічна Стійкість.** Кулак має перевагу на збереженні квітів проти заклинання та інших магічних ефектів.    
+**Магічна зброя.** Наслідки в напоїльній зброї магічні. **Взяти орфографію орфографії.** Здатність заклинання фійки складає Харісму (заклинання зекономить DC 21). Пінта вміст pit може притягнути наступні орфографії, які вимагають не влаштованих компонентів матеріалів:   
+На бажань: **_виявити магію, феєрверк 3/день кожний: тримати монстра, стіну вогню_**
 
-### Actions
-**Multiattack.** The pit fiend makes four attacks: one with its bite, one with its claw, one with its mace, and one with its tail.    
-**Bite.** _Melee Weapon Attack:_ +14 to hit, reach 5 ft., one target. _Hit:_ 22 (4d6 + 8) piercing damage. The target must succeed on a DC 21 Constitution saving throw or become poisoned. While poisoned in this way, the target can't regain hit points, and it takes 21 (6d6) poison damage at the start of each of its turns. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.    
-**Claw.** _Melee Weapon Attack:_ +14 to hit, reach 10 ft., one target. _Hit:_ 17 (2d8 + 8) slashing damage.    
-**Mace.** _Melee Weapon Attack:_ +14 to hit, reach 10 ft., one target. _Hit:_ 15 (2d6 + 8) bludgeoning damage plus 21 (6d6) fire damage.    
-**Tail.** _Melee Weapon Attack:_ +14 to hit, reach 10 ft., one target. _Hit:_ 24 (3d10 + 8) bludgeoning damage.
+### Дії
+**Багатоатака.** Лукавка робить чотири атаки: один зі своїм шматочком, один з його кігтям, один з його булам, а один - його хвостом.    
+**Біт.** _Атака ближнього бою зброї:_ +14 до удару, досягає 5 щитів, одна ціль. _Вразів:_ 22 (4d6 + 8) пробиваючої шкоди. Ціль повинна досягти успіху в ряді Конституції DC 21 року або стати отруєною. Хоча отруєний таким чином, ціль не може відновити очки, і він забирає 21 (6d6) пошкодження від отрути на початку кожної з її черг. Отруєна ціль може повторити порятунок кидання в кінець кожного своєї черги, припинивши вплив на себе на успіх.    
+**клеп.** _Атака складної зброї:_ +14, щоб влучити в ціль, досягнути 10-ти, одну ціль. _Вдач:_ 17 (2d8 + 8) зменшення шкоди.    
+**Mac.** _Атака ближньої зброї:_ +14, щоб вдарити її, досягнути 10тек; одна ціль. _Вразу:_ 15 (2d6 + 8) пошкодження дублювання плюс 21 (6d6) пошкодження вогню.    
+**Тайл.** _Атака ближньої зброї:_ +14, щоб вдарити її, досягнути 10тек; одна ціль. _Удара:_ 24 (3d10 + 8) пошкодженням блокуванням.
