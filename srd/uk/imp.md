@@ -1,13 +1,13 @@
-name: Imp type: fiend (devil) cr: 1
+назва: Імп тип: fiend (devil) cr: 1
 
 # Imp
-_Tiny fiend (devil, shapechanger), lawful evil_
+_Крихітні волокна (диявол, кидьок), законний злий_
 
 **Armor Class** 13    
 **Hit Points** 10 (3d4 + 3)    
 **Speed** 20 ft., fly 40 ft.
 
-| STR    | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР    | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------ | ------- | ------- | ------- | ------- | ------- |
 | 6 (−2) | 17 (+3) | 13 (+1) | 11 (+0) | 12 (+1) | 14 (+2) |
 
@@ -19,10 +19,10 @@ _Tiny fiend (devil, shapechanger), lawful evil_
 **Languages** Infernal, Common    
 **Challenge** 1 (200 XP)
 
-**Shapechanger.** The imp can use its action to polymorph into a beast form that resembles a rat (speed 20 ft.), a raven (20 ft., fly 60 ft.), or a spider (20 ft., climb 20 ft.), or back into its true form. Its statistics are the same in each form, except for the speed changes noted. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.    
-**Devil's Sight.** Magical darkness doesn't impede the imp's darkvision.    
-**Magic Resistance.** The imp has advantage on saving throws against spells and other magical effects.
+**Шейпанджер.** Наслідк може використовувати свою дію з поліморфом у форму звіра, яка нагадує щур (швидкість 20 футів. , крук (20 футів), або павук (20 футів), або просто 20 футів), або повернувшись на справжню форму. Її статистика однакова у кожній формі, за виключенням змін швидкості. Будь-яке спорядження воно одягнуте або перенесене не перетворюється. Опція повертає до справжньої форми, якщо вона помирає.    
+**Висота диявола** Магічна темрява не заважатиме темряві варення.    
+**Магічний Протидія.** Імп має перевагу над збереженням квітів проти заклинань та інших магічних ефектів.
 
-### Actions
-**Sting (Bite in Beast Form).** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 5 (1d4 + 3) piercing damage, and the target must make on a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.    
-**Invisibility.** The imp magically turns invisible until it attacks or until its concentration ends (as if concentrating on a spell). Any equipment the imp wears or carries is invisible with it.
+### Дії
+**Стаг (Валет у Звірову Форму).** _Атака ближньої зброї:_ +5 до удару, досягає 5-го рівня, одна ціль. _Вдач:_ 5 (1d4 + 3) пробиваюча шкода, і ціль повинна виконати на збереженні Конституції DC 11 лу, заподіяння 10 (3d6) пошкодження від пошкодження, або ж удвічі більше шкоди від успішного.    
+**Невидимість.** Малюнок магічно стає невидимим, поки не закінчиться його концентрація (якщо концентруватися на заклинанні). Будь-яке обладнання ножі або переносники невидимі з ним.
