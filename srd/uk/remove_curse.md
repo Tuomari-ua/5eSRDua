@@ -1,11 +1,11 @@
-name: Remove Curse level: 3 school: abjuration classes: cleric paladin warlock wizard
+назва: Видалення прокляття рівень: 3 школа: abjuration класів: cler paladin warlock
 
-# Remove Curse
-_3rd-level abjuration_
+# Видалити прокляття
+_Відступ на третьому рівні_
 
 **Casting Time:** 1 action    
 **Range:** Touch    
 **Components:** V, S    
 **Duration:** Instantaneous
 
-At your touch, all curses affecting one creature or object end. If the object is a cursed magic item, its curse remains, but the spell breaks its owner's attunement to the object so it can be removed or discarded. 
+На вашому дотику всі прокляття, що впливають на одну істоту чи об'єкт закінчуються. Якщо об'єкт є проклятим магічним предметом, його прокляття залишається, але заклинання порушує ставлення власника до об'єкта, тому його можна видалити або відхилити. 
