@@ -1,81 +1,81 @@
-name: Deck of Many Things type: item
+назва: Колода багатьох значень тип: елемент
 
-# Deck of Many Things
-_Wondrous item, legendary_
+# Колода багатьох речей
+_Несумний предмет, легендарний_
 
-Usually found in a box or pouch, this deck contains a number of cards made of ivory or vellum. Most (75 percent) of these decks have only thirteen cards, but the rest have twenty-two.
+Зазвичай, у коробці чи пуші, ця колода містить ряд карт, зроблених з слонової кістки або клітини. Більшість (75 відсотків) з цих колод мають лише 13 карт, а решта мають двадцять два.
 
-Before you draw a card, you must declare how many cards you intend to draw and then draw them randomly (you can use an altered deck of playing cards to simulate the deck). Any cards drawn in excess of this number have no effect. Otherwise, as soon as you draw a card from the deck, its magic takes effect. You must draw each card no more than 1 hour after the previous draw. If you fail to draw the chosen number, the remaining number of cards fly from the deck on their own and take effect all at once.
+Перед тим, як намалювати картку, ви повинні оголосити скільки карт ви збираєтесь малювати та малювати випадковим чином (можете використати змінену колоду для симуляції колод). Будь-які карти, намальовані поза цим числом, не мають ефекту. В іншому випадку, як тільки ви витягнете карту з колоди, її магія набуває чинності. Ви повинні малювати кожну картку не більше ніж 1 години після попередньої нічиї. Якщо ви не бажаєте намалювати вибране число залишилось число карток що літають із палуби самостійно і набувають чинності все одно.
 
-Once a card is drawn, it fades from existence. Unless the card is the Fool or the Jester, the card reappears in the deck, making it possible to draw the same card twice.
-
-
-| Playing Card       | Card       |
-| ------------------ | ---------- |
-| Ace of diamonds    | Vizier*    |
-| King of diamonds   | Sun        |
-| Queen of diamonds  | Moon       |
-| Jack of diamonds   | Star       |
-| Two of diamonds    | Comet*     |
-| Ace of hearts      | The Fates* |
-| King of hearts     | Throne     |
-| Queen of hearts    | Key        |
-| Jack of hearts     | Knight     |
-| Two of hearts      | Gem*       |
-| Ace of clubs       | Talons*    |
-| King of clubs      | The Void   |
-| Queen of clubs     | Flames     |
-| Jack of clubs      | Skull      |
-| Two of clubs       | Idiot*     |
-| Ace of spades      | Donjon*    |
-| King of spades     | Ruin       |
-| Queen of spades    | Euryale    |
-| Jack of spades     | Rogue      |
-| Two of spades      | Balance*   |
-| Joker (with TM)    | Fool*      |
-| Joker (without TM) | Jester     |
-
-*Found only in a deck with twenty-two cards
+Як тільки карта намальована, вона зникає від існування. Якщо картка не є Дурень або Єстер, у колоді повторно, це дозволяє малювати ту ж саму картку двічі.
 
 
-**Balance.** Your mind suffers a wrenching alteration, causing your alignment to change. Lawful becomes chaotic, good becomes evil, and vice versa. If you are true neutral or unaligned, this card has no effect on you.
+| Картка              | Картка  |
+| ------------------- | ------- |
+| Авіація дзвінку     | Vizier* |
+| Король алмазів      | НД      |
+| Королева дзвінкової | Місяць  |
+| Бубновий валет      | Зірка   |
+| Двоє діамантів      | Комета* |
+| Туш з чирва         | Жири *  |
+| Король чирва        | Трон    |
+| Королева чирва      | Ключ    |
+| Джек з чирва        | Лицар   |
+| Два серця           | Gem*    |
+| Ейс                 | Talons* |
+| Король клубів       | Тургор  |
+| Королева клубів     | Полум'я |
+| Джек                | Череп   |
+| Два жировки         | Ідіот*  |
+| Ас з винового       | Donjon* |
+| Король винового     | Руїни   |
+| Королева винова     | Euryale |
+| Джек з вино         | Rogue   |
+| Два вино            | Баланс* |
+| Joker (з ПП)        | Дуреня* |
+| Joker (без ПП)      | Jester  |
 
-**Comet.** If you single-handedly defeat the next hostile monster or group of monsters you encounter, you gain experience points enough to gain one level. Otherwise, this card has no effect.
+*Знайдено лише колоду з двадцять двома картами
 
-**Donjon.** You disappear and become entombed in a state of suspended animation in an extradimensional sphere. Everything you were wearing and carrying stays behind in the space you occupied when you disappeared. You remain imprisoned until you are found and removed from the sphere. You can't be located by any divination magic, but a wish spell can reveal the location of your prison. You draw no more cards.
 
-**Euryale.** The card's medusa-like visage curses you. You take a −2 penalty on saving throws while cursed in this way. Only a god or the magic of The Fates card can end this curse.
+**Баланс.** Ваш розум страждає від зайвої зміни. Правова форма стає хаотичною, надійність стає злою, і навпаки. Якщо ви істинний нейтральний або невирівнений, ця картка не впливає на вас.
 
-**The Fates.** Reality's fabric unravels and spins anew, allowing you to avoid or erase one event as if it never happened. You can use the card's magic as soon as you draw the card or at any other time before you die. Flames. A powerful devil becomes your enemy. The devil seeks your ruin and plagues your life, savoring your suffering before attempting to slay you. This enmity lasts until either you or the devil dies.
+**Комірка.** Якщо ви одиноко переможете наступного ворожого монстра або групи монстрів, з якими ви стикаєтесь, ви отримаєте достатньо очок, щоб отримати один рівень. В іншому випадку ця картка не має ефекту.
 
-**Fool.** You lose 10,000 XP, discard this card, and draw from the deck again, counting both draws as one of your declared draws. If losing that much XP would cause you to lose a level, you instead lose an amount that leaves you with just enough XP to keep your level.
+**Донджон.** Ви зникли і натякаєте в стані призупиненої анімації в висхідній традиційній сфері. Все, що ви були одягнені і несете залишається в місці, де ви займалися, коли зникнете. Ви залишилися у в'язниці, поки ви не знайдете та не видалите зі сфери. Не можна знайти магію позбавлення, але заклинання бажаного може виявити місцезнаходження вашої в'язниці. Ви не малюєте більше карт.
 
-**Gem.** Twenty-five pieces of jewelry worth 2,000 gp each or fifty gems worth 1,000 gp each appear at your feet.
+**Euryale.** Карта любить медузи, прокляття вас. Вкажіть, будь ласка. 2 пенсії на заощадженні, поки все одно проклинає. Лише бог чи магія картки Долі може закінчити цю прокляття.
 
-**Idiot.** Permanently reduce your Intelligence by 1d4 + 1 (to a minimum score of 1). You can draw one additional card beyond your declared draws.
+**The Fates.** Reality's fabric unravels and spins anew, allowing you to avoid or erase one event as if it never happened. Ви можете використовувати магію цієї картки, як тільки малюєте картку або будь-коли перед смертю. Вогнемет. Потужний диявол стає вашим ворогом. Диявол шукає ваших зруйнованих і чуми ваше життя, заощаджуючи ваші страждання, перш ніж спробувати вбити вас. Ця ворожнеча триває поки ви або диявол не помрете.
 
-**Jester.** You gain 10,000 XP, or you can draw two additional cards beyond your declared draws.
+**Дурень.** Ви втрачаєте 10,000 XP, відкинете цю карту та витягнете з колоди знову, рахуючи обидва малюнки як одну з ваших оголошених малюнків. Якщо втрата такої кількості XP призведе до втрати рівня, натомість ви втрачаєте суму, яка залишає вас достатньо всього досвіду, щоб зберегти свій рівень.
 
-**Key.** A rare or rarer magic weapon with which you are proficient appears in your hands. The GM chooses the weapon.
+**Gem.** Двадцять п'ять коштовностей вартістю 2 000 gp кожні або п'ятдесят крем"яхів розміром 1000 передач, кожна з яких зустрічається під вашими ногами.
 
-**Knight.** You gain the service of a 4th-level fighter who appears in a space you choose within 30 feet of you. The fighter is of the same race as you and serves you loyally until death, believing the fates have drawn him or her to you. You control this character.
+**Ідіот.** Завжди зменшить вашу розвідку на 1d4 + 1 (до мінімального балу 1). Ви можете намалювати ще одну картку за межами оголошених нічий.
 
-**Moon.** You are granted the ability to cast the **_wish_** spell 1d3 times.
+**Jester.** Ви отримуєте 10,000 XP, або можете намалювати дві додаткові картки за межами оголошених малюнків.
 
-**Rogue.** A nonplayer character of the GM's choice becomes hostile toward you. The identity of your new enemy isn't known until the NPC or someone else reveals it. Nothing less than a **_wish_** spell or divine intervention can end the NPC's hostility toward you.
+**Брей.** Рідкісна або рідша магічна зброя, з якою ви виступаєте в своїх руках. GM вибирає зброю.
 
-**Ruin.** All forms of wealth that you carry or own, other than magic items, are lost to you. Portable property vanishes. Businesses, buildings, and land you own are lost in a way that alters reality the least. Any documentation that proves you should own something lost to this card also disappears.
+**Клич.** Ви отримуєте служіння четвертого рівня, який з’являється в межах 30 футів від вас. Винищувач має ту ж расу, що й ви служитеся і лояльно до смерті, вважаючи, що долі втягнули його чи вас. Ви контролюєте цей персонаж.
 
-**Skull.** You summon an avatar of death--a ghostly humanoid skeleton clad in a tattered black robe and carrying a spectral scythe. It appears in a space of the GM's choice within 10 feet of you and attacks you, warning all others that you must win the battle alone. The avatar fights until you die or it drops to 0 hit points, whereupon it disappears. If anyone tries to help you, the helper summons its own avatar of death. A creature slain by an avatar of death can't be restored to life.
+**Місяць.** Вам надається можливість кинути **_побажати_** заклинання 1d3 разів.
 
-### Avatar of Death
-_Medium undead, neutral evil_
+**Rogue.** Неігровий персонаж GM стає ворожим до вас. Ідентичність нового ворога не відома допоки НП або хтось інший не виявить його. Ніщо не менше ніж **_бажати_** заклинання або божественне втручання може покласти край ворожнечі NPC до вас.
+
+**Всі форми багатства які ви несете чи володієте, а не магічні предмети.** Ви втратите всі форми багатства. Портативна власність зникає. Бізнеси, будівлі та ділянки, які ви маєте, загублені таким чином, що змінює реальність найменше. Будь-яка документація, яка доводить вам володіти чимось, що втрачено цій картці, також зникає.
+
+**Чудовисько.** Ви прикличете аватар смерті - привидно гуманоїдний скелет у розсіяному чорному одязі і несете спектральний посуд. Він з'являється в просторі вибору GM в 10 футів від вас і нападає на вас, попереджати всіх інших, що ви повинні виграти сам бій. Аватар бореться, поки ви не помрете, або він падає на 0 очків, де він зникає. Якщо хто-небудь намагається вам допомогти, помічник викликує власний аватар смерті. Творчість, забита аватаром смерті не може бути відновлена в житті.
+
+### Аватар смерті
+_Середнє несмертельне зле_
 
 **Armor Class** 20    
 **Hit Points** half the hit point maximum of its summoner    
 **Speed** 60 ft., fly 60 ft. (hover)
 
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+|   СТР   |  ДЕКС   |   CON   |   ІНТ   |   WIS   |   CHA   |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 | 16 (+3) | 16 (+3) | 16 (+3) | 16 (+3) | 16 (+3) | 16 (+3) |
 
@@ -86,16 +86,16 @@ _Medium undead, neutral evil_
 **Languages** all languages known to its summoner    
 **Challenge** -- (0 XP)
 
-**Incorporeal Movement.** The avatar can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.    
-**Turning Immunity.** The avatar is immune to features that turn undead.
+**Поступовий рух.** Аватар може рухатися іншими істотами і об'єктами неначе вони були важкими рельєфними. Сила завдає 5-ти (1d10) шкоди, якщо завершить поворот всередині об'єкта.    
+**включити імунітет.** Аватар захищений від функцій, які немертві.
 
-#### Actions
-**Reaping Scythe.** The avatar sweeps its spectral scythe through a creature within 5 feet of it, dealing 7 (1d8 + 3) slashing damage plus 4 (1d8) necrotic damage.
+#### Дії
+**отримати підкорення.** Аватар охоплює свій спектр через істоту в межах 5 футів від нього, завдавання 7 (1d8 + 3) шкоди +4 (1d8) некротичні пошкодження.
 
 
-**Star.** Increase one of your ability scores by 2. The score can exceed 20 but can't exceed 24.    
-**Sun.** You gain 50,000 XP, and a wondrous item (which the GM determines randomly) appears in your hands.    
-**Talons.** Every magic item you wear or carry disintegrates. Artifacts in your possession aren't destroyed but do vanish.    
-**Throne.** You gain proficiency in the Persuasion skill, and you double your proficiency bonus on checks made with that skill. In addition, you gain rightful ownership of a small keep somewhere in the world. However, the keep is currently in the hands of monsters, which you must clear out before you can claim the keep as yours.    
-**Vizier.** At any time you choose within one year of drawing this card, you can ask a question in meditation and mentally receive a truthful answer to that question. Besides information, the answer helps you solve a puzzling problem or other dilemma. In other words, the knowledge comes with wisdom on how to apply it.    
-**The Void.** This black card spells disaster. Your soul is drawn from your body and contained in an object in a place of the GM's choice. One or more powerful beings guard the place. While your soul is trapped in this way, your body is incapacitated. A wish spell can't restore your soul, but the spell reveals the location of the object that holds it. You draw no more cards. 
+**Зірка.** Збільшення на одну з ваших балів здібності на 2. Оцінка може перевищувати 20, але не може перевищувати 24.    
+**Сонце.** Ви отримуєте 50 000 XP і чудовий предмет (який GM визначає випадково) в ваших руках.    
+**Кіл.** Кожен чарівний предмет, який ви носите або переносите. Виконавці з вашого володіння не знищують, але зникають.    
+**Throne.** Ви отримуєте майстерність в навичках захоплення і подвоюєте бонуси на чеки, виготовлені з цього вміння. Крім того, ви отримуєте справедливу власність невелике утримання десь у світі. Проте, тримати у даний час в руках монстрів, які ви повинні пояснити, перш ніж ви зможете заявити про збереження.    
+**Візьє.** В будь-який час ви обираєте протягом одного року малювання цієї картки, ви можете задати питання в медитації, і розумові - отримайте правдиву відповідь на це питання. Крім інформації, відповідь допомагає вам вирішити загадкову проблему або іншу дилему. Іншими словами, знання походять з думкою про те, як застосувати її.    
+**The Void.** Ця чорна карта викликає катастрофу. Ваша душа витягнута з вашого тіла і міститься в місці за вибором GM. Один чи кілька потужних істот охороняють це місце. Доки ви вловлюєте в пастку, ваше тіло не здатне. Краще заклинання не може відновити душу, але заклинання виявляє місце розташування об'єкта, який тримає його. Ви не малюєте більше карт. 
