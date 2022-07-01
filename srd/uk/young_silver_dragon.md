@@ -1,27 +1,27 @@
-name: Young Silver Dragon type: dragon cr: 9
+назва: Срібний Дракон тип: дракона cr: 9
 
-# Young Silver Dragon
-_Large dragon, lawful good_
+# Молодий Срібний Дракон
+_Великий дракон, законне благо_
 
-**Armor Class** 18 (natural armor)    
-**Hit Points** 168 (16d10 + 80)    
-**Speed** 40 ft., fly 80 ft.
+**Клас броні** 18 (природна броня)    
+**Очки** 168 (16d10 + 80)    
+**швидкість** фут. футів 80 футів.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
 
-**Saving Throws** Dex +4, Con +9, Wis +4, Cha +8    
-**Skills** Arcana +6, History +6, Perception +8, Stealth +4    
-**Damage Immunities** cold    
-**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18    
-**Languages** Common, Draconic    
-**Challenge** 9 (5,000 XP)
+**Збереження кишить** Dex +4, Con +9, Wis +4, Ча +8    
+**Навички** Аркана +6, Історія +6, Вимова +8, Крадіжка +4    
+**Пошкодження** холодно    
+**Звільнення** оснащення 30 футів. темп бачення 120 футів. пасивне сприйняття 18    
+мови **Мови** Компаній, Драконі    
+**виклику** (5 000 XP)
 
-### Actions
-**Multiattack.** The dragon makes three attacks: one with its bite and two with its claws.    
-**Bite.** _Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Hit:_ 17 (2d10 + 6) piercing damage.    
-**Claw.** _Melee Weapon Attack:_ +10 to hit, reach 5 ft., one target. _Hit:_ 13 (2d6 + 6) slashing damage.    
-**Breath Weapons (Recharge 5–6).** The dragon uses one of the following breath weapons.    
-**Cold Breath.** The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.    
-**Paralyzing Breath.** The dragon exhales paralyzing gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+### Дії
+**Мультиатака.** Дракон робить три атаки: один з одним, перекусивши та два з його кігтями.    
+**Біт.** _Атака ближньої зброї:_ +10 до удару, досягає 10 щитів, одна ціль. _Hit:_ 17 (2d10 + 6) piercing damage.    
+**Claw.** _Melee Weapon Attack:_ +10 to hit, reach 5 ft., one target. _Вдач:_ 13 (2d6 + 6) пошкодження    
+**Одихання зброї (Поповнення 5-6).** Дракон використовує одну з наступних озброєнь дихання.    
+**Холодне дихання.** дракон захоплює крижаний вибух з 30-футовою шишкою. Кожна істота в цій галузі повинна зробити економію Конституції DC 17 заподіяння 54 (12d8) холодної шкоди при невдалому збереженні, або ж удвічі більше шкоди від успішного.    
+**обертає подих.** Дракон видихає паралізуючий газ в 30-футовій конусі. Кожна істота в цій області повинна бути успішною в збереженні Конституції DC 17 або бути паралізованою протягом 1 хвилини. Створіння може повторити порятунок в кінці кожного своєї оберту, припинивши вплив на себе при успіху.
