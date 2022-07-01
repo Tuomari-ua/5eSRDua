@@ -1,14 +1,14 @@
 name: Raise Dead level: 5 school: necromancy classes: bard cleric paladin
 
-# Raise Dead
-_5th-level necromancy_
+# Підняти мертвих
+_Некромантія 5-го рівня_
 
 **Casting Time:** 1 hour    
 **Range:** Touch    
 **Components:** V, S, M (a diamond worth at least 500 gp, which the spell consumes)    
 **Duration:** Instantaneous
 
-You return a dead creature you touch to life, provided that it has been dead no longer than 10 days. If the creature's soul is both willing and at liberty to rejoin the body, the creature returns to life with 1 hit point.    
-This spell also neutralizes any poisons and cures nonmagical diseases that affected the creature at the time it died. This spell doesn't, however, remove magical diseases, curses, or similar effects; if these aren't first removed prior to casting the spell, they take effect when the creature returns to life. The spell can't return an undead creature to life.    
-This spell closes all mortal wounds, but it doesn't restore missing body parts. If the creature is lacking body parts or organs integral for its survival--its head, for instance--the spell automatically fails.    
-Coming back from the dead is an ordeal. The target takes a −4 penalty to all attack rolls, saving throws, and ability checks. Every time the target finishes a long rest, the penalty is reduced by 1 until it disappears. 
+Ви повертаєте до життя мертву істоту, яку зачіпаєте і за умови, що вона не померла більше 10 днів. Якщо душа істоти є як готовою, так і вільною, щоб повернутися до тіла, то істота повертається до життя з 1 ударом.    
+Ця заклинання також нейтралізує будь-які отрути і лікує немагічні захворювання, які вплинули на істоту під час смерті. Однак ця заклинання не вилучає магічні захворювання, прокляття чи подібні наслідки; якщо вони не вперше видалені до трансляції заклинання, вони набувають чинності, коли істота повертається на життя. Слово заклинання не може повернути жалюгідне життя.    
+Це заклинання закриває всі смертні рани, але не відновлює відсутні частини тіла. Якщо істоті не вистачає частинок тіла або органів інтегрування для його виживання - голови, наприклад, заклинання автоматично зазнає невдачі.    
+Повернувшись з мертвих є ордеал. Мета бере на себе штраф у розмірі 4 проти всіх атак роликів, заощаджень кишок та чеки здібностей. Щоразу, коли ціль завершується довгим відпочинком, штраф зменшується на 1 допоки він не зникне. 
