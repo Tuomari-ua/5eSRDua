@@ -1,127 +1,127 @@
-description: Rules and information for the Rogue class from the 5th Edition (5e) SRD (System Reference Document).
+опис: Правила та інформація для класу Rogue з 5-ї версії (5e) SRD (Документація з Системної Документації).
 
-# The Rogue
-| Level | Proficiency Bonus | Sneak Attack | Features                               |
-| ----- | ----------------- | ------------ | -------------------------------------- |
-| 1st   | +2                | 1d6          | Expertise, Sneak Attack, Thieves' Cant |
-| 2nd   | +2                | 1d6          | Cunning Action                         |
-| 3rd   | +2                | 2d6          | Roguish Archetype                      |
-| 4th   | +2                | 2d6          | Ability Score Improvement              |
-| 5th   | +3                | 3d6          | Uncanny Dodge                          |
-| 6th   | +3                | 3d6          | Expertise                              |
-| 7th   | +3                | 4d6          | Evasion                                |
-| 8th   | +3                | 4d6          | Ability Score Improvement              |
-| 9th   | +4                | 5d6          | Roguish Archetype feature              |
-| 10th  | +4                | 5d6          | Ability Score Improvement              |
-| 11th  | +4                | 6d6          | Reliable Talent                        |
-| 12th  | +4                | 6d6          | Ability Score Improvement              |
-| 13th  | +5                | 7d6          | Roguish Archetype Feature              |
-| 14th  | +5                | 7d6          | Blindsense                             |
-| 15th  | +5                | 8d6          | Slippery Mind                          |
-| 16th  | +5                | 8d6          | Ability Score Improvement              |
-| 17th  | +6                | 9d6          | Roguish Archetype feature              |
-| 18th  | +6                | 9d6          | Elusive                                |
-| 19th  | +6                | 10d6         | Ability Score Improvement              |
-| 20th  | +6                | 10d6         | Stroke of Luck                         |
+# Шахрай
+| Рівень    | Бонус здібностей | Крапельна Атака | Особливості                          |
+| --------- | ---------------- | --------------- | ------------------------------------ |
+| Перший    | +2               | 1д6             | Експертиза, прониклива атака, злодії |
+| Друге     | +2               | 1д6             | Дія курсору                          |
+| Третє     | +2               | 2д6             | Архетип Roguish                      |
+| Четвертий | +2               | 2д6             | Покращення рівня здібностей          |
+| П'ятий    | +3               | 3д6             | Моторошний Додж                      |
+| 6-е       | +3               | 3д6             | Експертиза                           |
+| 7-е       | +3               | 4д6             | Евазія                               |
+| 8-е       | +3               | 4д6             | Покращення рівня здібностей          |
+| 9-е       | +4               | 5д6             | Функція Roguish Archetype            |
+| 10-е      | +4               | 5д6             | Покращення рівня здібностей          |
+| 11-е      | +4               | 6д6             | Надійний Талант                      |
+| 12-е      | +4               | 6д6             | Покращення рівня здібностей          |
+| 13-е      | +5               | 7д6             | Особливості архівного типу Roguish   |
+| 14-е      | +5               | 7д6             | Блінданс                             |
+| 15-е      | +5               | 8д6             | Сліппері-Розум                       |
+| 16-е      | +5               | 8д6             | Покращення рівня здібностей          |
+| 17-е      | +6               | 9д6             | Функція Roguish Archetype            |
+| 18-е      | +6               | 9д6             | Набридливий                          |
+| 19-е      | +6               | 10д6            | Покращення рівня здібностей          |
+| 20-е      | +6               | 10д6            | Обведення удачі                      |
 
-## Class Features
-As a rogue, you gain the following class features.
+## Характеристики класу
+Як шахрай, ви отримуєте наступні функції класу.
 
-### Hit Points
-**Hit Dice:** 1d8 per rogue level  
-**Hit Points at 1st Level:** 8 + your Constitution modifier  
-**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per rogue level after 1st
+### Хіт точок
+**Завдяки удару:** 1d8 на рівень шахрая  
+**Бали на 1-му рівень:** 8 + модифікатор вашої Конституції  
+**Клікати на вищих рівнів:** 1d8 (або 5) + ваш модифікатор конституції за крок за 1 рівень
 
-### Proficiencies
+### Політики
 **Armor:** Light armor  
 **Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords  
 **Tools:** Thieves' tools    
 **Saving Throws:** Dexterity, Intelligence   
 **Skills:** Choose four from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, and Stealth
 
-### Equipment
-You start with the following equipment, in addition to the equipment granted by your background:
+### Устаткування
+Ви починаєте з наступного обладнання, на додаток до обладнання, яке надає ваш фон:
 
-* (a) a rapier or (b) a shortsword
-* (a) a shortbow and quiver of 20 arrows or (b) a shortsword
-* (a) a burglar's pack, (b) a dungeoneer's pack, or (c) an explorer's pack
-* (a) Leather armor, two daggers, and thieves' tools
+* (a) ріпчик або (b) короткий меч
+* (а) короткий меч і спокійний 20 стріл або (b) короткий меч
+* (a) упаковка Викрадача, (b) пакетом рогата, або (c) дослідник
+* (a) Шкіряний обладунок, два кинки, і інструменти злодіїв
 
-### Expertise
+### Експертиза
 - - -
-At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with thieves' tools. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.   
-At 6th level, you can choose two more of your proficiencies (in skills or with thieves' tools) to gain this benefit.
+На першому рівні оберіть два ваших навички або одну з ваших майстерностей і майстерність за допомогою інструментів злодіїв. Ваш бонус здібностей подвоєно за будь яку можливість перевіряти, що ви користуєтесь обраними здібностями.   
+на 6-му рівні, ви можете обрати ще два свої професіонали (у навичках або за допомогою інструментів злодіїв), щоб отримати цю користь.
 
-### Sneak Attack
+### Крапельна Атака
 - - -
-Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.    
-You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.    
-The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue table.
+Починаючи з 1-го рівня, ви знаєте, як смеркати тонко і використовувати відволікання ворога. Одного разу, в свою чергу, ви можете завдати ще 1d6 шкоди одній істоті, яку ви вдарили з атакою, якщо ви маєте перевагу в атаці. Атака повинна використовувати штраф або далекобійну зброю.    
+Вам не потрібна перевага для атаки, якщо інший ворог цілі знаходиться в межах 5 футів від нього, цей ворог не недієздатний, і ви не маєте шкоди для атаки.    
+Кількість додаткових пошкоджень збільшується, коли ви отримуєте рівні в цьому класі, як показано в колонці Sneak Attack рогатої таблиці.
 
-### Thieves' Cant
+### Гільза крадіїв
 - - -
-During your rogue training you learned thieves' cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves' cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.    
-In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves' guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.
+Під час свого шахрайського навчання ви дізналися мікс злодіїв, таємного поєднання діалекту, жаргон і код дозволяють приховувати повідомлення, здавалося б, звичайну бесіду. Лише ще одна істота, яка знає розумних тих, хто розуміє такі повідомлення. Це повідомлення потрібно в чотири рази довше, щоб передати таке повідомлення, ніж просто говорити ту ж саму ідею.    
+Крім того, ви розумієте набір секретних знаків і символів, які використовуються для передачі коротких прості повідомлення, такі як район небезпечний або територія гільдії злодіїв, чи поблизу, чи люди в районі є простими знаками, чи вони стануть безпечним будинком для крадіїв в перспективі.
 
-### Cunning Action
+### Дія курсору
 - - -
-Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the Dash, Disengage, or Hide action.
+Починаючи на 2-му рівні, ваше швидке мислення та гнучкість дозволяють швидко рухатися та діяти. Ви можете виконувати додаткові дії на кожному з ваших поворотів у бою. Цю дію можна використовувати лише для того, щоб скористатися панеллю «Розбрата» або «Приховати її».
 
-### Roguish Archetype
+### Архетип Roguish
 - - -
-At 3rd level, you choose an archetype that you emulate in the exercise of your rogue abilities: Thief, Assassin, or Arcane Trickster, all detailed at the end of the class description. Your archetype choice grants you features at 3rd level and then again at 9th, 13th, and 17th level.
+На третьому рівні ви вибираєте архетип, який ви імітуєте в здійсненні своїх можливостей: Злодій, Ти, Убивця чи Аркане Трікстер, все детально описано на кінці опису класу. Ваш архетип надає вам можливість на третьому рівні, а потім знову на 9-му, 13 та 17-му рівні.
 
-### Ability Score Improvement
+### Покращення рівня здібностей
 - - -
-When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+Коли ви досягнете 4-го рівня, і знову на 8-му, десятій та шостому рівні, ви можете збільшити один бал ваших опцій на 2 або збільшити кількість 2-х здібностей на ваш вибір на 1. Як нормально, ви не можете збільшити бал здатності вище 20 за допомогою цієї функції.
 
-### Uncanny Dodge
+### Моторошний Додж
 - - -
-Starting at 5th level, when an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.
+Починаючи з 5-го рівня, коли зловмисник який ви можете побачити завдяки атаці, ви можете використати вашу реакцію, щоб зменшити вдвічі шкоду від вас атаки.
 
-### Evasion
+### Евазія
 - - -
-Beginning at 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an **_ice storm_** spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+Починаючи з 7-го рівня, ви можете спритно ухилятися від впливу на області, такі, як вогненне дихання червоного дракона або **_льодовий буря_** заклинання . Якщо ви зазнаєте ефекту, який дозволяє зробити розподіл жахливості, щоб зібрати лише половину шкоди, наносять не шкоди, якщо тобі вдається завдати удару по рятівнику, а лише наполовину шкоди, якщо Ви зазнаєте невдачі.
 
-### Reliable Talent
+### Надійний Талант
 - - -
-By 11th level, you have refined your chosen skills until they approach perfection. Whenever you make an ability check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.
+На одинадцятому рівні ви вдосконалили свої обрання навичок, поки не набудуть досконалості. Всякий раз, коли ви перевіряєте можливість, що дозволяє додавати бонуси на досконалість, ви можете трактувати число 20 листів з 9 або нижче 10.
 
-### Blindsense
+### Блінданс
 - - -
-Starting at 14th level, if you are able to hear, you are aware of the location of any hidden or invisible creature within 10 feet of you.
+Починаючи з 14-го рівня, якщо ви можете почути, ви знаєте, де будь-яка прихована або невидима істота на глибині 10 футів.
 
-### Slippery Mind
+### Сліппері-Розум
 - - -
-By 15th level, you have acquired greater mental strength. You gain proficiency in Wisdom saving throws.
+До 15-го рівня ти набув більшої розумової сили. Ви набираєте майстерності в Мудрості і зберігаєте кидки.
 
-### Elusive
-Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren't incapacitated.
+### Набридливий
+Починаючи з 18-го рівня, ви настільки ухиляєтесь, що зловмисники рідко отримують перевагу проти вас. Жоден нападник не має переваги проти вас, поки ви не недієздатні.
 
-### Stroke of Luck
+### Обведення удачі
 - - -
-At 20th level, you have an uncanny knack for succeeding when you need to. If your attack misses a target within range, you can turn the miss into a hit. Alternatively, if you fail an ability check, you can treat the d20 roll as a 20.   
-Once you use this feature, you can't use it again until you finish a short or long rest.
+На 20-му рівні ти маєш моторошний кулак для успіху коли тобі це потрібно. Якщо ваша атака не впорається з ціллю в межах діапазону, ви можете перетворити пропуски в хіт. Крім того, якщо ви не маєте перевірки здібності, ви можете розглядати d20 коливань у вигляді 20.   
+Якщо ви використаєте цю функцію, ви не зможете її знову використати, поки не закінчите коротке або тривале відпочинку.
 
-## Roguish Archetypes
-Rogues have many features in common, including their emphasis on perfecting their skills, their precise and deadly approach to combat, and their increasingly quick reflexes. But different rogues steer those talents in varying directions, embodied by the rogue archetypes. Your choice of archetype is a reflection of your focus - not necessarily an indication of your chosen profession, but a description of your preferred techniques.
+## Архетипи Roguish
+Роги мають багато спільного, включаючи їх акцент на вдосконаленні своїх навичок, їх точного та смертельного підходу до боротьби та їх все більш швидких рефлексів. Але різні шахраї спрямовують ці таланти у різних напрямках, що втілюються архетипами шахраїв. Ваш вибір прототипу - це відображення вашої уваги, не обов'язково вказівник обраної професії, але опис бажаних технік.
 
-### Thief
+### Злодій
 - - -
-You hone your skills in the larcenous arts. Burglars, bandits, cutpurses, and other criminals typically follow this archetype, but so do rogues who prefer to think of themselves as professional treasure seekers, explorers, delvers, and investigators. In addition to improving your agility and stealth, you learn skills useful for delving into ancient ruins, reading unfamiliar languages, and using magic items you normally couldn't employ.
+У вас є свої навички в пустині мистецтва. Бурглари, бандити, вирізи та інші злочинці зазвичай слідують за цим архетипом, але так гартують, які вважають себе професійними шукачами скарбів, дослідників, делікатрів, і слідчих. На додаток до покращення ваших майстерності та крадіжок, ви вивчаєте навички корисних для заколивань в давні руїни, читання незнайомих мов і використання магічних елементів, які ви зазвичай не працюєте.
 
-#### Fast Hands
-Starting at 3rd level, you can use the bonus action granted by your Cunning Action to make a Dexterity (Sleight of Hand) check, use your thieves' tools to disarm a trap or open a lock, or take the Use an Object action.
+#### Швидкі руки
+Починаючи з 3-го рівня, ви можете використовувати бонусні дії, надані Ударними діями, щоб зробити поступовий аналіз (ніч від руки) використовуючи інструменти ваших злодіїв, для того, щоб роззброїти пастку або відкрити замок або вжити виконуйте дію об'єкта.
 
-#### Second-Story Work
-When you choose this archetype at 3rd level, you gain the ability to climb faster than normal; climbing no longer costs you extra movement.    
-In addition, when you make a running jump, the distance you cover increases by a number of feet equal to your Dexterity modifier.
+#### Робота з другою історією
+Коли ви обираєте цей прототип на 3-му рівні, ви отримуєте можливість піднятися швидше, ніж нормальне; сходження більше не коштує вам додатково рух.    
+Крім того, коли ви встигаєте стрибати, відстань, яку ви покриваєте, збільшує на кількість футів, рівних модифікаторам Dexterity.
 
-#### Supreme Sneak
-Starting at 9th level, you have advantage on a Dexterity (Stealth) check if you move no more than half your speed on the same turn.
+#### Верховне запах
+Починаючи з 9-го рівня, ви маєте перевагу на Dexterity (крадіжці) перевіряти, якщо ви рухаєтеся не більше половини вашої швидкості на одному кроці.
 
-#### Use Magic Device
-By 13th level, you have learned enough about the workings of magic that you can improvise the use of items even when they are not intended for you. You ignore all class, race, and level requirements on the use of magic items.
+#### Використовувати магічний пристрій
+На 13-му рівні, ви вже вивчили достатню кількість учинків магії, що можете імпровізувати використання предметів навіть якщо вони не призначені для вас. Ви ігноруєте всі класи, гонки та висування матеріалів щодо використання магічних предметів.
 
-#### Thief's Reflexes
-When you reach 17th level, you have become adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal initiative and your second turn at your initiative minus 10. You can't use this feature when you are surprised.
+#### Рефлекс Тьєфа
+Коли ви досягаєте 17-го рівня, ви вмієте вбивати засідки та швидко уникати небезпеки. Ви можете взяти два повороти під час першого раунду будь-якої битви. Вперше звертайте увагу на свою звичайну ініціативу й на другий поворот на свою ініціативу мінус 10. Ви не можете використовувати цю функцію, коли ви здивовані.
