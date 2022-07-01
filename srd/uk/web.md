@@ -1,15 +1,15 @@
 name: Web level: 2 school: conjuration classes: sorcerer wizard
 
-# Web
-_2nd-level conjuration_
+# Веб
+_Однорівнева тривалість_
 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S, M (a bit of spiderweb)    
-**Duration:** Concentration, up to 1 hour
+**Час трансляції :** 1 дія    
+**Діапазон:** 60 футів    
+**компоненти:** V, S, М (трохи павутини)    
+**тривалість:** гр., до 1 години
 
-You conjure a mass of thick, sticky webbing at a point of your choice within range. The webs fill a 20- foot cube from that point for the duration. The webs are difficult terrain and lightly obscure their area.    
-If the webs aren't anchored between two solid masses (such as walls or trees) or layered across a floor, wall, or ceiling, the conjured web collapses on itself, and the spell ends at the start of your next turn. Webs layered over a flat surface have a depth of 5 feet.    
-Each creature that starts its turn in the webs or that enters them during its turn must make a Dexterity saving throw. On a failed save, the creature is restrained as long as it remains in the webs or until it breaks free.    
-A creature restrained by the webs can use its action to make a Strength check against your spell save DC. If it succeeds, it is no longer restrained.    
-The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 round, dealing 2d4 fire damage to any creature that starts its turn in the fire. 
+Ви плутаєте масу товстого веб-сайту на місці певного вибору. Інтернет заповнює 20-футовий куб з цієї точки на тривалість. Мережі - це важкі місцевості, і легко затемнюють їхню територію.    
+Якщо мережі не є закріпленими між двома твердими масами (такими як стіни чи дерева) або накладеними через підлогу, стіною або стелею, переосмислена павутина руйнується сама по собі, і заклинання закінчується на початку вашого наступного кроку. Веб, накладені на плоскій поверхні мають глибину в 5 футів.    
+Кожна істота, яка починає свій поворот в павутині, або це входить в них під час свого кроку, повинна зробити Dexterity збереженням поспіль. На невдалому збереженні істота обмежена до тих пір, поки вона залишається в павутинах чи поки не звільниться.    
+істота обмежена мережею можуть використовувати свої дії, щоб перевірити силу проти збереження DC. Якщо це вдасться, воно більше не обмежиться.    
+павутини вільні. Будь-який 5-футовий кубик павутин, підпалений в 1 раунді, завдаючи 2d4 шкоди вогню будь-якій істоті, яка починає свою чергу у вогні. 
