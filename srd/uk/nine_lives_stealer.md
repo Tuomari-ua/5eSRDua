@@ -1,8 +1,8 @@
-name: Nine Lives Stealer type: weapon
+назва: Крайлер з Nine Lives тип: зброя
 
-# Nine Lives Stealer
-_Weapon (any sword), very rare (requires attunement)_
+# Дев'ять життів Стейлер
+_Зброя (будь який меч), дуже рідкісний (вимагає удару)_
 
-You gain a +2 bonus to attack and damage rolls made with this magic weapon.
+Ви отримуєте бонус +2 для атаки та ушкоджень зроблених за допомогою цієї чарівної зброї.
 
-The sword has 1d8 + 1 charges. If you score a critical hit against a creature that has fewer than 100 hit points, it must succeed on a DC 15 Constitution saving throw or be slain instantly as the sword tears its life force from its body (a construct or an undead is immune). The sword loses 1 charge if the creature is slain. When the sword has no charges remaining, it loses this property.
+Меч має 1d8 + 1 заряд. Якщо ви наберете критичний удар проти істоти, яка має менше 100 очків, це повинно досягти успіху в економії конституції від DC 15 років або бути миттєво забитим, як меч сльозує його життєву силу з його тіла (конструкція або немертва, є імунітет). Меч втратить 1 заряд, якщо істота забита. Коли меч не має жодних звинувачень, він втрачає цю власність.
