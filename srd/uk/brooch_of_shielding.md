@@ -1,6 +1,6 @@
-name: Brooch of Shielding type: item
+назва: Брока злізти типу: елемент
 
-# Brooch of Shielding
-_Wondrous item, uncommon (requires attunement)_
+# Брока щитів
+_Нетиповий предмет Wondrous (вимагає приєднання)_
 
-While wearing this brooch, you have resistance to force damage, and you have immunity to damage from the **_magic missile_** spell. 
+Під час ношення цієї броні, у вас є опір шкоді, а імунітет може пошкодити **_магічну ракету_** заклинання машини. 
