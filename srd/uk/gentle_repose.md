@@ -1,12 +1,12 @@
-name: Gentle Repose level: 2 school: necromancy classes: cleric wizard
+назва: Різниця Gentle Repose level: 2 школа: некромантія класі: клер майстер
 
-# Gentle Repose
-_2nd-level necromancy (ritual)_
+# Джентл-Репоза
+_2НД-рівень некромантія (ритуал)_
 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S, M (a pinch of salt and one copper piece placed on each of the corpse's eyes, which must remain there for the duration)    
-**Duration:** 10 days
+**Час трансляції :** 1 дія    
+**Діапазон:** Торкніться    
+**компоненти:** V, S, М (сіль та одна мідна частина, поміщена на кожному з очей трупа, який має відбутися протягом довготип)    
+**Тривалість:** 10 днів
 
-You touch a corpse or other remains. For the duration, the target is protected from decay and can't become undead.    
-The spell also effectively extends the time limit on raising the target from the dead, since days spent under the influence of this spell don't count against the time limit of spells such as **_raise dead_**. 
+Залишається доторк або інші. На цей час ціль захищена від занепаду і не може стати мертвою.    
+Малюнок також ефективно розширює час на підвищенні цілі з мертвих, оскільки дні, витрачені під впливом цього заклинання не розраховують на обмеження часу таких заклинань, як **_рости мертвий_**. 
