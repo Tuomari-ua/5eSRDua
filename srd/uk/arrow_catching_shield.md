@@ -1,6 +1,6 @@
-name: Arrow-Catching Shield type: armor
+Назва: Щит Мишлення Типів Створу: броня
 
-# Arrow-Catching Shield
-_Armor (shield), rare (requires attunement)_
+# Щит під кермом
+_Броня (щит), рідкісна (потребує супроводу)_
 
-You gain a +2 bonus to AC against ranged attacks while you wield this shield. This bonus is in addition to the shield's normal bonus to AC. In addition, whenever an attacker makes a ranged attack against a target within 5 feet of you, you can use your reaction to become the target of the attack instead. 
+Ви отримуєте бонус +2 до AC проти далекобійних атак, поки маєте цей щит. Цей бонус є на додаток до нормального щита. Крім того, кожен раз коли зловмисник робить далекобійний напад на ціль в 5 футів від вас, ви можете використати свою реакцію, щоб стати метою атаки. 
