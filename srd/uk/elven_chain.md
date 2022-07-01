@@ -1,6 +1,6 @@
-name: Elven Chain type: armor
+назва: Ельвен Ланцюг тип: броня
 
-# Elven Chain
-_Armor (chain shirt), rare_
+# Ельвен Чейн
+_Броня (Ланцюгова футбол), рідкісна_
 
-You gain a +1 bonus to AC while you wear this armor. You are considered proficient with this armor even if you lack proficiency with medium armor. 
+Ви отримуєте бонус +1 до AC, коли носите цю броню. Вам вважається досвідченим цим бронем, навіть якщо вам не вистачає майстерності з середнім обладунком. 
