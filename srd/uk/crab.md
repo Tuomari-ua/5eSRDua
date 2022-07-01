@@ -1,21 +1,21 @@
-name: Crab type: beast cr: 0
+назва: Краб тип: найкращий cr: 0
 
-# Crab
-_Tiny beast, unaligned_
+# Краб
+_Крихітний звір, неприєднаний_
 
-**Armor Class** 11 (natural armor)    
-**Hit Points** 2 (1d4)    
-**Speed** 20 ft., swim 20 ft.
+**Клас броні** 11 (природна броня)    
+**Бали** 2 (1d4)    
+**Швидкість** футів 20, плави 20 футів.
 
-| STR    | DEX     | CON     | INT    | WIS    | CHA    |
+| СТР    | ДЕКС    | CON     | ІНТ    | WIS    | CHA    |
 | ------ | ------- | ------- | ------ | ------ | ------ |
 | 2 (−4) | 11 (+0) | 10 (+0) | 1 (−5) | 8 (−1) | 2 (−4) |
 
-**Skills** Stealth +2    
-**Senses** blindsight 30 ft., passive Perception 9    
-**Languages** --    
-**Challenge** 0 (10 XP)    
-**Amphibious.** The crab can breathe air and water.
+**Навичка** Крадіжка +2    
+**Senses** зрозуміло 30 футів. пасивне сприйняття 9    
+мови:**Мови** --    
+**виклик** (10 XP)    
+**Амфібів.** Краба може вдихати повітря і воду.
 
-### Actions
-**Claw.** _Melee Weapon Attack:_ +0 to hit, reach 5 ft., one target. _Hit:_ 1 bludgeoning damage. 
+### Дії
+**клеп.** _Атака ближньої зброї:_ +0, щоб ударити на 5, одна ціль. _Удару:_ 1 пошкодження дубок. 
