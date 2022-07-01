@@ -1,13 +1,13 @@
-name: Noble type: humanoid (any race) cr: .125
+назва: Нобл тип: humanoid (будь-яка область) cr: .125
 
-# Noble
-_Medium humanoid (any race), any alignment_
+# Ноубл
+_Середня гуманоїда (будь-яке не), будь-яке вирівнювання_
 
-**Armor Class** 15 (breastplate)    
-**Hit Points** 9 (2d8)    
-**Speed** 30 ft.
+**Клас броні** 15 (нагрудник)    
+**Бали за себе** 9 (2d8)    
+**Швидкість** фут.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 11 (+0) | 12 (+1) | 11 (+0) | 12 (+1) | 14 (+2) | 16 (+3) |
 
@@ -16,11 +16,11 @@ _Medium humanoid (any race), any alignment_
 **Languages** any two languages    
 **Challenge** 1/8 (25 XP)
 
-### Actions
-**Rapier.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 5 (1d8 + 1) piercing damage.
+### Дії
+**Рапетр.** _Атака ближньої зброї:_ +3 до влучання, досягає 5 щитів, одна ціль. _Вразів:_ 5 (1d8 + 1) пошкодження від проколу.
 
-### Reactions
-**Parry.** The noble adds 2 to its AC against one melee attack that would hit it. To do so, the noble must see the attacker and be wielding a melee weapon.
+### Реакції
+**Париж.** благородність додає 2 до свого AC від нападу ближнього бою, який б влучив. Для цього благородний повинен бачити атакуючого і володіти зброєю ближнього бою.
 
-### Description
-Nobles wield great authority and influence as members of the upper class, possessing wealth and connections that can make them as powerful as monarchs and generals. A noble often travels in the company of guards, as well as servants who are commoners. The noble's statistics can also be used to represent courtiers who aren't of noble birth. 
+### Опис
+Дворяни володіють великими авторитетами і впливають на членів вищого класу, володіти багатством та зв'язками, що зроблять їх такими ж потужними, як монархи та генерали. Блаженний часто мандрує в товаристві охоронців, а також слуг громад. Статистика шляхетної блі також може бути використана для представлення курдерів, які не з благородних народження. 
