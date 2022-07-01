@@ -1,12 +1,12 @@
-name: Gem of Brightness type: item
+назва: Gem яскравості тип: елемент
 
-# Gem of Brightness
-_Wondrous item, uncommon_
+# Яскравість коштовності
+_Нетиповий для Wondrous_
 
-This prism has 50 charges. While you are holding it, you can use an action to speak one of three command words to cause one of the following effects:
+Ця призма має 50 звинувачень. Якщо ви тримаєте його, ви можете використати дію, щоб вимовити одну з трьох командних слів, щоб викликати один з наступних ефектів:
 
-* The first command word causes the gem to shed bright light in a 30-foot radius and dim light for an additional 30 feet. This effect doesn't expend a charge. It lasts until you use a bonus action to repeat the command word or until you use another function of the gem.
-* The second command word expends 1 charge and causes the gem to fire a brilliant beam of light at one creature you can see within 60 feet of you. The creature must succeed on a DC 15 Constitution saving throw or become blinded for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-* The third command word expends 5 charges and causes the gem to flare with blinding light in a 30- foot cone originating from it. Each creature in the cone must make a saving throw as if struck by the beam created with the second command word.
+* Перший командний рядок змушує каменя пролити яскраве світло на радіусі 30 футів і затемнити світло на відстані додаткових 30 футів. Цей ефект не подовжує заряд. Це триває доки ви не використаєте преміальну дію для повторення командного слова або доки не використаєте іншу функцію із самоцвіту.
+* Друге командне слово витрачає 1 заряд та змушує каменя стріляти блискучий промінь світла на одну істоту, яку ви можете побачити в межах 60 футів від вас. Ця істота має досягти успіху в групі DC 15 хвилин збереження конституції або засліплення протягом 1 хвилини. Ця істота може повторити порятунок в кінці кожного зі своїх обертів, припинивши вплив на себе при успіху.
+* Третє командне слово спорожняє 5 зарядів і змушує каменя спалахувати із сліпучим світлом на 30-футовому монусі, що тягнеться від нього. Кожна жива істота в конусі повинна робити прискорення, ніби вдарений балкою, створеним другим словом команди.
 
-When all of the gem's charges are expended, the gem becomes a nonmagical jewel worth 50 gp. 
+Коли всі витрати на платіж тим самим самим приносяться, дорогоцінний камінь стає немагічним джином вартує 50 gp. 
