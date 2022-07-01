@@ -1,13 +1,13 @@
-name: Tiny Hut level: 3 school: evocation classes: bard wizard
+назва: Висока висота рівень: 3 школа: евакуація класів: високий майстер
 
-# Tiny Hut
-_3rd-level evocation (ritual)_
+# Мала хатина
+_Евокація на третьому рівні (ритуал)_
 
-**Casting Time:** 1 minute    
-**Range:** Self (10-foot-radius hemisphere)    
-**Components:** V, S, M (a small crystal bead)    
-**Duration:** 8 hours
+**Кастинг часу:** 1 хвилина    
+**Діапазон:** Самотність (10-foot-radius hemisphere)    
+**компоненти:** V, S, М (невеликий кристал нами)    
+**тривалість:** 8 годин
 
-A 10-foot-radius immobile dome of force springs into existence around and above you and remains stationary for the duration. The spell ends if you leave its area.    
-Nine creatures of Medium size or smaller can fit inside the dome with you. The spell fails if its area includes a larger creature or more than nine creatures. Creatures and objects within the dome when you cast this spell can move through it freely. All other creatures and objects are barred from passing through it. Spells and other magical effects can't extend through the dome or be cast through it. The atmosphere inside the space is comfortable and dry, regardless of the weather outside.    
-Until the spell ends, you can command the interior to become dimly lit or dark. The dome is opaque from the outside, of any color you choose, but it is transparent from the inside. 
+Десятковий радіус нерухомого куполу сили з'являються навколо і над вами залишається нерухомим для тривалість. Писання закінчується, якщо ви залишаєте свою площу.    
+Дев'ять істот середнього розміру або меншого розміру, може вміститися у купол з вами. Пливець провалився, якщо його область включає в себе велику істоту або більше дев'яти істот. Створює та об'єкти в куполі, коли ви кинули це заклинання може вільно рухатися. Усі інші істоти та об'єкти заборонено передавати їх. Графорії та інші магічні ефекти не поширюються через купол або ж передаються ним. Атмосфера всередині простору комфортна і суха, незалежно від погоди зовні.    
+Поки заклинання не закінчиться, ви можете командувати інтер'єром для затемнення чи затемнення. Купол є непрозорим ззовні, будь-якого кольору, який ви виберете, але він прозорий зсередини. 
