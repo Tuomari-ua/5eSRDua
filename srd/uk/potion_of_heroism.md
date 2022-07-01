@@ -1,6 +1,6 @@
-name: Potion of Heroism type: potion
+назва: Зілля героїзму типу: зілля
 
-# Potion of Heroism
-_Potion, rare_
+# Зілля героїзму
+_Зілля_
 
-For 1 hour after drinking it, you gain 10 temporary hit points that last for 1 hour. For the same duration, you are under the effect of the **_bless_** spell (no concentration required). This blue potion bubbles and steams as if boiling. 
+Протягом 1 години після випити, ви отримуєте 10 тимчасових очків що тривають протягом 1 години. Уже вибраний час ви знаходитесь під ефектом **_благословити_** орфографію (не потрібна концентрація). Ці сині бульбашки для зілля і пари, начебто кипінь. 
