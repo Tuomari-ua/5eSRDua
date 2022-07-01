@@ -1,10 +1,10 @@
-name: Arrow of Slaying type: weapon
+назва: Стріла шарування тип: зброя
 
-# Arrow of Slaying
-_Weapon (arrow), very rare_
+# Стріла в нашарування
+_Зброя (стрілка), дуже рідкісна_
 
-An **arrow of slaying** is a magic weapon meant to slay a particular kind of creature. Some are more focused than others; for example, there are both **arrows of dragon slaying** and **arrows of blue dragon slaying**. If a creature belonging to the type, race, or group associated with an **arrow of slaying** takes damage from the arrow, the creature must make a DC 17 Constitution saving throw, taking an extra 6d10 piercing damage on a failed save, or half as much extra damage on a successful one.
+Магічна зброя **при вбивстві** - це магічна зброя, яка призначена для того щоб вбити особливе створіння. Some are more focused than others; for example, there are both **arrows of dragon slaying** and **arrows of blue dragon slaying**. Якщо істота, що належить до типу, раси або групи, пов'язані з **стрілкою вбивства** отримує пошкодження від стріли, істота повинна зробити економію конституції DC 17 приймаючи додаткову 6d10 пробиваючої шкоди від заощаджень, або ж удвічі більше шкоди від успішного.
 
-Once an **arrow of slaying** deals its extra damage to a creature, it becomes a nonmagical arrow.
+Як тільки **стріла вбивства** наносить більше шкоди істоті, вона стає немагічною стрілкою.
 
-Other types of magic ammunition of this kind exist, such as **bolts of slaying** meant for a crossbow, though arrows are most common.
+Інші типи чарівних боєприпасів, такі як **боєприпаси** означають на арбалет, хоча стріли найпоширеніші.
