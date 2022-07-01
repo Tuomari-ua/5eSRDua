@@ -1,20 +1,20 @@
-name: Prestidigitation level: 0 school: transmutation classes: bard sorcerer warlock wizard
+назва: Prestidigitation рівень: 0 школа: транмутація класи: Бард сортувальник warlock
 
-# Prestidigitation
-_Transmutation cantrip_
+# Престидігітація
+_Трансмутація_
 
-**Casting Time:** 1 action    
-**Range:** 10 feet    
-**Components:** V, S    
-**Duration:** Up to 1 hour
+**Час трансляції часу:** 1 дія    
+**Діапазон:** 10 футів    
+**компоненти:** V, S-    
+**тривалість:** до 1 години
 
-This spell is a minor magical trick that novice spellcasters use for practice. You create one of the following magical effects within range:
+Це заклинання незначний магічний трюк, який використовують для практики нові заклинання. Ви створюєте один з таких магічних ефектів в межі:
 
-* You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.
-* You instantaneously light or snuff out a candle, a torch, or a small campfire.
-* You instantaneously clean or soil an object no larger than 1 cubic foot.
-* You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.
-* You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.
-* You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn.
+* Ви створюєте миттю, нешкідливою сенсорною ефектом, наприклад, душ іскри, прищеплення вітрових, слабких музичних нот, чи непарного дивака.
+* Ви миттєво запалите світло або присмакуєте свічку, факелом або маленьким багаттям.
+* Якщо ви миттєво чистий або ґрунт не більший за 1 кубічний фут.
+* Ви морда або смак до 1 кубічного футу неживого матеріалу протягом 1 години.
+* Ви робите колір, невеликий знак, який з’являється на об'єкті або поверхні протягом 1 години.
+* Ви створюєте немагічний Trinket або ілюзорну картинку, яка може поміститися у вашій руці і це триває до кінця вашого наступного кроку.
 
-If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action. 
+Якщо ви кидаєте це заклинання багато разів, ви можете мати до трьох ефектів без миттєвого ефекту, який одночасно активний, і ви можете відхилити такий ефект, як дія. 
