@@ -1,13 +1,13 @@
-name: Bandit Captain type: humanoid (any race) cr: 2
+назва: Бандит капітан тип: humanoid (any race) cr: 2
 
-# Bandit Captain
-_Medium humanoid (any race), any non-lawful alignment_
+# Бандит Капітан
+_Середня гуманоїда (будь-яке незаконне)_
 
 **Armor Class** 15 (studded leather)    
 **Hit Points** 65 (10d8 + 20)    
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 15 (+2) | 16 (+3) | 14 (+2) | 14 (+2) | 11 (+0) | 14 (+2) |
 
@@ -17,13 +17,13 @@ _Medium humanoid (any race), any non-lawful alignment_
 **Languages** any two languages    
 **Challenge** 2 (450 XP)
 
-### Actions
-**Multiattack.** The captain makes three melee attacks: two with its scimitar and one with its dagger. Or the captain makes two ranged attacks with its daggers.    
-**Scimitar.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) slashing damage.    
-**Dagger.** _Melee or _Ranged Weapon Attack:__ +5 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 5 (1d4 + 3) piercing damage.
+### Дії
+**Мультиатака.** Капітан робить три напади ближнього бою: два з його амадрим і один з його кинджалом. Або капітан здійснює два коливальні напади зі своїми кишками,    
+**Сцимітаром.** _Атака ближньої зброї:_ +5 до удару, досягає 5-ти показників, одна ціль. _Вдач:_ 6 (1d6 + 3) наносити пошкодження.    
+**Дагер.** _Атака ближнього або _Стрільбища Зброї: __ +5, щоб влучити у нього, досягнути 5 футів або діапазон 20/60, однієї цілі. _Обок:_ 5 (1d4 + 3) наносити пошкодження.
 
-### Reactions
-**Parry.** The captain adds 2 to its AC against one melee attack that would hit it. To do so, the captain must see the attacker and be wielding a melee weapon.
+### Реакції
+**Париж.** Капітан додає 2 до боротьби з нападом ближнього бою, який постраждав би від нього. Для цього капітан повинен бачити атакуючого і володіти зброєю ближнього бою.
 
-### Description
-It takes a strong personality, ruthless cunning, and a silver tongue to keep a gang of bandits in line. The bandit captain has these qualities in spades. In addition to managing a crew of selfish malcontents, the pirate captain is a variation of the bandit captain, with a ship to protect and command. To keep the crew in line, the captain must mete out rewards and punishment on a regular basis. More than treasure, a bandit captain or pirate captain craves infamy. A prisoner who appeals to the captain's vanity or ego is more likely to be treated fairly than a prisoner who does not or claims not to know anything of the captain's colorful reputation. 
+### Опис
+Потрібна міцна особистість, безжальна хитрість і срібний язик, щоб тримати бандити в черзі бандитів. Капітан бандитів має ці якості поспіль. Окрім управління командою егоїстичних зловмисників, піратський капітан - це варіація бандитів з кораблем для захисту та командування. Щоб зберегти екіпаж в черзі, капітан повинен отримати нагороди і покарати на регулярній основі. Більше ніж скарб, капітан бандитів або піратський капітан країв галасу. В'язень, який звертається до марнославства чи его, швидше до них ставиться справедливо, ніж до ув'язненого, який не претендує на те, що він нічого не знає про барвисту репутацію капітана. 
