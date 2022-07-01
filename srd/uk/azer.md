@@ -1,13 +1,13 @@
-name: Azer type: elemental cr: 2
+назва: Azer тип: елемент cr: 2
 
 # Azer
-_Medium elemental, lawful neutral_
+_Середній елементарний, законний нейтральний_
 
 **Armor Class** 17 (natural armor, shield)    
 **Hit Points** 39 (6d8 + 12)    
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 17 (+3) | 12 (+1) | 15 (+2) | 12 (+1) | 13 (+1) | 10 (+0) |
 
@@ -18,9 +18,9 @@ _Medium elemental, lawful neutral_
 **Languages** Ignan    
 **Challenge** 2 (450 XP)
 
-**Heated Body.** A creature that touches the azer or hits it with a melee attack while within 5 feet of it takes 5 (1d10) fire damage.    
-**Heated Weapons.** When the azer hits with a metal melee weapon, it deals an extra 3 (1d6) fire damage (included in the attack).    
-**Illumination.** The azer sheds bright light in a 10-­foot radius and dim light for an additional 10 feet.
+**Отепло.** істота, яка торкнеться азера або вдаряє в ближньому бою, а в межах 5 футів від неї завдають шкоди вогню.    
+**Отерена зброя.** Коли azer потрапляє в металеву зброю, вона завдає додаткового пошкодження 3 (1d6) вогню (включена в атаку).    
+**Ілюмінець.** Лазер проливає яскраве світло в радіусі 10 футів і тьмяне світло для додаткових 10 футів.
 
-### Actions
-**Warhammer.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) bludgeoning damage, or 8 (1d10 + 3) bludgeoning damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
+### Дії
+**Warhammer.** _Атака ближньої зброї:_ +5, щоб влучити в ціль, одна ціль. _Удара:_ 7 (1d8 + 3) пошкодження ображення, або 8 (1d10 + 3) пошкодження душення при використанні двома руками для атаки ближнього бою, плюс 3 (1d6) пошкодження вогню.
