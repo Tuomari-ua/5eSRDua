@@ -1,6 +1,6 @@
-name: Cloak of the Manta Ray type: item
+назва: Cloak типу манти Ray : елемент
 
-# Cloak of the Manta Ray
-_Wondrous item, uncommon_
+# Cloak манти Рей
+_Нетиповий для Wondrous_
 
-While wearing this cloak with its hood up, you can breathe underwater, and you have a swimming speed of 60 feet. Pulling the hood up or down requires an action. 
+Носячи цей плащ зі своїм каптуром, ви можете дихати під водою, і у вас є швидкість плавання 60 футів. Поворот каплиці вгору і вниз вимагає дій. 
