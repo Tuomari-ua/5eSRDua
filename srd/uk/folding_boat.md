@@ -1,14 +1,14 @@
-name: Folding Boat type: item
+назва: Човен тип: елемент
 
-# Folding Boat
-_Wondrous item, rare_
+# Човен на місці
+_Один предмет, рідкісний_
 
-This object appears as a wooden box that measures 12 inches long, 6 inches wide, and 6 inches deep. It weighs 4 pounds and floats. It can be opened to store items inside. This item also has three command words, each requiring you to use an action to speak it.
+Цей об'єкт з’являється як дерев’яна коробка, яка вимірює 12 дюймів довше, шириною 6 дюймів в глибину та 6 дюймів. Вона важить 4 фунти і плаває. Відкривати можна і зберігати предмети всередині. У цьому елементі також є три командні слова, кожна вимагає, щоб ви використовували дію, щоб говорити про неї.
 
-One command word causes the box to unfold into a boat 10 feet long, 4 feet wide, and 2 feet deep. The boat has one pair of oars, an anchor, a mast, and a lateen sail. The boat can hold up to four Medium creatures comfortably.
+Одне командне слово відкриває човен 10 футів завдовжки, 4 фути в ширину, та 2 фути глибоко. Човен має одну пару весла, якори, щоглу та моряків пізно. Човен може комфортно тримати до чотирьох середніх істот.
 
-The second command word causes the box to unfold into a ship 24 feet long, 8 feet wide, and 6 feet deep. The ship has a deck, rowing seats, five sets of oars, a steering oar, an anchor, a deck cabin, and a mast with a square sail. The ship can hold fifteen Medium creatures comfortably.
+Друге командне слово змушує коробка розгорнути у кораблі 24 фути завдовжки, 8 футів завширшки, а 6 футів глибоко. Корабель має палубу, ремесел, засіки з п'ятьма папорощами весла, рульовий весла, якір, кабінка з палубою і щогла з квадратними вітрилами. Корабель може комфортно тримати п'ятнадцять середніх істот.
 
-When the box becomes a vessel, its weight becomes that of a normal vessel its size, and anything that was stored in the box remains in the boat.
+Коли скринька стає судиною, її вага стає нормальною судиною такого розміру, і все, що було збережено в коробці, залишається в човні.
 
-The third command word causes the **folding boat** to fold back into a box, provided that no creatures are aboard. Any objects in the vessel that can't fit inside the box remain outside the box as it folds. Any objects in the vessel that can fit inside the box do so. 
+Третє командне слово **складання човна** вказане у поле, що не має істот на борт. Будь-які об'єкти у судині, що не можуть поміститися всередині коробки, залишаються поза межами коробки. Будь-які об'єкти у посудині, що можуть вміститися всередині коробки. 
