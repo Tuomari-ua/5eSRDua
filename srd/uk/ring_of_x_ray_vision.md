@@ -1,8 +1,8 @@
-name: Ring of X-ray Vision type: ring
+назва: Кільце рентгенівського бачення тип: ring
 
-# Ring of X-ray Vision
-_Ring, rare (requires attunement)_
+# Кільце рентгенівського бачення
+_Рідкісний, рідкісний (вимагає відвідування)_
 
-While wearing this ring, you can use an action to speak its command word. When you do so, you can see into and through solid matter for 1 minute. This vision has a radius of 30 feet. To you, solid objects within that radius appear transparent and don't prevent light from passing through them. The vision can penetrate 1 foot of stone, 1 inch of common metal, or up to 3 feet of wood or dirt. Thicker substances block the vision, as does a thin sheet of lead.
+При цьому обручці ви можете використовувати дію, щоб вимовити його командне слово. Якщо ви це зробите, ви можете побачити в одне і через тверду речовину протягом однієї хвилини. Цей зір має радіус 30 футів. Для вас, тверді об'єкти в цьому радіусі здаються прозорими і не дозволяти пропускати світло через них. Бачення може проникнути в 1 фут каменю, 1 дюйм звичайного металу, або вгору до 3 футів деревини або землі. Товстіші речовини блокують зір, як і тонкий лист свинцю.
 
-Whenever you use the ring again before taking a long rest, you must succeed on a DC 15 Constitution saving throw or gain one level of exhaustion. 
+Кожен раз, коли ви використовуєте перстеника ще раз, перш ніж зробити довгу відпочинку, ви повинні досягти успіху в економії Конституції округ Колумбія 15 або отримати один рівень виснаження. 
