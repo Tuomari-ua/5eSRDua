@@ -1,23 +1,23 @@
-name: Hallow level: 5 school: evocation classes: cleric
+назва: Hallow рівень: 5 школу: evocation класів: священнослужителі
 
-# Hallow
-_5th-level evocation_
+# Лій
+_Евокація 5-го рівня_
 
-**Casting Time:** 24 hours    
-**Range:** Touch    
-**Components:** V, S, M (herbs, oils, and incense worth at least 1,000 gp, which the spell consumes)    
-**Duration:** Until dispelled
+**Час трансляції :** 24 години    
+**Діапазон:** Торкніться    
+**компоненти:** V, S, М (трави, олія і кількість ЩО щонайменше 1 000 краю, яку вимагає заклинання    
+**тривалість:** поки не буде виключено
 
-You touch a point and infuse an area around it with holy (or unholy) power. The area can have a radius up to 60 feet, and the spell fails if the radius includes an area already under the effect a **_hallow_** spell. The affected area is subject to the following effects.    
-First, celestials, elementals, fey, fiends, and undead can't enter the area, nor can such creatures charm, frighten, or possess creatures within it. Any creature charmed, frightened, or possessed by such a creature is no longer charmed, frightened, or possessed upon entering the area. You can exclude one or more of those types of creatures from this effect.    
-Second, you can bind an extra effect to the area. Choose the effect from the following list, or choose an effect offered by the GM. Some of these effects apply to creatures in the area; you can designate whether the effect applies to all creatures, creatures that follow a specific deity or leader, or creatures of a specific sort, such as orcs or trolls. When a creature that would be affected enters the spell's area for the first time on a turn or starts its turn there, it can make a Charisma saving throw. On a success, the creature ignores the extra effect until it leaves the area.    
+Коли торкаєшся точки і проходить через неї святу (чи вільну) силу. Площа може мати радіус до 60 футів, і заклинання падає, якщо радіус включає в себе площу, яка вже є під дією **_половинною_** заклинання . Уразлива область підлягає наслідкам.    
+перший, небесний, елементи, подвиги, жили, пожежі та немертві не можуть увійти до місцевості, ні такі істоти залякаються, або володіють істотами всередині нього. Будь-яке створіння зачароване, налякане або одержиме такою істотою вже не зачарована, перелякана або має володіння при вході в місцевість. Ви можете виключити один або кілька типів істот з цього ефекту.    
+По-друге, ви можете прив'язати додатковий ефект до району. Виберіть ефект з наступного списку або виберіть ефект, який пропонується GM. Деякі з цих ефектів застосовуються до істот в області; ви можете визначити чи ефект застосовується до всіх істот, істоти, що слідують за істотами божевілля, або істоти з особливого сорту, наприклад, орки чи тролі. Коли істота, яка потерпає в області заклинання вперше по черзі, або розпочнеться свій поворот там, Можна врятувати харизму. On a success, the creature ignores the extra effect until it leaves the area.    
 **Courage.** Affected creatures can't be frightened while in the area.    
-**Darkness.** Darkness fills the area. Normal light, as well as magical light created by spells of a lower level than the slot you used to cast this spell, can't illuminate the area.    
-**Daylight.** Bright light fills the area. Magical darkness created by spells of a lower level than the slot you used to cast this spell can't extinguish the light.    
-**Energy Protection.** Affected creatures in the area have resistance to one damage type of your choice, except for bludgeoning, piercing, or slashing.    
-**Energy Vulnerability.** Affected creatures in the area have vulnerability to one damage type of your choice, except for bludgeoning, piercing, or slashing.    
-**Everlasting Rest.** Dead bodies interred in the area can't be turned into undead.    
-**Extradimensional Interference.** Affected creatures can't move or travel using teleportation or by extradimensional or interplanar means.    
-**Fear.** Affected creatures are frightened while in the area.    
-**Silence.** No sound can emanate from within the area, and no sound can reach into it.    
-**Tongues.** Affected creatures can communicate with any other creature in the area, even if they don't share a common language. 
+**Darkness.** Darkness fills the area. Звичайне світло, так само як і магічне світло, яке створюється заклинаннями нижчого рівня, ніж той слот, який ви використали, щоб кинути це заклинання, неможливо освітити район.    
+**день.** Яскраве світло заповнює область. Магічна темрява, створена заклинаннями нижчого рівня, ніж слот, який ви раніше кинули це заклинання не може загасити світло.    
+**Енергозахист.** Вразливі істоти в районі мають опір одному типу пошкодження, за винятком блукання, пірсінгу чи косих предметів.    
+**Енергетична вразливість.** Вразливі істоти в районі мають уразливість до одного типу пошкоджень, за винятком блукання, пронизаних або колючих істот.    
+**Everlasting Rest.** мертвої тіла не можуть бути перетворені в немертвий.    
+**Екстрадиційна Інтерференція.** впливових істот не можуть переміщуватися за допомогою телепортації або за допомогою екстрадиційних або міжпланерних засобів.    
+**Страх.** постраждалих істот лякають у районі.    
+**Тиша.** Жоден звук не може з’являтися в межах району. Ніякий звук не може дістатися до неї.    
+**язичників.** впливових істот можуть спілкуватися з будь-якою іншою істотою в цій галузі, навіть якщо вони не мають спільної мови. 
