@@ -1,13 +1,13 @@
-name: Shield Guardian type: construct cr: 7
+назва: Щитоногий тип: будівництво cr: 7
 
-# Shield Guardian
-_Large construct, unaligned_
+# Охоронець Щита
+_Велика конструкція, не вирівняти_
 
-**Armor Class** 17 (natural armor)    
-**Hit Points** 142 (15d10 + 60)    
-**Speed** 30 ft.
+**Клас обладунку** 17 (природна броня)    
+**Очки** 142 (15d10 + 60)    
+**швидкість** фут.
 
-| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС   | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------ | ------- | ------ | ------- | ------ |
 | 18 (+4) | 8 (−1) | 18 (+4) | 7 (−2) | 10 (+0) | 3 (−4) |
 
@@ -17,13 +17,13 @@ _Large construct, unaligned_
 **Languages** understands commands given in any language but can't speak    
 **Challenge** 7 (2,900 XP)
 
-**Bound.** The shield guardian is magically bound to an amulet. As long as the guardian and its amulet are on the same plane of existence, the amulet's wearer can telepathically call the guardian to travel to it, and the guardian knows the distance and direction to the amulet. If the guardian is within 60 feet of the amulet's wearer, half of any damage the wearer takes (rounded up) is transferred to the guardian.    
-**Regeneration.** The shield guardian regains 10 hit points at the start of its turn if it has at least 1 hit point.    
-**Spell Storing.** A spellcaster who wears the shield guardian's amulet can cause the guardian to store one spell of 4th level or lower. To do so, the wearer must cast the spell on the guardian. The spell has no effect but is stored within the guardian. When commanded to do so by the wearer or when a situation arises that was predefined by the spellcaster, the guardian casts the stored spell with any parameters set by the original caster, requiring no components. When the spell is cast or a new spell is stored, any previously stored spell is lost.
+**Обмежувач** щит чарівно зв'язаний з амулетом. Поки опікун та його амулет знаходяться в одному літаку існування, носій амвета може телефонно зателефонувати сторожа до неї, і опікун знає відстань та напрямок до амулета. Якщо опікун знаходиться на відстані 60 футів від амутеля, половина від будь-якого шкоди, яку носить ноша, передається вартовому до опікуна.    
+**Регенерація.** Охоронець щита повертає 10 очків на початку ходу, якщо має принаймні 1 точку опору.    
+**Скрити заклинання.** Пселера, який носить амулет щита може припустити опікуна зберігати одного заклинання 4-го рівня або нижчого. Для цього носій повинен кинути заклинання на опікун. орфографії не має діла, але зберігається у вартовому. Коли наказали зробити це від носорога або коли склалася ситуація, яку встановив орпелер, опікун викидає заклинання з будь-якими параметрами, встановленими оригіналом, не вимагаючи компонентів. Коли заклинання припиняється або зберігається нова заклинання або будь-які раніше збережені заклинання були втрачені.
 
-### Actions
-**Multiattack.** The guardian makes two fist attacks.    
-**Fist.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) bludgeoning damage.
+### Дії
+**Багатоатака.** опікун створює два кулачні атаки.    
+**Заповнити.** _Атака ближньої зброї:_ +7 щоб ударити, досягти 5-ти цілі, одну ціль. _Удара:_ 11 (2d6 + 4) пошкодження дублювання.
 
-### Reactions
-**Shield.** When a creature makes an attack against the wearer of the guardian's amulet, the guardian grants a +2 bonus to the wearer's AC if the guardian is within 5 feet of the wearer.
+### Реакції
+**Щит.** Коли істота наводить напад на амулету вардійця, сторож надає бонус +2 до одягу одягу, якщо вартовий знаходиться в межах 5 футів від одягу.
