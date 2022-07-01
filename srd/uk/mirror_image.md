@@ -1,15 +1,15 @@
-name: Mirror Image level: 2 school: illusion classes: sorcerer warlock wizard
+назва: Образ дзеркала рівень: 2 школа: ілюзія класів: часар варть
 
-# Mirror Image
-_2nd-level illusion_
+# Віддзеркалення
+_Ілюзія 2нд-рівня_
 
-**Casting Time:** 1 action    
-**Range:** Self    
-**Components:** V, S    
-**Duration:** 1 minute
+**Кастинг часу:** 1 дія    
+**Діапазон:** Самостій    
+**компоненти:** V, S    
+**тривалість:** хвилини
 
-Three illusory duplicates of yourself appear in your space. Until the spell ends, the duplicates move with you and mimic your actions, shifting position so it's impossible to track which image is real. You can use your action to dismiss the illusory duplicates.    
-Each time a creature targets you with an attack during the spell's duration, roll a d20 to determine whether the attack instead targets one of your duplicates.    
-If you have three duplicates, you must roll a 6 or higher to change the attack's target to a duplicate. With two duplicates, you must roll an 8 or higher. With one duplicate, you must roll an 11 or higher.    
-A duplicate's AC equals 10 + your Dexterity modifier. If an attack hits a duplicate, the duplicate is destroyed. A duplicate can be destroyed only by an attack that hits it. It ignores all other damage and effects. The spell ends when all three duplicates are destroyed.    
-A creature is unaffected by this spell if it can't see, if it relies on senses other than sight, such as blindsight, or if it can perceive illusions as false, as with truesight. 
+У вашому просторі з’являються три ілюзорні копії. Доки заклинання не зупиняється, дублікати рухаються з вами і імітують ваші дії, змінюючи позицію так, що не можна відстежувати, яке зображення реальне. Ви можете використати свою дію для відхилення ілюзорних дублікатів.    
+кожен раз коли істота наводиться на вас з атакою під час дії заклинання, повернути 20 до визначення того, яка атака замість одного з ваших дублікатів.    
+Якщо у вас є три дублікати, то ви повинні написати 6 або вище, щоб змінити ціль атаки на дублікат. З двома повтореннями ви повинні повернути 8 або вище. З однією дублікатою, ви повинні запустити 11 або вище.    
+AC дорівнює 10 + ваш модифікатор Dexterity. Якщо атака вдаряється в дублікат, дублікат буде знищений. Дублікат може бути знищений лише атакою, яка вдаряється в нього. Всі інші пошкодження та ефекти ігноруються. Повноваження закінчуються, коли всі три дублікати будуть знищені.    
+істота не впливає на це заклинання якщо вона не бачить, якщо вона покладається на відчуття, не видовище, Наприклад сліпим, або якщо він може сприймати ілюзії як помилкове, як правдивість. 
