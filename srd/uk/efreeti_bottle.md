@@ -1,14 +1,14 @@
-name: Efreeti Bottle type: item
+назва: Efreeti пляшка тип: елемент
 
-# Efreeti Bottle
-_Wondrous item, very rare_
+# Ефріеті Пляшка
+_Чудові речі - дуже рідкісні_
 
-This painted brass bottle weighs 1 pound. When you use an action to remove the stopper, a cloud of thick smoke flows out of the bottle. At the end of your turn, the smoke disappears with a flash of harmless fire, and an efreeti appears in an unoccupied space within 30 feet of you.
+Ця намальована мідна пляшка важить 1 фунт. Коли ти застосуєш дію, щоб видалити зупинку, із пляшки густа хмара диму тече з пляшки. Наприкінці вашого повороту дим зникає зі спалахом нешкідливого вогню, і efreeti з'являється в незаселеному просторі на відстані 30 футів від вас.
 
-The first time the bottle is opened, the GM rolls to determine what happens.
+Вперше при відкритті пляшки, "GM" ролиться, щоб визначити, що станеться.
 
-| d100  | Effect                                                                                                                                                                                                                                                                                                                                                 |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 01-10 | The efreeti attacks you. After fighting for 5 rounds, the efreeti disappears, and the bottle loses its magic.                                                                                                                                                                                                                                          |
-| 11-90 | The efreeti serves you for 1 hour, doing as you command. Then the efreeti returns to the bottle, and a new stopper contains it. The stopper can't be removed for 24 hours. The next two times the bottle is opened, the same effect occurs. If the bottle is opened a fourth time, the efreeti escapes and disappears, and the bottle loses its magic. |
-| 91-00 | The efreeti can cast the wish spell three times for you. It disappears when it grants the final wish or after 1 hour, and the bottle loses its magic.                                                                                                                                                                                                  | 
+| д100  | Ефект                                                                                                                                                                                                                                                                                                                                   |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 01-10 | Ви атакуєте efreety. Після боротьби за п'ять раундів, ефреєті зникає, і пляшка втрачає свою магію.                                                                                                                                                                                                                                      |
+| 11-90 | efreeti служить вам протягом 1 години, виконуючи при виконанні команди. Тоді efreeti повертається до пляшки і нова зупинка. Зупинка не може бути видалена протягом 24 годин. Пляшку, що двічі відкривається, виникає той самий ефект. Якщо пляшку відкривається четвертий раз, то ефреєті тікає і зникає, і пляшка втратить свою магію. |
+| 91-00 | efreeti може примусити лотерею три рази для вас. Він зникає, коли він отримує остаточне бажання, або через 1 годину, і пляшка втрачає свою магію.                                                                                                                                                                                       | 
