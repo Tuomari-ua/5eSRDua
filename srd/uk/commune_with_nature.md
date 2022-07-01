@@ -1,20 +1,20 @@
-name: Commune with Nature level: 5 school: divination classes: druid ranger
+назва: Спілкуйтеся з природою : 5 школо: divination класи: druid ranger
 
-# Commune with Nature
-_5th-level divination (ritual)_
+# Спілка з природою
+_П’ять розлучення на 5-му рівні (ритуал)_
 
 **Casting Time:** 1 minute    
 **Range:** Self    
 **Components:** V, S    
 **Duration:** Instantaneous
 
-You briefly become one with nature and gain knowledge of the surrounding territory. In the outdoors, the spell gives you knowledge of the land within 3 miles of you. In caves and other natural underground settings, the radius is limited to 300 feet. The spell doesn't function where nature has been replaced by construction, such as in dungeons and towns.    
-You instantly gain knowledge of up to three facts of your choice about any of the following subjects as they relate to the area:
+Ви ненадовго стаєте одним з природою і набудете знань про навколишню територію. Двері заклинання дають вам знання про землю в 3 милі від вас. У печерах та інших природних параметрах підземного радіус обмежений лише на 300 футів. Письмо не функціонує там, де природа була замінена на будівництво, наприклад в підземеллях і містах.    
+Ви миттєво отримуєте знання про три факти вашого вибору про будь-яку з таких тем, коли вони стосуються до області:
 
-* terrain and bodies of water
-* prevalent plants, minerals, animals, or peoples
-* powerful celestials, fey, fiends, elementals, or undead
-* influence from other planes of existence
-* buildings
+* ландшафт і тіла води
+* головні рослини, мінерали, тварини або народи
+* небес, подвиги, святість, вояки, елементи чи безумство
+* вплив з інших літаків існування
+* будівлі
 
-For example, you could determine the location of powerful undead in the area, the location of major sources of safe drinking water, and the location of any nearby towns.
+Наприклад, ви можете визначити розташування потужних нежитих в районі, розташування великих джерел безпечної питної води та розташування будь-яких найближчих міст.
