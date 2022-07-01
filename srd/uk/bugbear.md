@@ -1,13 +1,13 @@
-name: Bugbear type: humanoid cr: 1
+назва: Bugbear тип: humanoid cr: 1
 
-# Bugbear
-_Medium humanoid (goblinoid), chaotic evil_
+# Багведмідь
+_Середня гуманоїда (гобліноїда), хаотичне зло_
 
-**Armor Class** 16 (hide armor, shield)    
-**Hit Points** 27 (5d8 + 5)    
-**Speed** 30 ft.
+**Клас броні** 16 (приховати броню, щит)    
+**Очки досягнуть** 27 (5d8 + 5)    
+**швидкість** фут.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 15 (+2) | 14 (+2) | 13 (+1) | 8 (-1) | 11 (+0) | 9 (-1) |
 
@@ -16,9 +16,9 @@ _Medium humanoid (goblinoid), chaotic evil_
 **Languages** Common, Goblin    
 **Challenge** 1 (200 XP)
 
-**Brute.** A melee weapon deals one extra die of its damage when the bugbear hits with it (included in the attack).    
-**Surprise Attack.** If the bugbear surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack.
+**Брут.** Зброя ближнього бою завдає ще одну смерть від її пошкодження, коли попадання комахи з нею (включена в напад).    
+**Раптовий Напад.** Якщо баг-ведмідь здивує істоту і потрапляє на неї з атакою під час першого раунду бою, ціль отримує додаткове 7 (2d6) пошкодження від атаки.
 
-### Actions
-**Morningstar.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 11 (2d8 + 2) piercing damage.    
-**Javelin.** _Melee or Ranged Weapon Attack:_ +4 to hit, reach 5 ft. or range 30/120 ft., one target. _Hit:_ 9 (2d6 + 2) piercing damage in melee or 5 (1d6 + 2) piercing damage at range.
+### Дії
+**Морнінгзор.** _Атака важкої зброї:_ +4, щоб влучити у 5, одну ціль. _Вразів:_ 11 (2d8 + 2) пробивання пошкодження.    
+**Javelin.** _Атака ближнього бою або дальньої зброї:_ +4 влучання, досягає 5 футів або 30 / 120 метрів, одна ціль. _Вразів:_ 9 (2d6 + 2) пробиваючи пошкодження в ближньому бою або 5 (1d6 + 2) пошкодження на діапазоні .
