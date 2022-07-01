@@ -1,8 +1,8 @@
-name: Mace of Disruption type: weapon
+назва: Mace Disruption тип: зброя
 
-# Mace of Disruption
-_Weapon (mace), rare (requires attunement)_
+# Маса зриву
+_Зброя (маса), рідкісна (вимагає залучення)_
 
-When you hit a fiend or an undead with this magic weapon, that creature takes an extra 2d6 radiant damage. If the target has 25 hit points or fewer after taking this damage, it must succeed on a DC 15 Wisdom saving throw or be destroyed. On a successful save, the creature becomes frightened of you until the end of your next turn.
+Коли ви вдаряєте вогонь або нежите з магічною зброєю, ця істота завдає додаткового 2d6 радіантного ушкодження. Якщо ціль має 25 очків або менше після нанесення цієї шкоди, це має досягти успіху в DC 15 % Мудрості дії або їх зруйнують. У успішному збереженні істота злякається від тебе до кінця наступного кроку.
 
-While you hold this weapon, it sheds bright light in a 20-foot radius and dim light for an additional 20 feet. 
+Поки ви тримаєте цю зброю, вона випромінює яскраве світло на радіусі 20-футів і тьмяне світло для додаткових 20 футів. 
