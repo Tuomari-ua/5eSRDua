@@ -1,25 +1,26 @@
-name: Mammoth type: beast cr: 6
+назва: Мамонт тип: Звір cr: 6
 
-# Mammoth
-_Huge beast, unaligned_
+# Мамонт
+_Величезний звір, неприєднаний_
 
-**Armor Class** 13 (natural armor)    
-**Hit Points** 126 (11d12 + 55)    
-**Speed** 40 ft.
+**Клас броні** 13 (природна броня)    
+**Очки влучання** 126 (11d12 + 55)    
+**швидкість** фут.
 
-| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС   | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------ | ------- | ------ | ------- | ------ |
 | 24 (+7) | 9 (−1) | 21 (+5) | 3 (−4) | 11 (+0) | 6 (−2) |
 
-**Senses** passive Perception 10    
-**Languages** --    
-**Challenge** 6 (2,300 XP)
+**Подяки** пасивне сприйняття 10    
+**Мови** --    
+**виклик**     
+(2,300 XP)
 
-**Trampling Charge.** If the mammoth moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 18 Strength saving throw or be knocked prone. If the target is prone, the mammoth can make one stomp attack against it as a bonus action.
+**поштовий заряд.** Якщо мамонт рухатиметься щонайменше в 20 футів прямо до істоти, а потім потрапляє в її з нападом на той же бік, ця мета повинна досягнути успіху в DC 18 частин заощадження, або бути постукована королею. Якщо ціль моя, мамонт може зробити атаку один бомбардувач проти неї як бонусна дія.
 
-### Actions
-**Gore.** _Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Hit:_ 25 (4d8 + 7) piercing damage.    
-**Stomp.** _Melee Weapon Attack:_ +10 to hit, reach 5 ft., one prone creature. _Hit:_ 29 (4d10 + 7) bludgeoning damage.
+### Дії
+**Гор.** _Атака ближньої зброї:_ +10 до удару, досягає 10-ти, одна ціль. _Hit:_ 25 (4d8 + 7) piercing damage.    
+**Stomp.** _Melee Weapon Attack:_ +10 to hit, reach 5 ft., one prone creature. _Удара:_ 29 (4d10 + 7) пошкодження дублювання.
 
-### Description
-A mammoth is an elephantine creature with thick fur and long tusks. Stockier and fiercer than normal elephants, mammoths inhabit a wide range of climes, from subarctic to subtropical. 
+### Опис
+Мамонт - це слонова істота з густою хутряною та довгими відступами. Холодочка і гарячіша, ніж звичайні слони, мамоти населяють широкий спектр підйомів, від передсердя до субтропічного. 
