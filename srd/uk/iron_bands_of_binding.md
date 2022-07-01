@@ -1,12 +1,12 @@
-name: Iron Bands of Binding type: item
+назва: Залізні частоти Зв'язування типу: елемент
 
-# Iron Bands of Binding
-_Wondrous item, rare_
+# Залізні смуги Зв'язування
+_Один предмет, рідкісний_
 
-This rusty iron sphere measures 3 inches in diameter and weighs 1 pound. You can use an action to speak the command word and throw the sphere at a Huge or smaller creature you can see within 60 feet of you. As the sphere moves through the air, it opens into a tangle of metal bands.
+Ця іржава залізна сфера вимірює діаметр на 3 дюйми і важить 1 фунт. Ви можете використати дію, щоб сказати командне слово і кидати сферу на Величезну або меншу істоту, яку можна побачити на 60 футів від вас. Коли сфера рухається крізь повітря, вона відкривається у клубок металевих смуг.
 
-Make a ranged attack roll with an attack bonus equal to your Dexterity modifier plus your proficiency bonus. On a hit, the target is restrained until you take a bonus action to speak the command word again to release it. Doing so, or missing with the attack, causes the bands to contract and become a sphere once more.
+Зробіть далекобійний звіт про атаку з бонусом на атаку, рівним вашому модифікатором Декстериторії плюс ваш бонус до вашого бонусу. На ударі ціль буде стримана, поки ви не скористаєтеся бонусним словом, щоб знову виступити у командному слові, щоб випустити його. Роблячи так, або нічого не вистачає, змушує гурти скорочуватися і знову стати сферою.
 
-A creature, including the one restrained, can use an action to make a DC 20 Strength check to break the iron bands. On a success, the item is destroyed, and the restrained creature is freed. If the check fails, any further attempts made by that creature automatically fail until 24 hours have elapsed.
+Творцтво, включаючи обмежене, може використати дію для перевірки потужності DC 20 для розбиття залізних банків. За рахунок успіху предмет знищений, і стримана істота є вільною. Якщо перевірка зазнає невдачі, то будь-які подальші спроби вчинення цього створіння автоматично припиняться до 24 годин.
 
-Once the bands are used, they can't be used again until the next dawn. 
+Як тільки гурти використовуються, вони не зможуть бути використані знову до наступного світанку. 
