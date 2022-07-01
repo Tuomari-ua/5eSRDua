@@ -1,31 +1,31 @@
-name: Storm Giant type: giant cr: 13
+назва: Гігантський Шторм тип: гігантський cr: 13
 
-# Storm Giant
-_Huge giant, chaotic good_
+# Шторм Гігант
+_Величезний гігант, хаотичні добрі справи_
 
-**Armor Class** 16 (scale mail)    
-**Hit Points** 230 (20d12 + 100)    
-**Speed** 50 ft., swim 50 ft.
+**Клас броні** 16 (шкала пошти)    
+**Бали** 230 (20d12 + 100)    
+**Швидкість** фут. плавати на висоті 50 футів.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 29 (+9) | 14 (+2) | 20 (+5) | 16 (+3) | 18 (+4) | 18 (+4) |
 
-**Saving Throws** Str +14, Con +10, Wis +9, Cha +9    
-**Skills** Arcana +8, Athletics +14, History +8, Perception +9    
-**Damage Resistances** cold    
-**Damage Immunities** lightning, thunder    
-**Senses** passive Perception 19    
-**Languages** Common, Giant    
-**Challenge** 13 (10,000 XP)
+**Збереження кишить** Стріл +14, Con +10, Відокремленість +9, Cha +9    
+**Навички** Аркана +8, Легка атлетика +14, Історія +8, Сперечення +9    
+**Пошкодження** холодно    
+**Імінотацій** освітленості, теніт    
+**Зіткнень** пасивних переваг 19    
+**мов** Спадок, Велетения    
+**виклик** 13 (10 000 досвід)
 
-**Amphibious.** The giant can breathe air and water.    
-**Innate Spellcasting.** The giant's innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components:    
+**Універсальний.** Гігант може дихати повітря та воду.    
+**У орфографії орфографії.** вроджена здатність заклинання -- харизма (заклинання зекономить DC 17). It can innately cast the following spells, requiring no material components:    
 At will: **_detect magic_**, **_feather fall_**, **_levitate_**, **_light_**    
 3/day each: **_control weather_**, **_water breathing_**
 
-### Actions
-**Multiattack.** The giant makes two greatsword attacks.    
-**Greatsword.** _Melee Weapon Attack:_ +14 to hit, reach 10 ft., one target. _Hit:_ 30 (6d6 + 9) slashing damage.    
-**Rock.** _Ranged Weapon Attack:_ +14 to hit, range 60/240 ft., one target. _Hit:_ 35 (4d12 + 9) bludgeoning damage.    
-**Lightning Strike (Recharge 5–6).** The giant hurls a magical lightning bolt at a point it can see within 500 feet of it. Each creature within 10 feet of that point must make a DC 17 Dexterity saving throw, taking 54 (12d8) lightning damage on a failed save, or half as much damage on a successful one.
+### Дії
+**Мультиатака.** Гігант робить дві великомечі атаки.    
+**Великий.** _Атака ближньої зброї:_ +14, щоб вдарити її, досягнути 10тек; одна ціль. _Удачі:_ 30 (6d6 + 9) наносити пошкодження.    
+**Кека.** _Атака дальньої зброї:_ +14, щоб вдарити, діапазон 60/240, одна мета. _Вразів:_ 35 (4d12 + 9) пошкодження дублювання.    
+**Світловий удар (Recharge 5–6).** Гігант ображає магічну блискавку в точці, яку вона може побачити в межах 500 футів. Кожна істота в межах 10 футів цієї точки повинна зробити економію Dexterity 17 струнів, завдаючи шкоди блискавки, 54 (12d8) при невдалому збереженні, або ж удвічі більше шкоди від успішного.
