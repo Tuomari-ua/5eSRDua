@@ -1,8 +1,8 @@
-name: Sovereign Glue type: item
+назва: Суверенний клей тип: предмет
 
-# Sovereign Glue
-_Wondrous item, legendary_
+# Суверенний клей
+_Несумний предмет, легендарний_
 
-This viscous, milky-white substance can form a permanent adhesive bond between any two objects. It must be stored in a jar or flask that has been coated inside with **oil of slipperiness**. When found, a container contains 1d6 + 1 ounces.
+Ця віспа, молочно-біла речовина може сформувати постійний нерішучий зв'язок між будь-якими двома предметами. Його потрібно зберігати в банці або у флазі, яка була покрита всередині **олією слизька**. Коли знайдено, контейнер містить 1d6 + 1 унції.
 
-One ounce of the glue can cover a 1-foot square surface. The glue takes 1 minute to set. Once it has done so, the bond it creates can be broken only by the application of **universal solvent** or **oil of etherealness**, or with a **_wish_** spell. 
+Одна унція клею може покрити 1-футову квадратну поверхню. Клей займає 1 хвилину на встановлення. Як тільки він зробив це, зв'язок, який створюється, може бути зламаний тільки додатком для **універсального платоспроможного** або **олії на повну потужність**або з заклинанням **_бажаєте_** написати. 
