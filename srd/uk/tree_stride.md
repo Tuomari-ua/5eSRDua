@@ -1,12 +1,12 @@
-name: Tree Stride level: 5 school: conjuration classes: druid ranger
+назва: Рід дерев рівень: 5 школа: conjuration класи: druid діапазон
 
-# Tree Stride
-_5th-level conjuration_
+# Страйд дерева
+_5-ти рівнева тривалість_
 
 **Casting Time:** 1 action    
 **Range:** Self    
 **Components:** V, S    
 **Duration:** Concentration, up to 1 minute
 
-You gain the ability to enter a tree and move from inside it to inside another tree of the same kind within 500 feet. Both trees must be living and at least the same size as you. You must use 5 feet of movement to enter a tree. You instantly know the location of all other trees of the same kind within 500 feet and, as part of the move used to enter the tree, can either pass into one of those trees or step out of the tree you're in. You appear in a spot of your choice within 5 feet of the destination tree, using another 5 feet of movement. If you have no movement left, you appear within 5 feet of the tree you entered.    
-You can use this transportation ability once per round for the duration. You must end each turn outside a tree. 
+Ви отримуєте можливість увійти в дерево і рухатися всередині нього всередину іншого дерева того ж виду в межах 500 футів. Обидва дерева повинні бути живими і, принаймні, такі ж розміри, як і ви. Щоб ввести на дерево, ви повинні використати 5 футів руху. Ви миттєво визначаєте розташування всіх інших дерев одного і того ж виду на відстані 500 футів, як частина ходу, що використовується для дерева, може пройти через одну з цих дерев або вийти з того дерева, в якому ви знаходитеся. З'явиться на місці вашого вибору в межах 5 футів цільового дерева, використовуючи ще 5 футів руху. Якщо немає жодного руху, то воно буде в межах 5 футів від обраного вами дерева.    
+Ви можете використовувати цю можливість перевезення один раз протягом всього часу. Ви повинні закінчити кожен поворот поза деревом. 
