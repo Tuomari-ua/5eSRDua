@@ -1,13 +1,13 @@
-name: Cure Wounds level: 1 school: evocation classes: bard cleric druid paladin ranger
+назва: Лікові рани рівень: 1 школа: евакуація класів: Бард клопот druid paladin орієнтир
 
-# Cure Wounds
-_1st-level evocation_
+# Уміння вакцини
+_11-ше евокація_
 
 **Casting Time:** 1 action    
 **Range:** Touch    
 **Components:** V, S    
 **Duration:** Instantaneous
 
-A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+Творця, яку ви торкнетесь, має певну кількість очків, що дорівнює 1d8 + модифікували здатність орфографії. Ця заклинання не впливає на незгадані чи конструкції.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.
+**На вищих рівнях.** Коли ви транслюєте це заклинання використовуючи слот 2-го рівня або вище, зцілення збільшується на 1d8 для кожного рівня слота вище 1st.
