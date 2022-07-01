@@ -1,12 +1,12 @@
-name: Power Word Stun level: 8 school: enchantment classes: bard sorcerer warlock wizard
+назва: Викрадач Енергетичного слова : 8 школа: зачарування класі: Бард сортувальник warlock
 
-# Power Word Stun
-_8th-level enchantment_
+# Меню енергетичних слів
+_Зачарування 8-го рівня_
 
 **Casting Time:** 1 action    
 **Range:** 60 feet    
 **Components:** V    
 **Duration:** Instantaneous
 
-You speak a word of power that can overwhelm the mind of one creature you can see within range, leaving it dumbfounded. If the target has 150 hit points or fewer, it is stunned. Otherwise, the spell has no effect.    
-The stunned target must make a Constitution saving throw at the end of each of its turns. On a successful save, this stunning effect ends.
+Ви говорите слово про силу, яке може згубити розум однієї істоти, яку можна побачити в межі, залишивши його нічим. Якщо ціль має 150 очків або менше, вона приголомшена. В іншому випадку заклинання не має ефекту.    
+Приголомшена ціль повинна зробити процес створення Конституції наприкінці кожного з її поворотів. На успішному збереженні цей приголомшливий ефект закінчується.
