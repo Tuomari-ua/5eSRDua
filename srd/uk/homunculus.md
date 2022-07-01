@@ -1,23 +1,23 @@
-name: Homunculus type: construct cr: 0
+назва: Homunculus тип: конструктор cr: 0
 
 # Homunculus
-_Tiny construct, neutral_
+_Мала конструкція_
 
-**Armor Class** 13 (natural armor)    
-**Hit Points** 5 (2d4)    
-**Speed** 20 ft., fly 40 ft.
+**Клас броні** 13 (природна броня)    
+**Очки** 5 (2d4)    
+**швидкість** пропускання 40 футів.
 
-| STR    | DEX     | CON     | INT     | WIS     | CHA    |
+| СТР    | ДЕКС    | CON     | ІНТ     | WIS     | CHA    |
 | ------ | ------- | ------- | ------- | ------- | ------ |
 | 4 (−3) | 15 (+2) | 11 (+0) | 10 (+0) | 10 (+0) | 7 (−2) |
 
-**Damage Immunities** poison    
-**Condition Immunities** charmed, poisoned    
-**Senses** darkvision 60 ft., passive Perception 10    
-**Languages** understands the languages of its creator but can't speak    
-**Challenge** 0 (10 XP)
+**Вшкодження** отрути    
+**Набражені** отруєний    
+**Способи** затемнення 60футів. пасивне сприйняття 10    
+**мови** розуміє мови його творця, але не може говорити    
+виклик**Завдання** (10 XP)
 
-**Telepathic Bond.** While the homunculus is on the same plane of existence as its master, it can magically convey what it senses to its master, and the two can communicate telepathically.
+**Телепатичний зв'язок.** Хоча гомункул знаходиться на тому ж літаку існування, як його господарець, він магічно передає те, що відчуває своїм господарем, і двоє можуть по телепатичній формі.
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or be poisoned for 1 minute. If the saving throw fails by 5 or more, the target is instead poisoned for 5 (1d10) minutes and unconscious while poisoned in this way.
+### Дії
+**Біт.** _Атака ближньої зброї:_ +4, досягнувши 5, одну істоту. _Вдач:_ 1 пробивання і ціль має досягти успіху на шляху створення конституції DC або бути отруєний на 1 хвилину. Якщо процес збереження не вдається, то ціль не може бути отруєна 5 (1d10) хвилин і не підсвідомо, поки вона отруєна таким чином.
