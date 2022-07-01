@@ -1,23 +1,23 @@
-name: Dragon Scale Mail type: armor
+назва: Пошта з Лусканням Дракона тип: обладунок
 
-# Dragon Scale Mail
-_Armor (scale mail), very rare (requires attunement)_
+# Лист Драконячого Лускування
+_Броня (шкала пошта), дуже рідкісна (вимагає супроводу)_
 
-Dragon scale mail is made of the scales of one kind of dragon. Sometimes dragons collect their cast-off scales and gift them to humanoids. Other times, hunters carefully skin and preserve the hide of a dead dragon. In either case, dragon scale mail is highly valued.
+Пошта Драконячих лусків складається з одного виду дракона. Іноді дракони збирають скупчення і дарують їх гуманоїдам. Іншого разу, мисливці обережно шкіри і зберігають шкури мертвого дракона. В будь-якому випадку, листи зі шкалою дракона дуже оцінюються.
 
-While wearing this armor, you gain a +1 bonus to AC, you have advantage on saving throws against the Frightful Presence and breath weapons of dragons, and you have resistance to one damage type that is determined by the kind of dragon that provided the scales (see the table).
+Під час одягу в цій броні, ви отримуєте бонус +1 до AC, ви маєте перевагу над збереженням квітів на противагу світлій присутності та дихальній зброї драконів, і є опір одному типу ушкодження, що визначається типом дракона, що надає ваги (див. стіл).
 
-Additionally, you can focus your senses as an action to magically discern the distance and direction to the closest dragon within 30 miles of you that is of the same type as the armor. This special action can't be used again until the next dawn.
+Додатково, ви можете зосередити свої відчуття як дію магічно розрізняти відстань та напрямок до найближчого дракона в 30 миль від вас, що має той самий тип, як обладунок. Ця спеціальна дія не може використовуватися знову до наступного світанку.
 
-| Dragon | Resistance |
-| ------ | ---------- |
-| Black  | Acid       |
-| Blue   | Lightning  |
-| Brass  | Fire       |
-| Bronze | Lightning  |
-| Copper | Acid       |
-| Gold   | Fire       |
-| Green  | Poison     |
-| Red    | Fire       |
-| Silver | Cold       |
-| White  | Cold       |
+| Дракон       | Опір      |
+| ------------ | --------- |
+| Чорний колір | Кислоти   |
+| Синій        | Блискавка |
+| Латунь       | Вогонь    |
+| Бронза       | Блискавка |
+| Мідь         | Кислоти   |
+| Золото       | Вогонь    |
+| Зелений      | Отрута    |
+| Червоний     | Вогонь    |
+| Срібло       | Холод     |
+| Білі         | Холод     |
