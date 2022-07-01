@@ -1,10 +1,10 @@
-name: Oathbow type: weapon
+назва: Oathbow тип: зброя
 
-# Oathbow
-_Weapon (longbow), very rare (requires attunement)_
+# Отбоу
+_Зброя (довгий лук), дуже рідкісна (вимагає супроводу)_
 
-When you nock an arrow on this bow, it whispers in Elvish, "Swift defeat to my enemies." When you use this weapon to make a ranged attack, you can, as a command phrase, say, "Swift death to you who have wronged me." The target of your attack becomes your sworn enemy until it dies or until dawn seven days later. You can have only one such sworn enemy at a time. When your sworn enemy dies, you can choose a new one after the next dawn.
+Коли ви нахиляєте стрілу на цього лука, він шепоче в Ельвіші, "Свіфт перемогти моїх ворогів." Коли ви використовуєте цю зброю, щоб зробити атаку, далекобійний напад, ви можете, як командну фразу, сказати: "Свіфтова смерть тобі, хто не впорався зі мною." Ціль вашої атаки стає вашою присягою, поки вона не помре, або до світанку сім днів по тому. Ви можете одночасно тільки один такий присяжний ворог. Коли ваш присяжний ворог помирає, ви можете обрати новий після наступного світанку.
 
-When you make a ranged attack roll with this weapon against your sworn enemy, you have advantage on the roll. In addition, your target gains no benefit from cover, other than total cover, and you suffer no disadvantage due to long range. If the attack hits, your sworn enemy takes an extra 3d6 piercing damage.
+Коли ви робите далекобійний нападник з цією зброєю на ваших присягаючих, ви маєте перевагу від цього ролика. Крім того, ваша мета не виграє від покриття, відмінної від загальної обкладинки, і ви не зазнаєте недоліків через довгий проміжок часу. Якщо атака вдарить, ваш присяжний ворог забере додаткові 3d6 пірсингу шкоду.
 
-While your sworn enemy lives, you have disadvantage on attack rolls with all other weapons. 
+Доки ваш присягається ворогом, ви завдали шкоди від нападу на муки з усією зброєю. 
