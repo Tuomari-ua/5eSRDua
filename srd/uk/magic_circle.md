@@ -1,20 +1,20 @@
-name: Magic Circle level: 3 school: abjuration classes: cleric paladin warlock wizard
+назва: Магічне коло рівень: 3 школу: abjuration класів: священний склад warlock
 
-# Magic Circle
-_3rd-level abjuration_
+# Магічне коло
+_Відступ на третьому рівні_
 
-**Casting Time:** 1 minute    
-**Range:** 10 feet    
-**Components:** V, S, M (holy water or powdered silver and iron worth at least 100 gp, which the spell consumes)    
-**Duration:** 1 hour
+**Час кастингу:** 1 хвилину    
+**Діапазон:** 10 футів    
+**компоненти:** V, S, М (свята вода або порошене срібло та залізо, вартістю не менше 100 Gp, який витрачає заклинання    
+**тривалість:** години
 
-You create a 10-foot-radius, 20-foot-tall cylinder of magical energy centered on a point on the ground that you can see within range. Glowing runes appear wherever the cylinder intersects with the floor or other surface.    
-Choose one or more of the following types of creatures: celestials, elementals, fey, fiends, or undead. The circle affects a creature of the chosen type in the following ways:
+Тобто ви створюєте 10-футовий радіус, і на 20 футів циліндру магічної енергії, розташованої на землі, яку можна побачити в межах діапазону. Дукаючий рун з'являється там, де циліндер перетинається з підлогою чи іншою поверхнею.    
+Виберіть один або більше наступних типів істот: небесні, елементи, гонофілії, вогнища або немертві. Впливає на істоту обраного типу таким чином:
 
-* The creature can't willingly enter the cylinder by nonmagical means. If the creature tries to use teleportation or interplanar travel to do so, it must first succeed on a Charisma saving throw.
-* The creature has disadvantage on attack rolls against targets within the cylinder.
-* Targets within the cylinder can't be charmed, frightened, or possessed by the creature.
+* Позначення не може охоче ввійти в циліндр за немагічними методами. Якщо для цього ця істота намагається використовувати телепортації або міжпланарні подорожі, спочатку вона повинна досягти успіху у збереженні харизми.
+* Створіння мало недолік щодо нападу на цілі в циліндричному місці.
+* Цілі в циліндрі не можуть бути зачарованими, боятися або володіти істотою.
 
-When you cast this spell, you can elect to cause its magic to operate in the reverse direction, preventing a creature of the specified type from leaving the cylinder and protecting targets outside it.
+Коли ви транслюєте це заклинання, ви можете обирати, що їхня магія діятиме у зворотному напрямку, Запобігання істоті зазначеного типу залишити циліндра та захищати цілі поза ним.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the duration increases by 1 hour for each slot level above 3rd. 
+**На вищих рівнях.** Коли ви кидаєте це заклинання використовуючи слот четвертого рівня або вище, тривалість збільшує на 1 годину для кожного рівня слоту вище 3rd. 
