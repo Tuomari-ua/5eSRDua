@@ -1,6 +1,6 @@
-name: Helm of Teleportation type: item
+назва: Шолом телепортації типу: елемент
 
-# Helm of Teleportation
-_Wondrous item, rare (requires attunement)_
+# Шолом телепортації
+_Чудотвор, рідкісний (вимагає захоплення)_
 
-This helm has 3 charges. While wearing it, you can use an action and expend 1 charge to cast the **_teleport_** spell from it. The helm regains 1d3 expended charges daily at dawn. 
+Цей шолом має 3 заряди. Під час одягу ви можете використовувати дію та витратити 1 заряд, щоб транслювати **_телепорт_** орфоцити з нього. Шолом відновлює щоденно 1d3 заряди. 
