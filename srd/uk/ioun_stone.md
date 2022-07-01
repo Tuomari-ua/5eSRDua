@@ -1,46 +1,46 @@
-name: Ioun Stone type: item
+назва: Іонний камінь тип: елемент
 
 # Ioun Stone
-_Wondrous item, rarity varies (requires attunement)_
+_Разом з Wondrous, рідкість змінюється (вимагає супроводу)_
 
-An **Ioun stone** is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of **Ioun stone** exist, each type a distinct combination of shape and color.
+An **Ioun stone** is named after Ioun, a god of knowledge and prophecy revered on some worlds. Існує багато типів **Ioun stone** , кожен тип комбінації форми і кольору.
 
-When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.
+Коли ви використовуєте дію, щоб кинути один з цих каменів в повітря, камінь орбітує вашу голову на відстані 1 д3 фути і надають вам корисну користь. Після цього інше створіння повинно використовувати дію для захоплення або чистої камені, щоб відокремити його від вас, або зробивши успішну атаку рухом проти AC 24 або успішної перевірки Dexterity (Acrobatics). Ви можете використати дію, щоб захопити і затримати камінь, завершуючи його ефект.
 
-A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.
+Камінь має AC 24, 10 очків, та опір усім пошкодженням. Це вважається предметом, який вдягається, тоді як він орбітує вашу голову.
 
-**Absorption (Very Rare).** While this pale lavender ellipsoid orbits your head, you can use your reaction to cancel a spell of 4th level or lower cast by a creature you can see and targeting only you.
+**Абсорбція (дуже рідка).** доки ваш еліпсоїд з приятелем лавандем, орбіти голови, ви можете використати свою реакцію, щоб скасувати заклинання 4-го рівня або нижче за істотою, яку ви можете побачити та націлити лише на вас.
 
-Once the stone has canceled 20 levels of spells, it burns out and turns dull gray, losing its magic. If you are targeted by a spell whose level is higher than the number of spell levels the stone has left, the stone can't cancel it.
+Коли камінь скасовує 20 рівнів заклинання, він згорає і тікає сірим тілом, уникаючи його магії. Якщо на вас націлені заклинання, рівень якого вищий, ніж кількість заклинання залишилася камінь, камінь не може його скасувати.
 
-**Agility (Very Rare).** Your Dexterity score increases by 2, to a maximum of 20, while this deep red sphere orbits your head.
+**Підситель (дуже рідка).** Оцінка вашого Dexterity збільшується на 2, до максимум 20 років, в той час як ця глибока червона сфера орбіта вашої голови.
 
-**Awareness (Rare).** You can't be surprised while this dark blue rhomboid orbits your head.
+**Варність (рідка).** Ви не можете бути здивовані тоді як цей темно-синій ромб орбіт вашої голови.
 
-**Fortitude (Very Rare).** Your Constitution score increases by 2, to a maximum of 20, while this pink rhomboid orbits your head.
+**Стійкість (дуже рідкісна).** Оцінка вашої Конституції збільшується на 2, до максимум 20, в той час як ця рожева рубова орбіта вашої голови.
 
-**Greater Absorption (Legendary).** While this marbled lavender and green ellipsoid orbits your head, you can use your reaction to cancel a spell of 8th level or lower cast by a creature you can see and targeting only you.
+**Більше поглинання (Легендарний).** Під час мармурового лавандера і зеленого еліпсоїду орбітнути голову, ви можете використати реакцію, щоб скасувати заклинання 8-го рівня або нижче за істотою, яку ви можете побачити та націлити лише на вас.
 
-Once the stone has canceled 50 levels of spells, it burns out and turns dull gray, losing its magic. If you are targeted by a spell whose level is higher than the number of spell levels the stone has left, the stone can't cancel it.
+Як тільки камінь скасовує 50 рівнів заклинання, він згорає і оглушує сіру, уникаючи свою магію. Якщо на вас націлені заклинання, рівень якого вищий, ніж кількість заклинання залишилася камінь, камінь не може його скасувати.
 
-**Insight (Very Rare).** Your Wisdom score increases by 2, to a maximum of 20, while this incandescent blue sphere orbits your head.
+**Усвідомлення (дуже рідка).** Ваш показник мудрості збільшується на 2, до максимум 20, в той час як це чутлива синя сфера навколо вашої голови.
 
-**Intellect (Very Rare).** Your Intelligence score increases by 2, to a maximum of 20, while this marbled scarlet and blue sphere orbits your head.
+**Інтелект (дуже рідкісний).** Оцінка вашої розвідки збільшується на 2, до максимум 20 років, в той час як це мармуровий червоний і синій сферовий орбіти вашої голови.
 
-**Leadership (Very Rare).** Your Charisma score increases by 2, to a maximum of 20, while this marbled pink and green sphere orbits your head.
+**Лідерство (дуже рідке).** Оцінка Харісми збільшується на 2, до максимум 20, в той час як мармурова рожева і зелена орбіта вашої голови.
 
-**Mastery (Legendary).** Your proficiency bonus increases by 1 while this pale green prism orbits your head.
+**Володіння (Легендарні).** Ваш бонус майстерності збільшується на 1 в той час як цей блідо-зелений призм орбітує вашу голову.
 
-**Protection (Rare).** You gain a +1 bonus to AC while this dusty rose prism orbits your head.
+**Захист (Рідкіс).** Ви отримуєте +1 бонус до AC в той час як ця брудна призма зросту орбіта вашої голови.
 
-**Regeneration (Legendary).** You regain 15 hit points at the end of each hour this pearly white spindle orbits your head, provided that you have at least 1 hit point.
+**Відновлення (Легендарний).** Ви знову можете повернути 15 очків в кінець кожної години цієї грубої білій шпинделя орбітнути головою, за умови, що ви маєте принаймні 1 пункт.
 
-**Reserve (Rare).** This vibrant purple prism stores spells cast into it, holding them until you use them. The stone can store up to 3 levels worth of spells at a time. When found, it contains 1d4 − 1 levels of stored spells chosen by the GM.
+**Резерв (рідкісний).** Цей яскравий фіолетовий призм зберігає заклинання, тримаючи їх, поки ви не використаєте їх. Камінь може зберігати до 3 рівнів за раз. Коли знайдено, він містить 1d4 - 1 рівня збережених заклинань, обраних GM.
 
-Any creature can cast a spell of 1st through 3rd level into the stone by touching it as the spell is cast. The spell has no effect, other than to be stored in the stone. If the stone can't hold the spell, the spell is expended without effect. The level of the slot used to cast the spell determines how much space it uses.
+Будь-яка істота може транслювати заклинання 1-го рівня в каменю шляхом дотику до нього як заклинання враховується. Зачарування неможливе, крім того щоб зберігатись на камені. Якщо камінь не може тримати заклинання, то орфографія надсилається без ефекту. Рівень слота, який буде використано, щоб кинути заклинання визначає, скільки місця він використовує.
 
-While this stone orbits your head, you can cast any spell stored in it. The spell uses the slot level, spell save DC, spell attack bonus, and spellcasting ability of the original caster, but is otherwise treated as if you cast the spell. The spell cast from the stone is no longer stored in it, freeing up space.
+Хоча ця кам’яна орбіта вашої голови, ви можете віддати будь-яку заклинання що зберігається в ній. заклинання використовує рівень слоту, заощадити DC, заклинання атак допомогою заклинання і здатність орфографії його оригінального замку, але інакше трактуються так, ніби ви кидаєте орфографію. Перекладений орфографією камінь більше не зберігається в ньому, звільняючи простір.
 
-**Strength (Very Rare).** Your Strength score increases by 2, to a maximum of 20, while this pale blue rhomboid orbits your head.
+**Сила (Дуже рідкісна).** Оцінка вашого рівня збільшується на 2, до максимум 20, в той час як цей блідий синій рубовий орбіт вашої голови.
 
-**Sustenance (Rare).** You don't need to eat or drink while this clear spindle orbits your head. 
+**Стійкість (Рідка).** Ви не повинні їсти та пити, поки ця чітка шпинделя орбіта голови. 
