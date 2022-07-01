@@ -1,13 +1,13 @@
-name: Dire Wolf type: beast cr: 1
+назва: Вовк тип: тварина cr: 1
 
-# Dire Wolf
-_Large beast, unaligned_
+# Лютововк
+_Великий звір, неприєднаний_
 
-**Armor Class** 14 (natural armor)    
-**Hit Points** 37 (5d10 + 10)    
-**Speed** 50 ft.
+**Клас броні** 14 (природна броня)    
+**Бали** 37 (5d10 + 10)    
+**Швидкість** фут.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 17 (+3) | 15 (+2) | 15 (+2) | 3 (−4) | 12 (+1) | 7 (−2) |
 
@@ -16,8 +16,8 @@ _Large beast, unaligned_
 **Languages** --    
 **Challenge** 1 (200 XP)
 
-**Keen Hearing and Smell.** The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.    
-**Pack Tactics.** The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.
+**Цілком серце і пахне.** Вовк скористався годинником у мудрості (Виключення) перевірками, які покладаються на слух або запах.    
+**Тактики з пакету.** вовк має перевагу на атаці, яка бігає проти істоти, якщо принаймні один з союзників вовка знаходиться на протязі 5 футів істоти, і союзник не недієздатний.
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone. 
+### Дії
+**Біт.** _Атака ближньої зброї:_ +5 до удару, досягає 5-ї цілі, одна мета. _Вразів:_ 10 (2d6 + 3) наносити пошкодження. Якщо ціль є створенням, вона має бути успішною в заощадженні DC 13 або бути постукованою часткою. 
