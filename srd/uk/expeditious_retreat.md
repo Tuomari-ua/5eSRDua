@@ -1,11 +1,11 @@
-name: Expeditious Retreat level: 1 school: transmutation classes: sorcerer warlock wizard
+назва: Експедиційна Ретрита рівень: 1 школа: транмутація класи: сортувальник воронка
 
-# Expeditious Retreat
-_1st-level transmutation_
+# Експедиційний сітсітчастий
+_11-ша трансмутація_
 
 **Casting Time:** 1 bonus action    
 **Range:** Self    
 **Components:** V, S    
 **Duration:** Concentration, up to 10 minutes
 
-This spell allows you to move at an incredible pace. When you cast this spell, and then as a bonus action on each of your turns until the spell ends, you can take the Dash action. 
+Ця заклинання дозволяє вам рухатися у неймовірному темпі. Коли ви кидаєте це заклинання, а потім як бонус по кожному з поворотів, поки не закінчиться заклинання ви можете вдатися в дію Dash . 
