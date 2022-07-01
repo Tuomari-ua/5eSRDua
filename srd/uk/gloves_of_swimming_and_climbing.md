@@ -1,6 +1,6 @@
-name: Gloves of Swimming and Climbing type: item
+назва: Рукавички плавання і Сходження типу: елемент
 
-# Gloves of Swimming and Climbing
-_Wondrous item, uncommon (requires attunement)_
+# Рукавиці плавання і скелелазіння
+_Нетиповий предмет Wondrous (вимагає приєднання)_
 
-While wearing these gloves, climbing and swimming don't cost you extra movement, and you gain a +5 bonus to Strength (Athletics) checks made to climb or swim.
+Під час одягу ці рукавички, сходження та плавання не коштували вам додаткового руху, і ви отримуєте +5 бонус в силу (атлетики) перевірки, зроблені для підйому або плавання.
