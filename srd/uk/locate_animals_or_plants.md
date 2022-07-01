@@ -1,11 +1,11 @@
-name: Locate Animals or Plants level: 2 school: divination classes: bard druid ranger
+назва: Знайдіть тварин або рослин рівень: 2 школу: divination класі: Бард druid ranger
 
-# Locate Animals or Plants
-_2nd-level divination (ritual)_
+# Знайти тварин або рослин
+_Божественне нарахування на 2N-рівні (ритуал)_
 
-**Casting Time:** 1 action    
-**Range:** Self    
-**Components:** V, S, M (a bit of fur from a bloodhound)    
-**Duration:** Instantaneous
+**Кастинг часу:** 1 дія    
+**Діапазон:** Самостій    
+**компоненти:** V, S, М (трохи хутра від кровообігу)    
+**тривалість:** миттєві
 
-Describe or name a specific kind of beast or plant. Concentrating on the voice of nature in your surroundings, you learn the direction and distance to the closest creature or plant of that kind within 5 miles, if any are present. 
+Опишіть або назвіть особливий звір або рослину. Зосереджуючись на голосі природи в ваших оточеннях, ви дізнаєтесь напрям і відстань до найближчої істоти або рослини такого роду на протязі 5-ти миль, якщо є які-небудь присутні. 
