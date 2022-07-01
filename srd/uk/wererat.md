@@ -1,27 +1,27 @@
-name: Wererat type: humanoid (human, shapechanger) cr: 2
+назва: Верат тип: humanoid (людина, кимчанг) cr: 2
 
-# Wererat
-_Medium humanoid (human, shapechanger), lawful evil_
+# Верерат
+_Середній гуманоїд (людина, шестилу), законний злий_
 
 **Armor Class** 12    
 **Hit Points** 33 (6d8 + 6)    
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA    |
 | ------- | ------- | ------- | ------- | ------- | ------ |
 | 10 (+0) | 15 (+2) | 12 (+1) | 11 (+0) | 10 (+0) | 8 (−1) |
 
-**Skills** Perception +2, Stealth +4    
-**Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons    
-**Senses** darkvision 60 ft. (rat form only), passive Perception 12    
-**Languages** Common (can't speak in rat form)    
-**Challenge** 2 (450 XP)
+**Навичка** Перехоплення +2, Stealth +4    
+**Пошкодження** bludgeining, протекція, і розрізання за немагічними атаками без срібної зброї    
+**Senses** Температури 60фут. (доступно тільки дротову форму), пасивне сприйняття 12    
+**мови** загальних (не можна говорити форм)    
+виклик**виклик** (450 XP)
 
-**Shapechanger.** The wererat can use its action to polymorph into a rat-humanoid hybrid or into a giant rat, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.    
-**Keen Smell.** The wererat has advantage on Wisdom (Perception) checks that rely on smell.
+**Посипає.** Вернат може використовувати його дію для поліморфа в спуманоїдальний гібрид або гігантського щура, або ж знову у його вірну форму, що є Гуманоїдом. Його статистика, окрім його розміру, є однаковими у кожній формі. Будь-яке спорядження воно одягнуте або перенесене не перетворюється. Він повертається до його справжньої форми, коли воно загине.    
+**Кін Смолл.** Верат скористався мудрістю (Винятком) перевірками, які покладаються на запах.
 
-### Actions
-**Multiattack (Humanoid or Hybrid Form Only).** The wererat makes two attacks, only one of which can be a bite.    
-**Bite (Rat or Hybrid Form Only).** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 11 Constitution saving throw or be cursed with wererat lycanthropy.    
-**Shortsword (Humanoid or Hybrid Form Only).** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.    
-**Hand Crossbow (Humanoid or Hybrid Form Only).** _Ranged Weapon Attack:_ +4 to hit, range 30/120 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.
+### Дії
+**Мультиатака (лише гуманоїд або гібридна форма).** Вернат робить дві атаки, лише один з яких може бути трохи почастим.    
+**Кусайте (тільки Щат або Гібридна форма).** _Атака ближньої зброї:_ +4 щоб вдарити, досягти 5-ти цілі, одна ціль. _Вразів:_ 4 (1d4 + 2) проколювання пошкоджень. Якщо ціль є гуманоїдом, вона повинна досягти успіху в збереженні Конституції DC 11 або бути висунута як бутовий лікантроп.    
+**Короткий меч (лише Гуманоїд або Гібридна форма).** _Атака ближньої зброї:_ +4 щоб вдарити в нього, досягти 5-ти ціль, одну ціль. _Вдач:_ 5 (1d6 + 2) пробиваючи пошкодження.    
+**Ручний арбалет (Гуманоїд або Гібридний Форму лише разом).** _Атака дальньої зброї:_ +4 щоб вдарити, діапазон 30/120 футів. _Вразів:_ 5 (1d6 + 2) пробивання пошкоджень.
