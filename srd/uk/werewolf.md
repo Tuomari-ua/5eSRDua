@@ -1,13 +1,13 @@
-name: Werewolf type: humanoid (human, shapechanger) cr: 3
+назва: Вертлоф тип: Хуманоїд (людина, кислий кут) cr: 3
 
-# Werewolf
-_Medium humanoid (human, shapechanger), chaotic evil_
+# Перевертні
+_Середній гуманоїд (людина, шестилу) хаотичний злий_
 
 **Armor Class** 11 in humanoid form, 12 (natural armor) in wolf or hybrid form    
 **Hit Points** 58 (9d8 + 18)    
 **Speed** 30 ft. (40 ft. in wolf form)
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 15 (+2) | 13 (+1) | 14 (+2) | 10 (+0) | 11 (+0) | 10 (+0) |
 
@@ -17,11 +17,11 @@ _Medium humanoid (human, shapechanger), chaotic evil_
 **Languages** Common (can't speak in wolf form)    
 **Challenge** 3 (700 XP)
 
-**Shapechanger.** The werewolf can use its action to polymorph into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.    
-**Keen Hearing and Smell.** The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+**Посипає.** Вовк може використовувати його дію для поліморфа у вовкогуманоїдному гібриді або вовку, або ж знову у його вірну форму, що є Гуманоїдом. Її статистика, відмінна від АВ, є однаковими у кожній формі. Будь-яке спорядження воно одягнуте або перенесене не перетворюється. Він відкриває справжню форму, коли вона помирає.    
+**Кисло серце та пахне.** Вовк скористався мудрістю (Винятком) перевірками, які покладаються на слух або нюх.
 
-### Actions
-**Multiattack. (Humanoid or Hybrid Form Only).** The werewolf makes two attacks: one with its bite and one with its claws or spear.    
-**Bite (Wolf or Hybrid Form Only).** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with werewolf lycanthropy.    
-**Claws. (Hybrid Form Only).** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 7 (2d4 + 2) slashing damage.    
-**Spear (Humanoid Form Only).** _Melee or _Ranged Weapon Attack:__ +4 to hit, reach 5 ft. or range 20/60 ft., one creature. _Hit:_ 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.
+### Дії
+**Багатоатака. (Лишень Гуманоїд або Гібридний Форм).** Вовк робить дві атаки: один з них кусає, а один - його кігті або списом.    
+**Кусайте (лише вовк або гібридна форма).** _Атака ближньої зброї:_ +4 щоб вдарити в нього, досягти 5-ти цілі, одну ціль. _Вразів:_ 6 (1d8 + 2) пошкодження вводу. Якщо ціль є гуманоїдом, вона повинна досягти успіху в збереженні Конституції DA 12 жбурлянь або бути проклята із лайкантропією вовка.    
+**клешок. (Лише гібридна форма).** _Атака середньої зброї:_ +4 - до удару, досягає 5 футів, одна істота. _Вдач:_ 7 (2d4 + 2) удар пошкодження.    
+**Спис (лише форма вологості).** _Атака ближнього або _Стрільбища Зброї:__ +4, щоб влучити в 5 футів або діапазон 20/60, одна істота. _Вразу:_ 5 (1d6 + 2) пробивання пошкодження, або 6 (1d8 + 2) пробирається пошкодження, якщо використовується з двома руками, щоб зробити атаку ближнього бою.
