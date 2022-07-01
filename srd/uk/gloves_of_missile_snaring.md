@@ -1,6 +1,6 @@
-name: Gloves of Missile Snaring type: item
+назва: Рукавички клацання типу: предмет
 
-# Gloves of Missile Snaring
-_Wondrous item, uncommon (requires attunement)_
+# Рукавиці Ракет
+_Нетиповий предмет Wondrous (вимагає приєднання)_
 
-These gloves seem to almost meld into your hands when you don them. When a ranged weapon attack hits you while you're wearing them, you can use your reaction to reduce the damage by 1d10 + your Dexterity modifier, provided that you have a free hand. If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in that hand. 
+Ці рукавички, здається, ніби зноситься в руки, коли ви їх не помічаєте. Коли атака на зброю дальнього бою вдаряється у вас, коли ви носите їх ви можете використати свою реакцію, щоб зменшити шкоду на 1d10 + ваш модифікатори Dexterity, за умови, що у вас є безкоштовна рука. Якщо зменшити пошкодження до 0, ви можете впіймати ракету, якщо це досить маленько, щоб утримувати цю руку. 
