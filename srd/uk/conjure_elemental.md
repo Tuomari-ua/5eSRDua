@@ -1,15 +1,15 @@
-name: Conjure Elemental level: 5 school: conjuration classes: druid wizard
+назва: Майстер налаштовування елементу рівня: 5 школа: конджТривалість класів: druid майстер
 
-# Conjure Elemental
-_5th-level conjuration_
+# Кон'юре Елементаль
+_5-ти рівнева тривалість_
 
-**Casting Time:** 1 minute    
-**Range:** 90 feet    
-**Components:** V, S, M (burning incense for air, soft clay for earth, sulfur and phosphorus for fire, or water and sand for water)    
-**Duration:** Concentration, up to 1 hour
+**Час Кастингу:** 1 хвилину    
+**Діапазон:** 90 футів    
+**компоненти:** V, S, М (пальне споживання копій для повітря, м'яка глина Землі, сірка і фосфору для вогню, або вода та пісок у воду    
+**тривалість:** концентру, до 1 години
 
-You call forth an elemental servant. Choose an area of air, earth, fire, or water that fills a 10-foot cube within range. An elemental of challenge rating 5 or lower appropriate to the area you chose appears in an unoccupied space within 10 feet of it. For example, a fire elemental emerges from a bonfire, and an earth elemental rises up from the ground. The elemental disappears when it drops to 0 hit points or when the spell ends.    
-The elemental is friendly to you and your companions for the duration. Roll initiative for the elemental, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don't issue any commands to the elemental, it defends itself from hostile creatures but otherwise takes no actions.    
-If your concentration is broken, the elemental doesn't disappear. Instead, you lose control of the elemental, it becomes hostile toward you and your companions, and it might attack. An uncontrolled elemental can't be dismissed by you, and it disappears 1 hour after you summoned it. The GM has the elemental's statistics.
+Ви викличете стихійного слуга. Вибирати ділянку повітря, Землі, вогню або води, яка заповнює 10-футовий кубик у радіусі дистанції. Елемент оцінки оцінки 5 або нижчий рейтинг обраної вами галузі зустрічається в незайнятому просторі у межах 10 футів. Наприклад, з вогнища з'являється пожежна атмосфера, а земля височіє з землі. Елемент зникає, коли він падає на 0 хітів або коли заклинання закінчується.    
+Елемент дружній до вас і ваших супутників на тривалість. Скральна ініціатива щодо елементарного, яка має свій поворот. Це об'єднує будь-які вербальні команди, які ви задаєте на нього (ніяких дій, необхідних вам). Якщо ви не задаєте жодних команд на елемент, вона захищається від ворожих істот, але в іншому випадку не виконується.    
+Якщо ваша концентрація зламана, елементи не зникають. Натомість, ви втрачаєте контроль над елементом, вона стає вороже до вас і до ваших компаньйонів, і вона може атакувати. Не може вас відхилити неконтрольований елемент. Він зникає через 1 годину після вашого покликання. GM має статистику елемента.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the challenge rating increases by 1 for each slot level above 5th. 
+**На вищих рівнях.** Коли ви кидаєте це заклинання використовуючи слот 6-го рівня або вище, рейтинг завдання збільшує на 1 для кожного слоту вище 5-го рівня. 
