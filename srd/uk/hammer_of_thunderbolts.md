@@ -1,10 +1,10 @@
-name: Hammer of Thunderbolts type: weapon
+назва: Молот Thunderbolts type: зброя
 
-# Hammer of Thunderbolts
-_Weapon (maul), legendary_
+# Молот громовець
+_Зброя (фальшива), легендарна_
 
-You gain a +1 bonus to attack and damage rolls made with this magic weapon.
+Ви отримуєте бонус +1 для атаки та ушкодження зроблені за допомогою цієї чарівної зброї.
 
-**Giant's Bane (Requires Attunement)**. You must be wearing a **belt of giant strength** (any variety) and **gauntlets of ogre power** to attune to this weapon. The attunement ends if you take off either of those items. While you are attuned to this weapon and holding it, your Strength score increases by 4 and can exceed 20, but not 30. When you roll a 20 on an attack roll made with this weapon against a giant, the giant must succeed on a DC 17 Constitution saving throw or die.
+**Байн Гіганта (потрібна Атака)**. Ви повинні мати **конвеєр з сильною силою** (будь-який варіант) і **рукавички огри** щоб опанувати цю зброю. Відвідування закінчиться, якщо ви знімаєте будь-який з цих предметів. Доки ви тримаєтеся в зброї і тримаєте її, ваша сила збільшується на 4 і може перевищувати 20, але не на 30. Коли ви відколюєте 20 на атаку, зроблений з цією зброєю проти гіганта, гігант повинен досягти успіху в ряді Конституції 17, або померти від Конституції.
 
-The hammer also has 5 charges. While attuned to it, you can expend 1 charge and make a ranged weapon attack with the hammer, hurling it as if it had the thrown property with a normal range of 20 feet and a long range of 60 feet. If the attack hits, the hammer unleashes a thunderclap audible out to 300 feet. The target and every creature within 30 feet of it must succeed on a DC 17 Constitution saving throw or be stunned until the end of your next turn. The hammer regains 1d4 + 1 expended charges daily at dawn. 
+Молот також має 5 зарядів. Дотримуючись цього, ви можете подовжити 1 заряд і зробити для дальньої зброї атакою з молотом, Якщо б кинуто властивість як в звичайній ділянці 20 футів і довгий діапазон 60 футів. Якщо атака влучить, то молот розкриє гучний грозовий стукіт близько 300 футів. Ціль і кожна істота в межах 30 футів її має досягти успіху у процесі створення конституції DC 17 чи бути приголомшена до кінця наступного кроку. Молот щодня відновлює 1d4 + 1 витрати на світанку. 
