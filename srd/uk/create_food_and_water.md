@@ -1,11 +1,11 @@
-name: Create Food and Water level: 3 school: conjuration classes: cleric paladin
+назва: Створення їжі та води рівень: 3 школу: conjuration класів: cleric Paladin
 
-# Create Food and Water
-_3rd-level conjuration_
+# Створіть їжу та воду
+_Однорівнева тривалість_
 
-**Casting Time:** 1 action    
-**Range:** 30 feet    
-**Components:** V, S    
-**Duration:** Instantaneous
+**Час трансляції :** 1 дія    
+**Діапазон:** 30 футів    
+**компоненти:** V, S    
+**тривалість:** миттєві
 
-You create 45 pounds of food and 30 gallons of water on the ground or in containers within range, enough to sustain up to fifteen humanoids or five steeds for 24 hours. The food is bland but nourishing, and spoils if uneaten after 24 hours. The water is clean and doesn't go bad. 
+Ви створюєте 45 фунтів їжі і 30 галонів води на землі, або у контейнерах в межах однієї ділянки, достатньо, щоб підтримувати до п'ятнадцяти гуманоїдів, або п'ять місць протягом 24 годин. Їжа чудернає, але втамовує їжу, і здобич, якщо не їстиме через 24 години. Вода чиста і не піде погано. 
