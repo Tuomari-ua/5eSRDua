@@ -1,20 +1,20 @@
-name: Thaumaturgy level: 0 school: transmutation classes: cleric
+назва: Тауматургія рівень: 0 школа: транмутація класи: клерик
 
 # Thaumaturgy
-_Transmutation cantrip_
+_Трансмутація_
 
 **Casting Time:** 1 action    
 **Range:** 30 feet    
 **Components:** V    
 **Duration:** Up to 1 minute
 
-You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within range:
+Ви проявляєте незначне чудо, знак надприродної сили в раді. Ви створюєте один з таких магічних ефектів в межі:
 
-* Your voice booms up to three times as loud as normal for 1 minute.
-* You cause flames to flicker, brighten, dim, or change color for 1 minute.
-* You cause harmless tremors in the ground for 1 minute.
-* You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.
-* You instantaneously cause an unlocked door or window to fly open or slam shut.
-* You alter the appearance of your eyes for 1 minute.
+* Ваш голос лунає аж втричі голосніше, як завжди, на одну хвилину.
+* Ви запалюєте мерехтіння, яскравість або зміна кольору на 1 хвилину.
+* Ви спричиняєте нешкідливі тремтіння на одну хвилину.
+* Ви створюєте миттєвий звук, який випливає з точки вашого вибору в діапазоні, такі, як гуркіт грому, крик крук або зловісний шепот.
+* Ви миттєво зачиняєте відчинені двері або вікна, щоб відкрити чи грюкнути небо.
+* Змінюйте зовнішній вигляд ваших очей на 1 хвилину.
 
-If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action. 
+Якщо ви кидаєте це заклинання багато разів, ви можете мати до трьох його 1-хвилинного ефекту одночасно, і ви можете відхилити такий ефект, як дія. 
