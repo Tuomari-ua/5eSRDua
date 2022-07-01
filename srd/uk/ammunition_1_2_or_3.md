@@ -1,6 +1,6 @@
-name: Ammunition, +1, +2 or +3 type: weapon
+назва: Ammunition, +1, +2 або +3 типу : зброя
 
-# Ammunition, +1, +2, or +3
-_Weapon (any ammunition), uncommon (+1), rare (+2), or very rare (+3)_
+# Боєприпаси, +1, +2, або +3
+_Зброя (будь які боєприпаси, рідкість (+1), рідкісна (+2) або дуже рідкісна (+3)_
 
-You have a bonus to attack and damage rolls made with this piece of magic ammunition. The bonus is determined by the rarity of the ammunition. Once it hits a target, the ammunition is no longer magical. 
+У вас є бонус до атаки та ушкодження зроблені цим набором магічних боєприпасів. Бонус визначається рідкістю боєприпасів. Як тільки він досягне цілі, боєприпаси вже не є магічними. 
