@@ -1,11 +1,11 @@
-name: Spare the Dying level: 0 school: necromancy classes: cleric
+ім'я: шпигун вмирає рівень: 0 школа: некромантність класи: копію
 
-# Spare the Dying
-_Necromancy cantrip_
+# Заварювання смерті
+_Некромантія_
 
 **Casting Time:** 1 action    
 **Range:** Touch    
 **Components:** V, S    
 **Duration:** Instantaneous
 
-You touch a living creature that has 0 hit points. The creature becomes stable. This spell has no effect on undead or constructs.
+Ви торкаєтеся живої істоти, яка має 0 очків. Ця істота стає стабільною. Ця заклинання не впливає на незгадані чи конструкції.
