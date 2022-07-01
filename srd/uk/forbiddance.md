@@ -1,14 +1,14 @@
-name: Forbiddance level: 6 school: abjuration classes: cleric
+назва: Переміщення рівень: 6 школа: abjuration класи: священнослужителя
 
 # Forbiddance
-_6th-level abjuration (ritual)_
+_Раженість в шостому рівні (ритуал)_
 
-**Casting Time:** 10 minutes    
-**Range:** Touch    
-**Components:** V, S, M (a sprinkling of holy water, rare incense, and powdered ruby worth at least 1,000 gp)    
-**Duration:** 1 day
+**Час трансляції :** 10 хвилин    
+**Діапазон:** Торкніться    
+**компоненти:** V, S, М (розбризкування святої води, рідкісних стимулів та порошеного руйнування вартістю щонайменше 1, 00 потоку)    
+**тривалість:** дні
 
-You create a ward against magical travel that protects up to 40,000 square feet of floor space to a height of 30 feet above the floor. For the duration, creatures can't teleport into the area or use portals, such as those created by the **_gate_** spell, to enter the area. The spell proofs the area against planar travel, and therefore prevents creatures from accessing the area by way of the Astral Plane, Ethereal Plane, Feywild, Shadowfell, or the **_plane shift_** spell.    
-In addition, the spell damages types of creatures that you choose when you cast it. Choose one or more of the following: celestials, elementals, fey, fiends, and undead. When a chosen creature enters the spell's area for the first time on a turn or starts its turn there, the creature takes 5d10 radiant or necrotic damage (your choice when you cast this spell).    
-When you cast this spell, you can designate a password. A creature that speaks the password as it enters the area takes no damage from the spell.    
-The spell's area can't overlap with the area of another **_forbiddance_** spell. If you cast **_forbiddance_** every day for 30 days in the same location, the spell lasts until it is dispelled, and the material components are consumed on the last casting. 
+Ви створюєте нагороду проти магічних подорожей, які захищають до 40, 00 квадратних футів площею до висоти над підлогою. Для тривалість, істоти не можуть переміщуватися в область або використовувати портали, такі, що створюються **_ворота_** заклинають, щоб ввести область. Зачарування видає територію на противагу подорожам рослин, і тому запобігає доступу істот до території шляхом Астральної площі, Ethereal Plane, Feywild, Shadowfell, або **_зсув площини_** орфографію.    
+Крім того, заклинання пошкоджує типи істот, які ви обрали, коли кидаєте їх. Оберіть один чи більше таких: небесні, елементи, подразники, святі, вояки та немертві. Коли вибрана істота заходить в область заклинання вперше, після початку чи розпочинає свою чергу, там, істота набуває 5d10 радіантних або некротичних ушкоджень (ваш вибір, коли ви кидаєте цього заклинання).    
+Коли ви кидаєте це заклинання ви можете створити пароль. Створіння, яке говорить паролем, коли воно входить в область, не завдає шкоди від заклинання.    
+Область заклинання не може накладатися площею іншої **_заборона_** орфографії. Якщо ви кидаєте **_заборону_** кожен день на 30 днів в тому ж місці, заклинання триває поки воно не буде розірвано, і матеріальні компоненти споживаються на останньому прилисті. 
