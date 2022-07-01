@@ -1,15 +1,15 @@
-name: Wall of Fire level: 4 school: evocation classes: druid sorcerer wizard
+назва: Стіна Вогняного рівень: 4 школи: евокація класі: druid сортувальник
 
-# Wall of Fire
-_4th-level evocation_
+# Стіна вогню
+_Евокація четвертого рівня_
 
-**Casting Time:** 1 action    
-**Range:** 120 feet    
-**Components:** V, S, M (a small piece of phosphorus)    
-**Duration:** Concentration, up to 1 minute
+**Час трансляції часу:** 1 дія    
+**Діапазон:** 120 футів    
+**компоненти:** V, S, М (невеликий шматочок фосфору)    
+**тривалість:** Зосередження, і до 1 хвилини
 
-You create a wall of fire on a solid surface within range. You can make the wall up to 60 feet long, 20 feet high, and 1 foot thick, or a ringed wall up to 20 feet in diameter, 20 feet high, and 1 foot thick. The wall is opaque and lasts for the duration.    
-When the wall appears, each creature within its area must make a Dexterity saving throw. On a failed save, a creature takes 5d8 fire damage, or half as much damage on a successful save.    
-One side of the wall, selected by you when you cast this spell, deals 5d8 fire damage to each creature that ends its turn within 10 feet of that side or inside the wall. A creature takes the same damage when it enters the wall for the first time on a turn or ends its turn there. The other side of the wall deals no damage.
+Ви створюєте стіну вогню на суцільній поверхні в радіусі. Стіна можна зробити до 60 футів завдовжки 20 футів заввишки і 1 фут, товщина, або кільцева стіна висотою до 20 футів у діаметрі, висотою в 20 футів і товщиною на 1 фут. Стіна непрозора, а вона триває довго.    
+При появі стіни, кожна істота в межах своєї області повинна зробити згубну шкоду. У разі невдалого збереження істота завдає 5d8 шкоди пожежу або удвічі більше шкоди від успішної економії.    
+Одна сторона стіни, вибрана вами. Коли ви кинули це заклинання, завдає шкоди 5d8 вогню кожному істоту, яка завершує свою чергу на 10 футів від тієї сторони або всередині стіни. Істота набуває того ж саме пошкодження, коли вона вперше зайде в стіну або закінчується своєю чергою. Інша сторона стіни не завдає пошкоджень.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d8 for each slot level above 4th. 
+**На вищих рівнях.** Коли ви кидаєте це заклинання використовуючи гніздо 5-го рівня або вище, шкода збільшується на 1d8 для кожного слоту вище 4-го рівня. 
