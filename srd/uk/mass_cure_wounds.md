@@ -1,13 +1,13 @@
-name: Mass Cure Wounds level: 5 school: evocation classes: bard cleric druid
+назва: Ліки масодійних осей рівень: 5 школа: евокація класі: Бард духовий druid
 
-# Mass Cure Wounds
-_5th-level evocation_
+# Масові рани лікування
+_Евокація 5-го рівня_
 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S    
-**Duration:** Instantaneous
+**Час трансляції :** 1 дія    
+**Діапазон:** 60 футів    
+**компоненти:** V, S    
+**тривалість:** миттєві
 
-A wave of healing energy washes out from a point of your choice within range. Choose up to six creatures in a 30-foot-radius sphere centered on that point. Each target regains hit points equal to 3d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+Хвиля зцілення енергії миє з точки зору вашого вибору в межах діапазону. Виберіть до шести істот у довжині 30-футового радіуса, орієнтованих на цю точку. Кожна ціль знову отримує бали що рівні 3d8 + модифікатор орфографії. Ця заклинання не впливає на незгадані чи конструкції.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the healing increases by 1d8 for each slot level above 5th. 
+**На вищих рівнях.** Коли ви кидаєте це заклинання використовуючи слот 6-го рівня або вище, зцілення збільшується на 1d8 для кожного рівня слота вище 5 частин. 
