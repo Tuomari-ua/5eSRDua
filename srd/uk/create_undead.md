@@ -1,15 +1,15 @@
 name: Create Undead level: 6 school: necromancy classes: cleric warlock wizard
 
-# Create Undead
-_6th-level necromancy_
+# Створити немертвий
+_Некромантія 6-го рівня_
 
-**Casting Time:** 1 minute    
-**Range:** 10 feet    
-**Components:** V, S, M (one clay pot filled with grave dirt, one clay pot filled with brackish water, and one 150 gp black onyx stone for each corpse)    
-**Duration:** Instantaneous
+**Час трансляції:** 1 хвилину    
+**Діапазон:** 10 футів    
+**компоненти:** V, S, M (глиняний горщик, наповнений могилковою грунтом, наповнений глиняною водою, і один 150 величезних каменю чорної онікса для кожного трупу)    
+**тривалість:** миттєві
 
-You can cast this spell only at night. Choose up to three corpses of Medium or Small humanoids within range. Each corpse becomes a ghoul under your control. (The GM has game statistics for these creatures.)    
-As a bonus action on each of your turns, you can mentally command any creature you animated with this spell if the creature is within 120 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete.    
-The creature is under your control for 24 hours, after which it stops obeying any command you have given it. To maintain control of the creature for another 24 hours, you must cast this spell on the creature before the current 24-hour period ends. This use of the spell reasserts your control over up to three creatures you have animated with this spell, rather than animating new ones.
+Ви можете кинути це заклинання тільки вночі. Виберіть до трьох трупів середнього або малих гуманоїдів в раді. Кожний труп перетворюється на привид під вашим контролем. (GM має статистику для створення цих істот.    
+Які види бонусної дії по кожному з ваших поворотів, подумки можуть керувати будь-якою істотою, яку анімували цим заклинанням, якщо істота знаходиться на відстані 120 футів від вас (якщо ви контролюєте кілька істот, ви можете командувати будь-якими або всіма ними одночасно, видаючи одну й ту ж команду кожному). Ви вирішили, які створіння настане, і куди вона рухатиметься під час наступного кроку, або можете видавати загальну команду, таку як охороняти особливу камеру або коридор. Якщо ви не випускаєте жодних команд, істота захищається лише від ворожих істот. Здавшись порядку, істота продовжує слідкувати за нею, поки не завершиться завдання.    
+Ця істота перебуває під контролем протягом 24 годин, після чого вона припиняє затягування будь-якої команди, яку ви надали. Щоб зберегти контроль над істотою ще на 24 години, ви повинні помістити це заклинання на істоту до закінчення поточного 24-годинного періоду. Це використання заклинання перевіряє ваш контроль до трьох істот ви анімовані з цим заклинанням, а не з анімацією нових елементів.
 
-**At Higher Levels.** When you cast this spell using a 7th-level spell slot, you can animate or reassert control over four ghouls. When you cast this spell using an 8th-level spell slot, you can animate or reassert control over five ghouls or two ghasts or wights. When you cast this spell using a 9th-level spell slot, you can animate or reassert control over six ghouls, three ghasts or wights, or two mummies. 
+**На вищих рівнях.** Коли ви кидаєте це заклинання за допомогою клітинки 7-го рівня, ви можете анімувати або відновлювати контроль над чотирма привидами. Коли ви транслюєте це заклинання використовуючи слот правопису на 8-му рівні, ви можете анімувати або відновлювати контроль над п'ятьма привидами або двома газами або межинами. Коли ви кидаєте це заклинання використовуючи 9-й рівень, ви можете анімувати або відновлювати контроль над шістьма привидами, трьома газами чи сочима, або дві-милями. 
