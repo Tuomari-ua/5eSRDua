@@ -1,7 +1,7 @@
-name: Planar Binding level: 5 school: abjuration classes: bard cleric druid wizard
+назва: Planar Binding рівень: 5 школа: abjuration класі: два ключевий druid
 
-# Planar Binding
-_5th-level abjuration_
+# Планарне пов’язування
+_Тривалість з'єднання 5-го рівня_
 
 
 **Casting Time:** 1 hour    
@@ -9,7 +9,7 @@ _5th-level abjuration_
 **Components:** V, S, M (a jewel worth at least 1,000 gp, which the spell consumes)    
 **Duration:** 24 hours
 
-With this spell, you attempt to bind a celestial, an elemental, a fey, or a fiend to your service. The creature must be within range for the entire casting of the spell. (Typically, the creature is first summoned into the center of an inverted magic circle in order to keep it trapped while this spell is cast.) At the completion of the casting, the target must make a Charisma saving throw. On a failed save, it is bound to serve you for the duration. If the creature was summoned or created by another spell, that spell's duration is extended to match the duration of this spell.    
-A bound creature must follow your instructions to the best of its ability. You might command the creature to accompany you on an adventure, to guard a location, or to deliver a message. The creature obeys the letter of your instructions, but if the creature is hostile to you, it strives to twist your words to achieve its own objectives. If the creature carries out your instructions completely before the spell ends, it travels to you to report this fact if you are on the same plane of existence. If you are on a different plane of existence, it returns to the place where you bound it and remains there until the spell ends.
+Після цього заклинання ви намагаєтеся зв'язати небесну картину, стиль, гостину або дирижабль своїй службі. Ця істота має бути в межах діапазону для повного кидання заклинання. (Зазвичай, істота вперше викликана в центр інвертованого магічного кола, щоб тримати її в пастці під час приведення цього заклинання.) Після завершення лиття ціль повинна зробити Харизму збереженням. У разі невдалого збереження він обов'язково служить вам на цей час. Якщо істоту було призвано або створено іншим заклинанням, ця тривалість заклинання продовжується до відповідності тривалості цього заклинання.    
+Спрямована істота повинна дотримуватися найкращих інструкцій щодо його уміння. Ви можете змусити істоту супроводжувати вас у пригоді, охороняти місце або доставити повідомлення. Творчість підкоряє вам лист з інструкціями, але якщо істота вороже до вас, він прагне крутити слова так, щоб досягти власних цілей. Якщо істота виконає ваші вказівки повністю до закінчення заклинання ви повідомляєте про цей факт, якщо ви в одному і тому ж літаку існування. Якщо ви перебуваєте в іншому літаку, він повертається до місця, де ви прив'язали його і залишається, поки заклинання не закінчиться.
 
-**At Higher Levels.** When you cast this spell using a spell slot of a higher level, the duration increases to 10 days with a 6th-level slot, to 30 days with a 7th- level slot, to 180 days with an 8th-level slot, and to a year and a day with a 9th-level spell slot. 
+**На вищих рівнях.** Коли ви кидаєте це заклинання за допомогою слоту вищого рівня, тривалість збільшується до 10 днів з 6-го рівня, до 30 днів з 7х рівнів, до 180 днів з слотом 8-го рівня, і до року і на день 9-го рівня свинцю. 
