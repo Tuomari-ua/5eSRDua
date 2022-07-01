@@ -1,13 +1,13 @@
-name: Magmin type: elemental cr: .5
+назва: Magmin тип: елемент cr: .5
 
-# Magmin
-_Small elemental, chaotic neutral_
+# Магмін
+_Невеликий елементний, хаотичний нейтральний_
 
-**Armor Class** 14 (natural armor)    
-**Hit Points** 9 (2d6 + 2)    
-**Speed** 30 ft.
+**Клас броні** 14 (природна броня)    
+**Бали** 9 (2d6 + 2)    
+**швидкість** фут.
 
-| STR    | DEX     | CON     | INT    | WIS     | CHA     |
+| СТР    | ДЕКС    | CON     | ІНТ    | WIS     | CHA     |
 | ------ | ------- | ------- | ------ | ------- | ------- |
 | 7 (−2) | 15 (+2) | 12 (+1) | 8 (−1) | 11 (+0) | 10 (+0) |
 
@@ -17,8 +17,8 @@ _Small elemental, chaotic neutral_
 **Languages** Ignan    
 **Challenge** 1/2 (100 XP)
 
-**Death Burst.** When the magmin dies, it explodes in a burst of fire and magma. Each creature within 10 feet of it must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one. Flammable objects that aren't being worn or carried in that area are ignited.    
-**Ignited Illumination.** As a bonus action, the magmin can set itself ablaze or extinguish its flames. While ablaze, the magmin sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
+**Смерть вибухнула.** Коли магмін загинув, він вибухає під час вогню та магми. Кожна істота в межах 10 футів її має зробити заощадливість DC 11 заподіяння 7 (2d6) пошкодження від полум'я, або ж удвічі більше шкоди від успішного. Об'єкти з вогнем, які не носяться або не проводяться в цій області.    
+**Ігнорує освітлення.** Як бонусна дія, магніт може встановити лампочку або погасити полум'я. Світле 10 футів від холодного світла, яке випромінює відстань між щаблями.
 
-### Actions
-**Touch.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (2d6) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 3 (1d6) fire damage at the end of each of its turns.
+### Дії
+**Дотик.** _Атака ближньої зброї:_ +4 до удару, досягає 5 висоти і одна мета. _Удачі:_ 7 (2d6) пошкодження вогню. Якщо мета це істота або легкозаймистий об'єкт, вона запалює. Доки істота не візьме до пороху вогонь, ціль забирає пошкодження 3 (1d6) вогню в кінці кожної зі своїх черг.
