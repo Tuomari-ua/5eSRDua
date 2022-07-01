@@ -1,13 +1,13 @@
-name: Maze level: 8 school: conjuration classes: wizard
+назва: Лабіринт рівень: 8 школ: conjuration класи: майстер
 
-# Maze
-_8th-level conjuration_
+# Лабіринт
+_Рівняння 8-го рівня_
 
 **Casting Time:** 1 action    
 **Range:** 60 feet    
 **Components:** V, S    
 **Duration:** Concentration, up to 10 minutes
 
-You banish a creature that you can see within range into a labyrinthine demiplane. The target remains there for the duration or until it escapes the maze.    
-The target can use its action to attempt to escape. When it does so, it makes a DC 20 Intelligence check. If it succeeds, it escapes, and the spell ends (a minotaur or goristro demon automatically succeeds).    
-When the spell ends, the target reappears in the space it left or, if that space is occupied, in the nearest unoccupied space. 
+Виганяєте істоту, яку можна побачити десь у лабіринтовій пустелі. Ціль, що залишилася там протягом довготи або поки вона не втекла з лабіринту.    
+Ціль може використати свою дію для виходу з ладу. Коли це робить так, це робить перевірку інтелекту DC 20. Якщо це вдасться, воно витекло, і заклинання завершується (мінотавр або горістро демон автоматично досягається).    
+Коли заклинання закінчується, ціль з'явиться в області, в якій вона ліворуч або якщо цей простір зайнятий, в найближчому незайнятому просторі. 
