@@ -1,10 +1,10 @@
-name: Bag of Holding type: item
+назва: Мішок з холдингом тип: елемент
 
-# Bag of Holding
-_Wondrous item, uncommon_
+# Мішок Холдинг
+_Нетиповий для Wondrous_
 
-This bag has an interior space considerably larger than its outside dimensions, roughly 2 feet in diameter at the mouth and 4 feet deep. The bag can hold up to 500 pounds, not exceeding a volume of 64 cubic feet. The bag weighs 15 pounds, regardless of its contents. Retrieving an item from the bag requires an action.
+Цей мішок має інтер'єр значно більший за його розміри, приблизно 2 фути в діаметрі в роті та 4 фути глибоко. торба може утримувати до 500 фунтів, не перевищуючи об'єму 64-х кубічних футів. Сумка важить 15 фунтів, незалежно від його вмісту. Для отримання предмета потрібна дія.
 
-If the bag is overloaded, pierced, or torn, it ruptures and is destroyed, and its contents are scattered in the Astral Plane. If the bag is turned inside out, its contents spill forth, unharmed, but the bag must be put right before it can be used again. Breathing creatures inside the bag can survive up to a number of minutes equal to 10 divided by the number of creatures (minimum 1 minute), after which time they begin to suffocate.
+Якщо сумка перевантажена, пронизана або розірвана, вона розпадається і знищена, а її вміст буде розкиданий на астральному літаку. Якщо пакет вимикається назовні, то його вміст кидається неушкодженим, але торба повинна бути поставлена вправо перед тим, як повернутись знову зможе його використати. Дихальні істоти всередині мішки можуть вижити до кількох хвилин, що дорівнює 10 поділити на кількість істот (мінімум 1 хвилини), через який час вони починають задушувати.
 
-Placing a **bag of holding** inside an extradimensional space created by a **handy haversack**, **portable hole**, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened. 
+Розміщення **торки з обмеженням** у межах екстрадиційного простору, створеного на **зручним займенником** **портативний отвір**, або аналогічний предмет миттєво знищує і предмети і відкриває ворота до літака Астраля. Ворота має бути розташований там, де був розміщений один елемент. Будь-яка істота в межах 10 футів воріт всмокнула її у випадкове місце на астральній площині. Хвіртка зачиняється. Хвіртка лише один шлях і не може бути відкрита. 
