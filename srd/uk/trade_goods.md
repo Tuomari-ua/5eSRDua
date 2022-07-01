@@ -1,23 +1,23 @@
-description: Information about different trade goods from the 5th Edition (5e) SRD (System Reference Document).
+опис: інформація про різні торгові товари з 5-ї версії SRD (Документація по Системній Документації).
 
-# Trade Goods
-Most wealth is not in coins. It is measured in livestock, grain, land, rights to collect taxes, or rights to resources (such as a mine or a forest).
+# Торгуйте
+Більшість багатств не в монетах. Він вимірюється худобу, зерном, землею, правами на збір податків або прав на ресурси (наприклад, шахту чи лісу).
 
-Guilds, nobles, and royalty regulate trade. Chartered companies are granted rights to conduct trade along certain routes, to send merchant ships to various ports, or to buy or sell specific goods. Guilds set prices for the goods or services that they control, and determine who may or may not offer those goods and services. Merchants commonly exchange trade goods without using currency. The Trade Goods table shows the value of commonly exchanged goods.
+Гільдії, шляхети та королівство регулюють торгівлю. Цінні компанії надаються права проведення торгівлі певними шляхами, для направлення торговельних кораблів до різних портів, або купівлі чи продажу конкретних товарів. Гільдії встановлюють ціни на товари чи послуги, які вони контролюють, і визначають, хто може або не може пропонувати ці товари та послуги. Торговці зазвичай обмінюються торговими товарами без використання валюти. Таблиця Trade Goods показує вартість зазвичай обміняних товарів.
 
-## Trade Goods table
-| Cost   | Goods                                        |
-| ------ | -------------------------------------------- |
-| 1 cp   | 1 lb. of wheat                               |
-| 2 cp   | 1 lb. of flour or one chicken                |
-| 5 cp   | 1 lb. of salt                                |
-| 1 sp   | 1 lb. of iron or 1 sq. yd. of canvas         |
-| 5 sp   | 1 lb. of copper of 1 sq. yd. of cotton cloth |
-| 1 gp   | 1 lb. of ginger or one goat                  |
-| 2 gp   | 1 lb. of cinnamon or pepper, or one sheep    |
-| 3 gp   | 1 lb. of cloves or one pig                   |
-| 5 gp   | 1 lb. of silver or 1 sq. yd. of linen        |
-| 10 gp  | 1 sq. yd. of silk or one cow                 |
-| 15 gp  | 1 lb. of saffron or one ox                   |
-| 50 gp  | 1 lb. of gold                                |
-| 500 gp | 1 lb. of platinum                            |
+## Торгова таблиця товарів
+| Собівартість | Товари                                     |
+| ------------ | ------------------------------------------ |
+| 1 сп         | 1 фунт пшениці                             |
+| 2 Пр         | 1 фунт борошна або одна курка              |
+| 5 Пр         | 1 фунт солі                                |
+| 1 сп         | 1 фунт заліза або 1 кв. yd. полотна        |
+| 5 сп         | 1 фунт. з міді 1 sq. yd. бавовняна тканина |
+| 1 ґр         | 1 фунт джинджера або один козел            |
+| 2 ґр         | 1 фунт цукерки, перець, одна вівця         |
+| 3 ґп         | 1 фунт згортків або однієї свині           |
+| 5 ґр         | 1 фунт зі срібла або 1 кв. yd. льони       |
+| 10 ґр        | 1 sq. yd. шовк або одна корова             |
+| 15-гр        | 1 фунт з шафрану або одного вола           |
+| 50 ґп        | 1 фунт золота                              |
+| 500 ґр       | 1 фунт                                     |
