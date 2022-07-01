@@ -1,13 +1,13 @@
-name: Produce Flame level: 0 school: conjuration classes: druid
+назва: Виробити Flame рівень: 0 школа: conjuration класи: druid
 
-# Produce Flame
-_Conjuration cantrip_
+# Полум`я
+_Конджонтрофей_
 
 **Casting Time:** 1 action    
 **Range:** Self    
 **Components:** V, S    
 **Duration:** 10 minutes
 
-A flickering flame appears in your hand. The flame remains there for the duration and harms neither you nor your equipment. The flame sheds bright light in a 10-foot radius and dim light for an additional 10 feet. The spell ends if you dismiss it as an action or if you cast it again.    
-You can also attack with the flame, although doing so ends the spell. When you cast this spell, or as an action on a later turn, you can hurl the flame at a creature within 30 feet of you. Make a ranged spell attack. On a hit, the target takes 1d8 fire damage.    
-This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8). 
+У вашій руці з'явиться мерехтіння. Полум'я залишається там ні на час та шкодить ні вам, ні вашому спорядженню. Від полум'я проганяє яскраве світло на 10-футовому радіусі та тьмяне світло для додаткових 10 футів. Лист закінчиться, якщо ви відкинете його як дію, або кинете його знову.    
+можете напасти на полум’я, хоча й завершує заклинання. Коли ви кидаєте це заклинання або як дію на подальший поворот, ви можете довершити полум'я зі своєю істотою в межах 30 футів від вас. Зробити типовим заклинання атакою. У ударі ціль завдає 1d8 шкоди вогню.    
+Пошкодження цього заклинання збільшуються на 1d8, коли ви досягнете 5-го рівня (2d8), 11-го рівня (3d8) та 17-го рівня (4d8). 
