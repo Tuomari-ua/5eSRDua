@@ -1,11 +1,11 @@
-name: Transport via Plants level: 6 school: conjuration classes: druid
+назва: Транспорт через Plants рівень: 6 школа: conjuration класи: druid
 
-# Transport via Plants
-_6th-level conjuration_
+# Транспорт за допомогою рослин
+_Тривалість 6-го рівня_
 
-**Casting Time:** 1 action    
-**Range:** 10 feet    
-**Components:** V, S    
-**Duration:** 1 round
+**Час трансляції часу:** 1 дія    
+**Діапазон:** 10 футів    
+**компоненти:** V, S    
+**тривалість:** 1 раунд
 
-This spell creates a magical link between a Large or larger inanimate plant within range and another plant, at any distance, on the same plane of existence. You must have seen or touched the destination plant at least once before. For the duration, any creature can step into the target plant and exit from the destination plant by using 5 feet of movement. 
+Ця заклинання створює чарівну зв'язок між великою або більшою неживою рослиною в межах діапазону і іншою рослиною, на будь-якій відстані, на тому ж літаку існування. Ви мабуть вже бачили або доторкнулись до місця призначення хоча б раз до того. Протягом тривалого часу будь-яка істота може зайти до цільової станції та вийти з установки призначення, використавши 5 футів руху. 
