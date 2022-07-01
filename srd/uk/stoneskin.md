@@ -1,11 +1,11 @@
-name: Stoneskin level: 4 school: abjuration classes: druid ranger sorcerer wizard
+назва: Камені рівень: 4 школа: abjuration класі: druid кодувальник chcerer
 
-# Stoneskin
-_4th-level abjuration_
+# Стонескін
+_Тривалість четвертого рівня_
 
 **Casting Time:** 1 action    
 **Range:** Touch    
 **Components:** V, S, M (diamond dust worth 100 gp, which the spell consumes)    
 **Duration:** Concentration, up to 1 hour
 
-This spell turns the flesh of a willing creature you touch as hard as stone. Until the spell ends, the target has resistance to nonmagical bludgeoning, piercing, and slashing damage. 
+Це заклинання перетворює м'ясо гострої істоти, до якої ви торкаєтесь так само складно, як до каменю. Поки заклинання не закінчиться, ціль має опір немагічному пронизанню, піруванню та пошкодження шкоди. 
