@@ -1,13 +1,13 @@
-name: Fabricate level: 4 school: transmutation classes: wizard
+назва: Перестановка рівень: 4 школа: передача класів: майстер
 
 # Fabricate
-_4th-level transmutation_
+_4-та трансмутація_
 
-**Casting Time:** 10 minutes    
-**Range:** 120 feet    
-**Components:** V, S    
-**Duration:** Instantaneous
+**Час трансляції :** 10 хвилин    
+**Діапазон:** 120 футів    
+**компоненти:** V, S    
+**тривалість:** миттєві
 
-You convert raw materials into products of the same material. For example, you can fabricate a wooden bridge from a clump of trees, a rope from a patch of hemp, and clothes from flax or wool.    
-Choose raw materials that you can see within range. You can fabricate a Large or smaller object (contained within a 10-foot cube, or eight connected 5-foot cubes), given a sufficient quantity of raw material. If you are working with metal, stone, or another mineral substance, however, the fabricated object can be no larger than Medium (contained within a single 5-foot cube). The quality of objects made by the spell is commensurate with the quality of the raw materials.    
-Creatures or magic items can't be created or transmuted by this spell. You also can't use it to create items that ordinarily require a high degree of craftsmanship, such as jewelry, weapons, glass, or armor, unless you have proficiency with the type of artisan's tools used to craft such objects. 
+Ви перетворюєте сировину в продукти того ж матеріалу. Наприклад, ви можете виготовити дерев'яний міст з грудки дерев, мотузка з клаптику грудки і одяг з льоху чи вовни.    
+Оберіть сировину, яку ви можете побачити за діапазоном. Виготовіть великий або менший об'єкт (що міститься в 10-футовому кубику або на 8 підключених футах), враховуючи достатню кількість сировини. Однак якщо ви працюєте з металу, каменем чи іншим мінеральним змістом казаний об'єкт може бути не більшим за середній (що міститься в одному 5-футовому кубі). Якість об'єктів, виготовлених заклинання співпадає з якістю сировини.    
+істоти або магічні елементи не можуть бути створені і не переключені цим заклинанням. Ви також не можете використовувати їх для створення предметів, які зазвичай вимагають високого ступеня ремісництва, наприклад, прикраси, Зброя, скло чи броня, якщо ви не маєте здібностей з типом інструментів художника, який використовується для виготовлення таких об'єктів. 
