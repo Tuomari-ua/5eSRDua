@@ -1,13 +1,13 @@
-name: Cat type: beast cr: 0
+назва: Cat тип: звір cr: 0
 
-# Cat
-_Tiny beast, unaligned_
+# Кішка
+_Крихітний звір, неприєднаний_
 
-**Armor Class** 12    
-**Hit Points** 2 (1d4)    
-**Speed** 40 ft., climb 30 ft.
+**Клас броні** 12    
+**Очки** 2 (1d4)    
+**швидкість** 40 ft., піднятися на 30 футів.
 
-| STR    | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР    | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------ | ------- | ------- | ------ | ------- | ------ |
 | 3 (−4) | 15 (+2) | 10 (+0) | 3 (−4) | 12 (+1) | 7 (−2) |
 
@@ -16,7 +16,7 @@ _Tiny beast, unaligned_
 **Languages** --    
 **Challenge** 0 (10 XP)
 
-**Keen Smell.** The cat has advantage on Wisdom (Perception) checks that rely on smell.
+**Keen Smell.** Кіт використав у Wisdom (Perception) перевіряє, чи покладаються на запах.
 
-### Actions
-**Claws.** _Melee Weapon Attack:_ +0 to hit, reach 5 ft., one target. _Hit:_ 1 slashing damage. 
+### Дії
+**Кістки** _Атака ближньої зброї:_ +0, щоб ударити на 5, одна ціль. _Удачі:_ 1 удар поштою. 
