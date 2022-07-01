@@ -1,6 +1,6 @@
-name: Oil of Sharpness type: potion
+назва: Олія різкості типу: зілля
 
-# Oil of Sharpness
-_Potion, very rare_
+# Нафта різкості
+_Зілля - дуже рідкісний_
 
-This clear, gelatinous oil sparkles with tiny, ultrathin silver shards. The oil can coat one slashing or piercing weapon or up to 5 pieces of slashing or piercing ammunition. Applying the oil takes 1 minute. For 1 hour, the coated item is magical and has a +3 bonus to attack and damage rolls. 
+Ця клітка, гелатінна нафта з крихітними, ультра-сріблом. Нафта може підстрибувати одну дротику або проколювальну зброю, або до 5 шматків удару або проникливих боєприпасів. Застосування нафти займає 1 хвилину. Протягом 1 години, покритий предмет є магічним і має бонус +3 для атаки та пошкодження роликів. 
