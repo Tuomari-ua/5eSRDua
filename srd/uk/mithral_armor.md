@@ -1,6 +1,6 @@
-name: Mithral Armor type: armor
+назва: Мітральна Броня тип: броня
 
 # Mithral Armor
-_Armor (medium or heavy, but not hide), uncommon_
+_Броня (середній чи важкий, але не приховує), рідкість_
 
-Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn't.
+Мітраль — це легкий гнучкий метал. Мітральна сорочка або грудна пластина можуть одягатися під звичайним одягом. Якщо броня зазвичай накладає нездоланність на стримування (крадіжка) або має вимоги до сильності, мітральну версію броні немає.
