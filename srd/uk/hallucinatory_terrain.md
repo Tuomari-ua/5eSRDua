@@ -1,12 +1,12 @@
-name: Hallucinatory Terrain level: 4 school: illusion classes: bard druid warlock wizard
+назва: Халуцинаторна місцевість рівень: 4 школи: ілюзія класі: Бард druid warlock
 
-# Hallucinatory Terrain
-_4th-level illusion_
+# Галюцинаторна місцевість
+_Ілюзія четвертого рівня_
 
 **Casting Time:** 10 minutes    
 **Range:** 300 feet    
 **Components:** V, S, M (a stone, a twig, and a bit of green plant)    
 **Duration:** 24 hours
 
-You make natural terrain in a 150-foot cube in range look, sound, and smell like some other sort of natural terrain. Thus, open fields or a road can be made to resemble a swamp, hill, crevasse, or some other difficult or impassable terrain. A pond can be made to seem like a grassy meadow, a precipice like a gentle slope, or a rock-strewn gully like a wide and smooth road. Manufactured structures, equipment, and creatures within the area aren't changed in appearance.    
-The tactile characteristics of the terrain are unchanged, so creatures entering the area are likely to see through the illusion. If the difference isn't obvious by touch, a creature carefully examining the illusion can attempt an Intelligence (Investigation) check against your spell save DC to disbelieve it. A creature who discerns the illusion for what it is, sees it as a vague image superimposed on the terrain. 
+Можна виготовляти природний рельєф на 150-футовому кубику при далекому огляді, звук, відчуваючи запах як і на інших природних просторах. Таким чином, відкритими полями чи дорогою можна зробити для того, щоб нагадувати болото, пагорба, кревазу чи іншу складну чи непрохідну дорогу. Ставок можна зробити як трав'яний лук, швидкий, як перший схил, або скельна гулі, як широка й гладка дорога. Виробничі споруди, обладнання та істоти в області не змінюються зовнішнім.    
+Не змінюються тактичні характеристики місцевості, тому істоти, що потрапляють у область огляду на ілюзію. Якщо різниця не очевидна дотиком, істота, що ретельно вивчає ілюзію, може спробувати розвідку (слідкування) перевірити проти вашого заклинання зберегти округ Колумбія, щоб не вірити цьому. Твір, що знає ілюзію про те, що це є, розглядає це як неясне зображення, накладене на землю. 
