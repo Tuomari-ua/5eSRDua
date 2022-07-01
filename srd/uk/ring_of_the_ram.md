@@ -1,8 +1,8 @@
-name: Ring of the Ram type: ring
+назва: Кільце Ram : ring
 
-# Ring of the Ram
-_Ring, rare (requires attunement)_
+# Кільце Раму
+_Рідкісний, рідкісний (вимагає відвідування)_
 
-This ring has 3 charges, and it regains 1d3 expended charges daily at dawn. While wearing the ring, you can use an action to expend 1 to 3 of its charges to attack one creature you can see within 60 feet of you. The ring produces a spectral ram's head and makes its attack roll with a +7 bonus. On a hit, for each charge you spend, the target takes 2d10 force damage and is pushed 5 feet away from you.
+Це кільце має 3 заряди, і воно відновлює щоденну плату в 1d3 витрат. Під час обручки, ви можете використати дію для витрат від 1 до 3 її зарядів, щоб атакувати одну істоту, яку ви можете побачити в межах 60 футів від вас. Кільце виробляє різдвяну мамку і робить її атакою з бонусом +7. Під час кожного заряду, який ви витрачаєте, ціль забирає пошкоджену 2 д10 сил і відштовхне від вас.
 
-Alternatively, you can expend 1 to 3 of the ring's charges as an action to try to break an object you can see within 60 feet of you that isn't being worn or carried. The ring makes a Strength check with a +5 bonus for each charge you spend. 
+Альтернативно, можна дотягнути від 1 до 3 зарядів у вигляді дії, щоб спробувати зламати об'єкт, який знаходиться в межах 60 футів від вас, які не носять і не доставляються. Коганець перевіряє рівень з бонусом +5 за кожен який ви витрачаєте. 
