@@ -1,6 +1,6 @@
-name: Spellguard Shield type: armor
+назва: Щит правопису тип: броня
 
-# Spellguard Shield
-_Armor (shield), very rare (requires attunement)_
+# Щит Визвольної області
+_Броня (щит), дуже рідкісна (потребує супроводу)_
 
-While holding this shield, you have advantage on saving throws against spells and other magical effects, and spell attacks have disadvantage against you. 
+Утримуючи цей щит, ви маєте перевагу над рядом проти заклинання та інших магічних ефектів, і заклинання напали на вас. 
