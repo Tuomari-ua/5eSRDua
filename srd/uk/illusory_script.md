@@ -1,14 +1,14 @@
-name: Illusory Script level: 1 school: illusion classes: bard warlock wizard
+назва: Ilusory Script рівень: 1 школу: ілюзія класів: яскраве варть
 
-# Illusory Script
-_1st-level illusion (ritual)_
+# Сценарій Ілюсорі
+_Ілюзія першого рівня (ритуал)_
 
 **Casting Time:** 1 minute    
 **Range:** Touch    
 **Components:** S, M (a lead-based ink worth at least 10 gp, which the spell consumes)   
 **Duration:** 10 days
 
-You write on parchment, paper, or some other suitable writing material and imbue it with a potent illusion that lasts for the duration.    
-To you and any creatures you designate when you cast the spell, the writing appears normal, written in your hand, and conveys whatever meaning you intended when you wrote the text. To all others, the writing appears as if it were written in an unknown or magical script that is unintelligible. Alternatively, you can cause the writing to appear to be an entirely different message, written in a different hand and language, though the language must be one you know.    
-Should the spell be dispelled, the original script and the illusion both disappear.    
-A creature with truesight can read the hidden message. 
+Ви пишете на пергаменті, папірці, або на інший підходящий матеріал писемності та нав'язуєте його потужною ілюзією, що триває протягом тривалого часу.    
+до вас і до будь-яких істот, які ви визначаєте, коли кидаєте заклинання виявляється звичайним, написано в руці, і передає, незалежно від значення, яке ви хотіли, коли написали текст. Для всіх інших писання виявляється, ніби воно було написане невідомим чи магічним сценарієм, що є незрозумілим. Крім того, ви можете призвести до того, що письмо є абсолютно іншим повідомленням, написано іншою рукою і мовою, хоча мова повинна бути в певній руці.    
+має бути відхилено написання, оригінальне письмо і зникне ілюзія.    
+істота з truesight може читати приховане повідомлення. 
