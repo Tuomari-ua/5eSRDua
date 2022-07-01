@@ -1,21 +1,21 @@
-name: Axe Beak type: beast cr: .25
+назва: Сигнал вісі типу: звір cr: .25
 
-# Axe Beak
-_Large beast, unaligned_
+# Сокира дзьоб
+_Великий звір, неприєднаний_
 
 **Armor Class** 11    
 **Hit Points** 19 (3d10 + 3)    
 **Speed** 50 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 14 (+2) | 12 (+1) | 12 (+1) | 2 (−4) | 10 (+0) | 5 (−3) |
 
-**Senses** passive Perception 10    
-**Languages** --    
-**Challenge** 1/4 (50 XP)
+**Подяки** пасивне сприйняття 10    
+**Мови** --    
+**виклик** 1/4 (50 XP)
 
-### Actions
-**Beak.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 6 (1d8 + 2) slashing damage.
+### Дії
+**Дзьоб.** _Атака ближньої зброї:_ +4 по влучанню, досягає 5 щитів, одна ціль. _Удач:_ 6 (1d8 + 2) наносити шкоду.
 
-An axe beak is a tall flightless bird with strong legs and a heavy, wedge-shaped beak. It has a nasty disposition and tends to attack any unfamiliar creature that wanders too close.
+Льотчик — високий безглуздий птах, з міцними ногами, і важкий, у формі весілля. Це неприємна схильність і має схильність нападати на будь-які незнайомі істоти, що бродять занадто близько.
