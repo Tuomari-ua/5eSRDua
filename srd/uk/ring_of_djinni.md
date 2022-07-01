@@ -1,10 +1,10 @@
-name: Ring of Djinni type: ring
+назва: Кільце Дінні тип: зворот
 
-# Ring of Djinni Summoning
-_Ring, legendary (requires attunement)_
+# Кільце Джинні викликане
+_Надмірний кільце, легендарний (вимагає відвідування)_
 
-While wearing this ring, you can speak its command word as an action to summon a particular djinni from the Elemental Plane of Air. The djinni appears in an unoccupied space you choose within 120 feet of you. It remains as long as you concentrate (as if concentrating on a spell), to a maximum of 1 hour, or until it drops to 0 hit points. It then returns to its home plane.
+Носячи це кільце, ви можете вимовити його командне слово як діло, щоб викликати певних джиннів із повітря елементної площини. На незайнятому просторі djinni ви обираєте в межах 120 футів. Залишається поки ви концентруєтеся (як якщо концентруватися на заклинанні), до максимальної ніж 1 години, або до тих пір, поки не випаде до 0 влучань. І тоді повернемося до свого будинку літака.
 
-While summoned, the djinni is friendly to you and your companions. It obeys any commands you give it, no matter what language you use. If you fail to command it, the djinni defends itself against attackers but takes no other actions.
+Поки кликав вас і ваших товаришів по черзі. Вона робиться з будь-якими командами, які ви йому даєте, незалежно від того, яку мову ви використовуєте. Якщо ви не в змозі керувати цим, djinni захищається від зловмисників, але не виконує жодних інших дій.
 
-After the djinni departs, it can't be summoned again for 24 hours, and the ring becomes nonmagical if the djinni dies. 
+Після джінних відділів, їх не можна викликати протягом 24 годин, і кільце стає немагічним, якщо Джинні помре. 
