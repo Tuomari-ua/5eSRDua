@@ -1,27 +1,27 @@
-name: Young Black Dragon type: dragon cr: 7
+назва: Молодий Чорний Дракон тип: дракона cr: 7
 
-# Young Black Dragon
-_Large dragon, chaotic evil_
+# Молодий Чорний Дракон
+_Великий дракон, хаотичне зло_
 
 **Armor Class** 18 (natural armor)    
 **Hit Points** 127 (15d10 + 45)    
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 19 (+4) | 14 (+2) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
 
-**Saving Throws** Dex +5, Con +6, Wis +3, Cha +5    
-**Skills** Perception +6, Stealth +5    
-**Damage Immunities** acid    
-**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16    
-**Languages** Common, Draconic    
-**Challenge** 7 (2,900 XP)
+**Збереження жбурлянь** Dex +5, Con +6, Wis +3, Cha +5    
+**Навичків** Perception +6, Крадіжка +5    
+**Пошкодження** кислотою    
+**Забезпечення** оснащення 30 футів. темп бачення 120 футів. пасивне сприйняття 16    
+мов **Мов,** оточення, дракони    
+**виклику** (2,900 XP)
 
-**Amphibious.** The dragon can breathe air and water.
+**Слабкий.** Дракон може дихати повітрям і водою.
 
-### Actions
-**Multiattack.** The dragon makes three attacks: one with its bite and two with its claws.    
-**Bite.** _Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target. _Hit:_ 15 (2d10 + 4) piercing damage plus 4 (1d8) acid damage.    
-**Claw.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) slashing damage.    
-**Acid Breath (Recharge 5–6).** The dragon exhales acid in a 30­‐foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 49 (11d8) acid damage on a failed save, or half as much damage on a successful one.
+### Дії
+**Мультиатака.** Дракон робить три атаки: один з одним, перекусивши та два з його кігтями.    
+**Біт.** _Атака ближнього бою зброї:_ +7 щоб ударити в ціль, досягнувши 10 щитів, одна ціль. _Hit:_ 15 (2d10 + 4) piercing damage plus 4 (1d8) acid damage.    
+**Claw.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Вдач:_ 11 (2d6 + 4) удар пошкодження.    
+**Кислотне дихання (повторне підключення 5–6).** Змішана кислота в 30 футів лінії, яка має 5 футів у ширину. Кожна істота з цієї лінії має зробити економію Dexterity 14 струму, отримання 49 (11d8) шкоди від невдалої збереження, або ж вдвічі більше шкоди від успішного.
