@@ -1,17 +1,17 @@
-name: Find Familiar level: 1 school: conjuration classes: wizard
+назва: Знайдіть Familiar рівень: 1 школу: conjuration класи: майстер
 
-# Find Familiar
-_1st-level conjuration (ritual)_
+# Знайти Фамільяр
+_Однорівнева кон'юрація (ритуал)_
 
-**Casting Time:** 1 hour    
-**Range:** 10 feet    
-**Components:** V, S, M (10 gp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier)    
-**Duration:** Instantaneous
+**Час трансляції:** 1 година    
+**Діапазон:** 10 футів    
+**компоненти:** V, S, М (10 виробничих запасів charcoal, incen, і трави, які повинні бути спожиті вогнем на міді бритви)    
+**тривалість:** миттєві
 
-You gain the service of a familiar, a spirit that takes an animal form you choose: bat, cat, crab, frog (toad), hawk, lizard, octopus, owl, poisonous snake, fish (quipper), rat, raven, sea horse, spider, or weasel. Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form, though it is a celestial, fey, or fiend (your choice) instead of a beast.    
-Your familiar acts independently of you, but it always obeys your commands. In combat, it rolls its own initiative and acts on its own turn. A familiar can't attack, but it can take other actions as normal.    
-When the familiar drops to 0 hit points, it disappears, leaving behind no physical form. It reappears after you cast this spell again.    
-While your familiar is within 100 feet of you, you can communicate with it telepathically. Additionally, as an action, you can see through your familiar's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses that the familiar has. During this time, you are deaf and blind with regard to your own senses.    
-As an action, you can temporarily dismiss your familiar. It disappears into a pocket dimension where it awaits your summons. Alternatively, you can dismiss it forever. As an action while it is temporarily dismissed, you can cause it to reappear in any unoccupied space within 30 feet of you.    
-You can't have more than one familiar at a time. If you cast this spell while you already have a familiar, you instead cause it to adopt a new form. Choose one of the forms from the above list. Your familiar transforms into the chosen creature.    
-Finally, when you cast a spell with a range of touch, your familiar can deliver the spell as if it had cast the spell. Your familiar must be within 100 feet of you, and it must use its reaction to deliver the spell when you cast it. If the spell requires an attack roll, you use your attack modifier for the roll.
+Ви працюєте на службі звичного духа, який приймає тварину форму ви вибирати: кажан, кіт, біб, жаба (спливаючи), хук, ящірка, восьминіг, сова, отруйна змія, риба (кваппер), щур, морський кінь, павук або візник. Змінення в незазайнятому просторі на відстані, знайоме має статистику вибраної форми, хоча це і небесне свято чи огрядне ваше право (ваш вибір) замість звіра.    
+Ваш знайомий незалежно від вас, але він завжди корисно ваші команди. У бою вона котить власну ініціативу та діє на власний поворот. Звичайна атака не може виконати, але вона може вжити інших дій як нормально.    
+Коли знайомі краплі до 0 ударів з'являються очки, він зникає, залишаючи поза собою не фізичну форму. Він з’являється знову, після того, як ви перекинули цей заклинання    
+Хоча ваш знайомий знаходиться на глибині 100 футів, ви можете спілкуватися з ним по телепропатченню. Додатково, як акція, ви можете бачити через ваші знайомі очі і чути що він чує до початку вашої наступної черги, отримати переваги від будь-яких спеціальних відчуттів, які знайомі йому. Протягом цього часу ви глухі і сліпі щодо власних відчуттів.    
+У якості дії ви можете тимчасово відхилити свою родину. Вона зникає в кишеньковому вимірі, де чекає ваших покликань. Крім того, ви можете завжди пропустити його з собою. В той час як дії тимчасово відхилено, ви можете змусити його знову з'явитися в будь-якому незаповненому просторі на відстані 30 футів.    
+Ви не можете мати більше ніж один знайомий за раз. Якщо ви кидаєте це заклинання поки у вас вже є знайомі, замість цього він приймає нову форму. Виберіть один із форм зі списку вище. Ваші знайомі трансформуються у вибрану істоту.    
+Нарешті, коли ви кинули заклинання з діапазоном дотику, знайоме слово може видавати заклинання так, ніби воно відкинуло заклинання наприклад. Ваша звичка повинна бути у глибині 100 футів, і вона повинна скористатися своєю реакцією, щоб її виконати, коли ви кидаєте її. Якщо заклинання вимагає ударного ролу атаки, ви використовуєте свій модифікатор атаки для ролля.
