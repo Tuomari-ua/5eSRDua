@@ -1,11 +1,11 @@
-name: Harm level: 6 school: necromancy classes: cleric
+назва: Гарм рівень: 6 школа: некромантність класів: священнослужителя
 
-# Harm
-_6th-level necromancy_
+# Шкода
+_Некромантія 6-го рівня_
 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S    
-**Duration:** Instantaneous
+**Час трансляції :** 1 дія    
+**Діапазон:** 60 футів    
+**компоненти:** V, S    
+**тривалість:** миттєві
 
-You unleash a virulent disease on a creature that you can see within range. The target must make a Constitution saving throw. On a failed save, it takes 14d6 necrotic damage, or half as much damage on a successful save. The damage can't reduce the target's hit points below 1. If the target fails the saving throw, its hit point maximum is reduced for 1 hour by an amount equal to the necrotic damage it took. Any effect that removes a disease allows a creature's hit point maximum to return to normal before that time passes. 
+Ви розкриваєте вірулентну хворобу на істоті, яку можна побачити в радіусі дії. Ціль повинна зробити економію конституції. У процесі невдалого збереження він завдає 14d6 некротичних пошкоджень, або ж удвічі більше шкоди від успішного заощадження. Шкода не може зменшити точки влучань цілі нижче 1. Якщо ціль не зможе заощадити рядк, макс. відстань до точки зменшена на 1 годину на суму, що дорівнює завдаваній некротичній шкоді. Будь-який ефект, що вилучить хворобу, дозволяє істоти досягати максимального значення для повернення до нормального перед тим, як цей час пройде. 
