@@ -1,6 +1,6 @@
-name: Periapt of Proof against Poison type: item
+назва: Periapt профілю проти Отрути типу: елемент
 
-# Periapt of Proof against Poison
-_Wondrous item, rare_
+# Пророцтво проти Отрути
+_Один предмет, рідкісний_
 
-This delicate silver chain has a brilliant-cut black gem pendant. While you wear it, poisons have no effect on you. You are immune to the poisoned condition and have immunity to poison damage. 
+На цьому делікатному срібному ланцюзі сидить сліпуча чорна каменюка. Під час його одягу, отрута не має жодного ефекту. У вас імунітет до отруєного стану та імунітет до отруйної шкоди. 
