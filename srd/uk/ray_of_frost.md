@@ -1,12 +1,12 @@
-name: Ray of Frost level: 0 school: evocation classes: sorcerer wizard
+назва: Ray of Frost рівень: 0 школа: евакуація класів: сортувальник майстер
 
-# Ray of Frost
-_Evocation cantrip_
+# Рей Фрост
+_Евокаційна конфіскація_
 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S    
-**Duration:** Instantaneous
+**Час трансляції :** 1 дія    
+**Діапазон:** 60 футів    
+**компоненти:** V, S    
+**тривалість:** миттєві
 
-A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 1d8 cold damage, and its speed is reduced by 10 feet until the start of your next turn.    
-The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8). 
+Холодний промінь блакитно-білого світла до істоти за межами. Зробіть напад коливань проти цілі. На ударі він завдає 1d8 холодних пошкоджень, а його швидкість знижується на 10 футів до початку вашої наступної черги.    
+Пошкодження правопису збільшуються на 1d8, коли ви досягнете 5-го рівня (2d8), 11-го рівня (3d8) та 17-го рівня (4d8). 
