@@ -1,35 +1,35 @@
-name: Ancient Blue Dragon type: dragon cr: 23
+назва: Давній Синій Дракон тип: дракона cr: 23
 
-# Ancient Blue Dragon
-_Gargantuan dragon, lawful evil_
+# Древній Синій Дракон
+_Ґарґантуанський дракон, законне зло_
 
-**Armor Class** 22 (natural armor)    
-**Hit Points** 481 (26d20 + 208)    
-**Speed** 40 ft., burrow 40 ft., fly 80 ft.
+**Клас броні** 22 (природна броня)    
+**Бали** 481 (26d20 + 208)    
+**швидкість** фут. паливо 40, літай 80 футів.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 29 (+9) | 10 (+0) | 27 (+8) | 18 (+4) | 17 (+3) | 21 (+5) |
 
-**Saving Throws** Dex +7, Con +15, Wis +10, Cha +12    
-**Skills** Perception +17, Stealth +7    
-**Damage Immunities** lightning    
-**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27    
-**Languages** Common, Draconic    
-**Challenge** 23 (50,000 XP)
+**Збереження квітів** Dex +7, Con +15, Wis +10, Cha +12    
+**Навичків** Perception +17, Крадіжка +7    
+**Пошкодження** блискавок    
+**Забезпечення** оснащення 60. темп бачення 120 футів. пасивне сприйняття 27    
+**мов** Компаній, Драконі    
+**виклик** 23 (50 000 XP)
 
-**Legendary Resistance (3/Day).** If the dragon fails a saving throw, it can choose to succeed instead.
+**Легендарний Опір (3/днів).** Якщо дракон не зможе заощадити ряд, натомість він може вибрати, щоб досягти успіху.
 
-### Actions
-**Multiattack.** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.    
-**Bite.** _Melee Weapon Attack:_ +16 to hit, reach 15 ft., one target. _Hit:_ 20 (2d10 + 9) piercing damage plus 11 (2d10) lightning damage.    
-**Claw.** _Melee Weapon Attack:_ +16 to hit, reach 10 ft., one target. _Hit:_ 16 (2d6 + 9) slashing damage.    
-**Tail.** _Melee Weapon Attack:_ +16 to hit, reach 20 ft., one target. _Hit:_ 18 (2d8 + 9) bludgeoning damage.    
-**Frightful Presence.** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 20 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.    
-**Lightning Breath (Recharge 5–6).** The dragon exhales lightning in a 120-­‐foot line that is 10 feet wide. Each creature in that line must make a DC 23 Dexterity saving throw, taking 88 (16d10) lightning damage on a failed save, or half as much damage on a successful one.
+### Дії
+**Мультиатака.** Дракон може використовувати його Яскраву Присутність. Це робить три атаки: один з одним, його кусаючим і два пазурів.    
+**Кути.** _Атака ближньої зброї:_ +16 до удару, досягає 15-го рівня, одна ціль. _Вдач:_ 20 (2d10 + 9) пробиваюча шкода плюс 11 (2d10) пошкодження на стан.    
+**Пояснення.** _Атака ближньої зброї:_ +16 щоб вдарити, досягти 10-ти, одна ціль. _Удачі:_ 16 (2d6 + 9) наносити пошкодження.    
+**Якіс.** _Атака ближньої зброї:_ +16 до удару, досягає 20 тонів, одна ціль. _Удари:_ 18 (2d8 + 9) пошкодження bludgeing.    
+**Frightful Presence.** Кожна істота дракона обирає щонайменше 120 футів дракона і усвідомлює його, його, має досягти успіху в мудрості DC 20 разів економити або завалити його на 1 хвилину. Створіння може повторити порятунок в кінці кожного своєї оберту, припинивши вплив на себе при успіху. Якщо кинути кинути збереження істоти буде успішним або ефект закінчиться, істота незахищена від битви дракона протягом наступних 24 годин.    
+**Блискавка (Поповнення 5–6).** Дракон видихає блискавкою на 120 футів лінії довжиною 10 футів. Кожна істота в цьому рядку повинна зробити DC 23 раза, щоб заощадити ряд, отримання 88 (16d10) блискавки через невдалі заощадження, або ж удвічі більше шкоди від успішного.
 
-### Legendary Actions
-The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.    
-**Detect.** The dragon makes a Wisdom (Perception) check.    
-**Tail Attack.** The dragon makes a tail attack.    
-**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6 + 9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+### Легендарні дії
+Дракон може узяти 3 легендарні дії, вибираючи з потрібних параметрів нижче. Тільки один легендарний параметр може бути використаний в той час і тільки на кінці черги іншої істоти. Дракон знову відновив легендарні дії на початку свого повороту.    
+**виявлено.** Дракон робить перевірку Мудрості (Поняття).    
+**Палаючий Атак.** Дракон робить хвостик.    
+**Крила Атака (вартістю 2 Дії).** Дракон б'є її крила. Кожна істота в межах 15 футів дракона повинна досягти успіху в Dexterity тут або забрати 16 (2d6 + 9) пошкодження душення та збирання корони. Потім дракон може летіти до половини літаючого польоту.
