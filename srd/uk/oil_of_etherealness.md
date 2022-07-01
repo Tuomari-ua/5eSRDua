@@ -1,6 +1,6 @@
-name: Oil of Etherealness type: potion
+назва: Олія істоти типу: зілля
 
-# Oil of Etherealness
-_Potion, rare_
+# Олія Etherealness
+_Зілля_
 
-Beads of this cloudy gray oil form on the outside of its container and quickly evaporate. The oil can cover a Medium or smaller creature, along with the equipment it's wearing and carrying (one additional vial is required for each size category above Medium). Applying the oil takes 10 minutes. The affected creature then gains the effect of the **_etherealness_** spell for 1 hour. 
+Краплини цієї похмурої сірої олії - назовні контейнера і швидко випаровуються. Нафта може покрити середню або меншу істоту, разом з спорядженням вона носить та переносить (на кожен додатковий флакон потрібний для кожної категорії розміру вище Середнього). Застосування нафти займає 10 хвилин. Потенційна істота отримує ефект **_на виймання_** заклинання протягом 1 години. 
