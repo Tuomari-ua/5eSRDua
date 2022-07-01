@@ -1,13 +1,13 @@
-name: Djinni type: elemental cr: 11
+назва: Djinni тип: елемент cr: 11
 
-# Djinni
-_Large elemental, chaotic good_
+# Джинні
+_Велике елементарне, хаотичне добро_
 
-**Armor Class** 17 (natural armor)    
-**Hit Points** 161 (14d10 + 84)    
-**Speed** 30 ft., fly 90 ft.
+**Клас броні** 17 (природна броня)    
+**Очки** 161 (14d10 + 84)    
+**швидкість** фут. політ 90 футів.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 21 (+5) | 15 (+2) | 22 (+6) | 15 (+2) | 16 (+3) | 20 (+5) |
 
@@ -17,14 +17,14 @@ _Large elemental, chaotic good_
 **Languages** Auran    
 **Challenge** 11 (7,200 XP)
 
-**Elemental Demise.** If the djinni dies, its body disintegrates into a warm breeze, leaving behind only equipment the djinni was wearing or carrying.    
-**Innate Spellcasting.** The djinni's innate spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). It can innately cast the following spells, requiring no material components:    
-At will: **_detect evil and good_**, **_detect magic_**, **_thunderwave_**    
-3/day each: **_create food and water_** (can create wine instead of water), **_tongues_**, **_wind walk_**    
-1/day each: **_conjure elemental_** (air elemental only), **_creation_**, **_gaseous form_**, **_invisibility_**, **_major image_**, **_plane shift_**
+**Помірковий елемент.** Якщо djinni вмирає, його тіло розпадається в теплий вітрець, залишивши тільки спорядження спорядження спорядження було одягнуте або переніссять.    
+**Запізнати орфографію.** вродженою орфографією djinni's є Харісма (заклинання врятує DC 17, +9 для втиснення в заклинання атак). Коли вони можуть придавати наступні заклинання, вимагаючи без матеріальних компонентів:    
+На волі: **_виявити зло і добро_** **_виявлення магії_**, **_темпа_**    
+3/днів кожен: **_створює їжу і воду_** (може створити вино замість води), **_мова_**, **_вітрових ходів_**    
+1/день на кожний час: **_елемент кон'юреї_** (лише для повітряних елементів), **_створення_**, **_реальних форм_**, **_невидимість_**, **_мажорних зображень_**, **_площина зміститься_**
 
-### Actions
-**Multiattack.** The djinni makes three scimitar attacks.    
-**Scimitar.** _Melee Weapon Attack:_ +9 to hit, reach 5 ft., one target. _Hit:_ 12 (2d6 + 5) slashing damage plus 3 (1d6) lightning or thunder damage (djinni's choice).    
-**Create Whirlwind.** A 5-foot-radius, 30-foot-tall cylinder of swirling air magically forms on a point the djinni can see within 120 feet of it. The whirlwind lasts as long as the djinni maintains concentration (as if concentrating on a spell). Any creature but the djinni that enters the whirlwind must succeed on a DC 18 Strength saving throw or be restrained by it. The djinni can move the whirlwind up to 60 feet as an action, and creatures restrained by the whirlwind move with it. The whirlwind ends if the djinni loses sight of it.    
-A creature can use its action to free a creature restrained by the whirlwind, including itself, by succeeding on a DC 18 Strength check. If the check succeeds, the creature is no longer restrained and moves to the nearest space outside the whirlwind.
+### Дії
+**Багатоатака.** djinni робить три ятабельні атаки.    
+**Шимітар.** _Атака ближньої зброї:_ +9, щоб вдарити в нього, досягти 5-ти ціль, одну ціль. _Вдач:_ 12 (2d6 + 5) пошкодження плюс 3 (1d6) блискавка або гром пошкодження (вибір Джинні).    
+**Створити витвір.** 5 футів - радіус, 30 футів - високий циліндр магічно кружлених повітря форм, що проходить через 120 футів. Вихор триває до тих пір, поки дхінні підтримує концентрацію (як якщо концентруватися на заклинанні). Будь-яка істота, але джінні, яка входить в бурю, повинна досягти успіху в загальній стійкості DC 18 викидає, або бути стриманою цим. Джиніти можуть рухати на 60 футів в якості дії, і створіння обмежені на вихрові рухи з ним. Вітер закінчується, якщо деньні втрачає його увагу.    
+істота може використовувати свою дію, щоб звільнити істоту обмеженою вітряком, включаючи себе, пройшовши перевірку 18 Сили DC. Якщо перевірка успішна, істота більше не обмежена і не буде переходити до найближчого місця за межами вітру.
