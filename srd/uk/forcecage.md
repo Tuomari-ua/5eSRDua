@@ -1,15 +1,15 @@
-name: Forcecage level: 7 school: evocation classes: bard warlock wizard
+назва: Примушення рівень: 7 школ: евокація класі: жорсткий вартовий майстер
 
-# Forcecage
-_7th-level evocation_
+# Форсекаж
+_Евокація 7-го рівня_
 
-**Casting Time:** 1 action    
-**Range:** 100 feet    
-**Components:** V, S, M (ruby dust worth 1,500 gp)    
-**Duration:** 1 hour
+**Час трансляції часу:** 1 дія    
+**Діапазон:** 100 футів    
+**компоненти:** V, S, М (рубінний пил)    
+**тривалість:** години
 
-An immobile, invisible, cube-shaped prison composed of magical force springs into existence around an area you choose within range. The prison can be a cage or a solid box, as you choose.    
-A prison in the shape of a cage can be up to 20 feet on a side and is made from 1/2-inch diameter bars spaced 1/2 inch apart. A prison in the shape of a box can be up to 10 feet on a side, creating a solid barrier that prevents any matter from passing through it and blocking any spells cast into or out from the area.    
-When you cast the spell, any creature that is completely inside the cage's area is trapped. Creatures only partially within the area, or those too large to fit inside the area, are pushed away from the center of the area until they are completely outside the area.    
-A creature inside the cage can't leave it by nonmagical means. If the creature tries to use teleportation or interplanar travel to leave the cage, it must first make a Charisma saving throw. On a success, the creature can use that magic to exit the cage. On a failure, the creature can't exit the cage and wastes the use of the spell or effect. The cage also extends into the Ethereal Plane, blocking ethereal travel.    
-This spell can't be dispelled by **_dispel magic_**. 
+Іммобільна, невидима, у формі куба тюрми, що складається з магічних сил, в ній існують області обстановки. У в'язниці може бути клітка або суцільна коробка, як ви виберете.    
+в'язниця у формі клітки може бути збоку до 20 футів і зроблена з діаметра 1/2-дюйма, розділена на відстань 1/2 дюйма. До в'язниці у формі коробки можна збоку до десяти футів, створення суцільного бар'єру, що запобігає проходженню речовини і блокує будь-які заклинання, що потрапляють в область або зовні.    
+Коли ви кидаєте заклинання - будь-яку істоту, що знаходиться повністю всередині області клітки, є у пастці. Істоти походять тільки частково з цієї області, або ті, які занадто великі, щоб заміститися в межах району, віддаляються від центру площи, доки не будуть повністю поза цією областю.    
+Створіння всередині клітки не може залишити його немагічними засобами. Якщо істота намагається використовувати телепортацію або міжпланарні подорожі, щоб покинути клітку, спочатку спочатку потрібно зробити економію харизми кидком. За успіхом істота може використовувати цю магію, щоб вийти з клітки. У разі невдачі, істота не може вийти з клітки і втратити ефект або заклинання . Клітка також розширюється в Планеті Ейміналу, блокуючи ефетральні подорожі.    
+Це заклинання не можна викликати **_розвіяти магію_**. 
