@@ -1,23 +1,23 @@
 name: Kobold type: humanoid (kobold) cr: .125
 
 # Kobold
-_Small humanoid (kobold), lawful evil_
+_Маленьке людство (kobold), законне зло_
 
 **Armor Class** 12    
 **Hit Points** 5 (2d6 − 2)    
 **Speed** 30 ft.
 
-| STR    | DEX     | CON    | INT    | WIS    | CHA    |
+| СТР    | ДЕКС    | CON    | ІНТ    | WIS    | CHA    |
 | ------ | ------- | ------ | ------ | ------ | ------ |
 | 7 (−2) | 15 (+2) | 9 (−1) | 8 (−1) | 7 (−2) | 8 (−1) |
 
 **Senses** darkvision 60 ft., passive Perception 8    
-**Languages** Common, Draconic    
-**Challenge** 1/8 (25 XP)
+**Мови** Common, Draconic    
+**Виклик** 1/8 (25 XP)
 
-**Sunlight Sensitivity.** While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.    
-**Pack Tactics.** The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated.
+**Чутливість світла сонця.** , хоча при сонячному світлі, кооператор має недолік від атак на родовища, а також на Wisdom (Враження) перевіряє, які покладаються на зору.    
+**Тактики з пакету.** Коніг має перевагу в атаці, яка грає проти істоти, якщо принаймні один з союзників кобольда знаходиться в межах 5 футів істоти, і союзник не є недієздатним.
 
-### Actions
-**Dagger.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage.    
-**Sling.** _Ranged Weapon Attack:_ +4 to hit, range 30/120 ft., one target. _Hit:_ 4 (1d4 + 2) bludgeoning damage.
+### Дії
+**Дагер.** _Атака ближньої зброї:_ +4, щоб влучити у 5, одна ціль. _Вдач:_ 4 (1d4 + 2) пробиваючої шкоди.    
+**Летинг.** _Атака дальньої зброї:_ +4 щоб вдарити, діапазон 30/120 футів. _Удара:_ 4 (1d4 + 2) пошкодження дублювання.
