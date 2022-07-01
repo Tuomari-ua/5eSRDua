@@ -1,12 +1,12 @@
-name: Elf, Drow type: humanoid (elf) cr: .25
+назва: Elf, Drow тип: humanoid (elf) cr: .25
 
-# Elf, Drow
+# Недовго, осінню
 _Medium humanoid (elf), neutral evil_   
 **Armor Class** 15 (chain shirt)    
 **Hit Points** 13 (3d8)    
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 10 (+0) | 14 (+2) | 10 (+0) | 11 (+0) | 11 (+0) | 12 (+1) |
 
@@ -16,11 +16,11 @@ _Medium humanoid (elf), neutral evil_
 **Challenge** 1/4 (50 XP)
 
 **Fey Ancestry.** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.    
-**Innate Spellcasting.** The drow's spellcasting ability is Charisma (spell save DC 11). It can innately cast the following spells, requiring no material components:    
-At will: **_dancing lights_**    
-1/day each: **_darkness_**, **_faerie fire_**    
-**Sunlight Sensitivity.** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+**Innate Spellcasting.** The drow's spellcasting ability is Charisma (spell save DC 11). Коли вони можуть придавати наступні заклинання, вимагає не жодних матеріальних компонентів:    
+О буде: **_танцюючі вогні_**    
+1/day each: **_темрява_**, **_фальшивий вогонь_**    
+**чутливість до сонячного світла.** , Поки на сонячному світлі, крапля не має переваги на атакові родовища, а також на Wisdom (Вперечання) перевіряє, які покладаються на зір.
 
-### Actions
-**Shortsword.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.    
-**Hand Crossbow.** _Ranged Weapon Attack:_ +4 to hit, range 30/120 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the target is also unconscious while poisoned in this way. The target wakes up if it takes damage or if another creature takes an action to shake it awake.
+### Дії
+**Короткий меч.** _Атака ближньої зброї:_ +4 по влучання, досягає 5 літер, одна мета. _Вдач:_ 5 (1d6 + 2) пробивання пошкодження.    
+**Рука Арбалет.** _Атака дальньої зброї:_ +4 щоб вдарити, діапазон 30/120 футів. _Вразів:_ 5 (1d6 + 2) пробивання пошкоджень, і мета має бути досягнутою на загальну сукупність 13 разів заощаджуваної або бути отруєна 1 годину. Якщо процес збереження не вдається, то ціль також не може бути під час отруєння таким чином не вдається. Ціль прокидається, якщо вона забере пошкодження, або якщо інша істота вживає дії, щоб похитнути її.
