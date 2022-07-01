@@ -1,13 +1,13 @@
-name: Antilife Shell level: 5 school: abjuration classes: druid
+назва: Antilife Shell рівень: 5 школа: abjuration класі: druid
 
-# Antilife Shell
-_5th-level abjuration_
+# Антильський мушля
+_Тривалість з'єднання 5-го рівня_
 
-**Casting Time:** 1 action   
-**Range:** Self (10-foot radius)    
-**Components:** V, S    
-**Duration:** Concentration, up to 1 hour
+**Кастинг часу:** 1 дія   
+**Діапазон:** Самотній (10-футове радіус)    
+**Компоненти:** В, S    
+дублювання**тривалість:** концентрування, до 1 години
 
-A shimmering barrier extends out from you in a 10- foot radius and moves with you, remaining centered on you and hedging out creatures other than undead and constructs. The barrier lasts for the duration.    
-The barrier prevents an affected creature from passing or reaching through. An affected creature can cast spells or make attacks with ranged or reach weapons through the barrier.    
-If you move so that an affected creature is forced to pass through the barrier, the spell ends.
+Це мерехтливе бар"єр виходить від вас у радіусі 10 футів і рухається з вами, залишаючись на вас центром і хеджуючи істот, відмінних від немертвих і будівництва. Термін дії бар'єру триває тривалість.    
+Бар'єр заважає істоті пройти або досягти вказаного значення істоти. Позитивна істота може нанести заклинання або зробити атаки з далекобіжною або досягти зброї через бар'єр.    
+Якщо ви переїжджаєте таким чином, ця уражена істота змушена пройти через бар'єр, закінчується заклинання .
