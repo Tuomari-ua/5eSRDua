@@ -1,13 +1,13 @@
-name: Nalfeshnee type: fiend (demon) cr: 13
+назва: Nalfeshnee type: fiend (demon) cr: 13
 
 # Nalfeshnee
-_Large fiend (demon), chaotic evil_
+_Велика кулака (демо), хаотичне зло_
 
 **Armor Class** 18 (natural armor)    
 **Hit Points** 184 (16d10 + 96)    
 **Speed** 20 ft., fly 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 21 (+5) | 10 (+0) | 22 (+6) | 19 (+4) | 12 (+1) | 15 (+2) |
 
@@ -19,11 +19,11 @@ _Large fiend (demon), chaotic evil_
 **Languages** Abyssal, telepathy 120 ft.    
 **Challenge** 13 (10,000 XP)
 
-**Magic Resistance.** The nalfeshnee has advantage on saving throws against spells and other magical effects.
+**Магічний Стійкість до** nalfeshnee має перевагу в збереженні кисть проти заклинань та інших магічних ефектів.
 
-### Actions
-**Multiattack.** The nalfeshnee uses Horror Nimbus if it can. It then makes three attacks: one with its bite and two with its claws.    
-**Bite.** _Melee Weapon Attack:_ +10 to hit, reach 5 ft., one target. _Hit:_ 32 (5d10 + 5) piercing damage.    
-**Claw.** _Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Hit:_ 15 (3d6 + 5) slashing damage.    
-**Horror Nimbus (Recharge 5–6).** The nalfeshnee magically emits scintillating, multicolored light. Each creature within 15 feet of the nalfeshnee that can see the light must succeed on a DC 15 Wisdom saving throw or be frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the nalfeshnee's Horror Nimbus for the next 24 hours.    
-**Teleport.** The nalfeshnee magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
+### Дії
+**Мультиатака.** nalfeshnee використовує Horror Nimbus якщо можливо. Це робить три атаки: один з одним, його кусаючим і два пазурів.    
+**Кути.** _Атака ближньої зброї:_ +10 до удару, досягає 5-ти показників, одна ціль. _Hit:_ 32 (5d10 + 5) piercing damage.    
+**Claw.** _Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Вразів:_ 15 (3d6 + 5) наносить пошкодження.    
+**Жемб (Поповнити 5–6).** Величезна сітка вимінює, магічним чином випромінюючи, багатокольорове світло. Кожна істота в межах 15 футів nalfeshnee, яка може бачити світло, повинна досягти успіху на DC 15 Мудрості здачі або бути наляканий на 1 хвилину. Створіння може повторити порятунок в кінці кожного своєї оберту, припинивши вплив на себе при успіху. Якщо кинути кинути збереження істоти буде успішним або ефект закінчиться, істота незахищена від жаху дрібної сітки Німбус наступні 24 години.    
+**Телепорт.** Платформа nalfeshnee магічно телепортів, а також будь-яке обладнання, яке воно носить або перевозить, десь понад 120 футів у незайнятий простір, який він бачить.
