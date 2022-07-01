@@ -1,6 +1,6 @@
-name: Hat of Disguise type: item
+назва: капелюх маскування типу: елемент
 
-# Hat of Disguise
-_Wondrous item, uncommon (requires attunement)_
+# Капелюх маскування
+_Нетиповий предмет Wondrous (вимагає приєднання)_
 
-While wearing this hat, you can use an action to cast the **_disguise self_** spell from it at will. The spell ends if the hat is removed. 
+Під час одягу в цьому капелюсі, ви можете скористатися дією, щоб кинути **_маскувати себе_** заклинання від неї за бажанням. Повноваження закінчується, якщо капелюх видалено. 
