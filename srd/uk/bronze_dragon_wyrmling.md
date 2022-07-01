@@ -1,27 +1,27 @@
-name: Bronze Dragon Wyrmling type: dragon cr: 2
+ім'я: Бронза Дракон вирмлінг тип: дракона cr: 2
 
-# Bronze Dragon Wyrmling
-_Medium dragon, lawful good_
+# Бронзовий Вирмлінг Дракон
+_Середній драг, законний товар_
 
-**Armor Class** 17 (natural armor)    
-**Hit Points** 32 (5d8 + 10)    
-**Speed** 30 ft., fly 60 ft., swim 30 ft.
+**Клас броні** 17 (природна броня)    
+**Очків** 32 (5d8 + 10)    
+**Швидкість** фут. політ 60 футів, плит 30 футів.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 17 (+3) | 10 (+0) | 15 (+2) | 12 (+1) | 11 (+0) | 15 (+2) |
 
-**Saving Throws** Dex +2, Con +4, Wis +2, Cha +4    
-**Skills** Perception +4, Stealth +2    
-**Damage Immunities** lightning    
-**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14    
-**Languages** Draconic    
-**Challenge** 2 (450 XP)
+**Збереження жбурлянь** Dex +2, Con +4, Wis +2, Cha +4    
+**Навичків** Perception +4, Крадіжки +2    
+**Пошкодження** блискавок    
+**Забезпечення** оснащення 10 футів. темп 60 кв. пасивне сприйняття 14    
+мови **мов** драконя    
+**виклику** (450 XP)
 
-**Amphibious.** The dragon can breathe air and water.
+**Слабкий.** Дракон може дихати повітрям і водою.
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 8 (1d10 + 3) piercing damage.    
+### Дії
+**Біт.** _Атака ближньої зброї:_ +5 до удару, досягає 5-ї цілі, одна мета. _Hit:_ 8 (1d10 + 3) piercing damage.    
 **Breath Weapons (Recharge 5–6).** The dragon uses one of the following breath weapons.    
-**Lightning Breath.** The dragon exhales lightning in a 40-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 16 (3d10) lightning damage on a failed save, or half as much damage on a successful one.    
-**Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 12 Strength saving throw. On a failed save, the creature is pushed 30 feet away from the dragon.
+**Lightning Breath.** The dragon exhales lightning in a 40-foot line that is 5 feet wide. Кожна істота з цієї лінії має зробити економію Dexter DC 12, завдавши 16 (3d10) блискавки про невдалу економію, або ж удвічі більше шкоди від успішного.    
+**Відштовхуючий подих.** Дракон вражає відштовхувальну енергію в 30-футовій конусі. Кожна істота в цій області має бути успішною в DC 12 разів сильної економії результату. На невдалому збереженні істота відштовхнута від дракона на на 30 футів.
