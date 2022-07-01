@@ -1,91 +1,91 @@
-description: Rules and descriptions of player expenses from the 5th Edition (5e) SRD (System Reference Document).
+опис: Правила та описи витрат гравців з 5-ї версії (5e) SRD (Документація з Системної Документації).
 
-# Expenses
-When not descending into the depths of the earth, exploring ruins for lost treasures, or waging war against the encroaching darkness, adventurers face more mundane realities. Even in a fantastical world, people require basic necessities such as shelter, sustenance, and clothing. These things cost money, although some lifestyles cost more than others.
+# Витрати
+Коли в глибини землі не спадають, досліджуючи руїни загублених скарбів, або ведення війни проти сяйва темряви, пригодники стикаються з більш мирними реаліями. Навіть у фантастичному світі людям потрібні основні необхідності, такі як притулок, підтримка та одяг. Ці речі коштують грошей, хоча деякі способу життя коштують більше, ніж інші.
 
-## Lifestyle Expenses
-Lifestyle expenses provide you with a simple way to account for the cost of living in a fantasy world. They cover your accommodations, food and drink, and all your other necessities. Furthermore, expenses cover the cost of maintaining your equipment so you can be ready when adventure next calls.
+## Витрати на спосіб життя
+Витрати на спосіб життя дають вам простий спосіб враховувати витрати на життя в світі фантазії. Вони покривають всі ваші товари, продукти харчування та напої та інші ваші потреби. Крім того, витрати покривають вартість утримання вашого спорядження для готовності до наступного виклику пригод.
 
-At the start of each week or month (your choice), choose a lifestyle from the Expenses table and pay the price to sustain that lifestyle. The prices listed are per day, so if you wish to calculate the cost of your chosen lifestyle over a thirty-day period, multiply the listed price by 30. Your lifestyle might change from one period to the next, based on the funds you have at your disposal, or you might maintain the same lifestyle throughout your character's career.
+На початку кожного тижня або місяця (ваш вибір), виберіть спосіб життя з таблиці витрат і платіть ціну за підтримання цього способу життя. Зараховані ціни за день, тому, якщо ви хочете розрахувати вартість вибраного способу життя протягом тридцяти днів помножити ціну у переліку на 30. Ваш спосіб життя може змінитися від одного періоду до наступного, виходячи з коштів, які у вас є у вашому розпорядженні, або ви можете зберегти той самий спосіб життя у вашій кар'єрі.
 
-Your lifestyle choice can have consequences. Maintaining a wealthy lifestyle might help you make contacts with the rich and powerful, though you run the risk of attracting thieves. Likewise, living frugally might help you avoid criminals, but you are unlikely to make powerful connections.
+Ваш вибір способу життя може мати наслідки. Забезпечення заможного способу життя може допомогти вам зробити контакти з багатими та сильними, хоча ви ризикуєте привернути злодіїв. Так само живі кордони можуть допомогти вам уникнути злочинців, але навряд чи ви отримаєте потужні зв'язки.
 
-| Lifestyle    |     Price/Day |
+| Спосіб життя |     Ціна/день |
 | ------------ | -------------:|
-| Wretched     |             - |
-| Squalid      |          1 sp |
-| Poor         |          2 sp |
-| Modest       |          1 gp |
-| Comfortable  |          2 gp |
-| Wealthy      |          4 gp |
-| Aristocratic | 10 gp minimum |
+| Розчавлений  |             - |
+| Скаліди      |          1 сп |
+| Бідний       |       2 піски |
+| Модест       |          1 ґр |
+| Комфортний   |          2 ґр |
+| Багатства    |          4 ґр |
+| Аристократик | 10-gp мінімум |
 
-**Wretched.** You live in inhumane conditions. With no place to call home, you shelter wherever you can, sneaking into barns, huddling in old crates, and relying on the good graces of people better off than you. A wretched lifestyle presents abundant dangers. Violence, disease, and hunger follow you wherever you go. Other wretched people covet your armor, weapons, and adventuring gear, which represent a fortune by their standards. You are beneath the notice of most people.
+**Розтягається.** Ви живете в негуманних умовах. Якщо нема чого зателефонувати додому, ви укриваєте, куди б не зможете, потрапляючи в комору, Казна-що в давніх пришварях і покладаючись на добрі вдачі людей краще, ніж ви. Бурхливий спосіб життя представляє великі небезпеки. Насильство, хвороби і голод слідують за вами, куди б ви не пішли. Інші жалюгідні люди, жадають зброї, зброї і пригодницький шестер, які виявляють стать за їх стандартами. Ви під поміччю більшість людей.
 
-**Squalid.** You live in a leaky stable, a mud-floored hut just outside town, or a vermin-infested boarding house in the worst part of town. You have shelter from the elements, but you live in a desperate and often violent environment, in places rife with disease, hunger, and misfortune. You are beneath the notice of most people, and you have few legal protections. Most people at this lifestyle level have suffered some terrible setback. They might be disturbed, marked as exiles, or suffer from disease.
+**Сквалід.** Ти мешкаєш у стійкій стайні, брудній хатині прямо за межами міста, або в найсвіжішому місті будинку в найдальшому районі міста. Маємо притулок від елементів, але ви живете у відчайдушному і часто насильницькому середовищі, в місцях розриву хвороби, голоду і нещастя. Ви під поміччю більшості людей, і у вас мало захисних осіб. Більшість людей на цьому рівні життя страждали від жахливих невдач. Їх можуть бути збентежені як вигнанці або ж страждають від хвороби.
 
-**Poor.** A poor lifestyle means going without the comforts available in a stable community. Simple food and lodgings, threadbare clothing, and unpredictable conditions result in a sufficient, though probably unpleasant, experience. Your accommodations might be a room in a flophouse or in the common room above a tavern. You benefit from some legal protections, but you still have to contend with violence, crime, and disease. People at this lifestyle level tend to be unskilled laborers, costermongers, peddlers, thieves, mercenaries, and other disreputable types.
+**Бідний.** поганий спосіб життя означає без наявних комфортів у стабільній спільноті. Прості продукти харчування та помешкання, нитковий одяг та непередбачувані умови призводять до достатньої, хоча, ймовірно, неприємного, досвіду. Ваші умови розміщення можуть бути в кімнаті у лиффі або в загальній кімнаті над таверною. Ви отримуєте вигоду від якогось легального захисту, але все ще маєте справу з насильством, злочинністю та хворобою. Люди на цьому рівні життя, як правило, некваліфіковані працівники, костермонджери, торговці, злодії, найманці та інші поважні типи.
 
-**Modest.** A modest lifestyle keeps you out of the slums and ensures that you can maintain your equipment. You live in an older part of town, renting a room in a boarding house, inn, or temple. You don't go hungry or thirsty, and your living conditions are clean, if simple. Ordinary people living modest lifestyles include soldiers with families, laborers, students, priests, hedge wizards, and the like.
+**Modest.** A modest lifestyle keeps you out of the slums and ensures that you can maintain your equipment. Ви живете в старшій частині міста, знімаєте кімнату в доглядальнику, в приміщенні або храмі. Ви не стаєте голодними чи спрагненими, а ваші умови життя чисті, якщо просто. Звичайні люди, які живуть скромним способом життя, включають солдат з сім'ями, робітниками, студентами, студентами, хедж-майстрами, тощо.
 
-**Comfortable.** Choosing a comfortable lifestyle means that you can afford nicer clothing and can easily maintain your equipment. You live in a small cottage in a middle-class neighborhood or in a private room at a fine inn. You associate with merchants, skilled tradespeople, and military officers.
+**Комфорт.** Вибір зручного способу життя означає, що ви можете дозволити собі дорожчий одяг і може легко підтримувати своє обладнання. Ви живете в невеликому котеджі з будинками середнього класу або в приватній кімнаті в вишуканому готелі. Ви асоціюєте з торговцями, кваліфікованими торговцями та військовими офіцерами.
 
-**Wealthy.** Choosing a wealthy lifestyle means living a life of luxury, though you might not have achieved the social status associated with the old money of nobility or royalty. You live a lifestyle comparable to that of a highly successful merchant, a favored servant of the royalty, or the owner of a few small businesses. You have respectable lodgings, usually a spacious home in a good part of town or a comfortable suite at a fine inn. You likely have a small staff of servants.
+**Заможність.** Вибір заможного способу життя означає жити життям, розкішно, хоча ви, можливо, не досягли соціального статусу, пов'язаного зі старими грошима шляхетності чи роялі. Ви живете спосіб життя, порівнянний з способом життя високоуспішних торговців, прихильний слуга роялті, або власник кількох малих підприємств. Там є поважні помешкання, зазвичай космічний будинок у добрій частині міста або зручний костюм у штрафному готелі. Ви, ймовірно, маєте невелику кількість слуг.
 
-**Aristocratic.** You live a life of plenty and comfort. You move in circles populated by the most powerful people in the community. You have excellent lodgings, perhaps a townhouse in the nicest part of town or rooms in the finest inn. You dine at the best restaurants, retain the most skilled and fashionable tailor, and have servants attending to your every need. You receive invitations to the social gatherings of the rich and powerful, and spend evenings in the company of politicians, guild leaders, high priests, and nobility. You must also contend with the highest levels of deceit and treachery. The wealthier you are, the greater the chance you will be drawn into political intrigue as a pawn or participant.
+**Аристократик.** Ви живете життям і комфортом. Рухаємося кругом, у якому належали найсильніші люди громади. У вас чудове помешкання, можливо, селище в найприємніших частинах міста або номерів у найдальшому готелі. Ви вечеряєте у найкращих ресторанах, зберігаєте найкваліфікованіший і модний хвіст, і є слуги, присутні до вашої потреби. Ви отримуєте запрошення до соціальних зборів багатих і сильних, і проводять вечори в компанії політиків, лідерів гільдії, високих священиків і дворян. Ви також повинні боротися з найвищими рівнями обману і зради. Чим заможніший ти, тим більший шанс, що ти будеш втягнутий у політичний інтриг як пішак або учасник.
 
-### Self-Sufficiency
-The expenses and lifestyles described here assume that you are spending your time between adventures in town, availing yourself of whatever services you can afford--paying for food and shelter, paying townspeople to sharpen your sword and repair your armor, and so on. Some characters, though, might prefer to spend their time away from civilization, sustaining themselves in the wild by hunting, foraging, and repairing their own gear.
+### Самодостатність
+Витрати і спосіб життя описані тут, припускають, що ви витрачаєте свій час між пригодими в місті, допоміжні послуги, які ви можете собі дозволити - платять за їжу і притулок, платять городям списку, щоб посилити ваш меч і відремонтувати броню тощо. Деякі персонажі, однак, можуть вважати за краще проводити свій час від цивілізації, підтримуючи себе в дикій природі полюванням, кочівниками та ремонтуючи власну передачу.
 
-Maintaining this kind of lifestyle doesn't require you to spend any coin, but it is time-consuming. If you spend your time between adventures practicing a profession, you can eke out the equivalent of a poor lifestyle. Proficiency in the Survival skill lets you live at the equivalent of a comfortable lifestyle.
+Підтримання цього виду способу життя не вимагає, щоб ви проводили будь-яку монету, але це займає багато часу. Якщо ви проведете час між пригоди, які практикують професію, ви можете шукати еквівалент поганого способу життя. Дослідність навичок виживання дозволяє жити еквівалентно зручному способу життя.
 
-## Food, Drink, and Lodging
-The Food, Drink, and Lodging table gives prices for individual food items and a single night's lodging. These prices are included in your total lifestyle expenses.
+## Їжа, напої та Lodging
+Таблиця харчових, напоїв та Lodging дає ціни на окремі предмети харчування та помешкання однієї ночі. Ці ціни включені до Ваших загальних витрат на життя.
 
-**Food and Drink**
+**Продукти харчування та напої**
 
-| Item                   |  Cost |
-| ---------------------- | -----:|
-| Ale (gallon)           |  2 sp |
-| Ale (mug)              |  4 cp |
-| Banquet (per person)   | 10 gp |
-| Bread, loaf            |  2 cp |
-| Cheese, hunk           |  1 sp |
-| Meat, chunk            |  3 sp |
-| Wine, common (pitcher) |  2 sp |
-| Wine, fine (bottle)    | 10 gp |
+| Елемент                | Собівартість |
+| ---------------------- | ------------:|
+| Оль (галон)            |      2 піски |
+| Ale (довга)            |         4 Пр |
+| Банкет (за осіб)       |        10 ґр |
+| Хліб, бухта            |         2 Пр |
+| Сирний, мисливець      |         1 сп |
+| М’яс, чанк             |         3 сп |
+| Вино, поширене (нахил) |      2 піски |
+| Вино, штраф (пляшка)   |        10 ґр |
 
-**Meals and Lodging (per day)**
+**Їжа та мешкання (за день)**
 
-| Item         | Meals Cost | Lodging Cost |
-| ------------ | ----------:| ------------:|
-| Squalid      |       3 cp |         7 cp |
-| Poor         |       6 cp |         1 sp |
-| Modest       |       3 sp |         5 sp |
-| Comfortable  |       5 sp |         8 sp |
-| Wealthy      |       8 sp |         2 gp |
-| Aristocratic |       2 gp |         4 gp |
+| Елемент      | Вартість бороди | Вартість подачі |
+| ------------ | ---------------:| ---------------:|
+| Скаліди      |           3 коп |           7 коп |
+| Бідний       |            6 Пр |            1 сп |
+| Модест       |            3 сп |            5 сп |
+| Комфортний   |            5 сп |   8 сантиметрів |
+| Багатства    |   8 сантиметрів |            2 ґр |
+| Аристократик |            2 ґр |            4 ґр |
 
-## Services
-Adventurers can pay nonplayer characters to assist them or act on their behalf in a variety of circumstances. Most such hirelings have fairly ordinary skills, while others are masters of a craft or art, and a few are experts with specialized adventuring skills.
+## Послуги
+Пригоди можуть виплачувати персонажам негравців, щоб їм допомагати або діяти від свого імені за різних обставин. Більшість таких найманів мають досить звичайні навички, а інші - майстри ремесла чи мистецтва, а деякі - експерти з спеціалізованими навичками авантюрності.
 
-Some of the most basic types of hirelings appear on the Services table. Other common hirelings include any of the wide variety of people who inhabit a typical town or city, when the adventurers pay them to perform a specific task. For example, a wizard might pay a carpenter to construct an elaborate chest (and its miniature replica) for use in the secret chest spell. A fighter might commission a blacksmith to forge a special sword. A bard might pay a tailor to make exquisite clothing for an upcoming performance in front of the duke.
+На столі з’являються деякі з найбільш основних типів переривань. Інші загальні наймани включають будь-яку з широкого спектру людей, які населяють типове місто чи місто, коли пригоди платять їм за конкретне завдання. Наприклад, чарівник може заплатити тесляру, щоб побудувати складну скриню (і її мініатюрну репліку) для використання в секретному грудні заклинання. Винищувач може доручити ковалю для підробки спеціального меча. Бард може заплатити кравцем, щоб зробити вишуканий одяг за майбутню продуктивність перед герцогом.
 
-Other hirelings provide more expert or dangerous services. Mercenary soldiers paid to help the adventurers take on a hobgoblin army are hirelings, as are sages hired to research ancient or esoteric lore. If a high-level adventurer establishes a stronghold of some kind, he or she might hire a whole staff of servants and agents to run the place, from a castellan or steward to menial laborers to keep the stables clean. These hirelings often enjoy a long-term contract that includes a place to live within the stronghold as part of the offered compensation.
+Інші наймання надають більше експертів або небезпечних послуг. Найманець солдати сплатили, щоб допомогти авантюристам взяти на себе армію гоблін, є найнятами, як такі, щоб дослідити давню або езотеричну прогрівку. Якщо авантюр високого рівня встановить твердиню якогось виду, він або вона можуть найняти цілу роботу слуг та агентів, щоб бігти місце, від кастела або борту до менеріальних робітників, щоб тримати сталі чистими. Ці наймання часто користуються довгостроковим договором, який включає місце для життя в межах твердині як частину запропонованої компенсації.
 
-| Service                   | Pay           |
-| ------------------------- | ------------- |
-| Coach cab (Between towns) | 3 cp per mile |
-| Coach cab (Within a city) | 1 cp          |
-| Hireling (Skilled)        | 2 gp per day  |
-| Hireling (Untrained)      | 2 sp per day  |
-| Messenger                 | 2 cp per mile |
-| Road or gate toll         | 1 cp          |
-| Ship's passage            | 1 sp per mile |
+| Послуга                     | Сплатити     |
+| --------------------------- | ------------ |
+| Тренерний кеб (між містами) | 3 кп на милю |
+| Тренер (в місті)            | 1 сп         |
+| Наймання (Квит)             | 2 ґр в день  |
+| Наймання (непідготовлено)   | 2 sp в день  |
+| Месенджер                   | 2 кп на милю |
+| Дорога або ворота           | 1 сп         |
+| Пасаж корабля               | 1 сп на милю |
 
-Skilled hirelings include anyone hired to perform a service that involves a proficiency (including weapon, tool, or skill): a mercenary, artisan, scribe, and so on. The pay shown is a minimum; some expert hirelings require more pay. Untrained hirelings are hired for menial work that requires no particular skill and can include laborers, porters, maids, and similar workers.
+Досконалі найняті для того, щоб виконати послугу, що включає в себе майстерність (включаючи зброю, інструмент або навичку): найманців, художника, писання тощо. Пропонована оплата - мінімальна; деякі експертні принципи потребують більшої оплати. Нетреновані наймані наймані працівники, які не потребують особливої майстерності та можуть включати працівників, портерів, служниці та подібних працівників.
 
-## Spellcasting Services
-People who are able to cast spells don't fall into the category of ordinary hirelings. It might be possible to find someone willing to cast a spell in exchange for coin or favors, but it is rarely easy and no established pay rates exist. As a rule, the higher the level of the desired spell, the harder it is to find someone who can cast it and the more it costs.
+## Служби орфографії
+Люди, які здатні кидати заклинання не підпадають до категорії звичайних наймита. Цілком імовірно, що хтось готовий знайти заклинання в обмін на монету чи обране, але це рідко легко і встановлені тарифи на оплату не існує. Як правило, вище рівня бажаного орфографії, важче знайти когось, хто зможе подати його, і чим більше він коштує.
 
-Hiring someone to cast a relatively common spell of 1st or 2nd level, such as **_cure wounds_** or **_identify_**, is easy enough in a city or town, and might cost 10 to 50 gold pieces (plus the cost of any expensive material components). Finding someone able and willing to cast a higher-level spell might involve traveling to a large city, perhaps one with a university or prominent temple. Once found, the spellcaster might ask for a service instead of payment--the kind of service that only adventurers can provide, such as retrieving a rare item from a dangerous locale or traversing a monster-infested wilderness to deliver something important to a distant settlement.
+Принаймання когось викликати відносно спільне заклинання 1-го чи 2-го рівня, наприклад **_вилікувати рани_** або **_ідентифікувати_**, в місті чи місті достатньо легко, і це може коштувати від 10 до 50 золотих частин (плюс вартість будь-яких дорогих матеріальних компонентів). Пошук того, хто здатний і бажає кинути заклинання більш високого рівня, може передбачати подорожі до великого міста, можливо, один з університетським чи видатним храмом. Опинившись заклинання може попросити послуги замість виплати - ту послугу, яку можуть надати тільки авантюри, наприклад, отримати рідкісний предмет із небезпечної локалі або Штучний чудовиськ, наповнений чудовиськом пустелею, щоб забезпечити щось важливе для далекого населення.
