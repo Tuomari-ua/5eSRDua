@@ -1,31 +1,31 @@
-description: Rules and information for the Halfling race from the 5th Edition (5e) SRD (System Reference Document).
+опис: Правила та інформація для гонки Halfling з 5-ї версії (5e) SRD (Документація Систем).
 
-# Halfling
-## Halfling Traits
+# Галфлінг
+## Особливості Halfling
 - - -
-Your halfling character has a number of traits in common with all other halflings.
+Ваш персонаж надихабний має ряд ознак, спільних між усіма іншими підніманнями.
 
-**Ability Score Increase.** Your Dexterity score increases by 2.
+**Оцінка здібностей збільшується.** Збільшується очки вашого Dexterity на 2.
 
-**Age.** A halfling reaches adulthood at the age of 20 and generally lives into the middle of his or her second century.
+**Вік.** Зупинка досягає дорослого настрою у віці 20 років і загалом живе в середині свого другого століття.
 
-**Alignment.** Most halflings are lawful good. As a rule, they are good-hearted and kind, hate to see others in pain, and have no tolerance for oppression. They are also very orderly and traditional, leaning heavily on the support of their community and the comfort of their old ways.
+**Вирівнювання.** Більшість вільних німців є цілком правдивими. Як правило, вони добродушні і добрілі, ненавидять бачити інших з болю, і не мають толерантності до утиску. Вони також є дуже впорядкованими та традиційними, значною мірою спираючись на підтримку своєї спільноти та втіху старих шляхів.
 
-**Size.** Halflings average about 3 feet tall and weigh about 40 pounds. Your size is Small.
+**Розмір** Затемнення в середньому близько 3 футів заввишки і близько 40 фунтів. У тебе маленький розмір.
 
-**Speed.** Your base walking speed is 25 feet.
+**Швидкість.** Ваша основна швидкість ходьби становить 25 футів.
 
-**Lucky.** When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.
+**Щаслива.** Коли ви жбурляєте 1 на d20 на атаку, постійне зволікання, або рятувати ворота, ви можете викорінити смерть і використовувати нове жбурляння.
 
-**Brave.** You have advantage on saving throws against being frightened.
+**Смішний.** Ви маєте перевагу над збереженням зляканих людей.
 
-**Halfling Nimbleness.** You can move through the space of any creature that is of a size larger than yours.
+**Halfling Nimbleness.** Ви можете пройти через простір будь-якої істоти, яка має розмір, більший, ніж ваш.
 
-**Languages.** You can speak, read, and write Common and Halfling. The Halfling language isn’t secret, but halflings are loath to share it with others. They write very little, so they don’t have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling.
+**Мови** можна розмовляти, читати і писати про загальні і напіввітряки. Мова Halfling не секретна, але халяви ненавидять поділитися нею з іншими. Вони пишуть зовсім мало, тому в них немає багатого тіла літератури. Однак їх усна традиція дуже сильна. Майже всі половини розмовляють спільно, щоб спілкуватися з людьми, чиї землі вони сидять чи мандрують ними.
 
-## Lightfoot
-As a lightfoot halfling, you can easily hide from notice, even using other people as cover. You’re inclined to be affable and get along well with others. Lightfoots are more prone to wanderlust than other halflings, and often dwell alongside other races or take up a nomadic life.
+## Блискавка
+Пропускаючи пружку, ви можете легко ховатися від зауважте, навіть якщо вони зацікавлені в оточенні інших людей. Ти схильний бути постраждалим і добре ладнуватися з іншими. Світлові ноги більш схильні до блукання пожадливою, ніж інші далення, і часто сидять поряд з іншими расами або беруть кочовий життя.
 
-**Ability Score Increase.** Your Charisma score increases by 1.
+**Оцінка здібностей зростає.** Рівень вашої Харизми збільшується на 1.
 
-**Naturally Stealthy.** You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.
+**Природно нетверезо .** Ви можете спробувати приховати навіть тоді, коли вас затьмарять тільки істота, що має хоча б один розмір за вас.
