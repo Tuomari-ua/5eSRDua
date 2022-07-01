@@ -1,12 +1,12 @@
 name: Detect Magic level: 1 school: divination classes: bard cleric druid paladin ranger sorcerer wizard
 
-# Detect Magic
-_1st-level divination (ritual)_
+# Виявити магію
+_Однорівневе розлучення (ритуал)_
 
 **Casting Time:** 1 action    
 **Range:** Self    
 **Components:** V, S    
 **Duration:** Concentration, up to 10 minutes
 
-For the duration, you sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any.    
-The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt. 
+Ви відчуваєте присутність магії в межах 30 футів. Якщо ви відчуваєте магію таким чином, можете використати дію, щоб побачити слабку ауру навколо будь-якої видимої істоти або об'єкта в області, що має магію, і якщо так, то ви, опанувати його шкіру магії.    
+заклинання може проникнути до більшості бар'єрів, але його заблоковано на 1 фут каменю, 1 дюйм спільного металу, тонкий аркуш, або 3 фути деревини або землі. 
