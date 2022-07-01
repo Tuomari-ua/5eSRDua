@@ -1,18 +1,18 @@
-name: Divine Word level: 7 school: evocation classes: cleric
+назва: Divine Word рівень: 7 школа: евакуація класів: копію
 
-# Divine Word
-_7th-level evocation_
+# Божественне слово
+_Евокація 7-го рівня_
 
 **Casting Time:** 1 bonus action    
 **Range:** 30 feet    
 **Components:** V    
 **Duration:** Instantaneous
 
-You utter a divine word, imbued with the power that shaped the world at the dawn of creation. Choose any number of creatures you can see within range. Each creature that can hear you must make a Charisma saving throw. On a failed save, a creature suffers an effect based on its current hit points:
+Ви вимовляєте божественне слово, пройняте завдяки силі, яка формувала світ на світанку створення. Виберіть будь-яку кількість істот, яку ви бачите в межах діапазону. Кожна істота, яка може чути, як ви повинні врятувати харизму. На невдалому збереженні істота зазнає ефекту, заснованого на його поточних точках:
 
-* 50 hit points or fewer: deafened for 1 minute
-* 40 hit points or fewer: deafened and blinded for 10 minutes
-* 30 hit points or fewer: blinded, deafened, and stunned for 1 hour
-* 20 hit points or fewer: killed instantly
+* 50 очків або малого: заглушених протягом 1 хвилини
+* 40 очків або малого: заглушених та сліпих на 10 хвилин
+* 30 очків або мало: сліпий, оглушений, заглушений на 1 годину
+* 20 очків або мало: вбивати миттєво
 
-Regardless of its current hit points, a celestial, an elemental, a fey, or a fiend that fails its save is forced back to its plane of origin (if it isn't there already) and can't return to your current plane for 24 hours by any means short of a **_wish_** spell. 
+Незалежно від її нинішніх страждаючих точок, небесного, елементарного, свята, або наповнення, що не вдається зберегти, примусово повернутись до його польоту походження (якщо він ще не є) і не може повернутися до поточного площини протягом 24 годин хоча б **_хотів_** орфолювати. 
