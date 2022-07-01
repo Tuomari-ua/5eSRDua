@@ -1,58 +1,58 @@
-description: Rules for the order of combat and possible actions from the 5th Edition (5e) SRD (System Reference Document).
+опис: Правила порядку бойових дій і можливих дій з 5-ї версії (5e) SRD (Документація Систем).
 
-# The Order of Combat
-A typical combat encounter is a clash between two sides, a flurry of weapon swings, feints, parries, footwork, and spellcasting. The game organizes the chaos of combat into a cycle of rounds and turns. A **round** represents about 6 seconds in the game world. During a round, each participant in a battle takes a **turn**. The order of turns is determined at the beginning of a combat encounter, when everyone rolls initiative. Once everyone has taken a turn, the fight continues to the next round if neither side has defeated the other.
+# Орден Битви
+Типовий бойовий зустріч являє собою зіткнення між двома сторонами, шквал боєприпасів, пір'я, апрі, роботи та написання орфографії. Гра організує хаос бою в циклі раундів і черг. У ігровому світі – **раунд** становить близько 6 секунд. During a round, each participant in a battle takes a **turn**. Порядок поворотів визначається на початку зустрічі з битвою, коли кожен обертається ініціативою. Після того, як всі взяли на себе чергу, боротьба триває в наступному раунді, якщо жодна із сторін не перемогла іншого.
 
-> ### Combat Step by Step
-> **1. Determine surprise.** The GM determines whether anyone involved in the combat encounter is surprised.
-> **2. Establish positions.** The GM decides where all the characters and monsters are located. Given the adventurers' marching order or their stated positions in the room or other location, the GM figures out where the adversaries are--how far away and in what direction.
-> **3. Roll initiative.** Everyone involved in the combat encounter rolls initiative, determining the order of combatants' turns.
-> **4. Take turns.** Each participant in the battle takes a turn in initiative order.
-> **5. Begin the next round.** When everyone involved in the combat has had a turn, the round ends. Repeat step 4 until the fighting stops.
+> ### Бойовий крок за кроком
+> **1. Визначає несподіванку появи GM** GM визначає, чи хто-небудь бере участь у боротьбі з зустрічею.
+> **2. Встановлення позицій.** GM вирішує, де знаходяться всі символи та монстрі. Враховуючи маршируючі позиції пригод або їх заявлені позиції в кімнаті чи іншому місці, GM визначає, де противники - як далеко далеко і в якому напрямку.
+> **3. Ініціатива "галок".** Всі беруть участь у ініціативі бойових нападів, визначаючи порядок поворотів бойових дій.
+> **4. Робіть чергу.** Кожен учасник битви приймає чергу за ініціативою.
+> **5. Почніть наступний раунд.** Коли всі беруть участь у бою мали поворот, раунд завершено. Повторіть крок 4 до тих пір, поки не зупиниться бій.
 
 
-## Surprise
-A band of adventurers sneaks up on a bandit camp, springing from the trees to attack them. A gelatinous cube glides down a dungeon passage, unnoticed by the adventurers until the cube engulfs one of them. In these situations, one side of the battle gains surprise over the other.
+## Сюрприз
+Розторощик пригод прокрадається на бандитський табір, що кинувся з дерев, щоб напасти на них. Гелінарний кубик ковзає униз по коридорі, непоміченим пасажирами пригод, поки кубик не охопить один з них. В цих ситуаціях одна сторона битви отримує сюрприз над іншою.
 
-The GM determines who might be surprised. If neither side tries to be stealthy, they automatically notice each other. Otherwise, the GM compares the Dexterity (Stealth) checks of anyone hiding with the passive Wisdom (Perception) score of each creature on the opposing side. Any character or monster that doesn't notice a threat is surprised at the start of the encounter.
+GM визначає, хто може бути здивованим. Якщо жодна із сторін не намагається підкрасти, вони автоматично помічають один одного. В іншому випадку GM порівнює Dexterity (Stealth) перевірки тих, хто ховається з пасивною мудрістю (Винятка) бачень кожної істоти на стороні. Будь-який характер чи монстра, який не помічає загрози, здивований на початку зустрічі.
 
-If you're surprised, you can't move or take an action on your first turn of the combat, and you can't take a reaction until that turn ends. A member of a group can be surprised even if the other members aren't.
+Якщо ви здивовані, ви не можете переміщатися або вжити заходів на першому кроці битви, і ви не зможете взяти на себе реакцію, поки не скінчиться. Член групи можна здивувати, навіть якщо інші члени не є.
 
-## Initiative
-Initiative determines the order of turns during combat. When combat starts, every participant makes a Dexterity check to determine their place in the initiative order. The GM makes one roll for an entire group of identical creatures, so each member of the group acts at the same time.
+## Ініціатива
+Ініціатива визначає порядок поворотів під час бою. Коли починається битва, кожен учасник робить перевірку на Dexterity для визначення їх місця в порядку ініціативи. GM робить один жбурляння для цілої групи однакових істот, тому кожен учасник групи діє одночасно.
 
-The GM ranks the combatants in order from the one with the highest Dexterity check total to the one with the lowest. This is the order (called the initiative order) in which they act during each round. The initiative order remains the same from round to round.
+GM займає місце для учасників учасників торгів з найбільшою оцінкою Шлюбності - в суті. Це порядок (так званий порядок ініціативи), в якому вони діють під час кожного раунду. Ініціатива залишається однаковим від раунду до раунду.
 
-If a tie occurs, the GM decides the order among tied GM-controlled creatures, and the players decide the order among their tied characters. The GM can decide the order if the tie is between a monster and a player character. Optionally, the GM can have the tied characters and monsters each roll a d20 to determine the order, highest roll going first.
+Якщо відбувається краватка, то в свою чергу вирішує порядок серед пов'язаних істот, які контролюються GM-контентом, і учасники вирішать замовлення серед своїх зв'язаних персонажів. GM може визначити порядок чи краватка між монстром і персонажем. За бажанням, GM можуть мати зв'язані символи і монстри кожен з яких пробігає d20, щоб визначити замовлення, найвище число йде в першу чергу.
 
-## Your Turn
-On your turn, you can **move** a distance up to your speed and **take one action**. You decide whether to move first or take your action first. Your speed--sometimes called your walking speed--is noted on your character sheet.
+## Ваш хід
+На вашу чергу, ви можете **перемістити** відстань до вашої швидкості та **зробити одну дію**. Ви самі вирішуєте чи рухатиметесь спочатку, чи вживаєте свої дії. Твоя швидкість - іноді звалася "швидкість" - помічена на твоєму аркуші для персонажа.
 
-The most common actions you can take are described in the "Actions in Combat" section later in this chapter. Many class features and other abilities provide additional options for your action.
+Найпоширеніші дії, які ви можете зробити, описуються у розділі "Дії в комбаті" пізніше у цьому розділі. Для багатьох функцій класу та інших умінь доступні додаткові можливості для вашої дії.
 
-The "Movement and Position" section later in this chapter gives the rules for your move.
+Розділ "Рух і позиція" пізніше в цьому розділі дає правила для вашого кроку.
 
-You can forgo moving, taking an action, or doing anything at all on your turn. If you can't decide what to do on your turn, consider taking the Dodge or Ready action, as described in "Actions in Combat."
+Ви можете відмовитися від рухомого життя, вжити заходів, або робити що-небудь взагалі на вашому кроці. Якщо ви не можете вирішити, що робити з вашою чергою, розгляньте можливість вжити заходів Dodge або Reade, як це описано у "Дії в Combat."
 
-### Bonus Actions
-Various class features, spells, and other abilities let you take an additional action on your turn called a bonus action. The Cunning Action feature, for example, allows a rogue to take a bonus action. You can take a bonus action only when a special ability, spell, or other feature of the game states that you can do something as a bonus action. You otherwise don't have a bonus action to take.
+### Бонусні дії
+Різні функції класу, орфографії та інші можливості дозволяють додатково заходити у черзі під назвою "бонус". Наприклад, функція «Утіка» дозволяє скористатися додатковими можливостями. Ви можете вжити бонусних дій тільки тоді, коли спеціальні можливості, правопис, або ж інша особливість гри вказує, що можна зробити щось у якості бонусної дії. У вас інакше не буде додаткових дій.
 
-You can take only one bonus action on your turn, so you must choose which bonus action to use when you have more than one available.
+Ви можете взяти тільки одну бонусну дію на свою чергу, так що ви повинні вибрати, яка додаткова дія для використання, коли у вас є більше однієї доступності.
 
-You choose when to take a bonus action during your turn, unless the bonus action's timing is specified, and anything that deprives you of your ability to take actions also prevents you from taking a bonus action.
+Ви обираєте, коли потрібно вжити бонусних дій під час своєї черги, доки не буде вказано час преміальних дій, і все, що позбавляє вас від можливості вжити заходів, також заважає вам вживати бонусних дій.
 
-### Other Activity on Your Turn
-Your turn can include a variety of flourishes that require neither your action nor your move.
+### Інша активність на вашому шляху
+Ваш хід може включати в себе різні процвітання, які не вимагають дій і вашого руху.
 
-You can communicate however you are able, through brief utterances and gestures, as you take your turn.
+Однак ви можете спілкуватись, однак умієте за допомогою коротких висловів і жестів, під час своєї черги.
 
-You can also interact with one object or feature of the environment for free, during either your move or your action. For example, you could open a door during your move as you stride toward a foe, or you could draw your weapon as part of the same action you use to attack.
+Ви також можете взаємодіяти з одним об'єктом, або з його можливостями для навколишнього середовища безкоштовно, під час вашого пересування чи вашої дії. Наприклад, ви можете відкрити двері під час ходу, як ви крокуєте до ворога, або ви можете намалювати свою зброю як частину тієї ж дії, яку використовуєте для атаки.
 
-If you want to interact with a second object, you need to use your action. Some magic items and other special objects always require an action to use, as stated in their descriptions.
+Якщо ви хочете взаємодіяти з другим об'єктом, вам потрібно використовувати свою дію. Деякі магічні елементи та інші спеціальні об'єкти завжди вимагають дії для використання, як зазначено в їх описах.
 
-The GM might require you to use an action for any of these activities when it needs special care or when it presents an unusual obstacle. For instance, the GM could reasonably expect you to use an action to open a stuck door or turn a crank to lower a drawbridge.
+GM може вимагати, щоб ви застосували дію для будь-якої з цих дій, коли вона потребує особливої опіки або коли вона представляє незвичну перешкоду. Наприклад, ГМ може цілком розраховувати, що ви застосуєте дію, щоб відкрити застряжні двері або повернути каркас до нижчого містка.
 
-## Reactions
-Certain special abilities, spells, and situations allow you to take a special action called a reaction. A reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else's. The opportunity attack, described later in this chapter, is the most common type of reaction.
+## Реакції
+Деякі особливі здібності, заклинання та ситуації дозволяють робити особливу дію під назвою реакція. Реакція - це миттєва реакція на якийсь тип, який може статися і на чиємусь іншому. Альтернативна атака, описана пізніше у цьому розділі, є найбільш поширеною реакцією.
 
-When you take a reaction, you can't take another one until the start of your next turn. If the reaction interrupts another creature's turn, that creature can continue its turn right after the reaction.
+Коли почнете реакцію, то не зможете почати нову аж до початку наступної черги. Якщо реакція перериває поворот іншої істоти, то істота може продовжувати свою поворот одразу після реакції.
