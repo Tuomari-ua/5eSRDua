@@ -1,18 +1,18 @@
-description: Rules for resting and recovering from the 5th Edition (5e) SRD (System Reference Document).
+опис: Правила відпочинку та відновлення після 5-ї версії (5e) SRD (Документація з Системної Документації).
 
-# Resting
-Heroic though they might be, adventurers can't spend every hour of the day in the thick of exploration, social interaction, and combat. They need rest--time to sleep and eat, tend their wounds, refresh their minds and spirits for spellcasting, and brace themselves for further adventure.
+# Відпочиває
+Героїчні, хоча, це можуть бути авантюристи, які не можуть проводити кожної години дня в густому дослідженні, соціальній взаємодії та бою. Їм потрібен відпочинок - час, щоб спати і їсти, схильні до ран, обновлювати розуми та духи для орфографії, і готують себе до подальших пригод.
 
-Adventurers can take short rests in the midst of an adventuring day and a long rest to end the day.
+Сестри пригод можуть займати короткі гріхи в середині пригодницьких день і тривалі відпочинку до кінця.
 
-## Short Rest
-A short rest is a period of downtime, at least 1 hour long, during which a character does nothing more strenuous than eating, drinking, reading, and tending to wounds.
+## Короткий режим
+Коротке відпочинку - це період спаду, принаймні довжиною 1 години, під час чого персонаж не робить нічого страшнішого, ніж їжа, пиття, читання і тенденція до ран.
 
-A character can spend one or more Hit Dice at the end of a short rest, up to the character's maximum number of Hit Dice, which is equal to the character's level. For each Hit Die spent in this way, the player rolls the die and adds the character's Constitution modifier to it. The character regains hit points equal to the total. The player can decide to spend an additional Hit Die after each roll. A character regains some spent Hit Dice upon finishing a long rest, as explained below.
+Людина може витратити один або кілька ударів в кінці короткого відпочинку, до максимальної кількості влучань для персонажа, який дорівнює рівні рівня персонажу. Для кожного удару, витраченого таким чином, гравець котить смерть і додає до нього модифікатор конституції персонажа. Персонаж знову впливає на точки, що дорівнюють загальній. Гравець може вирішити провести додатковий удар після кожного жбурляння. Персонаж знову забирає багато ресурсів після закінчення довгого відпочинку, як пояснюється нижче.
 
-## Long Rest
-A long rest is a period of extended downtime, at least 8 hours long, during which a character sleeps or performs light activity: reading, talking, eating, or standing watch for no more than 2 hours. If the rest is interrupted by a period of strenuous activity--at least 1 hour of walking, fighting, casting spells, or similar adventuring activity--the characters must begin the rest again to gain any benefit from it.
+## Довгий відпочинок
+Тривале відпочинку - це період розширеного спаду щонайменше з 8 годин протягом яких персонаж спить або виконує легку активність: читання, розмову, їжу, чи постійний годинник протягом не більше 2 годин. Якщо решта переривається періодом напруженої активності - принаймні 1 годину ходьби, бойових дій, лихих заклинань, або аналогічна пригодницька активність - ієрогліфи повинні знову почати решту щоб отримати будь-яку вигоду від неї.
 
-At the end of a long rest, a character regains all lost hit points. The character also regains spent Hit Dice, up to a number of dice equal to half of the character's total number of them (minimum of one die). For example, if a character has eight Hit Dice, he or she can regain four spent Hit Dice upon finishing a long rest.
+В кінці довгого відпочинку герой повертається всі втрачені моменти. Характер також знову отримує роботу, до кількості кубиків дорівнює половині загальної кількості персонажа (мінімум одна помре). Наприклад, якщо персонаж має вісім гральних кісток, він або вона можуть повернути чотири битви за завершенням відпочинку.
 
-A character can't benefit from more than one long rest in a 24-hour period, and a character must have at least 1 hit point at the start of the rest to gain its benefits.
+Символ не може отримати вигоду від більш ніж однієї тривалої відпочинку у 24-годинний період, і персонаж повинен мати принаймні 1 точку удару на початку решти, щоб отримати свої переваги.
