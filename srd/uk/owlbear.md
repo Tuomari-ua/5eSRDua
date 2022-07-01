@@ -1,13 +1,13 @@
-name: Owlbear type: monstrosity cr: 3
+назва: Власник тип: монстрозовість cr: 3
 
-# Owlbear
-_Large monstrosity, unaligned_
+# Вовконогі
+_Величезний чудовиськ, не вирівняти_
 
 **Armor Class** 13 (natural armor)    
 **Hit Points** 59 (7d10 + 21)    
 **Speed** 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 20 (+5) | 12 (+1) | 17 (+3) | 3 (−4) | 12 (+1) | 7 (−2) |
 
@@ -16,9 +16,9 @@ _Large monstrosity, unaligned_
 **Languages** --    
 **Challenge** 3 (700 XP)
 
-**Keen Sight and Smell.** The owlbear has advantage on Wisdom (Perception) checks that rely on sight or smell.
+**Keen Sight і Smell.** Cowlbear має перевагу в мудрості (Виключення) перевірки, які покладаються на зір або запах.
 
-### Actions
-**Multiattack.** The owlbear makes two attacks: one with its beak and one with its claws.    
-**Beak.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one creature. _Hit:_ 10 (1d10 + 5) piercing damage.    
-**Claws.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 14 (2d8 + 5) slashing damage.
+### Дії
+**Мультиатака.** Ведмідь робить дві атаки: один з однаковим дзьобом і один з його кігтечками.    
+**Дзьоб.** _Атака ближньої зброї:_ +7, щоб влучити в неї, сягнути 5 футів, одна істота. _Вразів:_ 10 (1d10 + 5), що проникає через пошкодження.    
+**Кігті.** _Атака ближньої зброї:_ +7 щоб ударити, досягти 5-ти цілі, одну ціль. _Вразів:_ 14 (2d8 + 5) пошкодження.
