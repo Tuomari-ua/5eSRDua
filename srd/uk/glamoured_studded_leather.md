@@ -1,6 +1,6 @@
-name: Glamoured Studded Leather type: armor
+назва: Glamoured Studed шкіра тип: броня
 
-# Glamoured Studded Leather
-_Armor (studded leather), rare_
+# Чарівна Шкіра для навчання
+_Броня (досліджений), рідкісна_
 
-While wearing this armor, you gain a +1 bonus to AC. You can also use a bonus action to speak the armor's command word and cause the armor to assume the appearance of a normal set of clothing or some other kind of armor. You decide what it looks like, including color, style, and accessories, but the armor retains its normal bulk and weight. The illusory appearance lasts until you use this property again or remove the armor. 
+При одязі цієї броні, ви отримуєте +1 бонус до н.е. Ви також можете використати преміальну дію, щоб говорити командним словом броні і причинити броню щоб припустити зовнішній вигляд звичайного одягу чи іншого роду обладунок. Ви вирішуєте, як він виглядає, включаючи кольори, стиль та аксесуари, але броня зберігає свою нормальну вагу та масу. Зовнішній вигляд ілюзорного періоду, поки ви не будете використовувати цю властивість знову або не видалите броню. 
