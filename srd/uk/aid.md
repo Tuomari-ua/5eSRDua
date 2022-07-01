@@ -1,13 +1,13 @@
-name: Aid level: 2 school: abjuration classes: cleric paladin
+назва: Допомога рівень: 2 школу: abjuration класів: cladin paladin
 
-# Aid
-_2nd-level abjuration_
+# Допомога
+_Тривалість 2НД-го рівня_
 
-**Casting Time:** 1 action    
-**Range:** 30 feet    
-**Components:** V, S, M (a tiny strip of white cloth)   
-**Duration:** 8 hours
+**Час трансляції :** 1 дія    
+**Діапазон:** 30 футів    
+**компоненти:** V, S, М (крихітна смуга білого одягу)   
+**тривалість:** години
 
-Your spell bolsters your allies with toughness and resolve. Choose up to three creatures within range. Each target's hit point maximum and current hit points increase by 5 for the duration.
+Ваша заклинання зміцнює ваших союзників, рішучість і рішучість. Виберіть до трьох істот за межами діапазону. Максимальна та максимальна точка удару кожної мети зростає на 5 на тривалість.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, a target's hit points increase by an additional 5 for each slot level above 2nd. 
+**На вищих рівнях.** Коли ви кидаєте це заклинання використовуючи гніздо 3-го рівня або вище, кількість очків для досягнення цілі збільшується на 5 для кожного слота вище 2nd. 
