@@ -1,13 +1,13 @@
-name: Giant Constrictor Snake type: beast cr: 2
+назва: Гігантський Конфлікт тип: тварина cr: 2
 
-# Giant Constrictor Snake
-_Huge beast, unaligned_
+# Велетенська констрикторська змія
+_Величезний звір, неприєднаний_
 
 **Armor Class** 12    
 **Hit Points** 60 (8d12 + 8)    
 **Speed** 30 ft., swim 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 19 (+4) | 14 (+2) | 12 (+1) | 1 (−5) | 10 (+0) | 3 (−4) |
 
@@ -16,6 +16,6 @@ _Huge beast, unaligned_
 **Languages** --    
 **Challenge** 2 (450 XP)
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +6 to hit, reach 10 ft., one creature. _Hit:_ 11 (2d6 + 4) piercing damage.    
-**Constrict.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one creature. _Hit:_ 13 (2d8 + 4) bludgeoning damage, and the target is grappled (escape DC 16). Until this grapple ends, the creature is restrained, and the snake can't constrict another target. 
+### Дії
+**Біт.** _Атака ближньої зброї:_ +6. Досягнути 10, одна істота. _Вразів:_ 11 (2d6 + 4) пробивної шкоди.    
+**Район.** _Атака ближньої зброї:_ +6, щоб вдарити в нього, досягти 5-ти прот., однієї істоти. _Вразів:_ 13 (2d8 + 4) пошкодження помилок та ціль перетягується (escape DC 16). Доки це захоплення не закінчаться, істота буде стримана, а змія не зможе обмежити іншу ціль. 
