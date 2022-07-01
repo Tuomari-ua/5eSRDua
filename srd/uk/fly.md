@@ -1,13 +1,13 @@
-name: Fly level: 3 school: transmutation classes: sorcerer warlock wizard
+назва: Літній рівень: 3 школу: транмутація класі: сортувальник warlock
 
-# Fly
-_3rd-level transmutation_
+# Політ
+_Трансмутація третього рівня_
 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S, M (a wing feather from any bird)    
-**Duration:** Concentration, up to 10 minutes
+**Час трансляції :** 1 дія    
+**Діапазон:** Торкніться    
+**компоненти:** V, S, М (від будь-якої пташки)    
+**Тривалість:** Посада, більше 10 хвилин
 
-You touch a willing creature. The target gains a flying speed of 60 feet for the duration. When the spell ends, the target falls if it is still aloft, unless it can stop the fall.
+Ви торкаєтесь істоти. Ціль набирає швидкість польоту в 60 футів на тривалість. Коли заклинання закінчується, ціль падає якщо вона все ще попереду, якщо вона не може зупинити падіння.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for each slot level above 3rd. 
+**На вищих рівнях.** Коли ви кидаєте це заклинання використовуючи слот четвертого рівня або вище, ви можете назначити ще одну істоту для кожного слоту вище 3rd. 
