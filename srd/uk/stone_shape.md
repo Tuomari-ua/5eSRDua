@@ -1,11 +1,11 @@
-name: Stone Shape level: 4 school: transmutation classes: cleric druid wizard
+назва: Кам'яна трупа рівень: 4 школа: транмутація класів: священно druid
 
-# Stone Shape
-_4th-level transmutation_
+# Кам’яна фігура
+_4-та трансмутація_
 
 **Casting Time:** 1 action    
 **Range:** Touch    
 **Components:** V, S, M (soft clay, which must be worked into roughly the desired shape of the stone object)    
 **Duration:** Instantaneous
 
-You touch a stone object of Medium size or smaller or a section of stone no more than 5 feet in any dimension and form it into any shape that suits your purpose. So, for example, you could shape a large rock into a weapon, idol, or coffer, or make a small passage through a wall, as long as the wall is less than 5 feet thick. You could also shape a stone door or its frame to seal the door shut. The object you create can have up to two hinges and a latch, but finer mechanical detail isn't possible. 
+Ви торкаєтеся кам'яної частини середнього розміру, або меншого або частини каменю не більше 5 футів у будь-якому вимірі і формуєте її в будь-якій формі, яка відповідає вашій меті. Так, наприклад, ви можете сформувати великий камінь на зброю, ідол, чи скриню, або прокласти невеликий прохід через стіну, доки стіна буде менше 5 футів. Ви також можете встановити кам'яні двері або його раму, щоб зачинити двері. Об’єкт, який ви створили, може мати до двох шарнірів і співу, але більш дрібні механічні деталі неможливі. 
