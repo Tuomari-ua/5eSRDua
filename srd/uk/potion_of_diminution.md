@@ -1,6 +1,6 @@
-name: Potion of Diminution type: potion
+назва: Тип зілля розміру : зілля
 
-# Potion of Diminution
-_Potion, rare_
+# Зілля вимірювання
+_Зілля_
 
-When you drink this potion, you gain the "reduce" effect of the **_enlarge/reduce_** spell for 1d4 hours (no concentration required). The red in the potion's liquid continuously contracts to a tiny bead and then expands to color the clear liquid around it. Shaking the bottle fails to interrupt this process.
+При написанні цього зілля, ви отримуєте ефект "зменшити" **_збільшення / зменшити_** написання 1 d4 годин (без потреби у концентрації). Червоний - у рідині пікції постійно контрастує з крихітною дзьобою, а потім розширюється на колір ясної рідини навколо неї. Струшування пляшки не може перервати цей процес.
