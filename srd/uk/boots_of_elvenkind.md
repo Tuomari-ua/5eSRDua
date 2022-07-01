@@ -1,6 +1,6 @@
-name: Boots of Elvenkind type: item
+назва: Завантаження Елвентиду тип: елемент
 
-# Boots of Elvenkind
-_Wondrous item, uncommon_
+# Черевики Елвенкінду
+_Нетиповий для Wondrous_
 
-While you wear these boots, your steps make no sound, regardless of the surface you are moving across. You also have advantage on Dexterity (Stealth) checks that rely on moving silently. 
+Під час того, як ви носите ці чоботи, ваші кроки не роблять звуку, незалежно від поверхні, яку ви рухаєтесь. Ви також маєте перевагу в тверезому стані, які покладаються на рух безшумно. 
