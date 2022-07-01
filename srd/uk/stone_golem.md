@@ -1,27 +1,27 @@
-name: Stone Golem type: construct cr: 10
+назва: Кам’яний Голем тип: конструктор cr: 10
 
 # Stone Golem
-_Large construct, unaligned_
+_Велика конструкція, не вирівняти_
 
-**Armor Class** 17 (natural armor)    
-**Hit Points** 178 (17d10 + 85)    
-**Speed** 30 ft.
+**Клас обладунку** 17 (природна броня)    
+**Очки** 178 (17d10 + 85)    
+**швидкість** фут.
 
-| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС   | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------ | ------- | ------ | ------- | ------ |
 | 22 (+6) | 9 (−1) | 20 (+5) | 3 (−4) | 11 (+0) | 1 (−5) |
 
-**Damage Immunities** poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine    
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned    
-**Senses** darkvision 120 ft., passive Perception 10    
-**Languages** understands the languages of its creator but can't speak    
-**Challenge** 10 (5,900 XP)
+**Імунітет до пошкоджень** отрута, психіка; bludgeoning, проколювання і різання з немагічних атак, які не є несанкціонованими    
+**Імунітети з умов** забарвлені, виснаження, перелякане, паралізоване, напрочущене, отруєне    
+**Способи захисту від темряви** футів затемнення 120 футів. пасивне сприйняття 10    
+**мови** розуміє мови свого творця, але не може говорити    
+виклик**Завдань** (5, 5, 00 ДОСВІДУ)
 
-**Immutable Form.** The golem is immune to any spell or effect that would alter its form.    
-**Magic Resistance.** The golem has advantage on saving throws against spells and other magical effects.    
-**Magic Weapons.** The golem's weapon attacks are magical.
+**Незмінний Форм.** Голем імунітет проти будь-якого заклинання або наслідку, який змінює його форму.    
+**Магічна Стійкість.** Golem має перевагу на збереженні квітів проти заклинань та інших магічних ефектів.    
+**Магічна зброя.** Атака від голевої зброї чарівна.
 
-### Actions
-**Multiattack.** The golem makes two slam attacks.    
-**Slam.** _Melee Weapon Attack:_ +10 to hit, reach 5 ft., one target. _Hit:_ 19 (3d8 + 6) bludgeoning damage.    
-**Slow (Recharge 5–6).** The golem targets one or more creatures it can see within 10 feet of it. Each target must make a DC 17 Wisdom saving throw against this magic. On a failed save, a target can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the target can take either an action or a bonus action on its turn, not both. These effects last for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+### Дії
+**Багатоатака.** Голем зробив дві лебові атаки.    
+**Слем.** _Атака ближньої зброї:_ +10 щоб вдарити, досягти 5-ти цілі, одна ціль. _Удара:_ 19 (3d8 + 6) пошкодження bludgeing.    
+**Повільне (повторне заряджання 5–6).** Тол призначений для одного або декількох істот, які він може бачити в межах 10 футів від нього. Кожна ціль повинна зробити DC 17 Мудрою метання проти цієї магії. На невдалому збереженні ціль не може використовувати реакції, її швидкість вдвічі зменшується, і вона не може зробити більше однієї атаки на свій поворот. Крім того, мета може приймати або дію, або преміальну дію на своєму кроці, а не обидва. Ці ефекти тривають протягом 1 хвилини. Ціль може повторювати накопичення в кінці кожної своєї черги, закінчуючи вплив на себе на успіх.
