@@ -1,34 +1,10 @@
-# Персонаж
+# Бій
 
-## Загальний персонаж
-* [Вирівнювання](/character/alignment/)
-* [Фон](/character/backgrounds/)
-* [Історична пантеонська](/character/fantasy-historical_pantheons/)
-* [Мови](/character/languages)
-
-## Класи
-
-* [Варвар](/character/classes/barbarian/)
-* [Бард](/character/classes/bard/)
-* [Клар](/character/classes/cleric/)
-* [Друїди](/character/classes/druid/)
-* [Боєць](/character/classes/fighter/)
-* [Монк](/character/classes/monk/)
-* [Паладин](/character/classes/paladin/)
-* [Ranger](/character/classes/ranger/)
-* [Rogue](/character/classes/rogue/)
-* [Sorcerer](/character/classes/sorcerer/)
-* [Warlock](/character/classes/warlock/)
-* [Майстер](/character/classes/wizard/)
-
-## Раси
-
-* [Драгонборн](/character/races/dragonborn/)
-* [Гноми](/character/races/dwarf/)
-* [Ельфи](/character/races/elf/)
-* [Gnome](/character/races/gnome/)
-* [НапівЕльф](/character/races/half-elf/)
-* [Північний орк](/character/races/half-orc/)
-* [Галфлінг](/character/races/halfling/)
-* [Людина](/character/races/human/)
-* [Tiefling](/character/races/tiefling/)
+* [Дії в битві](/combat/actions_in_combat/)
+* [Обкладинка](/combat/cover/)
+* [Пошкодження і зцілення](/combat/damage_and_healing/)
+* [Захоплення атаки](/combat/making_an_attack/)
+* [Верховий бій](/combat/mounted_combat/)
+* [Переміщення і розташування](/combat/movement_and_position/)
+* [Бойовий орден](/combat/order_of_combat/)
+* [Підводний бій](/combat/underwater_combat/)
