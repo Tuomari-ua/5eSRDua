@@ -1,12 +1,12 @@
-name: Faerie Fire level: 1 school: evocation classes: bard druid
+назва: Помилка вогню : 1 школа: евакуація класів: Бард druid
 
-# Faerie Fire
-_1st-level evocation_
+# Фері Вогонь
+_11-ше евокація_
 
 **Casting Time:** 1 action    
 **Range:** 60 feet    
 **Components:** V    
 **Duration:** Concentration, up to 1 minute
 
-Each object in a 20-foot cube within range is outlined in blue, green, or violet light (your choice). Any creature in the area when the spell is cast is also outlined in light if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed dim light in a 10-foot radius.    
-Any attack roll against an affected creature or object has advantage if the attacker can see it, and the affected creature or object can't benefit from being invisible.
+Кожен об'єкт з 20-футового кубика окреслений синім, зеленим чи фіолетовим кольором (ваш вибір). Будь-яка істота в районі, коли кидання приведена також вимальовується у світлі, якщо вона не впорається при збереженні Ракетки. На протязі довгого часу об'єкти і уражені істоти проливали тьмяне світло на 10-футовому радіусі.    
+Будь-яка атака проти постраждалої істоти або об'єкт має перевагу, якщо атакуючий може її бачити, і постраждалу істоту чи об'єкт не можуть отримати користь від того, що невидимою.
