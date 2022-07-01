@@ -1,13 +1,13 @@
-name: Solar cr: 21 type: celestial
+назва: Сонячний cr: 21 тип : небесна
 
-# Solar
-_Large celestial, lawful good_
+# Сонячний
+_Великий, небесний, законний товар_
 
-**Armor Class** 21 (natural armor)    
-**Hit Points** 243 (18d10 + 144)    
-**Speed** 50 ft., fly 150 ft.
+**Клас обладунку** </strong> 21 (природна броня)    
+**Бали** 243 (18d10 + 144)    
+**швидкість** фут. політ 150 футів.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA      |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA      |
 | ------- | ------- | ------- | ------- | ------- | -------- |
 | 26 (+8) | 22 (+6) | 26 (+8) | 25 (+7) | 25 (+7) | 30 (+10) |
 
@@ -20,23 +20,23 @@ _Large celestial, lawful good_
 **Languages** all, telepathy 120 ft.    
 **Challenge** 21 (33,000 XP)
 
-**Angelic Weapons.** The solar's weapon attacks are magical. When the solar hits with any weapon, the weapon deals an extra 6d8 radiant damage (included in the attack).    
+**Ангелічна зброя** Атака сонячної зброї є магічними. When the solar hits with any weapon, the weapon deals an extra 6d8 radiant damage (included in the attack).    
 **Divine Awareness.** The solar knows if it hears a lie.    
-**Innate Spellcasting.** The solar's spellcasting ability is Charisma (spell save DC 25). It can innately cast the following spells, requiring no material components:    
-At will: **_detect evil and good_**, **_invisibility_** (self only)    
-3/day each: **_blade barrier_**, **_dispel evil and good_**, **_resurrection_**    
-1/day each: **_commune_**, **_control weather_**    
-**Magic Resistance.** The solar has advantage on saving throws against spells and other magical effects.
+**Innate Spellcasting.** The solar's spellcasting ability is Charisma (spell save DC 25). Коли вони можуть придавати наступні заклинання, вимагаючи без матеріальних компонентів:    
+На волі: **_виявити зло і добро_** **_невидимість_** (лише я)    
+3/day each: **_леза бар'єром_**, **_відобро і гарно_**, **_воскресіння_**    
+1/1 день кожний: **_місце_** **_контролює погоду_**    
+**Магічного Опору.** Сонячна перевага в збереженні кидків проти заклинань та інших магічних ефектів.
 
-### Actions
-**Multiattack.** The solar makes two greatsword attacks.    
-**Greatsword.** _Melee Weapon Attack:_ +15 to hit, reach 5 ft., one target. _Hit:_ 22 (4d6 + 8) slashing damage plus 27 (6d8) radiant damage.    
-**Slaying Longbow.** _Ranged Weapon Attack:_ +13 to hit, range 150/600 ft., one target. _Hit:_ 15 (2d8 + 6) piercing damage plus 27 (6d8) radiant damage. If the target is a creature that has 100 hit points or fewer, it must succeed on a DC 15 Constitution saving throw or die.   
-**Flying Sword.** The solar releases its greatsword to hover magically in an unoccupied space within 5 feet of it. If the solar can see the sword, the solar can mentally command it as a bonus action to fly up to 50 feet and either make one attack against a target or return to the solar's hands. If the hovering sword is targeted by any effect, the solar is considered to be holding it. The hovering sword falls if the solar dies.   
-**Healing Touch (4/Day).** The solar touches another creature. The target magically regains 40 (8d8 + 4) hit points and is freed from any curse, disease, poison, blindness, or deafness.
+### Дії
+**Мультиатака.** Сонце робить дві величні атаки.    
+**Великий.** _Атака ближньої зброї:_ +15 до удару, досягає 5-ї цілі, одна ціль. _Вразу:_ 22 (4d6 + 8) коса + 27 (6d8) радіантна шкода.    
+**Вбивство Довгого Лука.** _Атака дальньої зброї:_ +13, щоб вдарити, діапазон 150/600 ft., одна мета. _Вразу:_ 15 (2d8 + 6) пробиваючої шкоди + 27 (6d8) радіантної шкоди. Якщо ціль - істота, яка має 100 очків або менше, вона повинна досягти успіху в групі DC 15 «Заощадження» або померти.   
+**Плавний Меч.** Сонячна енергія випускає свій магічним мечем у незаселеному просторі на 5 футів. Якщо сонячна речовина побачить меч, Сонячна енергія може психічно командувати нею як бонусна дія для піднесення до 50 футів і зробити один напад проти мети, або повернутися в сонячні руки. Якщо меч націлений будь-яким ефектом, сонячна речовина його тримає. Меч коливається по повітрі, якщо сонячна помре.   
+**Дотик зцілення (4/Day).** Сонячне торкається іншої істоти. Ціль магічним чином повертає 40 (8d8 + 4) гравцю і звільняється від будь-якого прокляття, хвороби, отрути, сліпоти або глухоти.
 
-### Legendary Actions
-The solar can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The solar regains spent legendary actions at the start of its turn.    
+### Легендарні дії
+Сонце може узяти 3 легендарні дії, обираючи варіанти нижче. Тільки один легендарний параметр може бути використаний в той час і тільки на кінці черги іншої істоти. The solar regains spent legendary actions at the start of its turn.    
 **Teleport.** The solar magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.    
-**Searing Burst (Costs 2 Actions).** The solar emits magical, divine energy. Each creature of its choice in a 10-­‐foot radius must make a DC 23 Dexterity saving throw, taking 14 (4d6) fire damage plus 14 (4d6) radiant damage on a failed save, or half as much damage on a successful one.    
-**Blinding Gaze (Costs 3 Actions).** The solar targets one creature it can see within 30 feet of it. If the target can see it, the target must succeed on a DC 15 Constitution saving throw or be blinded until magic such as the lesser restoration spell removes the blindness.
+**Searing Burst (Costs 2 Actions).** The solar emits magical, divine energy. Кожна істота свого вибору в радіусі 10 <unk> футів повинна зробити економити Dexter DC 23 отримання 14 (4d6) пошкоджень від вогню плюс 14 (4d6) радіантного пошкодження від зазнають невдачі, або ж удвічі більше шкоди від успішного.    
+**Засліплення Гази (вартість 3 Дії).** Сонячні цілі однієї істоти, яку вона може побачити в межах 30 футів. Якщо ціль може її бачити, ціль повинна досягти успіху в процесі збереження Конституції DC 15 або бути засліплена, поки чари не будуть усунені сліпоту.
