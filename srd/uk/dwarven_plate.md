@@ -1,6 +1,6 @@
-name: Dwarven Plate type: armor
+назва: Dwarven пластина тип: броня
 
-# Dwarven Plate
-_Armor (plate), very rare_
+# Двернована плита
+_дуже рідкісна броня_
 
-While wearing this armor, you gain a +2 bonus to AC. In addition, if an effect moves you against your will along the ground, you can use your reaction to reduce the distance you are moved by up to 10 feet. 
+При одязі цієї броні, ви отримуєте +2 бонус до н.е. Крім того, якщо ефект порушує вас проти своєї позиції на землі, можна використати свою реакцію, щоб зменшити відстань, яку ви проїхали на 10 футів. 
