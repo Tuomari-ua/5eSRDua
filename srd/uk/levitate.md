@@ -1,13 +1,13 @@
-name: Levitate level: 2 school: transmutation classes: sorcerer wizard
+назва: Вирівнювання рівень: 2 школа: транмутація класів: майстер сортувальника
 
-# Levitate
-_2nd-level transmutation_
+# Леватете
+_Трансмутація 2N-рівня_
 
 **Casting Time:** 1 action    
 **Range:** 60 feet    
 **Components:** V, S, M (either a small leather loop or a piece of golden wire bent into a cup shape with a long shank on one end)    
 **Duration:** Concentration, up to 10 minutes
 
-One creature or object of your choice that you can see within range rises vertically, up to 20 feet, and remains suspended there for the duration. The spell can levitate a target that weighs up to 500 pounds. An unwilling creature that succeeds on a Constitution saving throw is unaffected.    
-The target can move only by pushing or pulling against a fixed object or surface within reach (such as a wall or a ceiling), which allows it to move as if it were climbing. You can change the target's altitude by up to 20 feet in either direction on your turn. If you are the target, you can move up or down as part of your move. Otherwise, you can use your action to move the target, which must remain within the spell's range.    
-When the spell ends, the target floats gently to the ground if it is still aloft. 
+Одна істота або об'єкт вашого вибору, які ви можете бачити в діапазоні зростає вертикально, до 20 футів і залишається привішеним до цих пір. заклинання може вирівняти ціль, яка важить до 500 фунтів. Не бажаюча істота, яка досягає успіху до потоку економії конституції, не впливає.    
+Ціль може рухатися, штовхаючи або притягуючи до фіксованого об'єкта або поверхню в межах досяжності (наприклад, стіна чи стеля), що дозволяє йому рухатися так, як якщо б він не піднявся. Можна змінити висоту цілі на 20 футів в будь-якому напрямку по черзі. Якщо ви є ціллю, ви можете рухатися вгору або вниз як частина вашого руху. В іншому випадку ви можете використати свою дію для переміщення цілі, яка повинна залишатися в діапазоні орфографії.    
+Коли заклинання закінчується, цільові плаває обережно, якщо він досі є. 
