@@ -1,14 +1,14 @@
-name: Enlarge/Reduce level: 2 school: transmutation classes: sorcerer wizard
+назва: Enlarge/Reduce рівень: 2 школа: транмутація класи: сортатор майстер
 
-# Enlarge/Reduce
-_2nd-level transmutation_
+# Збільшення/зменшення
+_Трансмутація 2N-рівня_
 
-**Casting Time:** 1 action    
-**Range:** 30 feet    
-**Components:** V, S, M (a pinch of powdered iron)    
-**Duration:** Concentration, up to 1 minute
+**Час трансляції :** 1 дія    
+**Діапазон:** 30 футів    
+**компоненти:** V, S, М (дублювання порошки)    
+**тривалість:** точки, до 1 хвилини
 
-You cause a creature or an object you can see within range to grow larger or smaller for the duration. Choose either a creature or an object that is neither worn nor carried. If the target is unwilling, it can make a Constitution saving throw. On a success, the spell has no effect.    
-If the target is a creature, everything it is wearing and carrying changes size with it. Any item dropped by an affected creature returns to normal size at once.    
-**Enlarge.** The target's size doubles in all dimensions, and its weight is multiplied by eight. This growth increases its size by one category-- from Medium to Large, for example. If there isn't enough room for the target to double its size, the creature or object attains the maximum possible size in the space available. Until the spell ends, the target also has advantage on Strength checks and Strength saving throws. The target's weapons also grow to match its new size. While these weapons are enlarged, the target's attacks with them deal 1d4 extra damage.    
-**Reduce.** The target's size is halved in all dimensions, and its weight is reduced to one-eighth of normal. This reduction decreases its size by one category--from Medium to Small, for example. Until the spell ends, the target also has disadvantage on Strength checks and Strength saving throws. The target's weapons also shrink to match its new size. While these weapons are reduced, the target's attacks with them deal 1d4 less damage (this can't reduce the damage below 1). 
+Ви завдячуєте істоту чи об'єкт, який ви бачите в межах дії для росту більших або менших протягом тривалого часу. Виберіть ні істоту, ні об'єкт, який не носяться ні носити, ні переносити. Якщо ціль не бажає, це може зробити економію Конституції. За успіхом заклинання не має жодного ефекту.    
+Якщо ціль є істотою, все одягнене в неї і несе зміни розміру. Будь-який елемент скинутий ураженою істотою повертається до нормального розміру за один раз:    
+**Великий.** Розмір цілі подвоюється у всіх вимірах, і його вага примножується на вісім. Це зростання збільшує його розмір на одну категорію... наприклад, від середнього до великого. Якщо для цілі недостатньо місця, щоб подвоїти свій розмір, істота або об'єкт не мають максимального можливого розміру у просторі. Поки заклинання не закінчилася, ціль також може скористатися перевірами сили та економічними викидами. Цільова зброя зростає, щоб відповідати її новим розміром. Поки ця зброя розширюється, атаки цілі з ними завдають 1 d4 додаткову шкоду.    
+**Зменшити.** Розмір цілі в усіх вимірах вдвічі зменшується, а його вага знижена до однієї восьмої частини. Це зменшення зменшує його розмір на одну категорію - наприклад, від середнього до мала. Поки заклинання не закінчилася, ціль також не має недоліків у перевірок та силах заощадження потужностей. Цільова зброя скоротилася і відповідає її новому розміру. Хоча ця зброя зменшується, атаки цілі з ними завдають на 1d4 менше шкоди (це не може зменшити шкоду нижче 1). 
