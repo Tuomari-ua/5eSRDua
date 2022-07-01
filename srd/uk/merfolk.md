@@ -1,22 +1,22 @@
-name: Merfolk type: humanoid (merfolk) cr: .125
+назва: Merfolk Тип: humanoid (merfolk) cr: .125
 
-# Merfolk
-_Medium humanoid (merfolk), neutral_
+# Мерфолк
+_Середня гуманоїда (злиття), нейтральна_
 
 **Armor Class** 11    
 **Hit Points** 11 (2d8 + 2)    
 **Speed** 10 ft., swim 40 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 10 (+0) | 13 (+1) | 12 (+1) | 11 (+0) | 11 (+0) | 12 (+1) |
 
-**Skills** Perception +2    
-**Senses** passive Perception 12    
-**Languages** Aquan, Common    
-**Challenge** 1/8 (25 XP)
+**Вміння** Перехоплення +2    
+**Senses** пасивного сприйняття 12    
+**Мови** Акван, Загальний    
+виклик**завдання** 1/8 (25 досвід)
 
-**Amphibious.** The merfolk can breathe air and water.
+**Амфібіян.** Літаючий організм може дихати повітрям і водою.
 
-### Actions
-**Spear.** _Melee or _Ranged Weapon Attack:__ +2 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 3 (1d6) piercing damage, or 4 (1d8) piercing damage if used with two hands to make a melee attack.
+### Дії
+**Спів.** _ближній або _Рейкова Зброя Атаку:__ +2, щоб влучити по 5 футів, або ж близько 20/60 р., одна ціль. _Вдач:_ 3 (1d6) пробираючи пошкодження, або 4 (1d8) пошкодження при використанні з двома руками, щоб зробити атаку ближнього бою.
