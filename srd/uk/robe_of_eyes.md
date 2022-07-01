@@ -1,14 +1,14 @@
-name: Robe of Eyes type: item
+назва: Robe of Eyes тип: предмет
 
-# Robe of Eyes
-_Wondrous item, rare (requires attunement)_
+# Площа очей
+_Чудотвор, рідкісний (вимагає захоплення)_
 
-This robe is adorned with eyelike patterns. While you wear the robe, you gain the following benefits:
+Ця сукня прикрашена сферою ока. Поки ви носите одяг, ви отримуєте наступні переваги:
 
-* The robe lets you see in all directions, and you have advantage on Wisdom (Perception) checks that rely on sight.
-* You have darkvision out to a range of 120 feet.
-* You can see invisible creatures and objects, as well as see into the Ethereal Plane, out to a range of 120 feet.
+* Ця мантія дозволяє бачити у всіх напрямках, а у вас є переваги в Wisdom (Perception) перевірки, які покладаються на зір.
+* У вас є темнозір до діапазону 120 футів.
+* Ви можете бачити невидимих істот та предметів, а також корабля за площиною Ethereal, і досягаючи 120 футів.
 
-The eyes on the robe can't be closed or averted. Although you can close or avert your own eyes, you are never considered to be doing so while wearing this robe.
+Очі на одязі не можна закрити, або відвернути. Хоча ви можете закрити або відвернути очі, ви ніколи не вважаєте себе таким під час цієї роботи.
 
-A **_light_** spell cast on the robe or a **_daylight_** spell cast within 5 feet of the robe causes you to be blinded for 1 minute. At the end of each of your turns, you can make a Constitution saving throw (DC 11 for **_light_** or DC 15 for **_daylight_**), ending the blindness on a success. 
+Світлий **__** заклинання на одязі або **_денне_** заклинання скоюється в 5 футів від одягу тому, що ви будете осліплені на 1 хвилину. В кінці кожної черги, ви можете зробити записування Конституції (DC 11 для **_світло_** або DC 15 в **_денне світло_**припинення сліпоти на успіх. 
