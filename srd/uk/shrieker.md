@@ -1,13 +1,13 @@
-name: Shrieker type: plant cr: 0
+назва: Шукач тип: посадити cr: 0
 
-# Shrieker
-_Medium plant, unaligned_
+# Шрікер
+_Середній завод, не вирівняний_
 
 **Armor Class** 5    
 **Hit Points** 13 (3d8)    
 **Speed** 0 ft.
 
-| STR    | DEX    | CON     | INT    | WIS    | CHA    |
+| СТР    | ДЕКС   | CON     | ІНТ    | WIS    | CHA    |
 | ------ | ------ | ------- | ------ | ------ | ------ |
 | 1 (−5) | 1 (−5) | 10 (+0) | 1 (−5) | 3 (−4) | 1 (−5) |
 
@@ -16,7 +16,7 @@ _Medium plant, unaligned_
 **Languages** --    
 **Challenge** 0 (10 XP)
 
-**False Appearance.** While the shrieker remains motionless, it is indistinguishable from an ordinary fungus.
+**Помилковий вигляд.** Хоча крейкер залишається нерухомим, його не відрізняють від звичайного грибу.
 
-### Reactions
-**Shriek.** When bright light or a creature is within 30 feet of the shrieker, it emits a shriek audible within 300 feet of it. The shrieker continues to shriek until the disturbance moves out of range and for 1d4 of the shrieker's turns afterward.
+### Реакції
+**Кушок.** Коли світлий або істота знаходиться на відстані 30 футів від шрикера, він випромінює вереск, що знаходиться на відстані 300 футів від нього. Шукач продовжує кричати поки порушник не рухатиметься з-під діапазону і для 1d4 вигука віддзеркалює.
