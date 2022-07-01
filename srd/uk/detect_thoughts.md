@@ -1,15 +1,15 @@
-name: Detect Thoughts level: 2 school: divination classes: bard sorcerer wizard
+назва: Визначення результатів рівень: 2 школу: divination класів: сад сортувальник
 
-# Detect Thoughts
-_2nd-level divination_
+# Виявити думки
+_Розщеплення на 2-му рівні_
 
-**Casting Time:** 1 action    
-**Range:** Self    
-**Components:** V, S, M (a copper piece)    
-**Duration:** Concentration, up to 1 minute
+**Кастинг часу:** 1 дія    
+**Діапазон:** Самостій    
+**компоненти:** V, S, М (мідний шматочк)    
+**тривалість:** пункти, до 1 хвилини
 
-For the duration, you can read the thoughts of certain creatures. When you cast the spell and as your action on each turn until the spell ends, you can focus your mind on any one creature that you can see within 30 feet of you. If the creature you choose has an Intelligence of 3 or lower or doesn't speak any language, the creature is unaffected.    
-You initially learn the surface thoughts of the creature--what is most on its mind in that moment. As an action, you can either shift your attention to another creature's thoughts or attempt to probe deeper into the same creature's mind. If you probe deeper, the target must make a Wisdom saving throw. If it fails, you gain insight into its reasoning (if any), its emotional state, and something that looms large in its mind (such as something it worries over, loves, or hates). If it succeeds, the spell ends. Either way, the target knows that you are probing into its mind, and unless you shift your attention to another creature's thoughts, the creature can use its action on its turn to make an Intelligence check contested by your Intelligence check; if it succeeds, the spell ends.    
-Questions verbally directed at the target creature naturally shape the course of its thoughts, so this spell is particularly effective as part of an interrogation.    
-You can also use this spell to detect the presence of thinking creatures you can't see. When you cast the spell or as your action during the duration, you can search for thoughts within 30 feet of you. The spell can penetrate barriers, but 2 feet of rock, 2 inches of any metal other than lead, or a thin sheet of lead blocks you. You can't detect a creature with an Intelligence of 3 or lower or one that doesn't speak any language.    
-Once you detect the presence of a creature in this way, you can read its thoughts for the rest of the duration as described above, even if you can't see it, but it must still be within range. 
+Протягом тривалого часу ви можете читати думки певних істот. Коли ви кидаєте заклинання і як свою дію по кожному кроку, поки не закінчиться заклинання ви можете зосередити вашу думку на будь-якій істоті, яку ви можете побачити в межах 30 футів від вас. Якщо обрана вами істота має інтелект від 3 або нижче, або не володіє жодною мовою, істота не зачіпається.    
+Спочатку Ви вивчаєте думки поверхні істоти - те, що більшість зараз у ньому лежить в голові. Як діях, ви можете перевести свою увагу на думки іншої істоти або спробувати пройти глибше у розум тієї ж істоти. Якщо ти глибший, ціль повинна економити Мудро. Якщо вона зазнає невдачі, ви отримуєте розуміння його міркувань (якщо такі є), його емоційного стану, і щось, що насувається великою в його свідомості (наприклад, те, що воно хвилюється, кохає чи ненависть). Якщо це вдасться, заклинання закінчується. Так чи інакше, ціль знає, що ви в душі випробовуєте, і якщо тільки ви не звернете увагу на іншу істоту, істота може використовувати свою чергу, щоб зробити перевірку розвідки оспорюваними вашими контролями розвідки; якщо це вдасться, заклинання закінчується.    
+Питання, вербально спрямовані на цільову істоту природно, формують хід своїх думок, тож це заклинання є особливо ефективним у рамках допиту.    
+Ви також можете використовувати це заклинання для виявлення належності мислення істот, яких ви не бачите. Коли ви кидаєте заклинання або як дію тривалість, ви можете шукати думки в межах 30 футів від вас. заклинання може проникати у бар'єри, але на 2 фути скелі, 2 дюйми будь-якого металу, крім свинець, або тонкий лист блокує вас. Ви не можете виявити істоту з інтелектом 3 і нижче, або тих, що не розмовляють жодною мовою.    
+Після того, як ви виявите присутність істоти таким чином, ви можете прочитати його думки до кінця тривалості, як описано вище, навіть якщо ви не бачите її, але вона все ще має знаходитись на відстані. 
