@@ -1,13 +1,13 @@
-name: Giant Octopus type: beast cr: 1
+назва: Високий октоп тип: звір cr: 1
 
-# Giant Octopus
-_Large beast, unaligned_
+# Гігантський Восьминіг
+_Великий звір, неприєднаний_
 
-**Armor Class** 11    
-**Hit Points** 52 (8d10 + 8)    
-**Speed** 10 ft., swim 60 ft.
+**Клас броні** 11    
+**Очків** 52 (8d10 + 8)    
+Швидкість**** ft., плисти 60 футів.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 17 (+3) | 13 (+1) | 13 (+1) | 4 (−3) | 10 (+0) | 4 (−3) |
 
@@ -16,9 +16,9 @@ _Large beast, unaligned_
 **Languages** --    
 **Challenge** 1 (200 XP)
 
-**Hold Breath.** While out of water, the octopus can hold its breath for 1 hour.    
-**Underwater Camouflage.** The octopus has advantage on Dexterity (Stealth) checks made while underwater. Water Breathing. The octopus can breathe only underwater.
+**Тримайте дихання.** У міру виходу з води восьминіг може утримувати дихання протягом 1 години.    
+**Під водоймою.** Воктоп має перевагу в перевірках Dexterity (Stealth) під водою. Водне дихання. Восьминіг може дихати єдиною під водою.
 
-### Actions
-**Tentacles.** _Melee Weapon Attack:_ +5 to hit, reach 15 ft., one target. _Hit:_ 10 (2d6 + 3) bludgeoning damage. If the target is a creature, it is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the octopus can't use its tentacles on another target.    
-**Ink Cloud (Recharges after a Short or Long Rest).** A 20- foot-radius cloud of ink extends all around the octopus if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the Dash action as a bonus action. 
+### Дії
+**Зубці.** _Атака ближньої зброї:_ +5, щоб вдарити, досягає 15; одна ціль. _Удара:_ 10 (2d6 + 3) пошкодження помилок блокування. Якщо ціль є істотою, вона зачепилася (втеча DN 16). Доки цей кінцевий міць не буде стримуваним, а восьминіг не зможе використати свої щупальці за іншою метою.    
+**Ink Cloud (перевантаження після короткого або довгого відновлення).** Хмара червоного краю 20- футового радіусу продовжується всюди, якщо під водою. Площа сильно затьмарена протягом 1 хвилини, хоча істотний струм може розсіяти чорнило. Після видачі чорнил, восьминога може використати цю дію як бонусні дії. 
