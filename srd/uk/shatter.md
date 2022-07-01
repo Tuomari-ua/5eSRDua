@@ -1,14 +1,14 @@
-name: Shatter level: 2 school: evocation classes: bard sorcerer warlock wizard
+назва: Shatter рівень: 2 школа: евокація класі: Бард сортувальник людей
 
-# Shatter
-_2nd-level evocation_
+# Розстріл
+_Евокація 2-го рівня_
 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S, M (a chip of mica)    
-**Duration:** Instantaneous
+**Час трансляції :** 1 дія    
+**Діапазон:** 60 футів    
+**компоненти:** V, S, М (чіп мікро)    
+**тривалість:** миттєві
 
-A sudden loud ringing noise, painfully intense, erupts from a point of your choice within range. Each creature in a 10-foot-radius sphere centered on that point must make a Constitution saving throw. A creature takes 3d8 thunder damage on a failed save, or half as much damage on a successful one. A creature made of inorganic material such as stone, crystal, or metal has disadvantage on this saving throw.    
-A nonmagical object that isn't being worn or carried also takes the damage if it's in the spell's area.
+Раптовий звуковий звук, болісно інтенсивний, вибухає з точки вашого вибору в діапазоні. Кожна істота в 10-футовій радіусі, зосередженій на цій точці, повинна зробити економію Конституції. Створіння наносить 3d8 влучних пошкоджень від невдалого заощадження, або ж удвічі більше шкоди від успішного. Творчість з неорганічного матеріалу, такого як камінь, кристал або метал, не кусає в цьому рятувальному жбурлянні.    
+немагічний об'єкт, який не носяться чи несе шкоду, якщо він знаходиться в області заклинання.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd. 
+**На вищих рівнях.** Коли ви кидаєте це заклинання використовуючи гніздо 3-го рівня або вище, пошкодження збільшує на 1d8 для кожного рівня слота вище 2nd. 
