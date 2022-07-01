@@ -1,6 +1,6 @@
-name: Scimitar of Speed type: weapon
+назва: Scimitar типу швидкості : зброя
 
-# Scimitar of Speed
-_Weapon (scimitar), very rare (requires attunement)_
+# Язик швидкості
+_Зброя (самоскидання), дуже рідкісна (вимагає залучення)_
 
-You gain a +2 bonus to attack and damage rolls made with this magic weapon. In addition, you can make one attack with it as a bonus action on each of your turns. 
+Ви отримуєте бонус +2 для атаки та ушкоджень зроблених за допомогою цієї чарівної зброї. Крім того, ви можете зробити одну атаку, з нею як додаткові дії на кожному з ваших черг. 
