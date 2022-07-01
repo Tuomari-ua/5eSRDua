@@ -1,51 +1,51 @@
-description: Descriptions of different actions that can be taken in combat from the 5th Edition (5e) SRD (System Reference Document).
+опис: описання різних дій, які можуть бути взяті в бою з 5-ї версії (5) SRD (Документація по посиланню системи системи).
 
-# Actions in Combat
-When you take your action on your turn, you can take one of the actions presented here, an action you gained from your class or a special feature, or an action that you improvise. Many monsters have action options of their own in their stat blocks.
+# Дії в битві
+Коли ви виконуєте свої дії на свою чергу, ви можете прийняти одну з дій, представлених тут, дія, яку ви отримали в своєму класі, чи особливу функцію, яку ви імпровізували. Багато монстрів мають власні варіанти дій у основних блоках.
 
-When you describe an action not detailed elsewhere in the rules, the GM tells you whether that action is possible and what kind of roll you need to make, if any, to determine success or failure.
+Коли ви описуєте дію, не детально в інших правилах GM каже вам, чи можлива ця дія і яку реакцію ви повинні зробити, якщо така є, щоб визначити успіх чи невдачу.
 
-## Attack
-The most common action to take in combat is the Attack action, whether you are swinging a sword, firing an arrow from a bow, or brawling with your fists.
+## Атака
+Найпоширенішими діями боротьби є дія атаки, коли ви розгойдаєте меча, стріляєте стрілою в лука або сукаєтеся з кулаками.
 
-With this action, you make one melee or ranged attack. See the "Making an Attack" section for the rules that govern attacks.
+Завдяки цій дії ви зробите одну битву або далекобійну атаку. Переглядайте розділ "Зроблення атаки" для правил, які керують атаками.
 
-Certain features, such as the Extra Attack feature of the fighter, allow you to make more than one attack with this action.
+Деякі особливості, такі як додаткова функція атаки бою, дозволяють робити більше одного нападу з цією дією.
 
-## Cast a Spell
-Spellcasters such as wizards and clerics, as well as many monsters, have access to spells and can use them to great effect in combat. Each spell has a casting time, which specifies whether the caster must use an action, a reaction, minutes, or even hours to cast the spell. Casting a spell is, therefore, not necessarily an action. Most spells do have a casting time of 1 action, so a spellcaster often uses his or her action in combat to cast such a spell.
+## Призначити заклинання
+Виявники заклинників, таких як майстри та священнослужителі, а також багато монстрів, мають доступ до заклинань і можуть використовувати їх для значного впливу в бою. У кожної заклинання є час лиття, який визначає, чи потрібно досягти досягнення - реакції, хвилин чи навіть години, щоб кинути заклинання . Тому кидання заклинання - це не обов'язково дія. Більшість заклинань мають час лиття 1 дії, тому заклинання часто використовує свою або її дію в битві, щоб кинути таке заклинання.
 
-## Dash
-When you take the Dash action, you gain extra movement for the current turn. The increase equals your speed, after applying any modifiers. With a speed of 30 feet, for example, you can move up to 60 feet on your turn if you dash.
+## Тире
+Коли ви берете Dash дію, ви отримуєте додатковий рух для поточного повороту. Збільшення - це ваша швидкість, після застосування будь-яких модифікаторів. Наприклад, за зі швидкістю 30 футів ви можете переміщатися до 60 футів на повороті, якщо ви пунктуєте.
 
-Any increase or decrease to your speed changes this additional movement by the same amount. If your speed of 30 feet is reduced to 15 feet, for instance, you can move up to 30 feet this turn if you dash.
+Будь-яке збільшення або зменшення до внеску швидкості змінює цей додатковий рух на таку ж суму. Якщо ваша швидкість становить 30 футів, наприклад, ви можете рухатися вгору до 30 футів, якщо ви пунктуєте.
 
-## Disengage
-If you take the Disengage action, your movement doesn't provoke opportunity attacks for the rest of the turn.
+## Відключено
+Якщо ви вберете дію, ваш рух не провокує сприятливих атак на решту черги.
 
-## Dodge
-When you take the Dodge action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make Dexterity saving throws with advantage. You lose this benefit if you are incapacitated or if your speed drops to 0.
+## Ухилитись
+Коли ви вступаєте в дію Додж, ви повністю зосереджуєтесь на тому, щоб уникнути атак. До початку вашого наступного черги будь-яка атака, зроблена проти вас, має недолік, якщо ви можете побачити нападника, і ви робите економію неприємності з перевагою. Ви втрачаєте ці вигоди, якщо ваша швидкість зменшиться до 0.
 
-## Help
-You can lend your aid to another creature in the completion of a task. When you take the Help action, the creature you aid gains advantage on the next ability check it makes to perform the task you are helping with, provided that it makes the check before the start of your next turn.
+## Довідка
+Ви можете надати допомогу іншій істоті виконання завдання. Коли Ви вживаєте заходів допомоги, істоти, якими допомогаєте в перевагах, при наступній перевірці якої це робить виконання завдання, яке ви допомагаєте з за умови, що вона робить перевірку перед початком вашого наступного повороту.
 
-Alternatively, you can aid a friendly creature in attacking a creature within 5 feet of you. You feint, distract the target, or in some other way team up to make your ally's attack more effective. If your ally attacks the target before your next turn, the first attack roll is made with advantage.
+Крім того, ви можете подати дружню істоту в атаці на істоту в межах 5 футів від вас. Ви боете, відволікаєте ціль чи іншим чином команду, щоб зробити напад більш ефективним. Якщо ваш союзник атакує ціль до наступного повороту, перша атака стане перевагою.
 
-## Hide
-When you take the Hide action, you make a Dexterity (Stealth) check in an attempt to hide, following the rules for hiding. If you succeed, you gain certain benefits, as described in the "Unseen Attackers and Targets" section later in this chapter.
+## Приховати
+Коли ви берете "Приховати дію", ви робите перевірку на хитрості (крадіжки) при спробі приховати, слідуючи правилам для приховування. Якщо вам це вдасться, ви отримуєте певну вигоду, як описано в розділі "Непереглянуті атаки" та Targets" пізніше у цьому розділі.
 
 
-## Ready
-Sometimes you want to get the jump on a foe or wait for a particular circumstance before you act. To do so, you can take the Ready action on your turn, which lets you act using your reaction before the start of your next turn.
+## Готовий
+Іноді ви хочете, щоб стрибок на ворога або чекати конкретних обставин перш ніж діяти. Щоб це зробити, ви можете виконати готові дії на свою чергу, що дозволить діяти на основі вашої реакції перед початком вашого наступного повороту.
 
-First, you decide what perceivable circumstance will trigger your reaction. Then, you choose the action you will take in response to that trigger, or you choose to move up to your speed in response to it. Examples include "If the cultist steps on the trapdoor, I'll pull the lever that opens it," and "If the goblin steps next to me, I move away."
+По-перше, ви вирішили, які ймовірні обставини викликають вашу реакцію. Потім ви обираєте дію, яку ви отримаєте у відповідь на цей тригер, або ви вирішуєте рухатись до швидкості у відповідь на неї. Приклади включають "Якщо загальне кроки на люку, Я витягну важеля, який відкриває його", і "Якщо божественні кроки поруч з мною, я відійду геть."
 
-When the trigger occurs, you can either take your reaction right after the trigger finishes or ignore the trigger. Remember that you can take only one reaction per round.
+Коли відбувається тригер, ви можете знайти свою реакцію відразу після завершення тригера, або проігнорувати тригер. Пам'ятайте, що можна виконувати лише одну реакцію на раунд.
 
-When you ready a spell, you cast it as normal but hold its energy, which you release with your reaction when the trigger occurs. To be readied, a spell must have a casting time of 1 action, and holding onto the spell's magic requires concentration. If your concentration is broken, the spell dissipates without taking effect. For example, if you are concentrating on the **_web_** spell and ready **_magic missile_**, your **_web_** spell ends, and if you take damage before you release **_magic missile_** with your reaction, your concentration might be broken.
+Коли ви готові до заклинання, ви вважаєте його нормальним, але зберігаєте його енергію, яку ви виділяєте з реакцією, коли відбувається тригер. Для читання заклинання потрібно мати час лиття 1 і утримуючи на чари чари заклинання вимагає концентрації. Якщо ваша концентрація зламається, заклинання розсіюється, не набувши чинності. Наприклад, якщо ви зосереджуєтесь в **_веб_** заклинання і готове **_магічна ракета_**ваш **_web_** заклинання і якщо ви отримаєте пошкодження, перш ніж випустити **_магічні ракети_** з вашою реакцією, ваша концентрація може бути порушена.
 
-## Search
-When you take the Search action, you devote your attention to finding something. Depending on the nature of your search, the GM might have you make a Wisdom (Perception) check or an Intelligence (Investigation) check.
+## Пошук
+Коли ви заходите в пошук, ви приділяєте свою увагу пошуку щось. Залежно від характеру вашого пошуку, GM може зробити вам мудрість (Поняток) перевірки або розвідки (розслідування).
 
-## Use an Object
-You normally interact with an object while doing something else, such as when you draw a sword as part of an attack. When an object requires your action for its use, you take the Use an Object action. This action is also useful when you want to interact with more than one object on your turn.
+## Використовувати об'єкт
+Зазвичай ви взаємодієте з предметом, роблячи щось інше, наприклад коли ви малюєте меч, як частину атаки. Якщо об'єкт вимагає вашої дії для її використання, ви вживаєте виконуєте операції об'єкта. Ця дія також корисна, коли ви хочете взаємодіяти з більш ніж з одним об'єктом на вашому кроці.
