@@ -1,13 +1,13 @@
-name: Grimlock type: humanoid (grimlock) cr: .25
+назва: Grimlock тип: humanoid (grimlock) cr: .25
 
 # Grimlock
-_Medium humanoid (grimlock), neutral evil_
+_Середня гуманоїда (похмура), нейтральне зло_
 
 **Armor Class** 11    
 **Hit Points** 11 (2d8 + 2)    
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS    | CHA    |
 | ------- | ------- | ------- | ------ | ------ | ------ |
 | 16 (+3) | 12 (+1) | 12 (+1) | 9 (−1) | 8 (−1) | 6 (−2) |
 
@@ -17,9 +17,9 @@ _Medium humanoid (grimlock), neutral evil_
 **Languages** Undercommon    
 **Challenge** 1/4 (50 XP)
 
-**Blind Senses**. The grimlock can't use its blindsight while deafened and unable to smell.    
-**Keen Hearing and Smell.** The grimlock has advantage on Wisdom (Perception) checks that rely on hearing or smell.    
-**Stone Camouflage.** The grimlock has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
+**Сліпі Senses**. Гримек не може використовувати його сліпоту під час оглушення та запаху.    
+**Кейн Слухає і пахне.** Сімейний замок має перевагу в Wisdom (Виняття) перевірки, які покладаються на слух або нюх.    
+**Кам'яний Камуфляж.** Гребний замок має перевагу в Dexterity (Stealth) перевірки, зроблені для приховування на скелястих релях.
 
-### Actions
-**Spiked Bone Club.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) piercing damage.
+### Дії
+**Куб круги розкрученої кістки.** _Атака Зброї ближнього бою:_ +5 - до удару, досяг 5-ї цілі, можна досягти лише однієї цілі. _Вразу:_ 5 (1d4 + 3) пошкодження дубої плюс 2 (1d4) пошкодження пірсінгу.
