@@ -1,11 +1,11 @@
-name: Healing Word level: 1 school: evocation classes: bard cleric druid
+назва: Вирівнювання слова рівень: 1 школу: евокація класів: Бард клопот
 
-# Healing Word
-_1st-level evocation_
+# Лікування Слова
+_11-ше евокація_
 
 **Casting Time:** 1 bonus action    
 **Range:** 60 feet    
 **Components:** V    
 **Duration:** Instantaneous
 
-A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs. **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d4 for each slot level above 1st.
+Створіння вашого вибору, що видно з проміжних кінців, дорівнює 1d4 + вашому модифікаторії здібностей від орфографії. Ця заклинання не впливає на незгадані чи конструкції. **На вищих рівнях.** Коли ви транслюєте це заклинання використовуючи слот 2-го рівня або вище, зцілення збільшується на 1d4 для кожного рівня слотів вище 1st.
