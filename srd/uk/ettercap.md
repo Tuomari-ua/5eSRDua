@@ -1,13 +1,13 @@
-name: Ettercap type: monstrosity cr: 2
+назва: Ettercap type: monstrosity cr: 2
 
 # Ettercap
-_Medium monstrosity, neutral evil_
+_Середнє чудовисько, нейтральне зло_
 
-**Armor Class** 13 (natural armor)    
-**Hit Points** 44 (8d8 + 8)    
-**Speed** 30 ft., climb 30 ft.
+**Клас броні** 13 (природна броня)    
+**Бали** 44 (8d8 + 8)    
+**Швидкість** фут. сходиться на 30 футів.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 14 (+2) | 15 (+2) | 13 (+1) | 7 (−2) | 12 (+1) | 8 (−1) |
 
@@ -16,11 +16,11 @@ _Medium monstrosity, neutral evil_
 **Languages** --    
 **Challenge** 2 (450 XP)
 
-**Spider Climb.** The ettercap can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check. Web Sense. While in contact with a web, the ettercap knows the exact location of any other creature in contact with the same web.    
-**Web Walker.** The ettercap ignores movement restrictions caused by webbing.
+**Підйомник на стелі.** Меткап може піднятися на складну поверхню, включаючи перевернення вниз на стелі, не потребуючи перевірки здібності. Веб-сенс. Коли контакт з Інтернетом, еттер знає точне місце розташування будь-якої іншої істоти при контакті з тим же веб.    
+**Web Walker.** ettercap ігнорує обмеження на рух, викликані веб-бігом.
 
-### Actions
-**Multiattack.** The ettercap makes two attacks: one with its bite and one with its claws.    
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 6 (1d8 + 2) piercing damage plus 4 (1d8) poison damage. The target must succeed on a DC 11 Constitution saving throw or be poisoned for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.    
-**Claws.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (2d4 + 2) slashing damage.    
-**Web (Recharge 5–6).** _Ranged Weapon Attack:_ +4 to hit, range 30/60 ft., one Large or smaller creature. _Hit:_ The creature is restrained by webbing. As an action, the restrained creature can make a DC 11 Strength check, escaping from the webbing on a success. The effect also ends if the webbing is destroyed. The webbing has AC 10, 5 hit points, vulnerability to fire damage, and immunity to bludgeoning, poison, and psychic damage.
+### Дії
+**Мультиатака.** The ettercap робить дві атаки: один з одним, перекушеним та один з його кігтями.    
+**Біт.** _Атака ближнього бою :_ +4 щоб вдарити, сягнути до 5 футів, одна істота. _Вразу:_ 6 (1d8 + 2) пошкодження від проби плюс 4 (1d8) отрути. Ціль має бути досягнутою на час збереження Конституції DC 11 хвилини. Ця істота може повторити порятунок в кінці кожного зі своїх обертів, припинивши вплив на себе при успіху.    
+**клеючих.** _Атака важкої зброї:_ +4, щоб вдарити по 5, досягнути по одній цілі. _Вдач:_ 7 (2d4 + 2) наносити пошкодження.    
+**Веб (Поповнення 5–6).** _Атака дальньої зброї:_ +4 щоб вдарити, діапазон 30/60, одна велика або менша істота. _Удара:_ істота обмежена в Інтернеті. В якості дії стримане створіння може зробити перевірку Сили DC 11 екранування, що стискається від веб-підписки на успіх. Ефект також закінчується, якщо вебжинг знищений. Мережа працює у струмці 10, 5 бляклих точок, вразливість до пожежі, а імунітет до блудництва, отрути та психічних збитків.
