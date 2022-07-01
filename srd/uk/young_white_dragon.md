@@ -1,27 +1,27 @@
-name: Young White Dragon type: dragon cr: 6
+назва: Білий Дракон тип: дракона cr: 6
 
-# Young White Dragon
-_Large dragon, chaotic evil_
+# Молодий Білий Дракон
+_Великий дракон, хаотичне зло_
 
 **Armor Class** 17 (natural armor)    
 **Hit Points** 133 (14d10 + 56)    
 **Speed** 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA     |
 | ------- | ------- | ------- | ------ | ------- | ------- |
 | 18 (+4) | 10 (+0) | 18 (+4) | 6 (−2) | 11 (+0) | 12 (+1) |
 
-**Saving Throws** Dex +3, Con +7, Wis +3, Cha +4    
-**Skills** Perception +6, Stealth +3    
-**Damage Immunities** cold    
-**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16    
-**Languages** Common, Draconic    
-**Challenge** 6 (2,300 XP)
+**Збереження жбурлянь** Dex +3, Con +7, Wis +3, Cha +4    
+**Навичків** Perception +6, Крадіжка +3    
+**Пошкодження** холодно    
+**Звільнення** оснащення 30 футів. темп бачення 120 футів. пасивне сприйняття 16    
+мов **Мов,** Common, Draconic    
+**Виклик** (2,300 XP)
 
-**Ice Walk.** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+**Крижана Прогулянка** Дракон може рухатися по крижаній поверхні не потребуючи, щоб зробити перевірку здібності. Крім того, важкий рельєф місцевості, що складається з льоду чи снігу, не коштує їм додаткових моментів.
 
-### Actions
-**Multiattack.** The dragon makes three attacks: one with its bite and two with its claws.    
-**Bite.** _Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target. _Hit:_ 15 (2d10 + 4) piercing damage plus 4 (1d8) cold damage.    
-**Claw.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) slashing damage.    
-**Cold Breath (Recharge 5–6).** The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 15 Constitution saving throw, taking 45 (10d8) cold damage on a failed save, or half as much damage on a successful one.
+### Дії
+**Мультиатака.** Дракон робить три атаки: один з одним, перекусивши та два з його кігтями.    
+**Біт.** _Атака ближнього бою зброї:_ +7 щоб ударити в ціль, досягнувши 10 щитів, одна ціль. _Hit:_ 15 (2d10 + 4) piercing damage plus 4 (1d8) cold damage.    
+**Claw.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Вдач:_ 11 (2d6 + 4) удар пошкодження.    
+**Холодне дихання (повторне підключення 5–6).** дракон вражає крижаний вибух з 30-футовою шишкою. Кожна істота в цій галузі повинна зробити економію Конституції DC 15 отримання 45 (10d8) холодних пошкоджень від невдалих заощаджень, або ж половини від успішної шкоди.
