@@ -1,13 +1,13 @@
-name: Chimera type: monstrosity cr: 6
+назва: Химера тип: чудовисько cr: 6
 
-# Chimera
-_Large monstrosity, chaotic evil_
+# Химера
+_Велике чудовисько, хаотичне зло_
 
 **Armor Class** 14 (natural armor)    
 **Hit Points** 114 (12d10 + 48)    
 **Speed** 30 ft., fly 60 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA     |
 | ------- | ------- | ------- | ------ | ------- | ------- |
 | 19 (+4) | 11 (+0) | 19 (+4) | 3 (-4) | 14 (+2) | 10 (+0) |
 
@@ -16,9 +16,9 @@ _Large monstrosity, chaotic evil_
 **Languages** understands Draconic but can't speak    
 **Challenge** 6 (2,300 XP)
 
-### Actions
-**Multiattack.** The chimera makes three attacks: one with its bite, one with its horns, and one with its claws. When its fire breath is available, it can use the breath in place of its bite or horns.    
-**Bite.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) piercing damage.    
-**Horns.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 10 (1d12 + 4) bludgeoning damage.    
-**Claws.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) slashing damage.    
-**Fire Breath (Recharge 5–6).** The dragon head exhales fire in a 15-­‐foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 31 (7d8) fire damage on a failed save, or half as much damage on a successful one.
+### Дії
+**Мультиатака.** Кімера робить три атаки: один з одним, один з його рогами, а один з його кігтями. Коли видих пожежі доступний, він може використовувати подих замість кусків або рогів.    
+**Кута.** _Атака ближньої зброї:_ +7 щоб вдарити, досягти 5-ти цілі, одна ціль. _Вразу:_ 11 (2d6 + 4) проникнення пошкодження.    
+**Роги.** _Атака ближньої зброї:_ +7 щоб ударити, досягти 5-ти цілі, одну ціль. _Вразу:_ 10 (1d12 + 4) пошкодження bludgeing.    
+**Кігнь.** _Атака ближньої зброї:_ +7 щоб ударити, досягти 5-ти цілі, одну ціль. _Вражає:_ 11 (2d6 + 4) пошкоджуючи пошкодження.    
+**Вогняне дихання (повторне підключення 5–6).** </strong> Змішана голова дракона загоряється в 15 <unk> -футових шин. Кожна істота в цій області має зробити економію Dexter DC 15 заподіяння 31 (7d8) пошкодження при невдалому збереженні, або ж удвічі більше шкоди від успішного.
