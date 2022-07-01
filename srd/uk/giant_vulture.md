@@ -1,13 +1,13 @@
-name: Giant Vulture type: beast cr: 1
+назва: Гігантний Гриф тип: звір cr: 1
 
-# Giant Vulture
-_Large beast, neutral evil_
+# Гігантська грифа
+_Велике зло, нейтральне зле_
 
 **Armor Class** 10    
 **Hit Points** 22 (3d10 + 6)    
 **Speed** 10 ft., fly 60 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 15 (+2) | 10 (+0) | 15 (+2) | 6 (−2) | 12 (+1) | 7 (−2) |
 
@@ -16,13 +16,13 @@ _Large beast, neutral evil_
 **Languages** understands Common but can't speak    
 **Challenge** 1 (200 XP)
 
-**Keen Sight and Smell.** The vulture has advantage on Wisdom (Perception) checks that rely on sight or smell.   
-**Pack Tactics.** The vulture has advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 feet of the creature and the ally isn't incapacitated.
+**Keen Sight і Smell.** Культура використовує переваги в Wisdom (Perception) перевірки, які покладаються на зір або запах.   
+**Тактики з пакету.** гриф має перевагу в атаці, яка виступає проти істоти, якщо принаймні один з союзників гриба знаходиться на протязі 5 футів істоти, а союзника не є недієздатним.
 
-### Actions
-**Multiattack.** The vulture makes two attacks: one with its beak and one with its talons.    
-**Beak.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (2d4 + 2) piercing damage.    
-**Talons.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 9 (2d6 + 2) slashing damage.
+### Дії
+**Мультиатака.** гриф робить дві атаки: один з них і один з його талантами.    
+**Дзьоб.** _Атака Міле Зброя:_ +4 щоб вдарити, досягнути 5-ти ціль, одна ціль. _Hit:_ 7 (2d4 + 2) piercing damage.    
+**Talons.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Удач:_ 9 (2d6 + 2) пошкодження.
 
-### Description
-A giant vulture has advanced intelligence and a malevolent bent. Unlike its smaller kin, it will attack a wounded creature to hasten its end. Giant vultures have been known to haunt a thirsty, starving creature for days to enjoy its suffering. 
+### Опис
+Гігантська гриф має розвинутий інтелект та злісний нахил. На відміну від менших споріднених, він буде атакувати поранену істоту, щоб прискорити свій кінець. Велетенські гриби вже давно переслідують спрагу, голодну істоту, щоб насолоджуватися її стражданням. 
