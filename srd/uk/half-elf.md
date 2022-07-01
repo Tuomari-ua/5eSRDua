@@ -1,24 +1,24 @@
-description: Rules and information for the Half-Elf race from the 5th Edition (5e) SRD (System Reference Document).
+опис: правила та інформація для пів-Ельфа з 5-ї версії (5e) SRD (Документація Системна Документація).
 
-# Half-Elf
-## Half-Elf Traits
+# НапівЕльф
+## НапівЕльфові риси
 - - -
-Your half-elf character has some qualities in common with elves and some that are unique to half-elves.
+Ваш персонаж з половиною еліти має спільні риси з ельфами та інші прикмети, унікальні того, що мають половину еліти.
 
-**Ability Score Increase.** Your Charisma score increases by 2, and two other ability scores of your choice increase by 1.
+**Оцінка здібностей зростає.** Ваш рахунок Харизми збільшується на 2, а також два інших очок здібностей по вашому вибору збільшується на 1.
 
-**Age.** Half-elves mature at the same rate humans do and reach adulthood around the age of 20. They live much longer than humans, however, often exceeding 180 years.
+**Вік.** Напівгусениці дозріли за тим самим показником людей і досягали зрілого віку у 20 років. Вони живуть набагато довше, ніж люди, однак часто більше 180 років.
 
-**Alignment.** Half-elves share the chaotic bent of their elven heritage. They value both personal freedom and creative expression, demonstrating neither love of leaders nor desire for followers. They chafe at rules, resent others’ demands, and sometimes prove unreliable, or at least unpredictable.
+**Вирівнювання.** Половини ельфів поділяють хаотичні натяки на їхню лікувальну спадщину. Вони цінують як особисту свободу, так і творчу експресію, не демонструючи ні любові лідерів, ні прагнення до послідовників. Вони дивляться на правила, кривдники інших вимог, а іноді виявляються ненадійними або принаймні непередбачуваними.
 
-**Size.** Half-elves are about the same size as humans, ranging from 5 to 6 feet tall. Your size is Medium.
+**Розмір.** Половина ельфів приблизно такого ж розміру, як і людина, відстані від 5 до 6 футів в висоту. Ваш розмір є медичним.
 
-**Speed.** Your base walking speed is 30 feet.
+**Швидкість.** Ваша базова швидкість ходьби становить 30 футів.
 
-**Darkvision.** Thanks to your elf blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+**Darkvision.** Завдяки ельфній крові, ви вищі бачення в темних і тьмяних умовах. Ви можете бачити в тьмяному світлі 60 футів від вас, як якщо б було яскраве світло, а в пітьмі наче було тьмяне світло. Ви не можете розрізняти колір у темряві, лише відтінки сірого кольору.
 
-**Fey Ancestry.** You have advantage on saving throws against being charmed, and magic can’t put you to sleep.
+**Фей Анстетрі.** Ви маєте перевагу в збереженні квітів проти зачарованих квітів і магії не можуть успати.
 
-**Skill Versatility.** You gain proficiency in two skills of your choice.
+**Гнучкість навичок.** Ви отримуєте майстерність у двох ваших навичках на ваш вибір.
 
-**Languages.** You can speak, read, and write Common, Elvish, and one extra language of your choice.
+**Мови.** Можете говорити, читати і писати «Створити», «Елвіші» і «одну іншу мову вибору».
