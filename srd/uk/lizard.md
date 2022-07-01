@@ -1,19 +1,19 @@
-name: Lizard type: beast cr: 0
+назва: Майстер тип: звичка звичка cr: 0
 
-# Lizard
-_Tiny beast, unaligned_
+# Ящірки
+_Крихітний звір, неприєднаний_
 
-**Armor Class** 10    
-**Hit Points** 2 (1d4)    
-**Speed** 20 ft., climb 20 ft.
+**Клас броні** 10    
+**Очки** 2 (1d4)    
+**швидкість** 20 ft., піднятися на 20 футів.
 
-| STR    | DEX     | CON     | INT    | WIS    | CHA    |
+| СТР    | ДЕКС    | CON     | ІНТ    | WIS    | CHA    |
 | ------ | ------- | ------- | ------ | ------ | ------ |
 | 2 (−4) | 11 (+0) | 10 (+0) | 1 (−5) | 8 (−1) | 3 (−4) |
 
 **Senses** darkvision 30 ft., passive Perception 9    
-**Languages** --    
-**Challenge** 0 (10 XP)
+**Мови** --    
+**Challenge** (10 XP)
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +0 to hit, reach 5 ft., one target. _Hit:_ 1 piercing damage.
+### Дії
+**Біт.** _Атака ближньої зброї:_ +0, щоб ударити на 5, одна ціль. _Вразів:_ 1 проколювання пошкодження.
