@@ -1,6 +1,6 @@
-name: Potion of Gaseous Form type: potion
+назва: Зілля Gaseous Form type: зілля
 
-# Potion of Gaseous Form
-_Potion, rare_
+# Зілля газоподібної форми
+_Зілля_
 
-When you drink this potion, you gain the effect of the **_gaseous form_** spell for 1 hour (no concentration required) or until you end the effect as a bonus action. This potion's container seems to hold fog that moves and pours like water.
+Коли ви п'єте це зілля, ви отримаєте ефект **_газової форми_** заклинання на 1 годину (без необхідності концентрації), або доки ви не закінчите цей ефект як бонусна дія. Контейнер цього зілля, здається, утримує туман, молюску, як вода.
