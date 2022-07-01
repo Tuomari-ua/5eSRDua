@@ -1,13 +1,13 @@
-name: Swarm of Poisonous Snakes type: swarm of Tiny beasts cr: 2
+назва: Оточення отруйних змій типу: рій долинних звірів cr: 2
 
-# Swarm of Poisonous Snakes
-_Medium swarm of Tiny beasts, unaligned_
+# Оточення отруйних змій
+_Середній рій крихітних звірів, невирівняний_
 
 **Armor Class** 14    
 **Hit Points** 36 (8d8)    
 **Speed** 30 ft., swim 30 ft.
 
-| STR    | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР    | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------ | ------- | ------- | ------ | ------- | ------ |
 | 8 (−1) | 18 (+4) | 11 (+0) | 1 (−5) | 10 (+0) | 3 (−4) |
 
@@ -17,7 +17,7 @@ _Medium swarm of Tiny beasts, unaligned_
 **Languages** --    
 **Challenge** 2 (450 XP)
 
-**Swarm.** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny snake. The swarm can't regain hit points or gain temporary hit points.
+**Стійко.** Тепло може займати простір інших істот і навпаки, і рій може рухатися по будь-якому отвору, достатньо великому для крихітної змії. Оточення не може повернути влучні бали або отримати тимчасові влучання.
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +6 to hit, reach 0 ft., one creature in the swarm's space. _Hit:_ 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer. The target must make a DC 10 Constitution saving throw, taking 14 (4d6) poison damage on a failed save, or half as much damage on a successful one.
+### Дії
+**Біт.** _Атака ближньої зброї:_ +6 до удару, досягає 0 ft., однієї істоти в просторі тепла. _Вдач:_ 7 (2d6) пробивання пошкоджень, або 3 (1d6) пробивання шкоди, якщо оскол має половину своїх перших точок або менше. Ціль повинна зробити економію конституції DC 10 отримання 14 (4d6) пошкодження від отрути щодо збою заощадження, або ж удвічі більше шкоди від успішного.
