@@ -1,11 +1,11 @@
-name: Weird level: 9 school: illusion classes: wizard
+назва: Дивний рівень: 9 школ: ілюзія класів: майстер
 
-# Weird
-_9th-level illusion_
+# Дивний
+_Ілюзія 9-го рівня_
 
 **Casting Time:** 1 action    
 **Range:** 120 feet   
 **Components:** V, S   
 **Duration:** Concentration, up to one minute
 
-Drawing on the deepest fears of a group of creatures, you create illusory creatures in their minds, visible only to them. Each creature in a 30-foot-radius sphere centered on a point of your choice within range must make a Wisdom saving throw. On a failed save, a creature becomes frightened for the duration. The illusion calls on the creature's deepest fears, manifesting its worst nightmares as an implacable threat. At the end of each of the frightened creature's turns, it must succeed on a Wisdom saving throw or take 4d10 psychic damage. On a successful save, the spell ends for that creature. 
+Малюючи найглибші страхи перед групою істот, ви створюєте ілюзорних істот у своїй свідомості. Кожна істота в 30-футовому радіусі зосередженій на точці вашого вибору повинна зробити економію Мудрої кипою. При невдалому збереженні істота злякається за тривалість. Ілюзія закликає до найглибших страхів створіння, проявляючи себе найгірші кошмари як непереможну загрозу. Наприкінці кожної з страшенних істот має стати успішним у мудрості атаки, або ж прийняти 4d10 психічні шкоди. У успішному збереженні заклинання закінчується цією істотою. 
