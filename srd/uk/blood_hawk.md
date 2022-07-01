@@ -1,13 +1,13 @@
-name: Blood Hawk type: beast cr: .125
+назва: Кривавий яструб тип: звір круг: .125
 
-# Blood Hawk
-_Small beast, unaligned_
+# Кривавий яструб
+_Малий звір, неприєднаний_
 
-**Armor Class** 12    
-**Hit Points** 7 (2d6)    
-**Speed** 10 ft., fly 60 ft.
+**Рівень броні** 12    
+**Очків** 7 (2d6)    
+**швидкість** ФТ </strong>, польоту 60.
 
-| STR    | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР    | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------ | ------- | ------- | ------ | ------- | ------ |
 | 6 (−2) | 14 (+2) | 10 (+0) | 3 (−4) | 14 (+2) | 5 (−3) |
 
@@ -16,11 +16,11 @@ _Small beast, unaligned_
 **Languages** --    
 **Challenge** 1/8 (25 XP)
 
-**Keen Sight.** The hawk has advantage on Wisdom (Perception) checks that rely on sight.    
-**Pack Tactics.** The hawk has advantage on an attack roll against a creature if at least one of the hawk's allies is within 5 feet of the creature and the ally isn't incapacitated.
+**Keen Sight.** The hawk має перевагу в Wisdom (виключення) перевірки, які покладаються на погляд.    
+**Пакт з тактикою.** Яструб має перевагу в атаці, коли принаймні один з союзників яструба знаходиться в межах 5 футів істоти, а союзник не здатний бути недієздатним.
 
-### Actions
-**Beak.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage.
+### Дії
+**Дзьоб.** _Атака ближньої зброї:_ +4 по влучанню, досягає 5 щитів, одна ціль. _Вразів:_ 4 (1d4 + 2) проколювання пошкоджень.
 
-### Description
-Taking its name from its crimson feathers and aggressive nature, the blood hawk fearlessly attacks almost any animal, stabbing it with its daggerlike beak. Blood hawks flock together in large numbers, attacking as a pack to take down prey. 
+### Опис
+Забираючи своє ім'я зі свого червоного пір’я і агресивної природи, кров безстрашно атакує майже будь-яку тварину, вбираючи її своїми пергастими дзьоборами. Кров'яні яструби разом б'ються у великих кількостях, атакують, як пакет знижує здобич. 
