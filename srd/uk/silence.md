@@ -1,11 +1,11 @@
-name: Silence level: 2 school: illusion classes: bard cleric ranger
+назва: Тиша рівень: 2 школа: ілюзія класів: Бард кодувальник
 
-# Silence
-_2nd-level illusion (ritual)_
+# Тиша
+_Ілюзія 2n-рівня (ритуал)_
 
 **Casting Time:** 1 action    
 **Range:** 120 feet    
 **Components:** V, S    
 **Duration:** Concentration, up to 10 minutes
 
-For the duration, no sound can be created within or pass through a 20-foot-radius sphere centered on a point you choose within range. Any creature or object entirely inside the sphere is immune to thunder damage, and creatures are deafened while entirely inside it. Casting a spell that includes a verbal component is impossible there.
+Для тривалості звук не може бути створений всередині або пройти через 20-футову сферу, орієнтовану на точку ви обираєте поза межами діапазону. Будь-яка істота чи об'єкт повністю всередині сфери незахищена від грому пошкоджень і створіння оглушені, коли вони знаходяться всередині неї. Кастинг заклинання містить словесний компонент неможливо.
