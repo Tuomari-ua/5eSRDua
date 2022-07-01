@@ -1,13 +1,13 @@
-name: Invisible Stalker type: elemental cr: 6
+назва: Невидимий Сталкер тип: елемент cr: 6
 
-# Invisible Stalker
-_Medium elemental, neutral_
+# Невидимий Сталкер
+_Середній елемент, нейтральний_
 
 **Armor Class** 14    
 **Hit Points** 104 (16d8 + 32)    
 **Speed** 50 ft., fly 50 ft. (hover)
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 16 (+3) | 19 (+4) | 14 (+2) | 10 (+0) | 15 (+2) | 11 (+0) |
 
@@ -19,9 +19,9 @@ _Medium elemental, neutral_
 **Languages** Auran, understands Common but doesn't speak it    
 **Challenge** 6 (2,300 XP)
 
-**Invisibility.** The stalker is invisible.    
-**Faultless Tracker.** The stalker is given a quarry by its summoner. The stalker knows the direction and distance to its quarry as long as the two of them are on the same plane of existence. The stalker also knows the location of its summoner.
+**Невидимість.** Інсталектор невидимий.    
+**Нешкідливий трекер.** Сліпий отримує чверть його призивника. Невдача знає напрямок і відстань до своєї кар'єри до тих пір, поки вони двоє живуть в одному літаку. Невдача також знає розташування свого призивника.
 
-### Actions
-**Multiattack.** The stalker makes two slam attacks.    
-**Slam.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) bludgeoning damage.
+### Дії
+**Багатоатака.** Веселощі робить дві лебедні атаки.    
+**Слема.** _Атака ближньої зброї:_ +6 щоб вдарити, досягти 5-ти цілі, одна ціль. _Удара:_ 10 (2d6 + 3) пошкодження помилок блокування.
