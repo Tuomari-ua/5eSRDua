@@ -1,10 +1,10 @@
-name: Luck Blade type: weapon
+назва: Лезо удачі тип: зброя
 
-# Luck Blade
-_Weapon (any sword), legendary (requires attunement)_
+# Лезо Удачі
+_Зброя (будь-який меч), легендарний (вимагає ватування)_
 
-You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you also gain a +1 bonus to saving throws.
+Ви отримуєте бонус +1 для атаки та ушкодження зроблені за допомогою цієї чарівної зброї. Поки меч на вашій людині, ви також отримуєте бонус +1 для економії ворогів.
 
-**Luck.** If the sword is on your person, you can call on its luck (no action required) to reroll one attack roll, ability check, or saving throw you dislike. You must use the second roll. This property can't be used again until the next dawn.
+**Удач.** Якщо меч на вашу особу, ви можете кликати його вдачу (не потрібна дія) для пересилки одну атаку, перевірка здібностей, або зміна речей, які ви любите кидати. Ви повинні використати друге жбурляння. Ця властивість не може бути використана знову до наступного світанку.
 
-**Wish.** The sword has 1d4 – 1 charges. While holding it, you can use an action to expend 1 charge and cast the **_wish_** spell from it. This property can't be used again until the next dawn. The sword loses this property if it has no charges.
+**Бажане.** Меч має 1d4 - 1 заряд. While holding it, you can use an action to expend 1 charge and cast the **_wish_** spell from it. Ця властивість не може бути використана знову до наступного світанку. Меч втратить цю власність, якщо вона не має заряду.
