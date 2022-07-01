@@ -1,13 +1,13 @@
-name: Nightmare type: fiend cr: 3
+назва: Nightmare тип: воювати cr: 3
 
-# Nightmare
-_Large fiend, neutral evil_
+# Кошмар
+_Велике розпорошене, нейтральне зло_
 
-**Armor Class** 13 (natural armor)    
-**Hit Points** 68 (8d10 + 24)    
-**Speed** 60 ft., fly 90 ft.
+**Клас броні** 13 (природна броня)    
+**Бали** 68 (d10 + 24)    
+**Швидкість** фут. політ 90 футів.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 15 (+2) | 16 (+3) | 10 (+0) | 13 (+1) | 15 (+2) |
 
@@ -16,9 +16,9 @@ _Large fiend, neutral evil_
 **Languages** understands Abyssal, Common, and Infernal but can't speak    
 **Challenge** 3 (700 XP)
 
-**Confer Fire Resistance.** The nightmare can grant resistance to fire damage to anyone riding it.    
-**Illumination.** The nightmare sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
+**Стійкість до вогню.** кошмар може дати стійкість до вогню шкоді тим, хто його їде.    
+**Яскравість.** Сомар проливає яскраве світло в 10-футовому радіусі та тьмяному світлі ще 10 футів.
 
-### Actions
-**Hooves.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) bludgeoning damage plus 7 (2d6) fire damage.    
-**Ethereal Stride.** The nightmare and up to three willing creatures within 5 feet of it magically enter the Ethereal Plane from the Material Plane, or vice versa.
+### Дії
+**Хауї.** _Атака ближньої зброї:_ +6 до удару, досягає 5 щитів, одна ціль. _Вразу:_ 13 (2d8 + 4) пошкодження помилок + 7 (2d6) вогневої шкоди.    
+**Ethereal Stride.** Кошмар і до трьох охочих істот в межах 5 футів від нього магічним чином увійти в Ethereal площину (корабель), від фігурної площини, або навпаки.
