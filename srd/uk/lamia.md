@@ -1,13 +1,13 @@
-name: Lamia type: monstrosity cr: 4
+назва: Ламія тип: чудовість cr: 4
 
-# Lamia
-_Large monstrosity, chaotic evil_
+# Ламія
+_Велике чудовисько, хаотичне зло_
 
-**Armor Class** 13 (natural armor)    
-**Hit Points** 97 (13d10 + 26)    
-**Speed** 30 ft.
+**Клас броні** 13 (природна броня)    
+**Очки влучання** 97 (13d10 + 26)    
+**Швидкість** фут.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 16 (+3) | 13 (+1) | 15 (+2) | 14 (+2) | 15 (+2) | 16 (+3) |
 
@@ -16,13 +16,13 @@ _Large monstrosity, chaotic evil_
 **Languages** Abyssal, Common    
 **Challenge** 4 (1,100 XP)
 
-**Innate Spellcasting.** The lamia's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components.    
-At will: **_disguise self_** (any humanoid form), **_major image_**    
-3/day each: **_charm person_**, **_mirror image_**, **_scrying_**, **_suggestion_**    
+**Вную орфографію заклинання** Природною здатністю заклинання є харизма (заклинання зекономить DC 13). Він може придавати наступні орфографії, які не вимагають матеріальних компонентів.    
+За власним бажанням: **_замаскувати себе_** (будь-яка гуманоїдна форма), **_велике зображення_**    
+3/day each: **_charm person_** **_дзеркальних зображень_**, **_прояснення_**, **_пропозиція_**    
 1/day: **_geas_**
 
-### Actions
+### Дії
 **Multiattack.** The lamia makes two attacks: one with its claws and one with its dagger or Intoxicating Touch.   
-**Claws.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 14 (2d10 + 3) slashing damage.    
-**Dagger.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 5 (1d4 + 3) piercing damage.    
-**Intoxicating Touch.** Melee Spell Attack: +5 to hit, reach 5 ft., one creature. _Hit:_ The target is magically cursed for 1 hour. Until the curse ends, the target has disadvantage on Wisdom saving throws and all ability checks.
+**Claws.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Вдач:_ 14 (2d10 + 3) і 3). Пошкоджую    
+**Дагер.** _Атака ближньої зброї:_ +5, щоб вдарити в нього, досягти 5-ї цілі, одну ціль. _Удара:_ 5 (1d4 + 3) наносить шкоду від проколу.    
+**Шалений Дотик.** Ефект орфографії ближнього: +5, при досягненні 5-ти цього, одне створіння. _Удар досягнення:_ Ціль магічно проклята протягом 1 години. Поки прокляття не закінчиться, ціль не завдала шкоди для економії презервативів та всі чеки здібності.
