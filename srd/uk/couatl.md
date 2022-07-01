@@ -1,32 +1,32 @@
-name: Couatl type: celestial cr: 4
+назва: Кулай тип: небесний cr: 4
 
 # Couatl
-_Medium celestial, lawful good_
+_Середземний, законний товар_
 
-**Armor Class** 19 (natural armor)    
-**Hit Points** 97 (13d8 + 39)    
-**Speed** 30 ft., fly 90 ft.
+**Клас броні** 19 (природна броня)    
+**Очки влучання** 97 (13d8 + 39)    
+**Швидкість** фут. політ 90 футів.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 16 (+3) | 20 (+5) | 17 (+3) | 18 (+4) | 20 (+5) | 18 (+4) |
 
-**Saving Throws** Con +5, Wis +7, Cha +6    
-**Damage Resistances** radiant    
-**Damage Immunities** psychic; bludgeoning, piercing, and slashing from nonmagical attacks    
-**Senses** truesight 120 ft., passive Perception 15    
-**Languages** all, telepathy 120 ft.    
-**Challenge** 4 (1,100 XP)
+**Збереження кишить** Con +5, Wis +7, Cha +6    
+**Пошкодження** радіант    
+**Імунітети** психіка; bludgeoning, пронизування і різання від немагічних атак    
+**говорить з** точками на 120 футів. пасивна перехоплення 15    
+мови **мов** всіх, телепатія 120 футів.    
+**Виклик** 4 (1,100 XP)
 
-**Innate Spellcasting.** The couatl's spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring only verbal components:    
-At will: **_detect evil and good_**, **_detect magic_**, **_detect thoughts_**    
-3/day each: **_bless_**, **_create food and water_**, **_cure wounds_**, **_lesser restoration_**, **_protection from poison_**, **_sanctuary_**, **_shield_**    
-1/day each: **_dream_**, **_greater restoration_**, **_scrying_**    
-**Magic Weapons.** The couatl's weapon attacks are magical.    
-**Shielded Mind.** The couatl is immune to scrying and to any effect that would sense its emotions, read its thoughts, or detect its location.
+**Взяти орфографію орфографії.** Здатною орфографії на купоні є Харизма (заклинання збереження DC 14). Коли вони можуть придавати наступні заклинання, вимагає лише вербальних компонентів:    
+, На волі: **_виявити зло і добро_** **_виявлення магії_**, **_виявляє думки_**    
+3/днів кожен: **_безмежних_**, **_створює їжу та воду_**, **_рани для лікування_**, **_менше при відновленні_**, **_захист від отрути_**, **_святилищ_**, **_щит_**    
+1/днів кожний час: **_мрія_** **_більше відновлення_**, **_Розсіяння_**    
+**Магічної Зброї.** Атаки з використанням зброї є магічними.    
+**Зміщений розум.** Розвідка застрахована на розвідку і на будь-який ефект, який би відчув його емоції, читав його думки або виявити його розташування.
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one creature. _Hit:_ 8 (1d6 + 5) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 24 hours. Until this poison ends, the target is unconscious. Another creature can use an action to shake the target awake.    
-**Constrict.** _Melee Weapon Attack:_ +6 to hit, reach 10 ft., one Medium or smaller creature. _Hit:_ 10 (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 15). Until this grapple ends, the target is restrained, and the couatl can't constrict another target.    
-**Change Shape.** The couatl magically polymorphs into a humanoid or beast that has a challenge rating equal to or less than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the couatl's choice).    
-In a new form, the couatl retains its game statistics and ability to speak, but its AC, movement modes, Strength, Dexterity, and other actions are replaced by those of the new form, and it gains any statistics and capabilities (except class features, legendary actions, and lair actions) that the new form has but that it lacks. If the new form has a bite attack, the couatl can use its bite in that form.
+### Дії
+**Біт.** _Атака ближньої зброї:_ +8 до влучання, досягне 5-го протання, одна істота. _Вразів:_ 8 (1d6 + 5) пробиваючі пошкодження, і мета має досягнути успіху в групі 13 році Заощадження Конституції і бути отруєна 24 години. Поки ця отрута не закінчиться, ціль не буде підсвідомою. Інша істота може використовувати дію для струшування цілого пробудження.    
+**округу.** _Атака ближньої зброї:_ +6 щоб вдарити в неї, досягти 10-ти, однієї середньої або меншої істоти. _Удара:_ 10 (2d6 + 3) наносити пошкодження, а мета запланована (escape DC 15). Доки кінцевий баран не буде мішена, ціль не зможе обмежити іншу ціль.    
+**змінити Фігуру.** Куатл магічно поліморф в гуманоїди або звір, що має рейтинг виклику, рівний або менше, ніж його власний, або ж знову в свою справжню форму. Він повертається до своєї справжньої форми, якщо вона помирає. Будь-яке спорядження воно одягнуте або перенесене поглинається або несе нова форма (вибір купону).    
+У новій формі Муатль зберігає свою ігрову статистику і можливість говорити, але його AC, режими руху, потужність, декстритність та інші дії замінюються частинами нової форми, і він отримує будь-яку статистику і можливості (крім класу особливості, легендарні дії та лаї), яких не вистачає нової форми. Якщо нова форма має укусацький напад, купол може використовувати його кусак у цій формі.
