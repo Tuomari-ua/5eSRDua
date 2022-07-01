@@ -1,13 +1,13 @@
-name: Spider type: beast cr: 0
+назва: Павук тип: Звір cr: 0
 
-# Spider
-_Tiny beast, unaligned_
+# Павук
+_Крихітний звір, неприєднаний_
 
 **Armor Class** 12    
 **Hit Points** 1 (1d4 − 1)    
 **Speed** 20 ft., climb 20 ft.
 
-| STR    | DEX     | CON    | INT    | WIS     | CHA    |
+| СТР    | ДЕКС    | CON    | ІНТ    | WIS     | CHA    |
 | ------ | ------- | ------ | ------ | ------- | ------ |
 | 2 (−4) | 14 (+2) | 8 (−1) | 1 (−5) | 10 (+0) | 2 (−4) |
 
@@ -20,5 +20,5 @@ _Tiny beast, unaligned_
 **Web Sense.** While in contact with a web, the spider knows the exact location of any other creature in contact with the same web.    
 **Web Walker.** The spider ignores movement restrictions caused by webbing.
 
-### Actions
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 1 piercing damage, and the target must succeed on a DC 9 Constitution saving throw or take 2 (1d4) poison damage. 
+### Дії
+**Біт.** _Атака ближньої зброї:_ +4, досягнувши 5, одну істоту. _Вдач:_ 1 пробна шкода, і ціль має досягти успіху на шляху до Конституції DC throw або взяти 2 (1d4) пошкодження отрути. 
