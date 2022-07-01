@@ -1,6 +1,6 @@
-name: Ring of Regeneration type: ring
+назва: Кільце Перегенерації тип: ring
 
-# Ring of Regeneration
-_Ring, very rare (requires attunement)_
+# Кільце Регенерації
+_Кільце, дуже рідкісний (вимагає залучення)_
 
-While wearing this ring, you regain 1d6 hit points every 10 minutes, provided that you have at least 1 hit point. If you lose a body part, the ring causes the missing part to regrow and return to full functionality after 1d6 + 1 days if you have at least 1 hit point the whole time. 
+Носячи це кільце, ви повертаєте 1d6 очків кожні 10 хвилин, завдяки чому ви маєте принаймні 1 точку. Якщо ви втратите частину тіла, кільце не призводить до відновлення та повернення до повної функціональності після 1d6 + 1 днів, якщо у вас є принаймні 1 удар протягом всього часу. 
