@@ -1,13 +1,13 @@
-name: Air Elemental type: elemental cr: 5
+назва: ВПС тип: елемент cr: 5
 
-# Air Elemental
-_Large elemental, neutral_
+# Рятувальні повітряні Елементи
+_Великий елементарний, нейтральний_
 
 **Armor Class** 15    
 **Hit Points** 90 (12d10 + 24)    
 **Speed** 0 ft., fly 90 ft. (hover)
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| СТР     | ДЕКС    | CON     | ІНТ    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 14 (+2) | 20 (+5) | 14 (+2) | 6 (−2) | 10 (+0) | 6 (−2) |
 
@@ -18,10 +18,10 @@ _Large elemental, neutral_
 **Languages** Auran    
 **Challenge** 5 (1,800 XP)
 
-**Air Form.** The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
+**Повітряний Форм.** Елемент може увійти до простору ворожої істоти і зупинити там. Він може рухатися через простір як вузький, як на 1 дюйм широкий без стиснення.
 
-### Actions
-**Multiattack.** The elemental makes two slam attacks.    
-**Slam.** _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 14 (2d8 + 5) bludgeoning damage.    
-**Whirlwind (Recharge 4–6).** Each creature in the elemental's space must make a DC 13 Strength saving throw. On a failure, a target takes 15 (3d8 + 2) bludgeoning damage and is flung up 20 feet away from the elemental in a random direction and knocked prone. If a thrown target strikes an object, such as a wall or floor, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 13 Dexterity saving throw or take the same damage and be knocked prone.    
-If the saving throw is successful, the target takes half the bludgeoning damage and isn't flung away or knocked prone.
+### Дії
+**Багатоатака.** Елемент зробив дві лебедні атаки.    
+**Слем.** _Атака ближньої зброї:_ +8 щоб вдарити в нього, досягти 5-ти ціль, одну ціль. _Вражає:_ 14 (2d8 + 5) пошкодження душок.    
+**Ворон (Поповніть 4–6).** Кожна істота в просторі елементів повинна зробити Панель економії DC 13 сильності. У разі невдачі, ціль займає 15-8 (3d8 + 2) пошкодження дужування і відбивається на 20 футів від елементу у випадковому напрямку і постукає з китими матеріалами. Якщо ціль кидає предмет, такий як стіна чи підлога, ціль отримує 3 (1d6) пошкодження від дублювання за кожні 10 футів, яке його кинули. Якщо ціль кидається іншою істотою, ця істота повинна досягти успіху в Dexterity рятувальника або зібрати однакову шкоду і бути постукована королевою.    
+Якщо проблема збереження буде успішною, ціль отримує половину пошкодження дублювання і не відквітає або збиває з нього горло.
