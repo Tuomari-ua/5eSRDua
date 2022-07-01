@@ -1,13 +1,13 @@
-name: Longstrider level: 1 school: transmutation classes: bard druid ranger wizard
+назва: Різниця довгого рівень: 1 школа: транмутація класі: маємо druid Виконавця
 
-# Longstrider
-_1st-level transmutation_
+# Довгострофа
+_11-ша трансмутація_
 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S, M (a pinch of dirt)    
-**Duration:** 1 hour
+**Час трансляції :** 1 дія    
+**Діапазон:** Торкніться    
+**компоненти:** V, S, М (шум землі.    
+**Тривалість:** 1 година
 
-You touch a creature. The target's speed increases by 10 feet until the spell ends.
+Ви торкаєтеся істоти. Швидкість цілі збільшується на 10 футів до закінчення заклинання.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
+**На вищих рівнях.** Коли ви транслюєте це заклинання використовуючи слот 2-го рівня або вище, ви можете назначити ще одну істоту для кожного рівня слоту вище 1st.
