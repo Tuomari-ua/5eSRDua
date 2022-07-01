@@ -1,13 +1,13 @@
-name: Locate Creature level: 4 school: divination classes: bard cleric druid paladin ranger wizard
+назва: Знайдіть істоту рівень: 4 школу: divination класів: bold- cleric druid paladin ranger wizard
 
-# Locate Creature
-_4th-level divination_
+# Знайти істоту
+_4 рівні розлучення_
 
-**Casting Time:** 1 action    
-**Range:** Self    
-**Components:** V, S, M (a bit of fur from a bloodhound)    
-**Duration:** Concentration, up to 1 hour
+**Кастинг часу:** 1 дія    
+**Діапазон:** Самостій    
+**компоненти:** V, S, М (трохи хутра від кровообігу)    
+**тривалість:** концентру, між 1 годиною
 
-Describe or name a creature that is familiar to you. You sense the direction to the creature's location, as long as that creature is within 1,000 feet of you. If the creature is moving, you know the direction of its movement.    
-The spell can locate a specific creature known to you, or the nearest creature of a specific kind (such as a human or a unicorn), so long as you have seen such a creature up close--within 30 feet--at least once. If the creature you described or named is in a different form, such as being under the effects of a **_polymorph_** spell, this spell doesn't locate the creature.    
-This spell can't locate a creature if running water at least 10 feet wide blocks a direct path between you and the creature. 
+Опишіть або назвіть створіння, яке вам знайоме. Ви відчуваєте напрям руху істоти, доки її істота знаходиться на відстані 1 000 футів від вас. Якщо істота рухається, ви знаєте напрямок її руху.    
+Орфографія може знайти вам спеціальну істоту, відому вам, або найближча істота певного роду (наприклад, людина чи єдиноріг), поки ви бачили таку істоту ближче - до 30 футів - хоча б один раз. Якщо описана або названа істота перебуває в іншій формі, наприклад коли під ефектом **_поліморф_** заклинання це заклинання не знаходить істоту.    
+Ця заклинання не може знайти істоти, якщо жива вода має принаймні 10 футів завширшки по всьому блоку прямого шляху між вами та істотою. 
