@@ -1,20 +1,20 @@
-name: Antimagic Field level: 8 school: abjuration classes: cleric wizard
+назва: Антимагічне поле рівень: 8 школа: abjuration класів: чарівник з клором
 
-# Antimagic Field
-_8th-level abjuration_
+# Антімагічне поле
+_Реакція 8-го рівня_
 
 **Casting Time:** 1 action    
 **Range:** Self (10-foot-radius sphere)   
 **Components:** V, S, M (a pinch of powdered iron or iron filings)    
 **Duration:** Concentration, up to 1 hour
 
-A 10-foot-radius invisible sphere of antimagic surrounds you. This area is divorced from the magical energy that suffuses the multiverse. Within the sphere, spells canft be cast, summoned creatures disappear, and even magic items become mundane. Until the spell ends, the sphere moves with you, centered on you.    
-Spells and other magical effects, except those created by an artifact or a deity, are suppressed in the sphere and can't protrude into it. A slot expended to cast a suppressed spell is consumed. While an effect is suppressed, it doesn't function, but the time it spends suppressed counts against its duration.    
-**Targeted Effects.** Spells and other magical effects, such as **_magic missile_** and **_charm person_**, that target a creature or an object in the sphere have no effect on that target.    
-**Areas of Magic.** The area of another spell or magical effect, such as **_fireball_**, can't extend into the sphere. If the sphere overlaps an area of magic, the part of the area that is covered by the sphere is suppressed. For example, the flames created by a **_wall of fire_** are suppressed within the sphere, creating a gap in the wall if the overlap is large enough.    
-**Spells.** Any active spell or other magical effect on a creature or an object in the sphere is suppressed while the creature or object is in it.    
-**Magic Items.** The properties and powers of magic items are suppressed in the sphere. For example, a **+1 longsword** in the sphere functions as a nonmagical longsword.    
-A magic weapon's properties and powers are suppressed if it is used against a target in the sphere or wielded by an attacker in the sphere. If a magic weapon or a piece of magic ammunition fully leaves the sphere (for example, if you fire a magic arrow or throw a magic spear at a target outside the sphere), the magic of the item ceases to be suppressed as soon as it exits.    
-**Magical Travel.** Teleportation and planar travel fail to work in the sphere, whether the sphere is the destination or the departure point for such magical travel. A portal to another location, world, or plane of existence, as well as an opening to an extradimensional space such as that created by the **_rope trick_** spell, temporarily closes while in the sphere.    
-**Creatures and Objects.** A creature or object summoned or created by magic temporarily winks out of existence in the sphere. Such a creature instantly reappears once the space the creature occupied is no longer within the sphere.    
-**Dispel Magic.** Spells and magical effects such as **_dispel magic_** have no effect on the sphere. Likewise, the spheres created by different **_antimagic field_** spells don't nullify each other. 
+Невидима сфера антимагічної оточуючої поверхні вас. Ця область відокремлена від магічної енергії, яка страждає на мультиверсію. В межах сфери заклинання клинають скель, викликаних істот зникнуть і навіть чарівні предмети стають Пунданами. Аж поки заклинання не закінчиться, сфера рухається з вами, зосереджена на вас.    
+Графи і інші магічні ефекти, окрім тих, що створені артефактом чи божеством, обмежені у сфері і не можуть бути приступати до неї. Слот, витрачений на викидання придушеного заклинання спожито. У той час як ефект буде придушений, він не функціонує так, але час, який він витрачає зараз, попадає під час обробки вказання ефектів.    
+**зображені на нього ефекти.** Грамоти та інші магічні ефекти, наприклад, **_магічна ракета_** і **_charm особа_**, щоб націлити на істоту чи об'єкт сфери не вплинуло на цю мету.    
+**області магії.** Область заклинання або магічний ефект, наприклад, **_фаєрбол_**, не можна поширюватись у сферу. Якщо сфера перетинає площу магії, то частина площі, що вкрита сферою, буде придушена. Наприклад, полум'я, створені **_стінкою вогню_** утримуються в межах сфери, створити розрив у стіні, якщо перекриття достатньо велике.    
+**Органи.** Будь-яка активна заклинання чи інший магічний вплив на істоту чи об'єкт в сфері придушується, коли істота чи об'єкт в ній.    
+**магічних предметів.** властивості і сили магічних предметів придушуються в сфері. Наприклад, **+ 1 довгий меч** у сфері сфери функцій немагічний довгий меч.    
+Магічні властивості та сили зброї придушуються, якщо вони використовуються проти цілі в сфері або які розносять нападник у сфері. Якщо магічна зброя або шматок магічних боєприпасів повністю залишає сферу (наприклад, якщо ви вистрілите чарівну стрілу або кидаєте чарівний спис на ціль за сферою), магія предмета перестає бути придушена, як тільки він закінчиться.    
+**Магічні подорожі.** Телепортація і подорожі на площині не працюють в сфері, місце сфери є місцем призначення чи відправною точкою для таких магічних подорожей. A portal to another location, world, or plane of existence, as well as an opening to an extradimensional space such as that created by the **_rope trick_** spell, temporarily closes while in the sphere.    
+**Creatures and Objects.** A creature or object summoned or created by magic temporarily winks out of existence in the sphere. Така істота миттєво виявляється, коли простір заражена істотою більше не знаходиться в межах сфери.    
+**Вигнати магію.** заклинання і магічні ефекти, такі як **_магія_** не мають ефекту на сферу. Так само, сфери, створені різними **_антимагічне поле_** орфографії не піддають значення один одному. 
