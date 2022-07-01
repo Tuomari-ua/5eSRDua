@@ -1,12 +1,12 @@
-description: Rules describing the advantage and disadvantage system from the 5th Edition (5e) SRD (System Reference Document).
+опис: Правила, що описують перевагу та знімають систему відмови від 5-ї версії (5e) SRD (Системна документація).
 
-# Advantage and Disadvantage
-Sometimes a special ability or spell tells you that you have advantage or disadvantage on an ability check, a saving throw, or an attack roll. When that happens, you roll a second d20 when you make the roll. Use the higher of the two rolls if you have advantage, and use the lower roll if you have disadvantage. For example, if you have disadvantage and roll a 17 and a 5, you use the 5. If you instead have advantage and roll those numbers, you use the 17.
+# Перевага та недоліки
+Іноді особливі можливості або заклинання вказують на те, що ви маєте перевагу або недолік про перевірку здібностей, економію чи загальним нападом. Коли це станеться, ви випадаєте друге d20, коли ви влучите у жбурлянні. Використовуйте вищий розмір двох жбурлянь, якщо у вас є перевага і використовуйте нижню звіт, якщо у вас є невигідність. Наприклад, якщо у вас є недолік, чи випадання 17 і 5, то це буде 5. Якщо ви натомість, маєте перевагу та перевертаєте ці числа, то використайте ці 17.
 
-If multiple situations affect a roll and each one grants advantage or imposes disadvantage on it, you don't roll more than one additional d20. If two favorable situations grant advantage, for example, you still roll only one additional d20.
+Якщо кілька ситуацій впливають на рулоль, і кожне з них має перевагу або накладає зиск на нього, ви не котите більше ніж один додатковий 20. Якщо дві сприятливі ситуації надають перевагу, наприклад, ви запускаєте лише одну додаткову двадцятку.
 
-If circumstances cause a roll to have both advantage and disadvantage, you are considered to have neither of them, and you roll one d20. This is true even if multiple circumstances impose disadvantage and only one grants advantage or vice versa. In such a situation, you have neither advantage nor disadvantage.
+Якщо обставини спричиняють те, що вони мають і перевагу та недоліки, то їх зазвичай не мають і пускають до одного d20. Це вірно, навіть якщо кілька обставин вводять шкоду і лише один надає перевагу або навпаки. У такому випадку ти не маєш ані переваги, ані недоліків.
 
-When you have advantage or disadvantage and something in the game, such as the halfling's Lucky trait, lets you reroll the d20, you can reroll only one of the dice. You choose which one. For example, if a halfling has advantage or disadvantage on an ability check and rolls a 1 and a 13, the halfling could use the Lucky trait to reroll the 1.
+Коли ви маєте перевагу або недолік і щось у грі, такі, як Щаслива риса Хейллінга, дозволяє reroll d20, ви можете reroll лише один з кості. Ви виберете якусь. Наприклад, якщо малетіння має перевагу або недолік щодо перевірки здатності та рулетів 1 і 13, тремтіння може використовувати рису Удачі для reroll 1.
 
-You usually gain advantage or disadvantage through the use of special abilities, actions, or spells. Inspiration can also give a character advantage. The GM can also decide that circumstances influence a roll in one direction or the other and grant advantage or impose disadvantage as a result.
+Зазвичай ви отримуєте перевагу або втрачаєте через використання спеціальних можливостей, дій або заклинань. Натхнення також може надати перевагу персонажу. GM також може вирішити, що обставини впливають на рулон в одному напрямку чи іншому та надавати перевагу або нав'язувати шкоду в результаті.
