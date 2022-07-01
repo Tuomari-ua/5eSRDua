@@ -1,13 +1,13 @@
-name: Assassin type: humanoid (any race) cr: 8
+назва: Assassin тип: humanoid (any race) cr: 8
 
-# Assassin
-_Medium humanoid (any race), any non-good alignment_
+# Вбивця
+_Середня гуманоїда (будь-яке негарне вирівнювання_
 
 **Armor Class** 15 (studded leather)    
 **Hit Points** 78 (12d8 + 24)    
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| СТР     | ДЕКС    | CON     | ІНТ     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 11 (+0) | 16 (+3) | 14 (+2) | 13 (+1) | 11 (+0) | 10 (+0) |
 
@@ -18,14 +18,14 @@ _Medium humanoid (any race), any non-good alignment_
 **Languages** Thieves' cant plus any two languages    
 **Challenge** 8 (3,900 XP)
 
-**Assassinate.** During its first turn, the assassin has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the assassin scores against a surprised creature is a critical hit.    
-**Evasion.** If the assassin is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the assassin instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.    
-**Sneak Attack.** Once per turn, the assassin deals an extra 14 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the assassin that isn't incapacitated and the assassin doesn't have disadvantage on the attack roll.
+**Вбивця.** Під час першого повороту вбивця має перевагу в атаці проти будь-якої істоти, яка не взяла на себе чергу. Будь-який удар на вбивство партитури здивована істота є критичним ударом.    
+**Евазіону.** Якщо вбивця підпадає під ефект, що дозволяє зробити ефект поліпшення неприємності , візьміть лише половину шкоди, вбивці натомість, не приносять жодної шкоди, якщо її вдасться заощадити, і лише наполовину шкоди, якщо вона зазнає невдачі.    
+**Проникає атаку.** Одного разу, в свою чергу, вбивці завдає додаткового збитку 14 (4d6) при ударі в цілі атакою зброї та має перевагу в Ізраїлі атаки, або якщо ціль знаходиться в межах 5 футів від союзника вбивці, яка не є недієздатною, а вбивця не має недоліків на атаку.
 
-### Actions
-**Multiattack.** The assassin makes two shortsword attacks.    
-**Shortsword.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.    
-**Light Crossbow.** _Ranged Weapon Attack:_ +6 to hit, range 80/320 ft., one target. _Hit:_ 7 (1d8 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
+### Дії
+**Багатоатака.** Ассан робить дві короткі атаки.    
+**Короткий меч.** _Атака ближньої зброї:_ +6 щоб вдарити, досягти 5-ти цілі, одна ціль. _Hit:_ 6 (1d6 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.    
+**Light Crossbow.** _Ranged Weapon Attack:_ +6 to hit, range 80/320 ft., one target. _Вдач:_ 7 (1d8 + 3) пробиваюча шкода, і ціль має зробити економію конституції DC 15 заподіяння 24 (7d6) пошкодження від пошкодження, або ж удвічі більше шкоди від успішного.
 
-### Description
-Trained in the use of poison, assassins are remorseless killers who work for nobles, guildmasters, sovereigns, and anyone else who can afford them. 
+### Опис
+Натрапивши на вживання отрути, вбивці - це вбивці, які працюють на благородних, золотарів, суверенних і будь-кого, хто може собі дозволити. 
