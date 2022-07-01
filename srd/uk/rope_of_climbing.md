@@ -1,10 +1,10 @@
-name: Rope of Climbing type: item
+назва: Мотузка Сходження типу: елемент
 
-# Rope of Climbing
-_Wondrous item, uncommon_
+# Мотузка скелелазіння
+_Нетиповий для Wondrous_
 
-This 60-foot length of silk rope weighs 3 pounds and can hold up to 3,000 pounds. If you hold one end of the rope and use an action to speak the command word, the rope animates. As a bonus action, you can command the other end to move toward a destination you choose. That end moves 10 feet on your turn when you first command it and 10 feet on each of your turns until reaching its destination, up to its maximum length away, or until you tell it to stop. You can also tell the rope to fasten itself securely to an object or to unfasten itself, to knot or unknot itself, or to coil itself for carrying.
+60-футова довжина шовкової труби становить 3 фунти і може утримувати до 3 000 фунтів. Якщо в вас є один кінець мотузки, і ви використовуєте дію, щоб говорити слово "команди", анімовані мотузки. Як процес бонусу, ви можете керувати іншим кінцем для переміщення до призначення, яке ви обрали. Цей кінець пересувається по 10 футів на ходу, коли ви першу командуєте ним і 10 футів на кожному зі своїх поворотів, поки не досягнете місця призначення, до максимальної довжини, або поки ви не скажете її, щоб вона припинилася. Ви також можете скрутити мотузку, щоб забезпечити себе надійним предметом або розпалити себе, щоб не знали чи не розкручувати себе заради виховання.
 
-If you tell the rope to knot, large knots appear at 1- foot intervals along the rope. While knotted, the rope shortens to a 50-foot length and grants advantage on checks made to climb it.
+Якщо скажіть мотузці вузол, то великі вузли з’являються на відстані 1 футів від мотузки. При вузлеві стали напружені до довжиною в 50 футів, і вони отримують перевагу від перевірок, зроблених для його використання.
 
-The rope has AC 20 and 20 hit points. It regains 1 hit point every 5 minutes as long as it has at least 1 hit point. If the rope drops to 0 hit points, it is destroyed.
+Мотузка має число 20 і 20 пунктів влучання. Кожні 5 хвилин він знову отримує 1 точку при знаходженні в 1 очко. Якщо мотузка падає до 0 точок влучання, вона зруйнується.
