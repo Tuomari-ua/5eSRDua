@@ -1,8 +1,8 @@
-name: Defender type: weapon
+назва: Захисник тип: зброя
 
-# Defender
-_Weapon (any sword), legendary (requires attunement)_
+# Захисник
+_Зброя (будь-який меч), легендарний (вимагає ватування)_
 
-You gain a +3 bonus to attack and damage rolls made with this magic weapon.
+Ви отримуєте бонус +3 на атаку та ушкодження зроблені за допомогою цієї чарівної зброї.
 
-The first time you attack with the sword on each of your turns, you can transfer some or all of the sword's bonus to your Armor Class, instead of using the bonus on any attacks that turn. For example, you could reduce the bonus to your attack and damage rolls to +1 and gain a +2 bonus to AC. The adjusted bonuses remain in effect until the start of your next turn, although you must hold the sword to gain a bonus to AC from it. 
+Вперше ви нападаєте на меч на кожен з ваших черг, ви можете передати бонус від меча до Класу обладунку, а не використовувати бонус для будь-яких атак, що повертаються. Наприклад, ви можете зменшити бонус до вашої атаки та зібрати шкоду до +1 і отримати бонус +2 до н.е. Відрегульовані бонуси залишаються в силі до початку вашого наступного кроку, хоча потрібно утримувати меч, щоб отримати бонус до AC від нього. 
