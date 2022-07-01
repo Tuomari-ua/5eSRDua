@@ -1,11 +1,11 @@
-name: Feather Fall level: 1 school: transmutation classes: bard sorcerer wizard
+назва: Лігво пір'я рівень: 1 школа: транмутація класі: Бард сортувальник
 
-# Feather Fall
-_1st-level transmutation_
+# Пір'яве падіння
+_11-ша трансмутація_
 
-**Casting Time:** 1 reaction, which you take when you or a creature within 60 feet of you falls    
-**Range:** 60 feet    
-**Components:** V, M (a small feather or piece of down)    
-**Duration:** 1 minute
+**Час відтворення :** 1 реакція який ви берете, коли ви або істота в межах 60 футів від вас падає на    
+**Діапазон:** 60 футів    
+**компоненти:** V, M (маленький пер або шматочок перу)    
+**Тривалість:** хвилини
 
-Choose up to five falling creatures within range. A falling creature's rate of descent slows to 60 feet per round until the spell ends. If the creature lands before the spell ends, it takes no falling damage and can land on its feet, and the spell ends for that creature. 
+Виберіть до п'яти падаючих істот в межах діапазону. Швидкість зменшення гучності істоти сповільнюється до 60 футів за раунд, поки не закінчиться заклинання . Якщо істота приземлиться до закінчення заклинання, вона не може впадати і висаджувати на ноги, а заклинання закінчується тією істотою. 
