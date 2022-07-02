@@ -1,8 +1,9 @@
+## Довідник 
 # 5th Edition System Reference Document
 
-## Adventuring
+## Пригоди
 
-| General Adventuring                                        | Adventuring - Equipment                                              |
+| Пригоди                                       | Спорядження                                             |
 |------------------------------------------------------------|----------------------------------------------------------------------|
 | [Between Adventures](./adventuring/between_adventures.md)   | [Adventuring Gear](./adventuring/equipment/adventuring_gear.md)       |
 | [Movement](./adventuring/movement.md)                       | [Armor](./adventuring/equipment/armor.md)                             |
@@ -15,7 +16,8 @@
 
 
 ## Character
-| Basic Character Rules                                                      | Character - Classes                          | Character - Races                            |
+
+| Загальні правила для персонажів                                                | Класи                       | Раси                           |
 |----------------------------------------------------------------------------|----------------------------------------------|----------------------------------------------|
 | [Alignment](./character/alignment.md)                                       | [Barbarian](./character/classes/barbarian.md) | [Dragonborn](./character/races/dragonborn.md) |
 | [Backgrounds](./character/backgrounds.md)                                   | [Bard](./character/classes/bard.md)           | [Dwarf](./character/races/dwarf.md)           |
@@ -31,6 +33,7 @@
 |                                                                            | [Wizard](./character/classes/wizard.md)       |                                              |
 
 ## Combat
+
 | Combat                                              |                                                           |
 |-----------------------------------------------------|-----------------------------------------------------------|
 | [Actions in Combat](./combat/actions_in_combat.md)   | [Mounted Combat](./combat/mounted_combat.md)               |
@@ -39,7 +42,8 @@
 | [Making an Attack](./combat/making_an_attack.md)     | [Underwater Combat](./combat/underwater_combat.md)         |
 
 ## Правила
-| Правила                                                              | Правила - Здібності                                   |
+
+| Правила                                                              | Здібності                                   |
 |--------------------------------------------------------------------|------------------------------------------------------|
 | [Перевага та перешкода](./rules/advantage_and_disadvantage.md) | [Перевірки здібностей](./rules/abilities/ability_checks.md) |
 | [Стани](./rules/conditions.md)                                 | [Значення здібностей](./rules/abilities/ability_scores.md) |
@@ -53,7 +57,8 @@
 
 
 ## Правила Майстра
-| Правила Майстра                                                             | Правила Майстра - Списки предметів                                         | Правила Майстра - Списки монстрів                                                |
+
+| Правила Майстра                                                             | Списки предметів                                         | Списки монстрів                                                |
 |----------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------|
 | [Хвороби](./gamemaster_rules/diseases.md)                            | [Предмети за назвою](./gamemaster_rules/magic_item_indexes/items_by_name.md) | [Монстри за назвою](./gamemaster_rules/monster_indexes/monsters_by_name.md) |
 | [Легендарні істоти](./gamemaster_rules/legendary_creatures.md)      | [Предмети за типом](./gamemaster_rules/magic_item_indexes/items_by_type.md) | [Монстри за типом](./gamemaster_rules/monster_indexes/monsters_by_type.md) |
@@ -67,7 +72,8 @@
 | [Пастки](./gamemaster_rules/traps.md)                                  |                                                                        |                                                                           |
 
 ## Чаротворення
-| Чаротворення                                        | Чаротворення - Списки чарів                                        | Чаротворення - Списки чарів                               |
+
+| Чаротворення                                        | Списки чарів                                        | Списки чарів за класами                   |
 | [Створення чарів](./spellcasting/casting_a_spell.md)  | [Чари за рівнями](./spellcasting/spell_indexes/spells_by_level.md)   | [Бард](./spellcasting/spell_lists/bard_spells.md)         |
 | [Що таке чари?](./spellcasting/what_is_a_spell.md) | [Чари за назвами](./spellcasting/spell_indexes/spells_by_name.md)     | [Клірик](./spellcasting/spell_lists/cleric_spells.md)     |
 |                                                      | [Чари за школами](./spellcasting/spell_indexes/spells_by_school.md) | [Друїд](./spellcasting/spell_lists/druid_spells.md)       |
