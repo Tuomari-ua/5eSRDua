@@ -1,4 +1,4 @@
-## 5e українською - System Reference Document
+## 5e українською
 
 ## Пригоди
 
