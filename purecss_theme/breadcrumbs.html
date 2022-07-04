@@ -10,9 +10,9 @@
         {% for doc in page.ancestors|selectattr("url")|reverse %}
             {% set __ = positionCount.append(1) %}
             <li property="itemListElement" typeof="ListItem">
-                <a href="{{ doc.canonical_url|url }}" property="item" typeof="WebPage">
+              <!--  <a href="{{ doc.canonical_url|url }}" property="item" typeof="WebPage">
                     <span property="name">{{ doc.title }}</span>
-                </a>
+                </a> -->
                 <meta property="position" content="{{ positionCount|length }}">
             </li>
         {% endfor %}
