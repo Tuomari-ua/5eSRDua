@@ -71,8 +71,8 @@ Wisdom is your spellcasting ability for your cleric spells. The power of your sp
 #### Ritual Casting 
 You can cast a cleric spell as a ritual if that spell has the ritual tag and you have the spell prepared. 
 
-#### Spellcasting 
-Focus You can use a holy symbol as a spellcasting focus for your cleric spells. 
+#### Spellcasting Focus
+You can use a holy symbol as a spellcasting focus for your cleric spells. 
 
 ### Divine Domain
 - - -
