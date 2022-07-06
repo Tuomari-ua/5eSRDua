@@ -1,6 +1,7 @@
 description: Rules and information for the Rogue class from the 5th Edition (5e) SRD (System Reference Document).
 
 # The Rogue
+
 | Level | Proficiency Bonus | Sneak Attack  | Features                               |
 |-------|------------------ |---------------|----------------------------------------|
 | 1st   | +2                | 1d6           | Expertise, Sneak Attack, Thieves' Cant |
