@@ -1,16 +1,16 @@
-опис: у 5-му версії (5e) класах визначають, що персонаж гарно вміє і що вони мають уміння.
+Опис: У 5-ї версії (5e) класи визначають сильні сторони персонажа й навички, які він опанував.
 
 # Класи
 
 * [Варвар](/character/classes/barbarian/)
 * [Бард](/character/classes/bard/)
-* [Клар](/character/classes/cleric/)
-* [Друїди](/character/classes/druid/)
+* [Клірик](/character/classes/cleric/)
+* [Друїд](/character/classes/druid/)
 * [Боєць](/character/classes/fighter/)
-* [Монк](/character/classes/monk/)
+* [Монах](/character/classes/monk/)
 * [Паладин](/character/classes/paladin/)
-* [Ranger](/character/classes/ranger/)
-* [Rogue](/character/classes/rogue/)
-* [Sorcerer](/character/classes/sorcerer/)
-* [Warlock](/character/classes/warlock/)
-* [Майстер](/character/classes/wizard/)
+* [Рейнджер](/character/classes/ranger/)
+* [Пройдисвіт](/character/classes/rogue/)
+* [Чародій](/character/classes/sorcerer/)
+* [Відьмак](/character/classes/warlock/)
+* [Чарівник](/character/classes/wizard/)
