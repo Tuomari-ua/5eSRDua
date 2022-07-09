@@ -1,16 +1,16 @@
-description: In 5th Edition (5e), classes define what a character is good at and what skills they have.
+Опис: У 5-ї версії (5e) класи визначають сильні сторони персонажа й навички, які він опанував.
 
-# Classes
+# Класи
 
-* [Barbarian](/character/classes/barbarian/)
-* [Bard](/character/classes/bard/)
-* [Cleric](/character/classes/cleric/)
-* [Druid](/character/classes/druid/)
-* [Fighter](/character/classes/fighter/)
-* [Monk](/character/classes/monk/)
-* [Paladin](/character/classes/paladin/)
-* [Ranger](/character/classes/ranger/)
-* [Rogue](/character/classes/rogue/)
-* [Sorcerer](/character/classes/sorcerer/)
-* [Warlock](/character/classes/warlock/)
-* [Wizard](/character/classes/wizard/)
+* [Варвар](/character/classes/barbarian/)
+* [Бард](/character/classes/bard/)
+* [Клірик](/character/classes/cleric/)
+* [Друїд](/character/classes/druid/)
+* [Боєць](/character/classes/fighter/)
+* [Монах](/character/classes/monk/)
+* [Паладин](/character/classes/paladin/)
+* [Рейнджер](/character/classes/ranger/)
+* [Пройдисвіт](/character/classes/rogue/)
+* [Чародій](/character/classes/sorcerer/)
+* [Відьмак](/character/classes/warlock/)
+* [Чарівник](/character/classes/wizard/)

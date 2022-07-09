@@ -1,142 +1,142 @@
-description: Rules and information for the Bard class from the 5th Edition (5e) SRD (System Reference Document).
+опис: Правила та інформація для класу Бард із 5-ї версії (5e) SRD (Довідник із документації системи).
 
-# The Bard
+# Бард
 
-| Level | Proficiency Bonus | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | Features                                               |
-|-------|-------------------|----------------|--------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|--------------------------------------------------------|
-| 1st   | +2                | 2              | 4            | 2   | -   | -   | -   | -   | -   | -   | -   | -   | Spellcasting, Bardic Inspiration (d6)                  |
-| 2nd   | +2                | 2              | 5            | 3   | -   | -   | -   | -   | -   | -   | -   | -   | Jack of All Trades, Song of Rest (d6)                  |
-| 3nd   | +2                | 2              | 6            | 4   | 2   | -   | -   | -   | -   | -   | -   | -   | Bard College, Expertise                                |
-| 4th   | +2                | 3              | 7            | 4   | 3   | -   | -   | -   | -   | -   | -   | -   | Ability Score Improvement                              |
-| 5th   | +3                | 3              | 8            | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   | Bardic Inspiration (d8), Font of Inspiration           |
-| 6th   | +3                | 3              | 9            | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   | Countercharm, Bard College feature                     |
-| 7th   | +3                | 3              | 10           | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   | -                                                      |
-| 8th   | +3                | 3              | 11           | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   | Ability Score Improvement                              |
-| 9th   | +4                | 3              | 12           | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   | Song of Rest (d8)                                      |
-| 10th  | +4                | 4              | 14           | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   | Bardic Inspiration (d10), Expertise, Magical Secrets   |
-| 11th  | +4                | 4              | 15           | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   | -                                                      |
-| 12th  | +4                | 4              | 15           | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   | Ability Score Improvement                              |
-| 13th  | +5                | 4              | 16           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   | Song of Rest (d10)                                     |
-| 14th  | +5                | 4              | 18           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   | Magical Secrets, Bard College feature                  |
-| 15th  | +5                | 4              | 19           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   | Bardic Inspiration (d12)                               |
-| 16th  | +5                | 4              | 19           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   | Ability Score Improvement                              |
-| 17th  | +6                | 4              | 20           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   | Song of Rest (d12)                                     |
-| 18th  | +6                | 4              | 22           | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   | Magical Secrets                                        |
-| 19th  | +6                | 4              | 22           | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | Ability Score Improvement                              |
-| 20th  | +6                | 4              | 22           | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   | Superior Inspiration                                   |
+| Рівень | Бонус досвіду | Вивчені заклини | Відомі чари | 1-й | 2-й | 3-й | 4-й | 5-й | 6-й | 7-й | 8-й | 9-й | Особливості                                       |
+| ------ | ------------- | --------------- | ----------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ------------------------------------------------- |
+| 1-й    | +2            | 2               | 4           | 2   | -   | -   | -   | -   | -   | -   | -   | -   | Чарування, Натхнення барда (к6)                   |
+| 2-й    | +2            | 2               | 5           | 3   | -   | -   | -   | -   | -   | -   | -   | -   | Майстер на всі руки, Пісня відпочинку (к6)        |
+| 3-й    | +2            | 2               | 6           | 4   | 2   | -   | -   | -   | -   | -   | -   | -   | Колегія бардів                                    |
+| 4-й    | +2            | 3               | 7           | 4   | 3   | -   | -   | -   | -   | -   | -   | -   | Покращення здібностей                             |
+| 5-й    | +3            | 3               | 8           | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   | Натхнення барда (к8), Джерело натхнення           |
+| 6-й    | +3            | 3               | 9           | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   | Відчарування, Особливість колегії бардів          |
+| 7-й    | +3            | 3               | 10          | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   | -                                                 |
+| 8-й    | +3            | 3               | 11          | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   | Покращення здібностей                             |
+| 9-й    | +4            | 3               | 12          | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   | Пісня відпочинку (к8)                             |
+| 10-й   | +4            | 4               | 14          | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   | Натхнення барда (к10), Експертиза, Таємниці магії |
+| 11-й   | +4            | 4               | 15          | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   | -                                                 |
+| 12-й   | +4            | 4               | 15          | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   | Покращення здібностей                             |
+| 13-й   | +5            | 4               | 16          | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   | Пісня відпочинку (к10)                            |
+| 14-й   | +5            | 4               | 18          | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   | Таємниці магії, Особливість колегії бардів        |
+| 15-й   | +5            | 4               | 19          | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   | Натхнення барда (к12)                             |
+| 16-й   | +5            | 4               | 19          | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   | Покращення здібностей                             |
+| 17-й   | +6            | 4               | 20          | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   | Пісня відпочинку (к12)                            |
+| 18-й   | +6            | 4               | 22          | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   | Таємниці магії                                    |
+| 19-й   | +6            | 4               | 22          | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | Покращення здібностей                             |
+| 20-й   | +6            | 4               | 22          | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   | Неперевершене натхнення                           |
 
-## Class Features
-As a bard, you gain the following class features.
+## Класові особливості
+Як бард ви здобуваєте наступні класові особливості.
 
-### Hit Points
-**Hit Dice:** 1d8 per bard level  
-**Hit Points at 1st Level:** 8 + your Constitution modifier  
-**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per bard level after 1st  
+### Пункти здоров'я
+**Кістки здоров'я:** 1к8 за рівень барда  
+**Пункти здоров'я на 1-му рівні:** 8 + ваш модифікатор Статури  
+**Пункти здоров'я на вищих рівнях:** 1к8 (або 5) + ваш модифікатор Статури за кожен рівень барда після першого
 
-### Proficiencies
-**Armor:** Light armor  
-**Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords  
-**Tools:** Three musical instruments of your choice  
-**Saving Throws:** Dexterity, Charisma  
-**Skills:** Choose any three  
+### Досвід
+**Броня:** Легка броня  
+**Зброя:** Проста зброя, ручні арбалети, довгі мечі, рапіри, короткі мечі  
+**Інструменти: **Три музичні інструменти за вашим вибором  
+**Рятівні кидки:**Спритність, Харизма  
+**Навички:** Виберіть будь-які три
 
-### Equipment
-You start with the following equipment, in addition to the equipment granted by your background:
+### Спорядження
+Ви починаєте з наступним спорядженням, на додачу до спорядження, яке надає ваша передісторія:
 
-* (a) a rapier, (b) a longsword, or (c) any simple weapon
-* (a) a diplomat’s pack or (b) an entertainer’s pack
-* (a) a lute or (b) any other musical instrument
-* Leather armor and a dagger
+* (a) рапіра, (б) довгий меч або (c) будь-яка проста зброя
+* (a) набір дипломата або (b) набір артиста
+* (a) лютня або (b) будь-який інший музичний інструмент
+* Шкіряна броня та кинджал
 
-### Spellcasting 
+### Чарування
 - - -
-You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music. Your spells are part of your vast repertoire, magic that you can tune to different situations.
+Ви навчилися розплутувати й перетворювати тканину реальності у гармонії зі своїми бажаннями та музикою. Ваші чари є частиною величезного репертуару, магії, яку можна налаштовувати на різні ситуації.
 
-#### Cantrips 
-You know two cantrips of your choice from the bard spell list. You learn additional bard cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Bard table. 
+#### Заговори
+Вам відомі два заговори за вашим вибором зі списку чарів барда. Ви вивчаєте додаткові заговори барда за власним вибором на вищих рівнях, як наведено у колонці "Заговори барда" таблиці класу Бард.
 
-#### Spell Slots 
-The Bard table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.  
-For example, if you know the 1st-level spell cure wounds and have a 1st-level and a 2nd-level spell slot available, you can cast cure wounds using either slot. 
+#### Слоти чарів
+Таблиця Барда показує, скільки слотів ви маєте для створення чарів першого та вищих рівнів. Щоб створити одні з цих чарів, ви повинні витратити слот рівня чарів або вищий. Ви відновлюєте всі витрачені слоти, коли завершуєте тривалий відпочинок.  
+Наприклад, якщо ви знаєте чари першого рівня Лікування ран і маєте слоти 1-го та 2-го рівнів, ви можете створити чари, використовуючи будь-який із цих слотів.
 
-#### Spells Known of 1st Level and Higher
-You know four 1st-level spells of your choice from the bard spell list.   
-The Spells Known column of the Bard table shows when you learn more bard spells of your choice. Each of these spells must be of a level for which you have spell slots, as shown on the table. For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level.   
-Additionally, when you gain a level in this class, you can choose one of the bard spells you know and replace it with another spell from the bard spell list, which also must be of a level for which you have spell slots.   
+#### Відомі чари 1-го та вищих рівнів
+Ви знаєте четверо чарів 1-го рівня за власним вибором зі списку чарів барда.   
+Колонка "Відомі чари" у таблиці класу Бард показує, коли ви вивчите більше чарів за власним вибором. Кожні з цих чарів мають відповідати рівням ваших слотів для чарів, як показано в таблиці. Наприклад, коли ви досягаєте 3-го рівня в цьому класі, ви можете вивчити нові чари 1-го або 2-го рівня.   
+Додатково, коли ви отримуєте рівень у цьому класі, ви можете вибрати одні чари Барда і замінити їх іншими чарами зі свого списку; нові чари так само повинні відповідати рівню слотів, які ви маєте.
 
-#### Spellcasting Ability 
-Charisma is your spellcasting ability for your bard spells. Your magic comes from the heart and soul you pour into the performance of your music or oration. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a bard spell you cast and when making an attack roll with one. 
+#### Чаротворча здібність
+Вашою здібністю для створення чарів є Харизма. Ваша магія йде від серця й душі, які ви переливаєте у свою музику чи свої промови. Ви застосовуєте свою Харизму щоразу, коли в чарах згадується ваша чаротворча здібність. Крім того, ви застосовуєте свій модифікатор Харизми, коли визначаєте Клас Складності рятівних кидків від своїх чарів, та коли ваші чари вимагають кидка атаки.
 
-> **Spell save DC** = 8 + your proficiency bonus + your Charisma modifier 
+> **КС ряткидків від чарів** = 8 + бонус досвіду + ваш модифікатор Харизми
 
-> **Spell attack modifier** = your proficiency bonus + your Charisma modifier 
+> **Модифікатор атаки чарами** = ваш бонус досвіду + ваш модифікатор Харизми
 
-#### Ritual Casting
-You can cast any bard spell you know as a ritual if that spell has the ritual tag. 
+#### Ритуальне чарування
+Якщо відомі вам чари барда мають позначку "ритуал", ви можете створити їх за допомогою ритуалу.
 
-#### Spellcasting Focus 
-You can use a musical instrument as a spellcasting focus for your bard spells. 
+#### Осередок магії
+Ви можете використовувати музичний інструмент як осередок магії для своїх бардівських чарів.
 
-### Bardic Inspiration 
+### Натхнення барда
 - - -
-You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a d6.  
-Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Bardic Inspiration die, but must decide before the GM says whether the roll succeeds or fails. Once the Bardic Inspiration die is rolled, it is lost. A creature can have only one Bardic Inspiration die at a time.   
-You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain any expended uses when you finish a long rest.   
-Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level.   
+Ви можете надихати інших зворушливими словами чи музикою. Для цього у свій хід ви можете витратити бонусну дію та вибрати одну істоту, крім себе, яка перебуває на відстані не більше 60 футів та може чути вас. Ця істота отримує одну кістку натхнення барда, к6.  
+Один раз упродовж наступних 10 хвилин істота може кинути цю кістку й додати число, що випало, до однієї своєї перевірки навички, свого кидка атаки або свого ряткидка. Істота може спочатку зробити кидок к20, а вже потім вирішити, використовувати Натхнення барда чи ні, однак це рішення треба прийняти до того, як Майстер повідомить про успіх чи невдачу кидка. Щойно кістка натхнення барда кинута, вона зникає. Істота може мати тільки одне Натхнення барда за раз.   
+Кількість використань Натхнення барда дорівнює вашому модифікатору Харизми (мінімум один раз). Ви відновлюєте всі використані кістки натхнення, коли завершуєте тривалий відпочинок.   
+Ваша кістка натхнення змінюється відповідно до того, як ви досягаєте певних рівнів у цьому класі. Кістка збільшується до к8 на 5-му рівні, до к10 - на 10-му рівні, та до к12 на 15-му рівні.
 
-### Jack of All Trades 
+### Майстер на всі руки
 - - -
-Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn’t already include your proficiency bonus. 
+Починаючи з 2-го рівня, ви можете додати половину свого бонусу досвіду, округлену вниз, до будь-якої перевірки своїх навичок, до яких ще не включено ваш бонус досвіду.
 
-### Song of Rest 
+### Пісня відпочинку
 - - -
-Beginning at 2nd level, you can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points at the end of the short rest by spending one or more Hit Dice, each of those creatures regains an extra 1d6 hit points.   
-The extra hit points increase when you reach certain levels in this class: to 1d8 at 9th level, to 1d10 at 13th level, and to 1d12 at 17th level. 
+Починаючи з 2-го рівня, ваша заспокійлива музика або промова допомагає вашим пораненим союзникам відновити життєві сили під час короткого відпочинку. Під час короткого відпочинку, коли ви або дружні до вас істоти витрачають на відновлення пунктів здоров'я одну або більше кісток здоров'я, кожна з цих істот отримує додатково 1к6 пунктів здоров'я за умови, що може чути ваш виступ.   
+Кількість додаткових пунктів здоров'я зростає, коли ви досягаєте певних рівнів у цьому класі: до 1к8 на 9-му рівні, до 1к10 на 13-му рівні та до 1к12 на 17-му рівні.
 
-### Bard College 
+### Колегія бардів
 - - -
-At 3rd level, you delve into the advanced techniques of a bard college of your choice: the College of Lore or the College of Valor, both detailed at the end of the class description. Your choice grants you features at 3rd level and again at 6th and 14th level. 
+На 3-му рівні ви поринаєте у вивчення передових технік колегії бардів за вашим вибором: Колегії знань або Колегії доблесті, переваги яких перелічено в кінці опису класу. Ваш вибір надає вам особливості на 3-му, 6-му та 14-му рівнях.
 
-### Expertise
+### Експертиза
 - - -
-At 3rd level, choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies. At 10th level, you can choose another two skill proficiencies to gain this benefit. 
+На 3-му рівні виберіть дві навички, в яких ви набуваєте досвіду. Ваш бонус досвіду тепер подвоєно для будь-яких перевірок, які ви робите з використанням вибраних навичок. На 10-му рівні ви можете обрати ще дві навички, щоб отримати цей привілей.
 
-### Ability Score Improvement
+### Покращення здібностей
 - - -
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature. 
+Коли ви досягаєте 4-го рівня, а також на 8-му, 12-му, 16-тому та 19-му рівнях, ви можете збільшити одну зі своїх здібностей на 2 або дві свої здібності за власним вибором на 1. Як і звичайно, ви не можете збільшити значення здібності вище 20 за допомогою цієї особливості.
 
-### Font of Inspiration
+### Джерело натхнення
 - - -
-Beginning when you reach 5th level, you regain all of your expended uses of Bardic Inspiration when you finish a short or long rest. 
+Починаючи з 5-го рівня, ви відновлюєте всі витрачені Натхнення барда, коли завершуєте короткий або тривалий відпочинок.
 
-### Countercharm
+### Відчарування
 - - -
-At 6th level, you gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being frightened or charmed. A creature must be able to hear you to gain this benefit. The performance ends early if you are incapacitated or silenced or if you voluntarily end it (no action required). 
+На 6-му рівні ви здатні застосовувати музичні ноти або слова сили для переривання ефектів, що впливають на розум. Дією ви можете почати виступ, який триватиме до кінця вашого наступного ходу. У цей час ви та будь-які дружні вам істоти на відстані до 30 футів від вас мають перевагу на рятівні кидки проти залякування та зачарування. Істота має бути здатною почути вас, щоб отримати цей привілей. Виступ завершується раніше, якщо ви недієздатні, або заглушені, або добровільно припинили виступ (дія не потрібна).
 
-### Magical Secrets
+### Таємниці магії
 - - -
-By 10th level, you have plundered magical knowledge from a wide spectrum of disciplines. Choose two spells from any class, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip.  
-The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Bard table.  
-You learn two additional spells from any class at 14th level and again at 18th level.  
+На 10-му рівні ви накопичили магічні знання з широкого вибору дисциплін. Виберіть двоє чарів із будь-якого класу, включаючи свій. Вибрані чари повинні відповідати рівням ваших слотів для чарів, як показано в таблиці класу, або бути заговором.  
+Вибрані чари вважаються для вас чарами барда і враховуються у числі "Відомих чарів" за таблицею класу.  
+Ви вивчаєте по двоє додаткових чарів із будь-якого класу на 14-му та на 18-му рівнях.
 
-### Superior Inspiration
+### Неперевершене натхнення
 - - -
-At 20th level, when you roll initiative and have no uses of Bardic Inspiration left, you regain one use. 
+На 20-му рівні коли ви робите кидок ініціативи та не маєте невикористаних кісток Натхнення барда, ви відновлюєте одну таку кістку.
 
-## College of Lore 
+## Колегія Знань
 - - -
-Bards of the College of Lore know something about most things, collecting bits of knowledge from sources as diverse as scholarly tomes and peasant tales. Whether singing folk ballads in taverns or elaborate compositions in royal courts, these bards use their gifts to hold audiences spellbound. When the applause dies down, the audience members might find themselves questioning everything they held to be true, from their faith in the priesthood of the local temple to their loyalty to the king.  
-The loyalty of these bards lies in the pursuit of beauty and truth, not in fealty to a monarch or following the tenets of a deity. A noble who keeps such a bard as a herald or advisor knows that the bard would rather be honest than politic.  
-The college's members gather in libraries and sometimes in actual colleges, complete with classrooms and dormitories, to share their lore with one another. They also meet at festivals or affairs of state, where they can expose corruption, unravel lies, and poke fun at self-important figures of authority. 
+Барди Колегії знань мають деякі уявлення щодо більшості речей, збираючи крихти відомостей із різних джерел - від наукових праць до селянських казок. Чи то співаючи народні балади у тавернах, чи виконуючи вишукані композиції при королівському дворі, ці барди використовують свої таланти, аби викликати захват у публіки. Коли аплодисменти стихають, глядачі можуть виявити, що вже не так впевнені у тому, що вважали правдивим чи істинним - від своєї віри священикам місцевого храму до вірності королю.  
+Вірність цих бардів полягає у пошуках краси та правди, а не служінні монархам чи наслідуванні догматів божества. Дворянин, який залучив такого барда своїм вісником чи порадником, знає, що цей бард скоріше обере гірку правду, ніж політичні лестощі.  
+Члени Колегії збираються у бібліотеках, а іноді й у справжніх колегіях - із класами та гуртожитками - щоб обмінюватися знаннями одне з одним. Вони також зустрічаються на фестивалях або громадських подіях, де викривають корупцію, розгадують брехні та насміхаються над самоповажними владними фігурами.
 
-#### Bonus Proficiencies 
-When you join the College of Lore at 3rd level, you gain proficiency with three skills of your choice. 
+#### Додатковий досвід
+Коли ви приєднуєтеся до Колегії знань на 3-му рівні, ви опановуєте три навички за власним вибором.
 
-#### Cutting Words
-Also at 3rd level, you learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. When a creature that you can see within 60 feet of you makes an attack roll, an ability check, or a damage roll, you can use your reaction to expend one of your uses of Bardic Inspiration, rolling a Bardic Inspiration die and subtracting the number rolled from the creature's roll. You can choose to use this feature after the creature makes its roll, but before the GM determines whether the attack roll or ability check succeeds or fails, or before the creature deals its damage. The creature is immune if it can't hear you or if it's immune to being charmed. 
+#### Гостре слівце
+Також на 3-му рівні ви навчаєтеся використовувати свої дотепи, щоб відволікати, заплутувати чи якось інакше спантеличувати інших та порушувати їхню впевненість. Коли істота, яку ви бачите на відстані до 60 футів від себе, робить кидок атаки, перевірку навички або кидок пошкоджень, ви можете використати свою реакцію та витратити одне Натхнення барда, зробити кидок кістки Натхнення барда й відняти число, що випало, від кидка згаданої істоти. Ви можете застосувати цю особливість після того, як істота зробила кидок, але перш ніж Майстер визначить успіх чи невдачу кидка, або перед тим, як істота зробить кидок пошкоджень. Ця істота не піддається впливу, якщо вона не може вас чути, або якщо вона має імунітет до зачарування.
 
-#### Additional Magical Secrets 
-At 6th level, you learn two spells of your choice from any class. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip. The chosen spells count as bard spells for you but don't count against the number of bard spells you know. 
+#### Додаткові таємниці магії
+На 6-му рівні ви вивчаєте двоє чарів будь-якого класу за власним вибором. Вибрані чари мають відповідати рівням ваших слотів для чарів, як показано в таблиці, або бути заговором. Вибрані чари вважаються для вас чарами барда, але не враховуються до підсумку відомих вам бардівських чарів.
 
-#### Peerless Skill 
-Starting at 14th level, when you make an ability check, you can expend one use of Bardic Inspiration. Roll a Bardic Inspiration die and add the number rolled to your ability check. You can choose to do so after you roll the die for the ability check, but before the GM tells you whether you succeed or fail.
+#### Незрівнянна майстерність
+Починаючи з 14-го рівня, коли ви робите перевірку здібності, ви можете витратити одне Натхнення барда. Киньте кістку Натхнення барда та додайте число, що випало, до результату перевірки здібності. Ви можете зробити це після кидка, але перш ніж Майстер повідомить про успіх чи невдачу перевірки.
