@@ -1,146 +1,148 @@
-Опис: Правила та інформація для класу Клірик із 5-ї версії (5e) SRD (Довідник із документації системи).
+description: Rules and information for the Cleric class from the 5th Edition (5e) SRD (System Reference Document).
 
-# Клірик
+# The Cleric
 
-| Рівень | Бонус досвіду | Вивчені заклини | 1-й | 2-й | 3-й | 4-й | 5-й | 6-й | 7-й | 8-й | 9-й | Особливості                                                                        |
-| ------ | ------------- | --------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---------------------------------------------------------------------------------- |
-| 1-й    | +2            | 3               | 2   | -   | -   | -   | -   | -   | -   | -   | -   | Створення чарів, Божественний домен                                                |
-| 2-й    | +2            | 3               | 3   | -   | -   | -   | -   | -   | -   | -   | -   | Спрямування божественної енергії (1/відп), Особливість божественного домену        |
-| 3-й    | +2            | 3               | 4   | 2   | -   | -   | -   | -   | -   | -   | -   | -                                                                                  |
-| 4-й    | +2            | 4               | 4   | 3   | -   | -   | -   | -   | -   | -   | -   | Покращення здібностей                                                              |
-| 5-й    | +3            | 4               | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   | Знищення немертвих (КН 1/2)                                                        |
-| 6-й    | +3            | 4               | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   | Спрямування божественної енергії (2/відп.), Особливість божественного домену       |
-| 7-й    | +3            | 4               | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   | -                                                                                  |
-| 8-й    | +3            | 4               | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   | Покращення здібностей, Знищення немертвих (КН 1), Особливість божественного домену |
-| 9-й    | +4            | 4               | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   | -                                                                                  |
-| 10-й   | +4            | 5               | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   | Божественне втручання                                                              |
-| 11-й   | +4            | 5               | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   | Знищення немертвих (КН 2)                                                          |
-| 12-й   | +4            | 5               | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   | Покращення здібностей                                                              |
-| 13-й   | +5            | 5               | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   | -                                                                                  |
-| 14-й   | +5            | 5               | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   | Знищення немертвих (КН 3)                                                          |
-| 15-й   | +5            | 5               | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   | -                                                                                  |
-| 16-й   | +5            | 5               | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   | Покращення здібностей                                                              |
-| 17-й   | +6            | 5               | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   | Знищення немертвих (КН 4), Особливість божественного домену                        |
-| 18-й   | +6            | 5               | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   | Спрямування божественної енергії (3/відп.)                                         |
-| 19-й   | +6            | 5               | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | Покращення здібностей                                                              |
-| 20-й   | +6            | 5               | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   | Вдосконалене божественне втручання                                                 |
+| Level | Proficiency Bonus | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | Features                                               |
+|-------|-------------------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|--------------------------------------------------------|
+| 1st   | +2                | 3              | 2   | -   | -   | -   | -   | -   | -   | -   | -   | Spellcasting, Divine Domain                            |
+| 2nd   | +2                | 3              | 3   | -   | -   | -   | -   | -   | -   | -   | -   | Channel Divinity (1/rest), Divine Domain feature       |
+| 3rd   | +2                | 3              | 4   | 2   | -   | -   | -   | -   | -   | -   | -   | -                                                      |
+| 4th   | +2                | 4              | 4   | 3   | -   | -   | -   | -   | -   | -   | -   | Ability Score Improvement                              |
+| 5th   | +3                | 4              | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   | Destroy Undead (CR 1/2)                                |
+| 6th   | +3                | 4              | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   | Channel Divinity (2/rest), Divine Domain feature       |
+| 7th   | +3                | 4              | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   | -                                                      |
+| 8th   | +3                | 4              | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   | Ability Score Improvement, Destroy Undead (CR 1), Divine Domain feature |
+| 9th   | +4                | 4              | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   | -                                                      |
+| 10th  | +4                | 5              | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   | Divine Intervention                                    |
+| 11th  | +4                | 5              | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   | Destroy Undead (CR 2)                                  |
+| 12th  | +4                | 5              | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   | Ability Score Improvement                              |
+| 13th  | +5                | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   | -                                                      |
+| 14th  | +5                | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   | Destroy Undead (CR 3)                                  |
+| 15th  | +5                | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   | -                                                      |
+| 16th  | +5                | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   | Ability Score Improvement                              |
+| 17th  | +6                | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   | Destroy Undead (CR 4), Divine Domain feature           |
+| 18th  | +6                | 5              | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   | Channel Divinity (3/rest)                              |
+| 19th  | +6                | 5              | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | Ability Score Improvement                              |
+| 20th  | +6                | 5              | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   | Divine Intervention improvement                        | 
 
-## Класові особливості
-Як клірик ви здобуваєте наступні класові особливості.
+## Class Features
+As a cleric, you gain the following class features.
 
-### Пункти здоров'я
-**Кістки здоров'я:** 1к8 за рівень клірика  
-**Пункти здоров'я на 1-му рівні:** 8 + ваш модифікатор Статури  
-**Пункти здоров'я на вищих рівнях:** 1к8 (або 5) + ваш модифікатор Статури за кожен рівень клірика після першого
+### Hit Points
+**Hit Dice:** 1d8 per cleric level  
+**Hit Points at 1st Level:** 8 + your Constitution modifier  
+**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per cleric level after 1st  
 
-### Досвід
-**Броня:** Легка броня, середня броня. щити  
-**Зброя:** Проста зброя  
-**Інструменти: ** Жодних  
-**Рятівні кидки:** Мудрість, Харизма  
-**Навички:** Виберіть дві навички з-поміж наступних: Історія, Інтуїція, Медицина, Переконливість та Релігія
+### Proficiencies
+**Armor:** Light armor, medium armor. shields  
+**Weapons:** Simple weapons  
+**Tools:** None  
+**Saving Throws:** Wisdom, Charisma  
+**Skills:** Choose two from History, Insight, Medicine, Persuasion, and Religion  
 
-### Спорядження
-Ви починаєте з наступним спорядженням, на додачу до спорядження, яке надає ваша передісторія:
+### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
 
-* (a) булава (b) бойовий молот (якщо ця зброя опанована)
-* (a) луската броня, (б) шкіряна броня, або (c) кольчуга (якщо ця броня опанована)
-* (a) легкий арбалет та 20 болтів або (b) будь-яка проста зброя
-* (a) набір священика або (b) набір мандрівника
-* Щит і святий символ
+* (a) a mace or (b) a warhammer (if proficient)
+* (a) scale mail, (b) leather armor, or (c) chain mail (if proficient)
+* (a) a light crossbow and 20 bolts or (b) any simple weapon
+* (a) a priest's pack or (b) an explorer's pack
+* A shield and a holy symbol
 
-### Чарування
+### Spellcasting
 - - -
-Як провідник божественної сили ви можете створювати чари клірика.
+As a conduit for divine power, you can cast cleric spells.
 
-#### Заговори
-На першому рівні ви знаєте три заклини зі списку чарів клірика за своїм вибором. Ви вивчаєте додаткові заклини клірика за власним вибором на вищих рівнях, як наведено у колонці "Заклини клірика" таблиці класу Клірик.
+#### Cantrips
+At 1st level, you know three cantrips of your choice from the cleric spell list. You learn additional cleric cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Cleric table.
 
-#### Підготовка та створення чарів
-Таблиця Клірика показує, скільки слотів ви маєте для створення чарів першого та вищих рівнів. Щоб створити одні з цих чарів, ви повинні витратити слот рівня чарів або вищий. Ви відновлюєте всі витрачені слоти чарів, коли завершуєте тривалий відпочинок.   
-Ви заздалегідь готуєте список чарів, які доступні вам для створення, вибираючи зі списку чарів клірика. Коли ви робите це, виберіть чари клірика в кількості, що дорівнює вашому модифікатору Мудрості + ваш рівень клірика (мінімум одні чари). Чари мають відповідати рівням ваших слотів.   
-Наприклад, якщо ви клірик 3-го рівня, ви маєте слоти для чотирьох чарів 1-го рівня та двох чарів 2-го рівня. З мудрістю 16 ваш список підготовлених заклинань може включати шість заклинань 1-го або 2-го рівня в будь-якій комбінації. Якщо ви підготуєте чари 1-го рівня **_Лікування ран_**, ви можете витратити на їх створення слот 1-го або 2-го рівня. Створення чарів не видаляє їх зі списку підготовлених.   
-Ви можете змінити цей список після завершення тривалого відпочинку. Підготовка нового списку чарів потребує молитви та медитації: принаймні по 1 хвилині на рівень чарів для кожних чарів із вашого списку.
+#### Preparing and Casting Spells
+The Cleric table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.   
+You prepare the list of cleric spells that are available for you to cast, choosing from the cleric spell list. When you do so, choose a number of cleric spells equal to your Wisdom modifier + your cleric level (minimum of one spell). The spells must be of a level for which you have spell slots.   
+For example, if you are a 3rd-level cleric, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell **_cure wounds_**, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.   
+You can change your list of prepared spells when you finish a long rest. Preparing a new list of cleric spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list. 
 
-#### Чаротворча здібність
-Вашою здібністю для створення чарів є Мудрість. Сила чарів надходить від вашої відданості своєму божеству. Ви застосовуєте свою Мудрість щоразу, коли в чарах згадується ваша чаротворча здібність. Крім того, ви застосовуєте свій модифікатор Мудрості, коли визначаєте Клас Складності рятівних кидків від своїх чарів, та коли ваші чари вимагають кидка атаки.
-> **КС ряткидків чарів** = 8 + ваш бонус досвіду + ваш модифікатор Мудрості **Модифікатор атаки чарами** = ваш бонус досвіду + модифікатор Мудрості
+#### Spellcasting Ability 
+Wisdom is your spellcasting ability for your cleric spells. The power of your spells comes from your devotion to your deity. You use your Wisdom whenever a cleric spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a cleric spell you cast and when making an attack roll with one. 
 
-#### Ритуальне чарування
-Ви можете створювати чари за допомогою ритуалу, якщо чари мають позначку "ритуал" та якщо ви їх підготували.
+>**Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier 
+>**Spell attack modifier** = your proficiency bonus + your Wisdom modifier 
 
-#### Осередок магії
-Ви можете використовувати святий символ як осередок магії для створення чарів клірика.
+#### Ritual Casting 
+You can cast a cleric spell as a ritual if that spell has the ritual tag and you have the spell prepared. 
 
-### Божественний домен
+#### Spellcasting Focus
+You can use a holy symbol as a spellcasting focus for your cleric spells. 
+
+### Divine Domain
 - - -
-Оберіть один домен, пов’язаний із вашим божеством: Знання, Життя, Світло, Природа, Буря, Обман або Війна. Переваги кожного домену перелічено в кінці опису класу, і кожен домен надає пропозиції щодо пов'язаних божеств. Ваш вибір дарує вам чари домену та інші особливості, починаючи з 1-го рівня. Він також надає вам додаткові способи Спрямування божественної енергії, коли ви отримуєте цю особливість на 2-му рівні, та додаткові привілеї на 6-му, 14-му та 17-му рівнях.
+Choose one domain related to your deity: Knowledge, Life, Light, Nature, Tempest, Trickery, or War. Each domain is detailed at the end of the class description, and each one provides examples of gods associated with it. Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use Channel Divinity when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels. 
 
-#### Чари домену
-Кожен домен має власний список чарів, доступ до яких ви дотримуєте, коли досягаєте певних рівнів у своєму класі, як показано в описі домену. Щойно ви отримали доступ до чарів домену, для вас вони завжди вважаються підготовленими і не враховуються до підсумку чарів, які ви можете підготувати кожного дня.   
-Якщо ваші чари домену не входять до списку чарів клірика, вони все одно вважаються чарами клірика для вас.
+#### Domain Spells 
+Each domain has a list of spells—its domain spells— that you gain at the cleric levels noted in the domain description. Once you gain a domain spell, you always have it prepared, and it doesn’t count against the number of spells you can prepare each day.   
+If you have a domain spell that doesn’t appear on the cleric spell list, the spell is nonetheless a cleric spell for you. 
 
-### Спрямування божественної енергії
+### Channel Divinity 
 - - -
-На 2-му рівні ви набуваєте здатності спрямовувати священну енергію безпосередньо від божества для підживлення магічних ефектів. Ви починаєте з двох таких ефектів: Вигнання немертвих та ефекту, визначеного доменом. Деякі домени надають додаткові ефекти, коли ви досягаєте певних рівнів у своєму класі, як зазначено в описі домену.    
-Коли ви застосовуєте Спрямування божественної енергії, ви обираєте, який із ефектів створити. Ви повинні закінчити короткий або тривалий відпочинок, щоб знову скористатися Спрямуванням божественної енергії. Деякі ефекти Спрямування божественної енергії потребують рятівних кидків. Коли ви застосовуєте такий ефект, КС рятівного кидка дорівнює звичайному КС від ваших чарів.   
-Починаючи з 6-го рівня, ви можете спрямовувати енергію двічі між відпочинками, а починаючи з 18-го рівня Спрямування божественної енергії доступне вам тричі між відпочинками. Коли ви завершуєте короткий або тривалий відпочинок, усі використані Спрямування божественної енергії відновлюються.
+At 2nd level, you gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you advance in levels, as noted in the domain description.   
+When you use your Channel Divinity, you choose which effect to create. You must then finish a short or long rest to use your Channel Divinity again. Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your cleric spell save DC.   
+Beginning at 6th level, you can use your Channel Divinity twice between rests, and beginning at 18th level, you can use it three times between rests. When you finish a short or long rest, you regain your expended uses. 
 
-#### Спрямування божественної енергії: Вигнання невмерлих
-Дією ви демонструєте свій святий символ і промовляєте слова молитви, яка вражає немертвих. Кожен немертвий, що може бачити або чути вас і перебуває не далі, ніж за 30 футів, мусить зробити рятівний кидок Мудрості. Якщо рятівний кидок невдалий, істота вигнана на 1 хвилину або до отримання будь-яких пошкоджень.   
-Вигнана істота витрачає свої ходи на те, щоб відійти від вас якнайдалі, і не може добровільно підійти до вас ближче, ніж на 30 футів. Вона також не може застосовувати реакції. Дією істота може виконувати тільки Ривок, або намагатися уникнути ефекту, який перешкоджає їй рухатися. Якщо рухатися немає куди, істота може використати дію Ухилятися.
+#### Channel Divinity: Turn Undead 
+As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.   
+A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 
-### Покращення здібностей
+### Ability Score Improvement
 - - -
-Коли ви досягаєте 4-го рівня, а також на 8-му, 12-му, 16-тому та 19-му рівнях, ви можете збільшити одну зі своїх здібностей на 2 або дві свої здібності за власним вибором на 1. Як і звичайно, ви не можете збільшити значення здібності вище 20 за допомогою цієї особливості.
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. 
 
-### Знищення немертвих
+### Destroy Undead
 - - -
-На 5-му рівні, коли невмерлий провалює рятівний кидок проти вашої особливості Вигнання мертвих, ця істота негайно знищується, за умови, що її Клас Небезпеки нижчий або дорівнює певному порогу, як показано в таблиці "Знищення невмерлих".
+Starting at 5th level, when an undead fails its saving throw against your Turn Undead feature, the creature is instantly destroyed if its challenge rating is at or below a certain threshold, as shown in the Destroy Undead table.
 
-| Рівень клірика | Знищення немертвих із КН... |
-| -------------- | --------------------------- |
-| 5-й            | 1/2 або менше               |
-| 8-й            | 1 або менше                 |
-| 11-й           | 2 або менше                 |
-| 14-й           | 3 або менше                 |
-| 17-й           | 4 або менше                 |
+| Cleric Level | Destroys Undead of CR... |
+|--------------|--------------------------|
+| 5th          | 1/2 or lower             |
+| 8th          | 1 or lower               |
+| 11th         | 2 or lower               |
+| 14th         | 3 or lower               |
+| 17th         | 4 or lower               |
 
-### Божественне втручання
+### Divine Intervention
 - - -
-З 10-го рівня ви можете звернутися до свого божества для втручання від вашого імені, коли ви цього найбільше потребуєте.   
-Залучення допомоги божества вимагає вашої дії. Опишіть допомогу, якої потребуєте, і зробіть кидок к100. Якщо випало число, що менше за ваш рівень клірика, божество втручається. Майстер вибирає природу втручання; буде доречним ефект будь-яких чарів чи особливостей клірика.   
-Якщо ваше божество втрутилося, ви не можете знову використати цю функцію упродовж 7 днів. Інакше, ви можете використовувати його знову після завершення тривалого відпочинку.   
-На 20-му рівні ваше прохання про втручання виконується автоматично без потреби робити кидок.
+Beginning at 10th level, you can call on your deity to intervene on your behalf when your need is great.   
+Imploring your deity's aid requires you to use your action. Describe the assistance you seek, and roll percentile dice. If you roll a number equal to or lower than your cleric level, your deity intervenes. The GM chooses the nature of the intervention; the effect of any cleric spell or cleric domain spell would be appropriate.   
+If your deity intervenes, you can't use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest.   
+At 20th level, your call for intervention succeeds automatically, no roll required. 
 
-### Домен життя
+### Life Domain 
 - - -
-Домен Життя зосереджений на яскравій позитивній енергії, одній з основних сил всесвіту, які підтримують все життя. Боги життя сприяють життєздатності та здоров'ю шляхом зцілення хворих та поранених, турботою про тих, хто цього потребує, та виганяючи сили смерті та нежиття. Майже будь-яке не-зле божество може заявляти про свій вплив на цей домен, особливо сільськогосподарські боги (такі як Чонті, Аравай і Деметер), боги сонця (наприклад, Латандер, Пелор і Ра-Хорахті), боги зцілення чи витривалості (наприклад, Ільматер, Мішакал, Аполлон та Діансехт), боги домівки та спільноти (наприклад, Гестія, Хатор і Болдрей).
+The Life domain focuses on the vibrant positive energy, one of the fundamental forces of the universe, that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. Almost any non-evil deity can claim influence over this domain, particularly agricultural deities (such as Chauntea, Arawai, and Demeter), sun gods (such as Lathander, Pelor, and Re-Horakhty), gods of healing or endurance (such as Ilmater, Mishakal, Apollo, and Diancecht), and gods of home and community (such as Hestia, Hathor, and Boldrei).
 
-#### Чари домену життя
-| Рівень клірика | Чари                                   |
-| -------------- | -------------------------------------- |
-| 1-й            | _благословення, лікування ран_         |
-| 3-й            | _менше відновлення, духовна зброя_     |
-| 5-й            | _маяк надії, відродження_              |
-| 7-й            | _оберіг від смерті, охоронець віри_    |
-| 9-й            | _групове лікування ран, оживити мерця_ |
+#### Life Domain Spells
+| Cleric Level | Spells                                 |
+|--------------|----------------------------------------|
+| 1st          | _bless, cure wounds_                   |
+| 3rd          | _lesser restoration, spiritual weapon_ |
+| 5th          | _beacon of hope, revivify_             |
+| 7th          | _death ward, guardian of faith_        |
+| 9th          | _mass cure wounds, raise dead_         |
 
-#### Додатковий досвід
-Коли ви вибираєте цей домен на 1-му рівні, ви опановуєте важку броню.
+#### Bonus Proficiency 
+When you choose this domain at 1st level, you gain proficiency with heavy armor. 
 
-#### Послідовник життя
-Крім того, з 1-го рівня ваші цілющі чари стають більш ефективними. Щоразу, коли ви застосовуєте чари 1-го або вищого рівня, щоб відновити пункти здоров'я істоти, ця істота відновлює додаткові пункти здоров'я, що дорівнюють 2 + рівень чарів.
+#### Disciple of Life 
+Also starting at 1st level, your healing spells are more effective. Whenever you use a spell of 1st level or higher to restore hit points to a creature, the creature regains additional hit points equal to 2 + the spell's level. 
 
-#### Спрямування божественної енергії: Збереження життя
-На 2-му рівні ви можете використовувати спрямування божественної енергії для зцілення важко поранених.   
-Дією ви показуєте свій святий символ і пробуджуєте цілющу енергію, яка може відновити кількість пунктів здоров'я, що дорівнює вашому п'ятикратному рівню в класі клірика. Виберіть будь-яких істот на відстані не більше 30 футів від себе і розподіліть ці пункти здоров'я між ними. Ця особливість може відновити щонайбільше, ніж половину максимальних пунктів здоров'я. Ви не можете застосувати особливість на немертвих або конструктів.
+#### Channel Divinity: Preserve Life 
+Starting at 2nd level, you can use your Channel Divinity to heal the badly injured.   
+As an action, you present your holy symbol and evoke healing energy that can restore a number of hit points equal to five times your cleric level. Choose any creatures within 30 feet of you, and divide those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. You can't use this feature on an undead or a construct. 
 
-#### Благословенний цілитель
-На 6-му рівні зцілювальні чари, які ви створюєте для інших, так само діють і на вас. Коли ви створюєте чари 1-го рівня або вище для відновлення пунктів здоров'я іншої істоти, але не власних, ви також відновлюєте для себе кількість пунктів здоров'я, що дорівнює 2 + рівень чарів.
+#### Blessed Healer 
+Beginning at 6th level, the healing spells you cast on others heal you as well. When you cast a spell of 1st level or higher that restores hit points to a creature other than you, you regain hit points equal to 2 + the spell's level. 
 
-#### Божественний удар
-На 8-му рівні ви отримуєте можливість наповнювати удари зброї своєю божественною енергією. Один раз на кожен свій хід, коли ви влучаєте по істоті атакою зброєю, ви можете завдати цією атакою додаткові 1к8 пошкоджень випромінюванням. Коли ви досягнете 14-го рівня, додаткові пошкодження збільшуються до 2к8.
+#### Divine Strike 
+At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 radiant damage to the target. When you reach 14th level, the extra damage increases to 2d8. 
 
-#### Неперевершене зцілення
-На 17-му рівні, коли зазвичай ви кидаєте одну чи більше кісток для відновлення пунктів здоров'я чарами, ви натомість застосовуєте найбільший можливий результат такого кидка. Наприклад, замість відновлення 2к6 пунктів здоров'я істоти, ви відновлюєте 12 пунктів.
+#### Supreme Healing
+Starting at 17th level, when you would normally roll one or more dice to restore hit points with a spell, you instead use the highest number possible for each die. For example, instead of restoring 2d6 hit points to a creature, you restore 12.
