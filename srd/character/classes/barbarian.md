@@ -1,140 +1,138 @@
-description: Rules and information for the Barbarian class from the 5th Edition (5e) SRD (System Reference Document).
+Опис: Правила та інформація про клас Варвар у 5-й версії (5e) SRD (Довідник із документації системи).
 
-# The Barbarian
+# Варвар
 
-| Level | Proficiency Bonus | Rages     | Rage Damage | Features                                      |
-|-------|-------------------|-----------|-------------|-----------------------------------------------|
-| 1st   | +2                | 2         | +2          | Rage, Unarmored Defense                       |
-| 2nd   | +2                | 2         | +2          | Reckless Attack, Danger Sense                 |
-| 3rd   | +2                | 3         | +2          | Primal Path                                   |
-| 4th   | +2                | 3         | +2          | Ability Score Improvement                     |
-| 5th   | +3                | 3         | +2          | Extra Attack, Fast Movement                   |
-| 6th   | +3                | 4         | +2          | Path feature                                  |
-| 7th   | +3                | 4         | +2          | Feral Instinct                                |
-| 8th   | +3                | 4         | +2          | Ability Score Improvement                     |
-| 9th   | +4                | 4         | +3          | Brutal Critical (1 die)                       |
-| 10th  | +4                | 4         | +3          | Path feature                                  |
-| 11th  | +4                | 4         | +3          | Relentless                                    |
-| 12th  | +4                | 5         | +3          | Ability Score Improvement                     |
-| 13th  | +5                | 5         | +3          | Brutal Critical (2 dice)                      |
-| 14th  | +5                | 5         | +3          | Path Feature                                  |
-| 15th  | +5                | 5         | +3          | Persistent Rage                               |
-| 16th  | +5                | 5         | +4          | Ability Score Improvement                     |
-| 17th  | +6                | 6         | +4          | Brutal Critical (3 dice)                      |
-| 18th  | +6                | 6         | +4          | Indomitable Might                             |
-| 19th  | +6                | 6         | +4          | Ability Score Improvement                     |
-| 20th  | +6                | Unlimited | +4          | Primal Champion                               |
+| Рівень | Бонус досвіду | Лють       | Пошкодження люті | Особливості                        |
+| ------ | ------------- | ---------- | ---------------- | ---------------------------------- |
+| 1-й    | +2            | 2          | +2               | Лють, Захист без обладунків        |
+| 2-й    | +2            | 2          | +2               | Відчайдушна атака, Чуття небезпеки |
+| 3-й    | +2            | 3          | +2               | Первісний шлях                     |
+| 4-й    | +2            | 3          | +2               | Покращення здібностей              |
+| 5-й    | +3            | 3          | +2               | Додаткова атака, Швидкий рух       |
+| 6-й    | +3            | 4          | +2               | Особливість шляху                  |
+| 7-й    | +3            | 4          | +2               | Дикий інстинкт                     |
+| 8-й    | +3            | 4          | +2               | Покращення здібностей              |
+| 9-й    | +4            | 4          | +3               | Критична жорстокість (1 кубик)     |
+| 10-й   | +4            | 4          | +3               | Особливість шляху                  |
+| 11-й   | +4            | 4          | +3               | Невпинний                          |
+| 12-й   | +4            | 5          | +3               | Покращення здібностей              |
+| 13-й   | +5            | 5          | +3               | Критична жорстокість (2 кубики)    |
+| 14-й   | +5            | 5          | +3               | Особливість шляху                  |
+| 15-й   | +5            | 5          | +3               | Постійна лють                      |
+| 16-й   | +5            | 5          | +4               | Покращення здібностей              |
+| 17-й   | +6            | 6          | +4               | Критична жорстокість (3 кубики)    |
+| 18-й   | +6            | 6          | +4               | Незламна могутність                |
+| 19-й   | +6            | 6          | +4               | Покращення здібностей              |
+| 20-й   | +6            | Необмежено | +4               | Первісний чемпіон                  |
 
-## Class Features
-As a barbarian, you gain the following class features.
+## Класові особливості
+Як варвар ви здобуваєте наступні класові особливості.
 
-### Hit Points
-**Hit Dice:** 1d12 per barbarian level  
-**Hit Points at 1st Level:** 12 + your Constitution modifier  
-**Hit Points at Higher Levels:** 1d12 (or 7) + your Constitution modifier per barbarian level after 1st  
+### -Пункти здоров'я
+**Кістки здоров'я:** 1к12 за рівень варвара  
+**Пункти здоров'я на 1-му рівні:** 12 + ваш модифікатор Статури  
+**Пункти здоров'я на вищих рівнях:** 1к12 (або 7) + ваш модифікатор Статури за кожен рівень варвара після першого
 
-### Proficiencies
-**Armor:** Light armor, medium armor, shields   
-**Weapons:** Simple weapons, martial weapons   
-**Tools:** None   
-**Saving Throws:** Strength, Constitution   
-**Skills:** Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival   
+### Досвід
+**Броня:** Легка броня, середня броня, щити   
+**Зброя:** Проста зброя, інструменти з бойової зброї   
+**Інструменти:** Жодних   
+**Рятівні кидки:** Сила, Статура   
+**Навички:** Виберіть дві навички серед Приборкання тварин, Атлетика, Залякування, Природа, Сприйняття та Виживання
 
-### Equipment 
-You start with the following equipment, in addition to the equipment granted by your background:
+### -Спорядження
+Ви починаєте з наступного спорядження, на додачу до спорядження, яке надає ваша передісторія:
 
-* (a) a greataxe or (b) any martial melee weapon
-* (a) two handaxes or (b) any simple weapon
-* An explorer's pack and four javelins
+* (a) дворучна сокира або (b) будь-яка бойова зброя ближнього бою
+* (a) два ручні сокири або (b) будь-яка проста зброя
+* Набір дослідника і чотири списи
 
-### Rage 
+### -Лють
 - - -
-In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action.
+У бою ви б'єтеся з первинною жорстокістю. У свій хід ви можете впасти в лють бонусною дією.
 
-While raging, you gain the following benefits if you aren't wearing heavy armor:
+Поки ви у стані люті, ви маєте наступні переваги, за умови, що не носите важку броню:
 
-* You have advantage on Strength checks and Strength saving throws.
-* When you make a melee weapon attack using Strength, you gain a bonus to the damage roll that increases as you gain levels as a barbarian, as shown in the Rage Damage column of the Barbarian table.
-* You have resistance to bludgeoning, piercing, and slashing damage. 
+* Ви маєте перевагу на перевірки та рятівні кидки Сили.
+* Коли ви атакуєте зброєю ближнього бою, використовуючи Силу, ви отримуєте до кидка пошкоджень бонус, який зростає разом із рівнями варвара, як показано у колонці "Пошкодження люті" таблиці класу Варвар.
+* У вас є опір до дробильних, колотих та рубаних пошкоджень.
 
-If you are able to cast spells, you can't cast them or concentrate on them while raging.
+Якщо ви здатні чарувати, під час люті ви не можете створювати заклинання та концентруватися на них.
 
-Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
+Ваша лють триває 1 хвилину. Вона закінчиться раніше, якщо ви непритомні або якщо ваш хід закінчився, але ви не атакували ворожу істоту після попереднього ходу, та самі не отримали пошкоджень за цей час. Ви також можете припинити лють бонусною дією у свій хід.
 
-Once you have raged the number of times shown for your barbarian level in the Rages column of the Barbarian table, you must finish a long rest before you can rage again. 
+Щойно ви використали лють кількість разів, як показано у таблиці класу Варвар для вашого рівня, ви мусите завершити тривалий відпочинок, перш ніж зможете використати лють знову.
 
-### Unarmored Defense
+### -Неброньований Захист
 - - -
-While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Constitution modifier. You can use a shield and still gain this benefit.
+Поки ви не носите жодної броні, ваш клас захисту дорівнює 10 + ваш модифікатор Спритності + ваш модифікатор Статури. Ви можете використовувати щит і одно отримуєте цей привілей.
 
-### Reckless Attack 
+### -Відчайдушна атака
 - - -
-Starting at 2nd level, you can throw aside all concern for defense to attack with fierce desperation. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on melee weapon attack rolls using Strength during this turn, but attack rolls against you have advantage until your next turn. 
+Починаючи з 2-го рівня, ви можете відкинути турботу про свій захист, щоб атакувати жорстоко й відчайдушно. Коли в свій хід ви атакуєте перший раз, ви можете вирішити атакувати відчайдушно. Це дає вам перевагу на атаки ближнього бою за допомогою Сили, однак і кидки атаки проти вас матимуть перевагу до вашого наступного ходу.
 
-### Danger Sense 
+### -Чуття небезпеки
 - - -
-At 2nd level, you gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you dodge away from danger. 
-You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can’t be blinded, deafened, or incapacitated. 
+На 2-му рівні ви стаєте неймовірно чутливі, коли справи йдуть не так, як повинні, і ви отримуєте перевагу, коли ухиляєтеся від небезпеки. Ви маєте перевагу на рятівні кидки Спритності від ефектів, які можете бачити, таких як пастки та чари. Щоб отримати цей привілей, ви не повинні бути осліплені, оглушені чи недієздатні.
 
-### Primal Path 
+### -Первісний шлях
 - - -
-At 3rd level, you choose a path that shapes the nature of your rage. Choose the Path of the Berserker or the Path of the Totem Warrior, both detailed at the end of the class description. Your choice grants you features at 3rd level and again at 6th, 10th, and 14th levels. 
+На третьому рівні ви обираєте шлях, який формує вашу природу вашої люті. Оберіть шлях Берсерка або Шлях тотемного воїна, обидва з яких наведені в кінці опису класу. Ваш вибір надає вам особливості на 3-му і потім на 6-му, 10-му і 14-му рівнях.
 
-### Ability Score Improvement 
+### -Покращення здібностей
 - - -
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature. 
+Коли ви досягнете 4-го рівня, а також на 8-му, 12-му, 16-тому та 19-му рівні, ви можете збільшити одну зі своїх здібностей на 2 або дві свої здібності за власним вибором на 1. Як і звичайно, ви не можете збільшити значення здібності вище 20 за допомогою цієї особливості.
 
-### Extra Attack 
+### -Додаткова атака
 - - -
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn. 
+Починаючи з 5-го рівня, ви можете зробити дві атаки, а не одну, коли застосовуєте дію Атакувати у свій хід.
 
-### Fast Movement 
+### -Швидкий рух
 - - -
-Starting at 5th level, your speed increases by 10 feet while you aren’t wearing heavy armor. 
+Починаючи з 5-го рівня, ваша швидкість зростає на 10 футів за умови, що ви не носите важкої броні.
 
-### Feral Instinct 
+### -Дикий інстинкт
 - - -
-By 7th level, your instincts are so honed that you have advantage on initiative rolls.
+На 7-му рівні ваші інстинкти настільки відточені, що ви робите кидки ініціятиви з перевагою.
 
-Additionally, if you are surprised at the beginning of combat and aren't incapacitated, you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn. 
+Крім того, якщо вас захопили зненацька на початку бою і ви не недієздатні, ви можете діяти нормально у свій перший хід, але тільки за умови, що ви увійшли в лють, перш ніж зробити будь-що інше під час цього ходу.
 
-### Brutal Critical 
+### -Жорстокий критичний
 - - -
-Beginning at 9th level, you can roll one additional weapon damage die when determining the extra damage for a critical hit with a melee attack. 
-This increases to two additional dice at 13th level and three additional dice at 17th level. 
+Починаючи з 9-го рівня, ви можете додати ще один кубик до кидка пошкоджень зброєю, коли визначаєте додаткові пошкодження під час критичного влучання у ближньому бою. Ці пошкодження зростають до двох додаткових кубиків на 13-му рівні та до трьох додаткових кубиків - на 17-му рівні.
 
-### Relentless Rage 
+### -Нестримна лють
 - - -
-Starting at 11th level, your rage can keep you fighting despite grievous wounds. If you drop to 0 hit points while you're raging and don't die outright, you can make a DC 10 Constitution saving throw. If you succeed, you drop to 1 hit point instead.
+Починаючи з 11-го рівня, ваша лють дозволяє вам боротися попри тяжкі рани. Коли ваші пункти здоров'я знижуються до 0, поки ви розлючені й не помираєте на місці, ви можете зробити ряткидок Статури з КС 10. При успішному кидку ваші пункти здоров'я натомість знижуються до 1.
 
-Each time you use this feature after the first, the DC increases by 5. When you finish a short or long rest, the DC resets to 10. 
+Щоразу, коли ви використовуєте цю особливість, КС ряткидків зростає на 5 для кожної наступної перевірки після першої. Коли ви завершуєте короткий або тривалий відпочинок, КС знижується до 10.
 
-### Persistent Rage 
+### -Постійна лють
 - - -
-Beginning at 15th level, your rage is so fierce that it ends early only if you fall unconscious or if you choose to end it. 
+На 15-му рівні ваша лють така сильна, що вона закінчується, лише якщо ви непритомні або ви самі хочете її закінчити.
 
-### Indomitable Might 
+### -Незламна могутність
 - - -
-Beginning at 18th level, if your total for a Strength check is less than your Strength score, you can use that score in place of the total. 
+Починаючи з 18-го рівня, якщо підсумковий результат вашої перевірка Сили менший за значення вашої здібності Сила, ви можете замінити цей підсумковий результат на значення здібності.
 
-### Primal Champion
+### -Первісний чемпіон
 - - -
-At 20th level, you embody the power of the wilds. Your Strength and Constitution scores increase by 4. Your maximum for those scores is now 24. 
+На 20-му рівні ви уособлюєте силу дикої природи. Значення ваших Сили та Статури зростає на 4. Ваш максимум для цих здібностей тепер складає 24.
 
-## Path of the Berserker 
+## -Шлях берсерка
 - - -
-For some barbarians, rage is a means to an end, that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker's rage, you thrill in the chaos of battle, heedless of your own health or well-being. 
+Деяких варварів лють є засобом досягти мети, і цією метою є насильство. Шлях Берсерка — це шлях невпинної люті, слизький від крові. Коли ви впадаєте в лють берсерка, ви захоплені хаосом битви й забуваєте про власне здоров'я та добробут.
 
-#### Frenzy 
-Starting when you choose this path at 3rd level, you can go into a frenzy when you rage. If you do so, for the duration of your rage you can make a single melee weapon attack as a bonus action on each of your turns after this one. When your rage ends, you suffer one level of exhaustion (as described in appendix A).
+#### Шаленство
+Обираючи цей шлях на 3-му рівні, ви можете впадати в шаленство, коли використовуєте лють. Якщо ви робите це, увесь час, поки триває лють, під час кожного свого ходу після поточного ви можете застосувати бонусну дію для однієї атаки зброєю ближнього бою. Коли лють закінчується, ви страждаєте від одного рівня виснаження (як описано в додатку А).
 
-#### Mindless Rage 
-Beginning at 6th level, you can't be charmed or frightened while raging. If you are charmed or frightened when you enter your rage, the effect is suspended for the duration of the rage. 
+#### Бездумна лють
+Починаючи з 6-го рівня, ви не можете бути зачаровані або налякані, поки розлючені. Якщо ви були зачаровані або перелякані до впадання в лють, цей ефект призупиняється на тривалість люті.
 
-#### Intimidating Presence 
-Beginning at 10th level, you can use your action to frighten someone with your menacing presence. When you do so, choose one creature that you can see within 30 feet of you. If the creature can see or hear you, it must succeed on a Wisdom saving throw (**DC equal to 8 + your proficiency bonus + your Charisma modifier**) or be frightened of you until the end of your next turn. On subsequent turns, you can use your action to extend the duration of this effect on the frightened creature until the end of your next turn. This effect ends if the creature ends its turn out of line of sight or more than 60 feet away from you.
+#### Загрозлива присутність
+Починаючи з 10-го рівня, ви можете використовувати дію, щоб налякати когось своєю загрозливою присутністю. Коли ви робите це, виберіть одну істоту, яку ви можете бачити в межах 30 футів від себе. Якщо істота може бачити або чути вас, вона має зробити успішний ряткидок Мудрості (**КС дорівнює 8 + ваш бонус досвіду + ваш модифікатор Харизми**) або буде налякана вами до кінця вашого наступного ходу. У наступні ходи ви можете використовувати дію, щоб продовжити тривалість цього ефекту для наляканої істоти до кінця свого наступного ходу. Цей ефект закінчиться, якщо істота завершить свій хід за лінією бачення або на відстані більше 60 футів від вас.
 
-If the creature succeeds on its saving throw, you can't use this feature on that creature again for 24 hours. 
+Якщо рядкидок істоти був успішний, ви не зможете використати цей ефект проти цієї істоти в наступні 24 години.
 
-#### Retaliation 
-Starting at 14th level, when you take damage from a creature that is within 5 feet of you, you can use your reaction to make a melee weapon attack against that creature.
+#### Відплата
+Починаючи з 14-го рівня, коли ви отримуєте пошкодження від істоти в межах 5 футів від себе, ви можете використати свою реакцію, щоб атакувати цю істоту зброєю ближнього бою.
